@@ -24471,6 +24471,18 @@
   "2cd27808f7df2aed46d5eee856dbf52e118ec788": [
     "docs\\mfc\\media\\msoffice2007.png"
   ],
+  "38dcc7d42cc9bf267034abb377a18635e94760ec": [
+    "docs\\mfc\\media\\quick_access_toolbar.png"
+  ],
+  "f0bc7133577d0d77a97d36d6159529b51c11c357": [
+    "docs\\mfc\\media\\ribbon.png"
+  ],
+  "a905c0dd49648eb36f00f1d488c1eaad603b03a9": [
+    "docs\\mfc\\media\\ribbon_designer.png"
+  ],
+  "bb2b19b002e76baffb2640bfc0663373b7fc9456": [
+    "docs\\mfc\\media\\ribbon_no_callouts.png"
+  ],
   "bc805fb6b146f7145333eec2cc0575b18468d4df": [
     "docs\\mfc\\media\\vc369r1.png"
   ],
@@ -24501,8 +24513,17 @@
   "c6f329bde039d63cfe3c6302ee1188e1d18c30dd": [
     "docs\\mfc\\media\\vc378t1.gif"
   ],
+  "b94d294657356da85edc5c0168a294dd9f6b02e8": [
+    "docs\\mfc\\media\\vc379d1.gif"
+  ],
+  "b3e6b3963e95fcaffe1f71b006eae31b3a48d765": [
+    "docs\\mfc\\media\\vc379n1.gif"
+  ],
   "6fe78fc27aa997cdcbe665fe98f51f32583908c9": [
     "docs\\mfc\\media\\vc37a71.gif"
+  ],
+  "c5856c3dbb6604bee71d533ce82b0c93127fc422": [
+    "docs\\mfc\\media\\vc37c71.gif"
   ],
   "0d5cabb9876695a1ccbf413c45d10a5fef5ae1f4": [
     "docs\\mfc\\media\\vc37dy1.gif"
@@ -26853,7 +26874,14 @@
     "docs\\mfc\\reference\\media\\vc364f4.gif"
   ],
   "08281f5dcff9e4a26903a7f5196fa6be71c7c7ed": [
-    "docs\\mfc\\reference\\media\\vc4sc61.gif"
+    "docs\\mfc\\reference\\media\\vc4sc61.gif",
+    "docs\\mfc\\reference\\media\\vc4scc1.gif"
+  ],
+  "8902ed7c2b181dc856713ddef734de9904111d3f": [
+    "docs\\mfc\\reference\\media\\vcditheredbitmap.gif"
+  ],
+  "363fd75785bd2d490fb56ee3cb225131dade1b44": [
+    "docs\\mfc\\reference\\media\\vcgraybitmap.gif"
   ],
   "7a6d3aa48a9e00eeb55bb62b7801edb64bd4285f": [
     "docs\\mfc\\reference\\message-box-styles.md"
