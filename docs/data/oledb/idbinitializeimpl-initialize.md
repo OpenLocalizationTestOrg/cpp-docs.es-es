@@ -1,0 +1,68 @@
+---
+title: IDBInitializeImpl::Initialize | Microsoft Docs
+ms.custom: 
+ms.date: 11/04/2016
+ms.reviewer: 
+ms.suite: 
+ms.technology:
+- devlang-cpp
+ms.tgt_pltfrm: 
+ms.topic: article
+f1_keywords:
+- Initialize
+- IDBInitializeImpl::Initialize
+- IDBInitializeImpl.Initialize
+dev_langs:
+- C++
+helpviewer_keywords:
+- Initialize method
+ms.assetid: 020a9f56-4a39-4e03-a624-936a4bc1f6e7
+caps.latest.revision: 9
+author: mikeblome
+ms.author: mblome
+manager: ghogen
+translation.priority.ht:
+- cs-cz
+- de-de
+- es-es
+- fr-fr
+- it-it
+- ja-jp
+- ko-kr
+- pl-pl
+- pt-br
+- ru-ru
+- tr-tr
+- zh-cn
+- zh-tw
+translationtype: Human Translation
+ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
+ms.openlocfilehash: 390264f673a6c410662dfe3d9d3a1845c2c3f4c6
+
+---
+# IDBInitializeImpl::Initialize
+Initializes the data source object by preparing its property support.  
+  
+## Syntax  
+  
+```  
+  
+      STDMETHOD(Initialize)(   
+   void    
+);  
+```  
+  
+## Remarks  
+ See [IDBInitialize::Initialize](https://msdn.microsoft.com/en-us/library/ms718026.aspx) in the *OLE DB Programmer's Reference*.  
+  
+## Requirements  
+ **Header:** atldb.h  
+  
+## See Also  
+ [IDBInitializeImpl Class](../../data/oledb/idbinitializeimpl-class.md)   
+ [IDBInitializeImpl::Uninitialize](../../data/oledb/idbinitializeimpl-uninitialize.md)
+
+
+<!--HONumber=Jan17_HO1-->
+
+

@@ -1,0 +1,54 @@
+---
+title: Compiler Error C2414 | Microsoft Docs
+ms.custom: 
+ms.date: 11/04/2016
+ms.reviewer: 
+ms.suite: 
+ms.technology:
+- devlang-cpp
+ms.tgt_pltfrm: 
+ms.topic: error-reference
+f1_keywords:
+- C2414
+dev_langs:
+- C++
+helpviewer_keywords:
+- C2414
+ms.assetid: bbe94e03-862e-4990-b15e-544ae464727d
+caps.latest.revision: 7
+author: corob-msft
+ms.author: corob
+manager: ghogen
+translation.priority.ht:
+- de-de
+- es-es
+- fr-fr
+- it-it
+- ja-jp
+- ko-kr
+- ru-ru
+- zh-cn
+- zh-tw
+translation.priority.mt:
+- cs-cz
+- pl-pl
+- pt-br
+- tr-tr
+translationtype: Human Translation
+ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
+ms.openlocfilehash: 6c9fdb6fbacce97cc967b9f10f4c9550f6958400
+
+---
+# Compiler Error C2414
+illegal number of operands  
+  
+### To fix by checking the following possible causes  
+  
+1.  The opcode does not support the number of operands used. Check an assembly-language reference manual to determine the correct number of operands.  
+  
+2.  A newer processor supports the instruction with a different number of operands. Adjust the [/arch (Minimum CPU Architecture)](../../build/reference/arch-minimum-cpu-architecture.md) option to use the later processor.
+
+
+<!--HONumber=Jan17_HO1-->
+
+

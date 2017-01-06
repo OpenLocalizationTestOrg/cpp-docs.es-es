@@ -1,0 +1,68 @@
+---
+title: Multiple Targets | Microsoft Docs
+ms.custom: 
+ms.date: 11/04/2016
+ms.reviewer: 
+ms.suite: 
+ms.technology:
+- devlang-cpp
+ms.tgt_pltfrm: 
+ms.topic: article
+dev_langs:
+- C++
+helpviewer_keywords:
+- makefiles, targets
+- multiple targets in NMAKE
+- targets, multiple in NMAKE
+- NMAKE program, targets
+ms.assetid: b609a179-0b9f-4b08-9930-998047588ae0
+caps.latest.revision: 10
+author: corob-msft
+ms.author: corob
+manager: ghogen
+translation.priority.ht:
+- de-de
+- es-es
+- fr-fr
+- it-it
+- ja-jp
+- ko-kr
+- ru-ru
+- zh-cn
+- zh-tw
+translation.priority.mt:
+- cs-cz
+- pl-pl
+- pt-br
+- tr-tr
+translationtype: Human Translation
+ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
+ms.openlocfilehash: bd404aa3bd01b94da50d6ef3e9cce0c6c008c671
+
+---
+# Multiple Targets
+NMAKE evaluates multiple targets in a single dependency as if each were specified in a separate description block.  
+  
+ For example, this...  
+  
+```Output  
+bounce.exe leap.exe : jump.obj  
+   echo Building...  
+```  
+  
+ ...is evaluated as this:  
+  
+```Output  
+bounce.exe : jump.obj  
+   echo Building...  
+leap.exe : jump.obj  
+   echo Building...  
+```  
+  
+## See Also  
+ [Targets](../build/targets.md)
+
+
+<!--HONumber=Jan17_HO1-->
+
+
