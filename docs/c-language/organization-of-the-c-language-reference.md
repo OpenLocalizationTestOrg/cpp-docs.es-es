@@ -56,6 +56,6 @@ ms.openlocfilehash: 2bef1784be8efe040a76583a8e84a67577fe8902
  [C Language Reference](../c-language/c-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

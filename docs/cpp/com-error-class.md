@@ -98,6 +98,6 @@ ms.openlocfilehash: 2869e53afbaf3df5bf1a9f80413529f9aa5a352c
  [IErrorInfo Interface](http://msdn.microsoft.com/en-us/4dda6909-2d9a-4727-ae0c-b5f90dcfa447)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

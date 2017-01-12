@@ -108,6 +108,6 @@ __declspec ( naked ) func()
  [Naked Functions](../c-language/naked-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

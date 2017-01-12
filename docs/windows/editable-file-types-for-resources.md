@@ -62,6 +62,6 @@ You can open the following types of files and edit the resources they contain.
  [Resource Files](../mfc/resource-files-visual-studio.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

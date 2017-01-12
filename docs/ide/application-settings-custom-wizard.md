@@ -57,6 +57,6 @@ Use this page of the Custom Wizard to design a wizard.
  [Designing a Wizard](../ide/designing-a-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -147,6 +147,6 @@ LIB creates standard libraries, import libraries, and export files you can use w
  [Structure of a Library](../../build/reference/structure-of-a-library.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

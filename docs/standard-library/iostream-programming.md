@@ -72,6 +72,6 @@ This section provides a [general description](../standard-library/what-a-stream-
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

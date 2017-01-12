@@ -78,6 +78,6 @@ The Visual C++ linker now supports the delayed loading of DLLs. This relieves yo
  [Linking](../../build/reference/linking.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

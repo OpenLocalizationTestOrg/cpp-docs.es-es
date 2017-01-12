@@ -66,6 +66,6 @@ Returns a pointer to an interface on a custom error object.
  [IErrorRecordsImpl Class](../../data/oledb/ierrorrecordsimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

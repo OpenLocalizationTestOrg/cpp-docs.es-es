@@ -100,6 +100,6 @@ front_item = a
  [deque::front (STL/CLR)](../dotnet/deque-front-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

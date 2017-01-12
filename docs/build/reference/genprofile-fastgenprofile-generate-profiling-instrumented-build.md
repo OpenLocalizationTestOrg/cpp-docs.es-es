@@ -81,6 +81,6 @@ Specifies generation of a .pgd file by the linker to support profile-guided opti
  [/LTCG (Link-time Code Generation)](../../build/reference/ltcg-link-time-code-generation.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

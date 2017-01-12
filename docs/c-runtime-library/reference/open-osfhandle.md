@@ -118,6 +118,6 @@ Associates a C run-time file descriptor with an existing operating-system file h
  [File Handling](../../c-runtime-library/file-handling.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -86,6 +86,6 @@ To support message maps, MFC supplies the following macros:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

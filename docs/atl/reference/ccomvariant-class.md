@@ -460,6 +460,6 @@ HRESULT WriteToStream(IStream* pStream);
  [Class Overview](../../atl/atl-class-overview.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

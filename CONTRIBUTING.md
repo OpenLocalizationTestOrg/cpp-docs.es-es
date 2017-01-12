@@ -94,6 +94,6 @@ This starts the local preview on [localhost:8080](http://localhost:8080). You ca
 
 For now, include required sample code as inline code blocks in your article. The repo has a codesnippets folder, but this is not ready for public contributions.
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

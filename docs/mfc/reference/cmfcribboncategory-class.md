@@ -1234,6 +1234,6 @@ void SetTabColor(AFX_RibbonCategoryColor color);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

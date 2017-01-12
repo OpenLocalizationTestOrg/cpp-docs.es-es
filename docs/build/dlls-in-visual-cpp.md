@@ -124,6 +124,6 @@ A dynamic-link library (DLL) is an executable file that acts as a shared library
  Provides links to topics that describe conceptual information about the Visual C++ libraries and topics that discuss various coding technologies and techniques.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

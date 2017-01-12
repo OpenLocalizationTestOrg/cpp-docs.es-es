@@ -190,6 +190,6 @@ int main( int argc, char* argv[] )
  [DynamicConsumer Sample](http://msdn.microsoft.com/en-us/2ccc4c61-6749-4e83-aa81-00f8009c0dc3)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

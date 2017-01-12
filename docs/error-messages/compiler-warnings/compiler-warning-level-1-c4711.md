@@ -50,6 +50,6 @@ function 'function' selected for inline expansion
  This warning is off by default. To enable a warning, use [#pragma warning](../../preprocessor/warning.md). See [Compiler Warnings That Are Off by Default](../../preprocessor/compiler-warnings-that-are-off-by-default.md) for more information.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

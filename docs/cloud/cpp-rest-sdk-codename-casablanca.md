@@ -40,6 +40,6 @@ By using the C++ REST SDK (codename "Casablanca"), you can more easily write mod
  The Casablanca project no longer ships with Visual Studio. The documentation and sources are hosted and occasionally updated on CodePlex. For more detailed information about this project, see [C++ REST SDK (codename "Casablanca")](http://casablanca.codeplex.com/).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

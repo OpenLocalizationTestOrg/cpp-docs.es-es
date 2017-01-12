@@ -96,6 +96,6 @@ Include the STL/CLR header `<cliext/functional>` to define the a number of templ
  [STL/CLR Library Reference](../dotnet/stl-clr-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

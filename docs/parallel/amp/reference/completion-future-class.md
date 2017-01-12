@@ -291,6 +291,6 @@ Destroys the `completion_future` object.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

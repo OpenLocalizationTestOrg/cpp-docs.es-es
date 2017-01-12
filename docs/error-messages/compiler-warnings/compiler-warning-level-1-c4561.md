@@ -53,6 +53,6 @@ void __fastcall Func(void *p);   // C4561, remove __fastcall to resolve
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

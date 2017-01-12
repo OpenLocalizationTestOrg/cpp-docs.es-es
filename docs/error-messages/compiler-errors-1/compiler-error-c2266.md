@@ -45,6 +45,6 @@ ms.openlocfilehash: 981531157c2eacf135814edd20ce4d888d8c010a
  A reference is declared for an array with a nonconstant bound. The array must have constant bounds.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -209,6 +209,6 @@ int __cdecl main(int argc, char **argv, char **envp)
  [Using Generic-Text Mappings](../c-runtime-library/using-generic-text-mappings.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

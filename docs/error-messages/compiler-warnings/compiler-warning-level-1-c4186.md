@@ -55,6 +55,6 @@ ms.openlocfilehash: 9f3f1610f89844e73cb57916b9fb260301125b6f
  The `no_namespace` attribute takes no arguments. The **rename** attribute takes only two arguments.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

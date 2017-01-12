@@ -45,6 +45,6 @@ ms.openlocfilehash: 4ad34d491d2349a3c6496f614ebba3fedccf271b
  The specified object to be thrown in a **try** block is ambiguous. The object cannot be disambiguated if it is thrown.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

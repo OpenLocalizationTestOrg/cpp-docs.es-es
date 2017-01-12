@@ -46,6 +46,6 @@ unnamed type definition in parentheses
  In a C function call, the definition has global scope. In a C++ function call, the definition has the same scope as the function being called.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

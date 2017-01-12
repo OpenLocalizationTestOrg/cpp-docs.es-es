@@ -78,6 +78,6 @@ You can use selection tools to define an area of an image that you want to cut, 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

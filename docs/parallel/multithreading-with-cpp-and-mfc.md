@@ -80,6 +80,6 @@ The Microsoft Foundation Class (MFC) library provides support for multithreaded 
  [Multithreading Support for Older Code (Visual C++)](../parallel/multithreading-support-for-older-code-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

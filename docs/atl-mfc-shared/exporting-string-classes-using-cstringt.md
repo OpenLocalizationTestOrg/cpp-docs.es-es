@@ -83,6 +83,6 @@ In the past, MFC developers have derived from `CString` to specialize their own 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -128,6 +128,6 @@ wscanf_s(L"%hC", &x, 2);    // Read a single-byte character
  [scanf Type Field Characters](../c-runtime-library/scanf-type-field-characters.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

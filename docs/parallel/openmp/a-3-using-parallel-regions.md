@@ -48,6 +48,6 @@ The `parallel` directive ([Section 2.3](../../parallel/openmp/2-3-parallel-const
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

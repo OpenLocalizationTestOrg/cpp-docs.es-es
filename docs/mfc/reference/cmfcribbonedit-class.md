@@ -647,6 +647,6 @@ void SetWidth(
  [CMFCRibbonBar Class](../../mfc/reference/cmfcribbonbar-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

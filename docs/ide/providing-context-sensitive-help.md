@@ -59,6 +59,6 @@ When you use the [Custom Wizard](../ide/application-settings-custom-wizard.md) t
  [Designing a Wizard](../ide/designing-a-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

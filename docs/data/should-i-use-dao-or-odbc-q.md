@@ -91,6 +91,6 @@ ms.openlocfilehash: bddc0df537a861787c8941e118eec3e4a9ad321a
  [Data Access Frequently Asked Questions](../data/data-access-frequently-asked-questions-mfc-data-access.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

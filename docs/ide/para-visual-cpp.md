@@ -63,6 +63,6 @@ The \<para> tag is for use inside a tag, such as [\<summary>](../ide/summary-vis
  [XML Documentation](../ide/xml-documentation-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

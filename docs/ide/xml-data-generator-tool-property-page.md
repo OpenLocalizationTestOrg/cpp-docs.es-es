@@ -62,6 +62,6 @@ The **XML Data Generator Tool** property page becomes available when you add a d
  [Property Pages](../ide/property-pages-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

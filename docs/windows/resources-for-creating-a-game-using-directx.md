@@ -55,6 +55,6 @@ To create the best desktop games, use Visual C++ and DirectX together.
  [Developing Games](http://msdn.microsoft.com/library/windows/apps/hh452744.aspx) discusses [!INCLUDE[win8_appname_long](../build/includes/win8_appname_long_md.md)] game development, but many of the concepts also apply to desktop games.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ spawn failed : message
  To fix this issue, first determine the cause of the error. You can use the commands reported by the NMAKE [/N](../../build/nmake-options.md) option to verify the environment settings and to repeat the actions performed by NMAKE on the command line.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

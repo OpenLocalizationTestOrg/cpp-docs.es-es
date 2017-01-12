@@ -167,6 +167,6 @@ ID2D1GradientStopCollection* m_pGradientStops;
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

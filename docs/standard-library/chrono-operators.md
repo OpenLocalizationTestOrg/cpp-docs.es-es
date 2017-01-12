@@ -377,6 +377,6 @@ constexpr typename common_type<duration<Rep1, _Period1>, duration<Rep2, Period2>
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

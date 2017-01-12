@@ -62,6 +62,6 @@ The C++ language supports three error handling mechanisms that help you debug yo
  [Templates](../cpp/templates-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

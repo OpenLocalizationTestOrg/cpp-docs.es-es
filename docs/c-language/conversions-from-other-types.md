@@ -55,6 +55,6 @@ Since an `enum` value is an `int` value by definition, conversions to and from a
  [Assignment Conversions](../c-language/assignment-conversions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

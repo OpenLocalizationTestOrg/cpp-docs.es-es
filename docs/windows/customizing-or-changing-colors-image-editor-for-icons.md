@@ -75,6 +75,6 @@ The Image editor's [Colors palette](../windows/colors-window-image-editor-for-ic
  [Working with Color](../mfc/working-with-color-image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

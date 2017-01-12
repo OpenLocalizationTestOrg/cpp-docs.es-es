@@ -110,6 +110,6 @@ The Profile Guided Optimization for Visual C++ plug-in in the Performance and Di
  If you make significant code changes during development, you may have to retrain your app to get the best optimizations. We recommend that you retrain your app when the build output reports that less than 80 percent of functions or instructions were optimized by using profile data.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

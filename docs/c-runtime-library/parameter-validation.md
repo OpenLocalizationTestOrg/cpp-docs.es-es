@@ -54,6 +54,6 @@ Most of the security-enhanced CRT functions and many of the preexisting function
  [CRT Library Features](../c-runtime-library/crt-library-features.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -62,6 +62,6 @@ Supports the WRL infrastructure and is not intended to be used directly from you
  [SyncLockT Class](../windows/synclockt-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -96,6 +96,6 @@ int main()
  [hash_multiset::begin (STL/CLR)](../dotnet/hash-multiset-begin-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

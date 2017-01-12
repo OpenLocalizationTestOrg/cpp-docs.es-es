@@ -66,6 +66,6 @@ The sequence **\\***ooo* means you can specify any character in the ASCII charac
  [C Character Constants](../c-language/c-character-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

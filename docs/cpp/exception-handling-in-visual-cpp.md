@@ -65,6 +65,6 @@ An exception is an error condition, possibly outside the program's control, that
  [C++ Language Reference](../cpp/cpp-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

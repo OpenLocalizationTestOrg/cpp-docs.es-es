@@ -60,6 +60,6 @@ ms.openlocfilehash: 058086bb4617f59f53de706b38477bd868e297d3
 2.  From the **Build** menu, choose **Build**.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

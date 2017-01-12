@@ -44,6 +44,6 @@ ms.openlocfilehash: 9d0800a5b2bd3a5c899abc73f94741ccbd3e42f9
  This error is the same as the [C4532](../../error-messages/compiler-warnings/compiler-warning-level-1-c4532.md) warning. However, when you are using /clr, this condition cannot be disabled with the [warning](../../preprocessor/warning.md) pragma.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

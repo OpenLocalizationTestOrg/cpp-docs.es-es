@@ -139,6 +139,6 @@ erase(L'e') = 1
  [multimap::clear (STL/CLR)](../dotnet/multimap-clear-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

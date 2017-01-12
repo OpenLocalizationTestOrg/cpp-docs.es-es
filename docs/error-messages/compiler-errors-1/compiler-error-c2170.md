@@ -48,6 +48,6 @@ ms.openlocfilehash: 1fd23e36f347a118f2dd55e3e48bf946b04dacdf
 2.  Pragma `intrinsic` is used for a function with no intrinsic form.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

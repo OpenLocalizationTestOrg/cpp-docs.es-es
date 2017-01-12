@@ -98,6 +98,6 @@ a x c
  [deque::operator(STL/CLR)](../dotnet/deque-operator-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

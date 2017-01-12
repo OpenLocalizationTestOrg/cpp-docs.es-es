@@ -60,6 +60,6 @@ Your role in configuring an application with the MFC framework is to supply the 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

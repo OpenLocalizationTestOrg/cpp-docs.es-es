@@ -61,6 +61,6 @@ ms.openlocfilehash: 0ad99503cb592ff40998bc08f859dba185b81985
 These POSIX functions are deprecated. Use the ISO C++ conformant [_dup, _dup2](../../c-runtime-library/reference/dup-dup2.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

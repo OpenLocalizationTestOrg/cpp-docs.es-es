@@ -83,6 +83,6 @@ return 0
  [Using Stored Procedures](../../data/oledb/using-stored-procedures.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

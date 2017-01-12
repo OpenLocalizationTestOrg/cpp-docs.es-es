@@ -546,6 +546,6 @@ double Account::Deposit( double dAmount, char *szPassword )
  [Functions (C++)](../cpp/functions-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

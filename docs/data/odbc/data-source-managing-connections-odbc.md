@@ -160,6 +160,6 @@ This topic applies to the MFC ODBC classes.
  [CRecordset Class](../../mfc/reference/crecordset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

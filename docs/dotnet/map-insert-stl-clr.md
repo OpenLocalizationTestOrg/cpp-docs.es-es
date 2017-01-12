@@ -165,6 +165,6 @@ insert(begin(), [L'y' 25]) = [y 25]
  [map (STL/CLR)](../dotnet/map-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

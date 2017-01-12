@@ -54,6 +54,6 @@ To leverage pooling in your application, you must make sure OLE DB services are 
  [OLE DB Resource Pooling and Services](../../data/oledb/ole-db-resource-pooling-and-services.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

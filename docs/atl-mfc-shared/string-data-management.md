@@ -110,6 +110,6 @@ Visual C++ provides several ways to manage string data:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

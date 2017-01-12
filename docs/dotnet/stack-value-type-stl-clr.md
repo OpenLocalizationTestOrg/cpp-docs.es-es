@@ -93,6 +93,6 @@ c b a
  [stack::reference (STL/CLR)](../dotnet/stack-reference-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

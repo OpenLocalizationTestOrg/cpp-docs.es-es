@@ -48,6 +48,6 @@ cannot compile C file 'file' with the /clr option
  D8045 can also occur if you compile an ATL application using Visual C++. See [How to: Migrate to /clr](../../dotnet/how-to-migrate-to-clr.md) for more information.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ public ref class C<int> {};   // C3235 Remove this specialization to resolve thi
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

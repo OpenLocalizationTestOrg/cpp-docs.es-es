@@ -115,6 +115,6 @@ int _fpclassf(
  [fpclassify](../../c-runtime-library/reference/fpclassify.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

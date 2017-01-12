@@ -113,6 +113,6 @@ int  *pround  = &roundup;
  [Address-of Operator: &](../cpp/address-of-operator-amp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

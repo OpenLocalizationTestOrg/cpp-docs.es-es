@@ -98,6 +98,6 @@ int _heapmin( void );
  [malloc](../../c-runtime-library/reference/malloc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

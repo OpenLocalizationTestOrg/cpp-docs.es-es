@@ -105,6 +105,6 @@ k = ((++i)<(j))?(j):(++i);
  [Prefix Increment and Decrement Operators](../c-language/prefix-increment-and-decrement-operators.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

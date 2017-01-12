@@ -56,6 +56,6 @@ ms.openlocfilehash: db6719aa2ad5fa98a2ba3a0fc41e1d516143f42d
  [Compiler COM Support](../cpp/compiler-com-support.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

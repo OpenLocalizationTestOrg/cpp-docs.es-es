@@ -2340,6 +2340,6 @@ The following classes are used internally in MFC. For completeness, this section
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

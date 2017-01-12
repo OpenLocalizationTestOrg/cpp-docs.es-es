@@ -44,6 +44,6 @@ ms.openlocfilehash: 128d5485fbcbd7f422642a9ca7e76ea35b02591b
  The specified locale is not valid. See [Language and Country/Region Strings](../../c-runtime-library/locale-names-languages-and-country-region-strings.md) in the *Run-Time Library Reference* for supported locales.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

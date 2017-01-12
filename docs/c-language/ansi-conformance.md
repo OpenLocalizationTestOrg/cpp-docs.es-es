@@ -47,6 +47,6 @@ Microsoft C conforms to the standard for the C language as set forth in the 9899
  [Organization of the C Language Reference](../c-language/organization-of-the-c-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

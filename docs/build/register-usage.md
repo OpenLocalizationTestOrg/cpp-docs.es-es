@@ -67,6 +67,6 @@ The [!INCLUDE[vcprx64](../assembler/inline/includes/vcprx64_md.md)] architecture
  [__vectorcall](../cpp/vectorcall.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

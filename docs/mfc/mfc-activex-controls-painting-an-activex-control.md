@@ -132,6 +132,6 @@ This article describes the ActiveX control painting process and how you can alte
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

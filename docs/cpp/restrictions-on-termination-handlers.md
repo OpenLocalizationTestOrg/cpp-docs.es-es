@@ -50,6 +50,6 @@ You cannot use a `goto` statement to jump into a `__try` statement block or a `_
  [Structured Exception Handling (C/C++)](../cpp/structured-exception-handling-c-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

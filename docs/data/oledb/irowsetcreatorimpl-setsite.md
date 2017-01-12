@@ -74,6 +74,6 @@ Sets the site that contains the rowset object. For more information, see [IObjec
  [IRowsetCreatorImpl Class](../../data/oledb/irowsetcreatorimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ ms.openlocfilehash: ce5b059fdc48ea3838b9d99bb50f3c6f4429bb91
  The `enum` value is greater than the largest `enum` positive value wrapped around to a negative value.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -73,6 +73,6 @@ Used to validate a value before setting a property.
  [CUtlProps Class](../../data/oledb/cutlprops-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

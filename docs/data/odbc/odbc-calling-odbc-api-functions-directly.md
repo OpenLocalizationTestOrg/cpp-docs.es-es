@@ -72,6 +72,6 @@ The database classes provide a simpler interface to a [data source](../../data/o
  [ODBC Basics](../../data/odbc/odbc-basics.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

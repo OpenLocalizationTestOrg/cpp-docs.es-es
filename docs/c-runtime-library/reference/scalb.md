@@ -100,6 +100,6 @@ double _scalb(
  [ldexp](../../c-runtime-library/reference/ldexp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

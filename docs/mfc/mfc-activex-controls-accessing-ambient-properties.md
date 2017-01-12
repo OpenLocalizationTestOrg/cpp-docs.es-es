@@ -85,6 +85,6 @@ This article discusses how an ActiveX control can access the ambient properties 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

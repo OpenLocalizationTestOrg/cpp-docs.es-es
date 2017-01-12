@@ -67,6 +67,6 @@ Several keywords and pragmas that you use in your C or C++ code affect optimizat
  [Optimizing Your Code](../../build/reference/optimizing-your-code.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

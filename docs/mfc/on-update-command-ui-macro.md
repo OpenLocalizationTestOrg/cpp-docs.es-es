@@ -56,6 +56,6 @@ Use the **Properties** window to connect a user-interface object to a command-up
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -152,6 +152,6 @@ This is the line of output
  [fgetc, fgetwc](../../c-runtime-library/reference/fgetc-fgetwc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -83,6 +83,6 @@ bool GetStatus(
  [CDynamicAccessor::SetStatus](../../data/oledb/cdynamicaccessor-setstatus.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -50,6 +50,6 @@ Batch file 'file' contains Unicode contents that could not be translated to user
  For more information on custom build steps and build events, see [Understanding Custom Build Steps and Build Events](../../ide/understanding-custom-build-steps-and-build-events.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -83,6 +83,6 @@ int main(void)
  [_alloca](../../c-runtime-library/reference/alloca.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -83,6 +83,6 @@ __forceinline static HRESULT GetImplementedIIDS(
  [RuntimeClassBaseT Structure](../windows/runtimeclassbaset-structure.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

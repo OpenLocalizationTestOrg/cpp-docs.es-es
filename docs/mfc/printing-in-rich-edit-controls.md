@@ -54,6 +54,6 @@ You can tell a rich edit control ([CRichEditCtrl](../mfc/reference/cricheditctrl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -70,6 +70,6 @@ Creates a new command and returns the requested interface.
  [IDBCreateCommandImpl Class](../../data/oledb/idbcreatecommandimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

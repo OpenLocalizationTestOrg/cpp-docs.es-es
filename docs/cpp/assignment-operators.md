@@ -223,6 +223,6 @@ B = A;
  [C Assignment Operators](../c-language/c-assignment-operators.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

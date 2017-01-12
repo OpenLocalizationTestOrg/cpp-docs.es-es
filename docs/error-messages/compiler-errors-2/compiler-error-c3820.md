@@ -53,6 +53,6 @@ ms.openlocfilehash: d1b2b5687ebc597e15cdf9f08f45dae9cc386654
  [Additional Startup Considerations](../../cpp/additional-startup-considerations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

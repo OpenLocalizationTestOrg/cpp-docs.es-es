@@ -126,6 +126,6 @@ Rotating unsigned short 0x12 left by 10 bits gives 0x4800
  [Compiler Intrinsics](../intrinsics/compiler-intrinsics.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

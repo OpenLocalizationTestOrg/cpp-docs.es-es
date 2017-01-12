@@ -228,6 +228,6 @@ string = 10110134932
  [_free_locale](../../c-runtime-library/reference/free-locale.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

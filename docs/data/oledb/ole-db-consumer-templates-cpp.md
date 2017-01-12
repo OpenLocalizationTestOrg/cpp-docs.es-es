@@ -87,6 +87,6 @@ The OLE DB Consumer Templates support the OLE DB version 2.6 specification. (The
  [OLE DB Programmer's Reference](https://msdn.microsoft.com/en-us/library/ms713643.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

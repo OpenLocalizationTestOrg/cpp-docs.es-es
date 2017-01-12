@@ -54,6 +54,6 @@ ms.openlocfilehash: 08b491e0e2278bf827cd986baa64d133d5ea4305
  [SAL Annotations](../../c-runtime-library/sal-annotations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

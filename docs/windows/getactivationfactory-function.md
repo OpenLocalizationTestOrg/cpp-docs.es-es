@@ -78,6 +78,6 @@ inline HRESULT GetActivationFactory(
  [Windows::Foundation Namespace](../windows/windows-foundation-namespace.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

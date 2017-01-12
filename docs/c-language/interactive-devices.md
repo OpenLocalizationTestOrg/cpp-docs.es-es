@@ -44,6 +44,6 @@ ms.openlocfilehash: 99d9c111505266950f8e7da88342f27e8a009236
  [Environment](../c-language/environment.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

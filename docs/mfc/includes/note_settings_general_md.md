@@ -22,6 +22,6 @@ ms.openlocfilehash: 9ded01856a5a21bf269acd5c5bc737fc871e3e65
 >  Your computer might show different names or locations for some of the Visual Studio user interface elements in the following instructions. The Visual Studio edition that you have and the settings that you use determine these elements. For more information, see [Personalizing the  IDE](/visualstudio/ide/personalizing-the-visual-studio-ide).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

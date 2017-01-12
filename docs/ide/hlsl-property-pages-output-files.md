@@ -73,6 +73,6 @@ To configure the following properties of the HLSL compiler (fxc.exe), use its **
  [HLSL Property Pages: Advanced](../ide/hlsl-property-pages-advanced.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

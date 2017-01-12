@@ -113,6 +113,6 @@ ms.openlocfilehash: dbed37e2009a899d939d6e40a71293ef0ee94a30
  [Phrase Structure Grammar](../c-language/phrase-structure-grammar.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

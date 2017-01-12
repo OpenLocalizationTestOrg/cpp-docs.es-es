@@ -44,6 +44,6 @@ RC terminating after preprocessor errors
  The Resource Compiler halted due to other errors. Fix the other errors and recompile.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ invalid separator '::' on inference rule
  An inference rule must be followed by a single colon (**:**).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

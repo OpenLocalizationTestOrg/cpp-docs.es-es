@@ -156,6 +156,6 @@ Approximate signed quotient is -3
  [remainder, remainderf, remainderl](../../c-runtime-library/reference/remainder-remainderf-remainderl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

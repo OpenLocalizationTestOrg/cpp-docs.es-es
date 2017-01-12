@@ -53,6 +53,6 @@ Defines a code label recognizable only between *label1* and *label2*, where *lab
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

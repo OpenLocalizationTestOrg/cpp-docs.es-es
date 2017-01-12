@@ -96,6 +96,6 @@ now s is invalid
  [auto_gcroot::operator!](../dotnet/auto-gcroot-operator-logical-not.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

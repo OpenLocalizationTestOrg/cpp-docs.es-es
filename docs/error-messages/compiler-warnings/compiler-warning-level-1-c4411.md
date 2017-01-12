@@ -44,6 +44,6 @@ ms.openlocfilehash: 45f98d67b49bf7b228075d182dce8dd3d854244c
  The identifier is a local symbol that resolves to a displacement register and therefore may be used on an operand with another symbol.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

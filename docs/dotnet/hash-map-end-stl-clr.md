@@ -100,6 +100,6 @@ int main()
  [hash_map::begin (STL/CLR)](../dotnet/hash-map-begin-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

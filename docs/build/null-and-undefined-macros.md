@@ -47,6 +47,6 @@ Both null and undefined macros expand to null strings, but a macro defined as a 
  [Defining an NMAKE Macro](../build/defining-an-nmake-macro.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

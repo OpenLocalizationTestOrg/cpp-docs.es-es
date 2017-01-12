@@ -67,6 +67,6 @@ ADO.NET is the .NET Framework API for data access and provides power and ease of
  [Native and .NET Interoperability](../dotnet/native-and-dotnet-interoperability.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

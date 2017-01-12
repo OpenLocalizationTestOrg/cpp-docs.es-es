@@ -67,6 +67,6 @@ This section shows how to sink events using ATL. It covers the principles of COM
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

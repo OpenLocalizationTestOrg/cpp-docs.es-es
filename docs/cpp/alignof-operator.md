@@ -123,6 +123,6 @@ S* p = (S*)aligned_malloc(n * sizeof(S), __alignof(S));
  [Keywords](../cpp/keywords-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

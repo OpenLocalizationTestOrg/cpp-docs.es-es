@@ -44,6 +44,6 @@ version WORDs separated by commas expected
  Version numbers in a version resource should be of type **WORD**, and separated by commas.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

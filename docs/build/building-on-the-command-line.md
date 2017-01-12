@@ -112,6 +112,6 @@ You can build C and C++ applications on the command line by using tools that are
  [Building C/C++ Programs](../build/building-c-cpp-programs.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

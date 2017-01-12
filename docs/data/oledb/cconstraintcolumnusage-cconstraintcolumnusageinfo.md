@@ -103,6 +103,6 @@ Call the typedef class **CConstraintColumnUsage** to implement its parameter cla
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

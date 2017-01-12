@@ -93,6 +93,6 @@ Use this page of the Create New Project From Existing Code Files wizard to speci
  [Specify Release Configuration Settings, Create New Project From Existing Code Files Wizard](../ide/specify-release-configuration.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

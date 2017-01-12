@@ -61,6 +61,6 @@ Specifies a key container to sign a Windows Metadata (.winmd) file.
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -100,6 +100,6 @@ call DWORD PTR __imp_func1
  [Importing into an Application](../build/importing-into-an-application.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

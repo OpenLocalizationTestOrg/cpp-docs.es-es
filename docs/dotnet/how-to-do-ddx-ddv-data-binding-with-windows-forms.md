@@ -107,6 +107,6 @@ m_MyControl.GetControl()->textBox1->Text = "hello";
  [CWnd::DoDataExchange](../mfc/reference/cwnd-class.md#cwnd__dodataexchange)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

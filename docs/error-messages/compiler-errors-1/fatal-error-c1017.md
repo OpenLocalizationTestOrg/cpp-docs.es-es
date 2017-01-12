@@ -82,6 +82,6 @@ invalid integer constant expression
  To see exactly how the compiler handles preprocessor directives, use [/P](../../build/reference/p-preprocess-to-a-file.md), [/E](../../build/reference/e-preprocess-to-stdout.md), or [/EP](../../build/reference/ep-preprocess-to-stdout-without-hash-line-directives.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

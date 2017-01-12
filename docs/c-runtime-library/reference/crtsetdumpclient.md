@@ -112,6 +112,6 @@ typedef void (__cdecl *_CRT_DUMP_CLIENT)( void *, size_t );
  [_CrtGetDumpClient](../../c-runtime-library/reference/crtgetdumpclient.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

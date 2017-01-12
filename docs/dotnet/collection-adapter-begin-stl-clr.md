@@ -98,6 +98,6 @@ int main()
  [collection_adapter::end (STL/CLR)](../dotnet/collection-adapter-end-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

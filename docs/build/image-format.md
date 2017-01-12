@@ -41,6 +41,6 @@ The executable image format is PE32+. Executable images (both DLLs and EXEs) are
  [x64 Software Conventions](../build/x64-software-conventions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

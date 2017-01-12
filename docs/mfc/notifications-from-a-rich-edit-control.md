@@ -61,6 +61,6 @@ Notification messages report events affecting a rich edit control ([CRichEditCtr
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -50,6 +50,6 @@ The Common Controls library is now isolated within MFC, allowing different modul
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

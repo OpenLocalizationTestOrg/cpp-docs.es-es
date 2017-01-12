@@ -56,6 +56,6 @@ ms.openlocfilehash: 78b83e99a1827abf6bd8be0364fb4e1e78f5be0a
  [Integers](../c-language/integers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

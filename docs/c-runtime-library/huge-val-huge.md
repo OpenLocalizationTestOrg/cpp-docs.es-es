@@ -64,6 +64,6 @@ ms.openlocfilehash: b4a0cb522e2b48db10dcad88e16f8d4a43445c9a
  [Global Constants](../c-runtime-library/global-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -55,6 +55,6 @@ This topic applies to the MFC ODBC classes.
  [Recordset: Performing a Join (ODBC)](../../data/odbc/recordset-performing-a-join-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -142,6 +142,6 @@ in ClassA destructor: third
  [auto_gcroot::attach](../dotnet/auto-gcroot-attach.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -74,6 +74,6 @@ The action taken when the interrupt signal is received depends on the value of `
  [Global Constants](../c-runtime-library/global-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

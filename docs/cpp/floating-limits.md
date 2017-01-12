@@ -72,6 +72,6 @@ ms.openlocfilehash: af4c6986b2e899664ef63dac925c8cfa57404460
  [Integer Limits](../cpp/integer-limits.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

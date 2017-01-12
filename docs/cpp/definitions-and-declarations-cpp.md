@@ -97,6 +97,6 @@ void func() {
  [dllexport, dllimport](../cpp/dllexport-dllimport.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ Most multibyte-character routines in the Microsoft run-time library recognize mu
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

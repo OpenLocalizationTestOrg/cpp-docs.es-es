@@ -193,6 +193,6 @@ Call the typedef class **CColumns** to implement its parameter class **CColumnsI
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

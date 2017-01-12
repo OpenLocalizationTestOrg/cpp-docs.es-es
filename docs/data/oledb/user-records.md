@@ -111,6 +111,6 @@ END_ACCESSOR_MAP()
  [OLE DB Consumer Templates](../../data/oledb/ole-db-consumer-templates-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -65,6 +65,6 @@ section section exists; there may be unhandled static initializers or terminator
  [Setting Linker Options](../../build/reference/setting-linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

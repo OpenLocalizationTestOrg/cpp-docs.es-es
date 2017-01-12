@@ -44,6 +44,6 @@ only one form of exception handling permitted per function
  You cannot use structured exception handling (`__try`/`__except`) and C++ exception handling (`try`/`catch`) in the same function.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -83,6 +83,6 @@ ms.openlocfilehash: 83706cc08dd6a1b9397aa2d33ec90b219b9f6f04
  [Elements of C](../c-language/elements-of-c.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

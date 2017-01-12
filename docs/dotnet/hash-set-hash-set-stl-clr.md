@@ -301,6 +301,6 @@ size() = 0
  [hash_set::operator= (STL/CLR)](../dotnet/hash-set-operator-assign-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

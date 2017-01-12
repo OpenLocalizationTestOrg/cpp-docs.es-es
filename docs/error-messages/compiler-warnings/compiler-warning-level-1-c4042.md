@@ -65,6 +65,6 @@ int func2( __declspec( thread ) int tls_i )    // C4042
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

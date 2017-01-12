@@ -143,6 +143,6 @@ done
  [auto_handle::~auto_handle](../dotnet/auto-handle-tilde-auto-handle.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ PTR operator used with register in 'context'
  The `PTR` operator cannot be used with a `register` operand.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

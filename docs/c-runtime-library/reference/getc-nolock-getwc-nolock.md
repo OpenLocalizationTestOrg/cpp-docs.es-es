@@ -170,6 +170,6 @@ Input was: Line the first.
  [ungetc, ungetwc](../../c-runtime-library/reference/ungetc-ungetwc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

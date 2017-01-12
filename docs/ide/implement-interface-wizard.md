@@ -81,6 +81,6 @@ This wizard implements an interface for a COM object. Implementations of many in
  [Implementing an Interface](../ide/implementing-an-interface-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

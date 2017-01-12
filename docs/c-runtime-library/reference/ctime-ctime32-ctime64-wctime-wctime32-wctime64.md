@@ -209,6 +209,6 @@ The time is Wed Feb 13 16:04:43 2002
  [time, _time32, _time64](../../c-runtime-library/reference/time-time32-time64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -62,6 +62,6 @@ A type that holds the following pieces of information about a lock: whether the 
  [Data Types](../../../parallel/openmp/reference/openmp-data-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

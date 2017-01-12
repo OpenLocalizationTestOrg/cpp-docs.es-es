@@ -69,6 +69,6 @@ Processes that explicitly link to a DLL call the [FreeLibrary](http://go.microso
  [AfxFreeLibrary](http://msdn.microsoft.com/Library/0e06e292-710b-402f-9692-2cdcbab306f9)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: cfdfe133afc1366bcceeefa06ff227e555a63883
  An `alloc_text` pragma uses a function name already defined.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

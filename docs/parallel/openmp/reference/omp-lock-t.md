@@ -62,6 +62,6 @@ A type that holds the status of a lock, whether the lock is available or if a th
  [Data Types](../../../parallel/openmp/reference/openmp-data-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ illegal to define an enumeration without any members
  An enumeration must have at least one member when /Za (disable Microsoft extensions) is selected.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

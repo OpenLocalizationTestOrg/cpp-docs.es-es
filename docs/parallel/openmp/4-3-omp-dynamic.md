@@ -52,6 +52,6 @@ setenv OMP_DYNAMIC TRUE
 -   **omp_set_dynamic** function, see [Section 3.1.7](../../parallel/openmp/3-1-7-omp-set-dynamic-function.md) on page 39.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

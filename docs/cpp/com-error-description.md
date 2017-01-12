@@ -64,6 +64,6 @@ _bstr_t Description( ) const;
  [_com_error Class](../cpp/com-error-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

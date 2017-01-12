@@ -58,6 +58,6 @@ ms.openlocfilehash: f6a92013aa585ec9a27e157076b4e7b5ce997549
 This POSIX function is deprecated. Use the ISO C++ conformant [_fputchar](../../c-runtime-library/reference/fputchar-fputwchar.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

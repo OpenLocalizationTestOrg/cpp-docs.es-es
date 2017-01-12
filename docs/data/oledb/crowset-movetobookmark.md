@@ -85,6 +85,6 @@ Fetches the row marked by a bookmark or the row at a specified offset (`lSkip`) 
  [CRowset::MoveLast](../../data/oledb/crowset-movelast.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

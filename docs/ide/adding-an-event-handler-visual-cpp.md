@@ -72,6 +72,6 @@ From the resource editor, you can add a new event handler, or edit an existing e
  [Navigating the Class Structure](../ide/navigating-the-class-structure-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

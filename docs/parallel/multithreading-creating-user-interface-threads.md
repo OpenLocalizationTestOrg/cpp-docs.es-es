@@ -87,6 +87,6 @@ A user-interface thread is commonly used to handle user input and respond to use
  [Multithreading with C++ and MFC](../parallel/multithreading-with-cpp-and-mfc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

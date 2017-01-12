@@ -58,6 +58,6 @@ ms.openlocfilehash: 5e226d0446551dc2d1843f19709f96540e669646
 This POSIX function is deprecated. Use the ISO C++ conformant [_mkdir](../../c-runtime-library/reference/mkdir-wmkdir.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

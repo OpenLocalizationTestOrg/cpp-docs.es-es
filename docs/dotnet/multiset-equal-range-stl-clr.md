@@ -109,6 +109,6 @@ equal_range(L'x') empty = True
  [multiset::upper_bound (STL/CLR)](../dotnet/multiset-upper-bound-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

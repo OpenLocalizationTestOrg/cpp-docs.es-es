@@ -81,6 +81,6 @@ _mbsnbcpy( rgch, sz, sizeof( rgch ) );
  [MBCS Programming Tips](../text/mbcs-programming-tips.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

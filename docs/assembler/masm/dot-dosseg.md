@@ -56,6 +56,6 @@ Orders the segments according to the MS-DOS segment convention: CODE first, then
  [Directives Reference](../../assembler/masm/directives-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

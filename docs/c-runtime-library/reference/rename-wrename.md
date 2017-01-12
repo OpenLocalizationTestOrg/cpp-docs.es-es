@@ -167,6 +167,6 @@ File 'CRT_RENAMER.OBJ' renamed to 'CRT_RENAMER.JBO'
  [File Handling](../../c-runtime-library/file-handling.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

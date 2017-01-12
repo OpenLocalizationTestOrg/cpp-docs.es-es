@@ -70,6 +70,6 @@ Mutex(
  [Mutex Class](../windows/mutex-class1.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

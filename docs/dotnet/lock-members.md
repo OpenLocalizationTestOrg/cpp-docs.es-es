@@ -57,6 +57,6 @@ Members of the [lock Class](../dotnet/lock-class.md).
  [lock::operator!=](../dotnet/lock-operator-inequality.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

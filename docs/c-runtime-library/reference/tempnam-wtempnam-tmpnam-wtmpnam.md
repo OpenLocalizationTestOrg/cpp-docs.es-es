@@ -205,6 +205,6 @@ C:\DOCUME~1\user\LOCALS~1\Temp\2\stq2 is safe to use as a temporary file.
  [tmpfile_s](../../c-runtime-library/reference/tmpfile-s.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

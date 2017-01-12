@@ -75,6 +75,6 @@ You can use the **Resource Includes** dialog box to modify the environment's nor
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

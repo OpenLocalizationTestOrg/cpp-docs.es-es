@@ -77,6 +77,6 @@ This book generally uses the forms of the type specifiers listed in the followin
  [C Type Specifiers](../c-language/c-type-specifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

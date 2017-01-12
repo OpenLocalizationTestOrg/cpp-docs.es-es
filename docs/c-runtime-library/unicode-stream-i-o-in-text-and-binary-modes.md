@@ -57,6 +57,6 @@ When a Unicode stream I/O routine (such as `fwprintf`, `fwscanf`, `fgetwc`, `fpu
  [Input and Output](../c-runtime-library/input-and-output.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -60,6 +60,6 @@ The `// Implementation` section is the most important part of any MFC class decl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

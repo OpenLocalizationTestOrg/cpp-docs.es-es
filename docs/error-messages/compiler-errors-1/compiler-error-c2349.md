@@ -44,6 +44,6 @@ ms.openlocfilehash: 8e819afdeb0e6dcc13cba8d79950202ba0372fe6
  For more information see [Compiler Warning (level 1 and 3) C4793](../../error-messages/compiler-warnings/compiler-warning-level-1-and-3-c4793.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

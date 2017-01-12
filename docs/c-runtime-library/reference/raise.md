@@ -114,6 +114,6 @@ int sig
  [signal](../../c-runtime-library/reference/signal.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

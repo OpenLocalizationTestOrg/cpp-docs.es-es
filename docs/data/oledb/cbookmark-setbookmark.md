@@ -79,6 +79,6 @@ Copies the bookmark value referenced by `pBuffer` to the `CBookmark` buffer and 
  [CBookmark Class](../../data/oledb/cbookmark-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

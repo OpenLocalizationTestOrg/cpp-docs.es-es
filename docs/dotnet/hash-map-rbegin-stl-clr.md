@@ -100,6 +100,6 @@ int main()
  [hash_map::rend (STL/CLR)](../dotnet/hash-map-rend-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

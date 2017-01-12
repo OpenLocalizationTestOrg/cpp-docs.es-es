@@ -130,6 +130,6 @@ max_load_factor() = 0.25
  [hash_map::rehash (STL/CLR)](../dotnet/hash-map-rehash-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

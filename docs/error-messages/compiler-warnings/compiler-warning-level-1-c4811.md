@@ -45,6 +45,6 @@ value of pragma conform(forScope, show) == value
  This warning is issued when you use the **show** option of the [conform](../../preprocessor/conform.md) pragma. *value* is the current conform value.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

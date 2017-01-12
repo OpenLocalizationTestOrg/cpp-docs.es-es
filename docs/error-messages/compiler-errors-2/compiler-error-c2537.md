@@ -57,6 +57,6 @@ extern "C" void func2();   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

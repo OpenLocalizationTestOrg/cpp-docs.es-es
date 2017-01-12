@@ -63,6 +63,6 @@ Here is an example of a typical use of [CStatusBarCtrl](../mfc/reference/cstatus
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

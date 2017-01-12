@@ -74,6 +74,6 @@ void __cdecl _CIexp();
  [exp, expf](../c-runtime-library/reference/exp-expf.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

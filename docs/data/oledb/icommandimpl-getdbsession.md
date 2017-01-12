@@ -66,6 +66,6 @@ Returns an interface pointer to the session that created the command.
  [ICommandImpl Class](../../data/oledb/icommandimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

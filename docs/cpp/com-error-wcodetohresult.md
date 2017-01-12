@@ -72,6 +72,6 @@ ms.openlocfilehash: d565d21a8df7eaceea4044f41ff0c7a1c73ba1dd
  [_com_error Class](../cpp/com-error-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

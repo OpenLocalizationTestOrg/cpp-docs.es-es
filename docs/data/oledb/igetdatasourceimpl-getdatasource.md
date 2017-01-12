@@ -66,6 +66,6 @@ Returns an interface pointer on the data source object that created the session.
  [IGetDataSourceImpl Class](../../data/oledb/igetdatasourceimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

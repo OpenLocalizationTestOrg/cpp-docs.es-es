@@ -236,6 +236,6 @@ void f( G^ g ) {
  [pin_ptr (C++/CLI)](../windows/pin-ptr-cpp-cli.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

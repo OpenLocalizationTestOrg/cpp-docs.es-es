@@ -46,6 +46,6 @@ ms.openlocfilehash: 435295e3a9d2926bedbae81fdb9f10e19b328dc7
  [Behavior of Identifiers](../c-language/behavior-of-identifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

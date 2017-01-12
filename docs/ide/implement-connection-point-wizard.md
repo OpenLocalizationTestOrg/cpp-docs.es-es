@@ -66,6 +66,6 @@ This wizard implements a connection point for a COM object. A connectable object
  [Implementing a Connection Point](../ide/implementing-a-connection-point-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

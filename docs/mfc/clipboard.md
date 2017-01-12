@@ -72,6 +72,6 @@ This family of articles explains how to implement support for the Windows Clipbo
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -151,6 +151,6 @@ after fsetpos: gets a stream
  [fsetpos](../../c-runtime-library/reference/fsetpos.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

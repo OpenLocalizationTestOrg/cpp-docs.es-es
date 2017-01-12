@@ -63,6 +63,6 @@ Places the data source object in an uninitialized state by freeing internal reso
  [IDBInitializeImpl::Initialize](../../data/oledb/idbinitializeimpl-initialize.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

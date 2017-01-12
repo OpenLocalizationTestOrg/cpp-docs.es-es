@@ -62,6 +62,6 @@ Use these routines to work with areas of memory on a byte-by-byte basis.
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

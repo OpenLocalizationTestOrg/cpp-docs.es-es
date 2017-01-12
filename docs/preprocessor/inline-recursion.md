@@ -62,6 +62,6 @@ Controls the inline expansion of direct or mutually recursive function calls.
  [/Ob (Inline Function Expansion)](../build/reference/ob-inline-function-expansion.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

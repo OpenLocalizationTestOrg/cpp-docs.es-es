@@ -122,6 +122,6 @@ i = 5
  [_get_printf_count_output](../../c-runtime-library/reference/get-printf-count-output.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

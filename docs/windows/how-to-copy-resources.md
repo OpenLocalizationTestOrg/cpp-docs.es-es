@@ -91,6 +91,6 @@ You can copy resources from one file to another without changing them or you can
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

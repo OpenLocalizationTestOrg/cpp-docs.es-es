@@ -44,6 +44,6 @@ command-line option '/Yc (/Fdfilename)' inconsistent with precompiled header, wh
  The program database specified by the Use Precompiled Header ([/Yu](../../build/reference/yu-use-precompiled-header-file.md)) option is not the one specified by the previous Create Precompiled Header ([/Yc](../../build/reference/yc-create-precompiled-header-file.md)) option.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

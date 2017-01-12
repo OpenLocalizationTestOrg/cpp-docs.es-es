@@ -65,6 +65,6 @@ Specifies that the executable image supports high-entropy 64-bit address space l
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

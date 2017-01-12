@@ -130,6 +130,6 @@ scoped_d3d_access_lock& operator= (scoped_d3d_access_lock&& _Other);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

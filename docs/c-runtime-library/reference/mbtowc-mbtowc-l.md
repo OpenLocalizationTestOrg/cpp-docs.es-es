@@ -180,6 +180,6 @@ Attempt to convert a NULL pointer to a wide character:
  [wctomb, _wctomb_l](../../c-runtime-library/reference/wctomb-wctomb-l.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

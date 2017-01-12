@@ -109,6 +109,6 @@ The MFC Application Wizard generates an application that, when compiled, impleme
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

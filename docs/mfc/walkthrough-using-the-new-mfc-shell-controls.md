@@ -217,6 +217,6 @@ In this walkthrough, you will create an application that resembles File Explorer
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

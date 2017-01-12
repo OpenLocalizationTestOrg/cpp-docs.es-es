@@ -59,6 +59,6 @@ END_SCHEMA_MAP( )
  [IDBSchemaRowsetImpl Class](../../data/oledb/idbschemarowsetimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

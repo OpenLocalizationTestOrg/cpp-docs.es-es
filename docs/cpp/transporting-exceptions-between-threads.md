@@ -273,6 +273,6 @@ exception_ptr 1: Caught a  myException exception.
  [/clr (Common Language Runtime Compilation)](../build/reference/clr-common-language-runtime-compilation.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

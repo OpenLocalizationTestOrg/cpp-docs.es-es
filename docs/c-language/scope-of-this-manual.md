@@ -44,6 +44,6 @@ C is a flexible language that leaves many programming decisions up to you. In ke
  [Organization of the C Language Reference](../c-language/organization-of-the-c-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

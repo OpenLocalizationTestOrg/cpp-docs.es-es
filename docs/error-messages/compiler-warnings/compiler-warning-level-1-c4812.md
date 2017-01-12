@@ -64,6 +64,6 @@ MyClass<T*>::MyClass<T*>() {}   // C4812
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

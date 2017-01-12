@@ -52,6 +52,6 @@ When the **_CRTDBG_MAP_ALLOC** flag is defined in the debug version of an applic
  [Control Flags](../c-runtime-library/control-flags.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -73,6 +73,6 @@ Retrieves the data type of a specified parameter.
  [CDynamicParameterAccessor Class](../../data/oledb/cdynamicparameteraccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

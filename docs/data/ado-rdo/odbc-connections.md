@@ -64,6 +64,6 @@ ODBC connections are configured in the system Control Panel. ODBC connections ca
  [Creating Database Connections](../../data/ado-rdo/creating-database-connections.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

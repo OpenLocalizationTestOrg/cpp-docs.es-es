@@ -204,6 +204,6 @@ C:\Program Files\Microsoft Visual Studio 2010\VC\BIN\CL.EXE
  [_putenv, _wputenv](../../c-runtime-library/reference/putenv-wputenv.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

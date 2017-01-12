@@ -45,6 +45,6 @@ ms.openlocfilehash: ae2cc927f91c6f4f79624cf995b7ea1b364ec536
  A function definition attempts to instantiate its root templated class. Recursive template instantiations are not allowed.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

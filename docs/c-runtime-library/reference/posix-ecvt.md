@@ -58,6 +58,6 @@ ms.openlocfilehash: df22af848d6bf2a7ddbd4858b3f2aa4a745955e8
 This POSIX function is deprecated. Use the ISO C++ conformant [_ecvt](../../c-runtime-library/reference/ecvt.md) or security-enhanced [_ecvt_s](../../c-runtime-library/reference/ecvt-s.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

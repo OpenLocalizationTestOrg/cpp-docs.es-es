@@ -49,6 +49,6 @@ If your DLL is a regular DLL that is statically linked to MFC, changing it to a 
  [DLL Frequently Asked Questions](../build/dll-frequently-asked-questions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

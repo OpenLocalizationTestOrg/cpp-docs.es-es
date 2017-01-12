@@ -80,6 +80,6 @@ virtual Void Form1::OnPaint(PaintEventArgs^ pe ) override
  [System::Drawing namespace](https://msdn.microsoft.com/en-us/library/system.drawing.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

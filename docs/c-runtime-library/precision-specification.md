@@ -82,6 +82,6 @@ In a format specification, the third optional field is the precision specificati
  [printf Type Field Characters](../c-runtime-library/printf-type-field-characters.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

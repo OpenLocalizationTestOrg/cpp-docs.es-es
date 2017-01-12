@@ -67,6 +67,6 @@ Creates and initializes a new row in the rowset.
  [IRowsetChangeImpl Class](../../data/oledb/irowsetchangeimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ When linking incrementally, LINK updates the .ilk status file that it created du
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

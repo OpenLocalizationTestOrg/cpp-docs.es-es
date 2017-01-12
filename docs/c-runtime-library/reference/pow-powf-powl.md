@@ -176,6 +176,6 @@ int main( void )
  [_CIpow](../../c-runtime-library/cipow.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

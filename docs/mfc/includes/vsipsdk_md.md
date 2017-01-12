@@ -21,6 +21,6 @@ ms.openlocfilehash: 2728faddd71485f3636eeefb6b86bb1f6be90fdd
 Visual Studio SDK
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -91,6 +91,6 @@ This compiler option is obsolete. In versions of Visual Studio before Visual Stu
  [Configuring Programs for 64-Bit](../../build/configuring-programs-for-64-bit-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

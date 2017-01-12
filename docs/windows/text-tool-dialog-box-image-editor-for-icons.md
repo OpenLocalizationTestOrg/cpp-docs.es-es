@@ -65,6 +65,6 @@ Use the **Text Tool** dialog box to add text to a cursor, bitmap, or icon resour
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

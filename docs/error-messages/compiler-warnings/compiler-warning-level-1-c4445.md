@@ -44,6 +44,6 @@ ms.openlocfilehash: ab6972edab2da855b859c05bf15ec4fc86a4d23a
  If a virtual function is private, it cannot be accessed by a derived type. To fix this error, change the accessibility of the virtual member function to protected or public.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

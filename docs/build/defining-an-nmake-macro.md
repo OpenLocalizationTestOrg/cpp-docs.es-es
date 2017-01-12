@@ -64,6 +64,6 @@ macroname=string
  [Macros and NMAKE](../build/macros-and-nmake.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

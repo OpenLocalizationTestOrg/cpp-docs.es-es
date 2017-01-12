@@ -73,6 +73,6 @@ Retrieves the data type of a specified column.
  [DBTYPE](https://msdn.microsoft.com/en-us/library/ms711251.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -64,6 +64,6 @@ Returns an [IErrorInfo](https://msdn.microsoft.com/en-us/library/ms718112.aspx) 
  [IErrorRecordsImpl Class](../../data/oledb/ierrorrecordsimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

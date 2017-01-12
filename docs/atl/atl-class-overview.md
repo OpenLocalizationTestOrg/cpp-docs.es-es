@@ -76,6 +76,6 @@ Classes in the Active Template Library (ATL) can be categorized as follows:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

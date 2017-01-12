@@ -45,6 +45,6 @@ Calling the [abort](../c-runtime-library/reference/abort.md) function causes imm
  [Additional Termination Considerations](../cpp/additional-termination-considerations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

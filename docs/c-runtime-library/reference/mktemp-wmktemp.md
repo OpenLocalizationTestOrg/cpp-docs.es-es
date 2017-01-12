@@ -245,6 +245,6 @@ Out of unique filenames.
  [tmpfile](../../c-runtime-library/reference/tmpfile.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

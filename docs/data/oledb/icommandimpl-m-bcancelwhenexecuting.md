@@ -64,6 +64,6 @@ unsigned m_bCancelWhenExecuting:1;
  [ICommandImpl::m_bCancel](../../data/oledb/icommandimpl-m-bcancel.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

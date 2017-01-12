@@ -55,6 +55,6 @@ public delegate void g(int i, array<Object^>^ varargs);   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

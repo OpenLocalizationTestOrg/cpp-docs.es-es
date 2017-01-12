@@ -67,6 +67,6 @@ This section describes the elements of the C programming language, including the
  [C Language Reference](../c-language/c-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

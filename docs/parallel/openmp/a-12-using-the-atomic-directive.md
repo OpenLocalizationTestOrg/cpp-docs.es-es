@@ -52,6 +52,6 @@ The following example avoids race conditions (simultaneous updates of an element
  Note that the `atomic` directive applies only to the C or C++ statement immediately following it.  As a result, elements of *y* are not updated atomically in this example.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

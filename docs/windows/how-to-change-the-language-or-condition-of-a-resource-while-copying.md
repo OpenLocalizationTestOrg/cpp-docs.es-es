@@ -76,6 +76,6 @@ IDD_AboutBox (Finnish – XX33)
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

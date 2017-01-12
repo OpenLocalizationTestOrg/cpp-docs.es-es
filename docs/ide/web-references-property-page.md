@@ -64,6 +64,6 @@ The **Web References** property page specifies how the XML Web service proxy cla
  [Property Pages](../ide/property-pages-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

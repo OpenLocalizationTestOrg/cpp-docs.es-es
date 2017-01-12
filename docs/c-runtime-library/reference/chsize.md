@@ -148,6 +148,6 @@ File length after:  329678
  [_open, _wopen](../../c-runtime-library/reference/open-wopen.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ The following procedure shows how to create a `COleDateTime` object and initiali
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

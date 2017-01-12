@@ -53,6 +53,6 @@ To provide drag-and-drop support for header items, specify the `HDS_DRAGDROP` st
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

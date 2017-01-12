@@ -108,6 +108,6 @@ upper_bound(L'x')==end() = True
  [map::lower_bound (STL/CLR)](../dotnet/map-lower-bound-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

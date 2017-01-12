@@ -120,6 +120,6 @@ The articles in this part of the documentation contain information about a subse
  [Compiler Error C2397](../../error-messages/compiler-errors-1/compiler-error-c2397.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

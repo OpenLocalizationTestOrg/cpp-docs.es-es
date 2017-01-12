@@ -71,6 +71,6 @@ operator const CSession&();
  [CDataConnection::operator CSession*](../../data/oledb/cdataconnection-operator-csession-star.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

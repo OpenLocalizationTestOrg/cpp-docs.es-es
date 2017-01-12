@@ -109,6 +109,6 @@ compare(L'b', L'a') = True
  [hash_map::value_compare (STL/CLR)](../dotnet/hash-map-value-compare-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

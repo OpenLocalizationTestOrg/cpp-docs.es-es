@@ -14,6 +14,6 @@
 ### [How to: Use Existing C++ Code in a Universal Windows Platform App](how-to-use-existing-cpp-code-in-a-universal-windows-platform-app.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

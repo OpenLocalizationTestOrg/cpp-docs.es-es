@@ -85,6 +85,6 @@ Microsoft Windows implements device-independent display. In MFC, this means that
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

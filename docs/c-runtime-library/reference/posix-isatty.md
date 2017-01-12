@@ -58,6 +58,6 @@ ms.openlocfilehash: 23c6633306bbfea2de1c3cdc2b8e5f19a92f5e5b
 This POSIX function is deprecated. Use the ISO C++ conformant [_isatty](../../c-runtime-library/reference/isatty.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

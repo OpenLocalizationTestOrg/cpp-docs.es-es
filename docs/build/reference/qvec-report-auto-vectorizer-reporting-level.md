@@ -71,6 +71,6 @@ Enables the reporting feature of the compiler [Auto-Vectorizer](../../parallel/a
  [Parallel Programming in Native Code](http://go.microsoft.com/fwlink/?LinkId=263662)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

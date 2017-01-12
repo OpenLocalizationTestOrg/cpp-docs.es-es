@@ -149,6 +149,6 @@ This is a test of _fputc_nolock!!
  [putc, putwc](../../c-runtime-library/reference/putc-putwc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -77,6 +77,6 @@ Adds a generic C++ class to a project. The class does not inherit from ATL or MF
  [Adding a Generic C++ Class](../ide/adding-a-generic-cpp-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

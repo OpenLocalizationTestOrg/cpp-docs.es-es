@@ -45,6 +45,6 @@ UNKNOWN WARNING From the Help menu choose the Technical Support command or open 
  Note the circumstances of the error, try to isolate the problem and create a reproducible test case, then contact [Microsoft Product Support Services](/visualstudio/ide/talk-to-us).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

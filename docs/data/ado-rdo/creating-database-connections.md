@@ -51,6 +51,6 @@ To use databinding, you must configure a data source. When using the ADO data co
  [Oracle Connections](../../data/ado-rdo/oracle-connections.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

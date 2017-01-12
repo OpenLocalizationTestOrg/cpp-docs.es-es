@@ -58,6 +58,6 @@ HSTRING Get() const throw()
  [HStringReference Class](../windows/hstringreference-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

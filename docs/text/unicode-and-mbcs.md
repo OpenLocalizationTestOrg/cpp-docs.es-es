@@ -74,6 +74,6 @@ The Microsoft Foundation Classes (MFC) library, the C run-time library for Visua
  [International Enabling](../text/international-enabling.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

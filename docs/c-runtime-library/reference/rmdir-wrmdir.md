@@ -134,6 +134,6 @@ int _wrmdir(
  [_mkdir, _wmkdir](../../c-runtime-library/reference/mkdir-wmkdir.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

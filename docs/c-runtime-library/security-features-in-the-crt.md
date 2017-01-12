@@ -115,6 +115,6 @@ strcpy(szBuf, "test"); // warning: deprecated
  [CRT Library Features](../c-runtime-library/crt-library-features.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

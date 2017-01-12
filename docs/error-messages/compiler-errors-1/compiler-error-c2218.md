@@ -46,6 +46,6 @@ ms.openlocfilehash: f3ece905f03dc788580afde3e526041e933e3072
  To fix this error, change the compiler options to target SSE2, AVX or AVX2 instruction sets. For more information, see [/arch (x86)](../../build/reference/arch-x86.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

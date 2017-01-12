@@ -49,6 +49,6 @@ The subtraction operator (**–**) subtracts the second operand from the first. 
  [C Additive Operators](../c-language/c-additive-operators.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

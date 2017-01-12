@@ -278,6 +278,6 @@ template <typename T> struct Identity {
  [Visual C++ change history 2003 - 2015](../porting/visual-cpp-change-history-2003-2015.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

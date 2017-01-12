@@ -94,6 +94,6 @@ When the manifest constant **_MBCS** is defined, a given generic-text routine ma
  [Generic-Text Mappings in Tchar.h](../text/generic-text-mappings-in-tchar-h.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

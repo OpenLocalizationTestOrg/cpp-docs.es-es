@@ -78,6 +78,6 @@ The Visual C++ Win32 Application Wizard allows you to create any of four types o
  [Visual C++ Project Types](../ide/visual-cpp-project-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

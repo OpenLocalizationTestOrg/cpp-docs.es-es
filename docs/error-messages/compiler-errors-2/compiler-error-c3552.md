@@ -47,6 +47,6 @@ ms.openlocfilehash: 313bca979c0d3c63d897fd0cf3883e444d501db1
  `auto myFunction->auto; // C3552`
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

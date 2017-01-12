@@ -44,6 +44,6 @@ I/O error reading file
  The Resource Compiler was not able to read a file. Check that the drive containing the file is available and that the file is valid.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

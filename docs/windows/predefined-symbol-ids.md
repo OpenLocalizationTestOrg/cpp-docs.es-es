@@ -62,6 +62,6 @@ When you begin a new project, depending on the project type, some symbol IDs are
  [Symbols: Resource Identifiers](../mfc/symbols-resource-identifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

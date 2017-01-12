@@ -135,6 +135,6 @@ int main()
  [logical_not (STL/CLR)](../dotnet/logical-not-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

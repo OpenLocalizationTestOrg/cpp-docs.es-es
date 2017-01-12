@@ -126,6 +126,6 @@ This topic applies to the MFC ODBC classes.
  [Exceptions: Database Exceptions](../../mfc/exceptions-database-exceptions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

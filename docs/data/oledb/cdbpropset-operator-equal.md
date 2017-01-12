@@ -62,6 +62,6 @@ Assigns the contents of one property set to another property set.
  [CDBPropSet Class](../../data/oledb/cdbpropset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

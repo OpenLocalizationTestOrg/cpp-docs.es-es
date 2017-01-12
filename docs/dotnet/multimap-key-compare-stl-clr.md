@@ -109,6 +109,6 @@ compare(L'b', L'a') = True
  [multimap::value_compare (STL/CLR)](../dotnet/multimap-value-compare-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

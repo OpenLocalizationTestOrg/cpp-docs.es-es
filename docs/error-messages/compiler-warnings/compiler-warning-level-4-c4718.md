@@ -45,6 +45,6 @@ ms.openlocfilehash: 48a1144d19f760760f40b5bd9fd1cb43e00e11d8
  A function contains a recursive call, but otherwise has no side effects. A call to this function is being deleted. The correctness of the program is not affected, but the behavior is. Whereas leaving the call in could result in a runtime stack overflow exception, deleting the call removes that possibility.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

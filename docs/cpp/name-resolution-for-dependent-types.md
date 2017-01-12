@@ -151,6 +151,6 @@ int main() {
  [Name Resolution](../cpp/templates-and-name-resolution.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

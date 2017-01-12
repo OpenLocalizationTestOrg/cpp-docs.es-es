@@ -54,6 +54,6 @@ overriding 'option1' with 'option2'
      If the options are set in code it could be set either in code or in the windows headers.  You might try creating a preprocessed file ([/P](../../build/reference/p-preprocess-to-a-file.md)) and search it for the symbol.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

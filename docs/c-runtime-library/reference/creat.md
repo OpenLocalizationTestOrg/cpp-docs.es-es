@@ -58,6 +58,6 @@ ms.openlocfilehash: 1528b6c4521e61342c321e1c6132c625175571aa
 This POSIX function is deprecated. Use the ISO C++ conformant [_creat](../../c-runtime-library/reference/creat-wcreat.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

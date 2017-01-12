@@ -142,6 +142,6 @@ errno_t _wputenv_s(
  [_searchenv, _wsearchenv](../../c-runtime-library/reference/searchenv-wsearchenv.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

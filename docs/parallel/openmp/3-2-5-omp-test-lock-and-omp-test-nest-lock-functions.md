@@ -50,6 +50,6 @@ int omp_test_nest_lock(omp_nest_lock_t *lock);
  For a nestable lock, the `omp_test_nest_lock` function returns the new nesting count if the lock is successfully set; otherwise, it returns zero.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

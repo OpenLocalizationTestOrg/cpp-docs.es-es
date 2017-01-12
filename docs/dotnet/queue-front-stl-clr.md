@@ -101,6 +101,6 @@ front() = a
  [queue::front_item (STL/CLR)](../dotnet/queue-front-item-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

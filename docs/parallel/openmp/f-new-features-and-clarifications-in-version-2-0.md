@@ -64,6 +64,6 @@ This appendix summarizes the key changes made to the OpenMP C/C++ specification 
     -   New examples have been added ([Appendix A](../../parallel/openmp/a-examples.md) on page 51).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

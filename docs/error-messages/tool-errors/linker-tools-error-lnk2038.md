@@ -70,6 +70,6 @@ mismatch detected for '\<name>': value '\<value 1>' doesn't match value '\<value
  [Linker Tools Errors and Warnings](../../error-messages/tool-errors/linker-tools-errors-and-warnings.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

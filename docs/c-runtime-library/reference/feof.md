@@ -153,6 +153,6 @@ Number of bytes read = 19
  [perror, _wperror](../../c-runtime-library/reference/perror-wperror.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

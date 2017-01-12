@@ -48,6 +48,6 @@ interaction between 'function' and C++ object destruction is non-portable
  This warning is only issued once; see [pragma warning](../../preprocessor/warning.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

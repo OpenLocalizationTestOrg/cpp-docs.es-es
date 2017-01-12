@@ -88,6 +88,6 @@ func4(__m64 a, _m128 b, struct c, float d);
  [Calling Convention](../build/calling-convention.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

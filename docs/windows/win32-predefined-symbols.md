@@ -66,6 +66,6 @@ These symbols are defined in the Win32 header files, and they support standard W
  [Symbols: Resource Identifiers](../mfc/symbols-resource-identifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

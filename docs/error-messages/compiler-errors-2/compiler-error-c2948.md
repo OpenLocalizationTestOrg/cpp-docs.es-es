@@ -44,6 +44,6 @@ explicit instantiation; storage class specifier 'specifier' not permitted on spe
  You cannot use storage-class specifiers (such as `extern`) in a specialization of a template class that was previously explicitly instantiated.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

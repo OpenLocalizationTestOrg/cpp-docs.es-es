@@ -60,6 +60,6 @@ int (__based (a) C::* cpf)() = &C::func; // c2638
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -74,6 +74,6 @@ This topic compares the default ATL project configurations in Visual C++ .NET wi
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

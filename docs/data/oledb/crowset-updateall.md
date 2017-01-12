@@ -90,6 +90,6 @@ Transmits any pending changes made to all rows since the last fetch or **Update*
  [CRowset::Update](../../data/oledb/crowset-update.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

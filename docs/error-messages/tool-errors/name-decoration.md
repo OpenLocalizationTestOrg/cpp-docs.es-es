@@ -64,6 +64,6 @@ void CALLTYPE test(void)
  [Linker Tools Error LNK2001](../../error-messages/tool-errors/linker-tools-error-lnk2001.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

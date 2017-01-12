@@ -64,6 +64,6 @@ Describes how to deploy a Visual C++ application by copying files to its folder.
  [Deployment Examples](../ide/deployment-examples.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

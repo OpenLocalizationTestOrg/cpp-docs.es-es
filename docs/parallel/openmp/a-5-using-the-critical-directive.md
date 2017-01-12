@@ -50,6 +50,6 @@ The following example includes several `critical` directives ([Section 2.6.2](..
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

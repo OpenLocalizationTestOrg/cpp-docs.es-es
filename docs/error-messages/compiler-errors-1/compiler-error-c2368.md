@@ -45,6 +45,6 @@ ms.openlocfilehash: ab93ebc874c40b0be93d7fe0ed67fb2948a3bc6b
  The declaration and definition of the symbol specify different `__declspec` attributes.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

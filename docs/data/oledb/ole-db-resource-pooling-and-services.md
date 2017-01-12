@@ -56,6 +56,6 @@ To work well with OLE DB pooling, or with any OLE DB service, your provider must
  [Advanced Provider Techniques](../../data/oledb/advanced-provider-techniques.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

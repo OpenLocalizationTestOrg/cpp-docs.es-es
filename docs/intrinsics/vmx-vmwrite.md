@@ -89,6 +89,6 @@ unsigned char __vmx_vmwrite(
  [__vmx_vmread](../intrinsics/vmx-vmread.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

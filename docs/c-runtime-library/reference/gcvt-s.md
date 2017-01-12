@@ -169,6 +169,6 @@ Converted value: 1.2
  [_gcvt](../../c-runtime-library/reference/gcvt.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

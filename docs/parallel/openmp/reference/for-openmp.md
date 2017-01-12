@@ -146,6 +146,6 @@ The sum of 1 through 10 is 55
  [Directives](../../../parallel/openmp/reference/openmp-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

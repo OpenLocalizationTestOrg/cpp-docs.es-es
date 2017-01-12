@@ -48,6 +48,6 @@ Instead of using the methods given in the [Dialog Creation table](../mfc/creatin
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

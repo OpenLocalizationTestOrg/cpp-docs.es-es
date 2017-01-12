@@ -59,6 +59,6 @@ Synchronizes all threads in a team; all threads pause at the barrier, until all 
  [Directives](../../../parallel/openmp/reference/openmp-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

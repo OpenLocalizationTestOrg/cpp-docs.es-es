@@ -53,6 +53,6 @@ In the MFC ODBC database classes, dynasets are recordsets with dynamic propertie
  [ODBC Basics](../../data/odbc/odbc-basics.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

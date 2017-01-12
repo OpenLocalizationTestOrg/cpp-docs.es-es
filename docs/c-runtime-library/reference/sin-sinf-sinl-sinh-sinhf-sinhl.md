@@ -191,6 +191,6 @@ cosh( 1.570796 ) = 2.509178
  [_CIsin](../../c-runtime-library/cisin.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ class D : public B {};   // C4624 B's destructor not public
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

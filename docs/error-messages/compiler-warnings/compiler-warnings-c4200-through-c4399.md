@@ -236,6 +236,6 @@ The articles in this part of the documentation contain information about a subse
 |[Compiler Warning (level 1) C4399](../../error-messages/compiler-warnings/compiler-warning-level-1-c4399.md)|'symbol': per-process symbol should not be marked with __declspec('dllimport') when compiled with /clr:pure|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

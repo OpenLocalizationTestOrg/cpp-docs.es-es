@@ -71,6 +71,6 @@ You make most controls for dialog boxes in the Visual C++ [dialog editor](../mfc
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

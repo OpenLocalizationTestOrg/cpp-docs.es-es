@@ -138,6 +138,6 @@ Call the typedef class **CProviderTypes** to implement its parameter class **CPr
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

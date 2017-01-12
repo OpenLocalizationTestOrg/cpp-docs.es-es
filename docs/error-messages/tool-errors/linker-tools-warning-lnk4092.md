@@ -53,6 +53,6 @@ int *pvar = &var;
  The linker cannot resolve `pvar` because its value depends on where the DLL is loaded in memory, so it puts a relocation record in the DLL. When the DLL is loaded into memory, the address of `var` can be resolved and `pvar` assigned. If another process loads the same DLL but cannot load it at the same address, the relocation for the address of `var` will be updated for the second process and the first process's address space will point to the wrong address.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

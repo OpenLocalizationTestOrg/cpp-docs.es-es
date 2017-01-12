@@ -83,6 +83,6 @@ class CXMLAccessor : public CDynamicStringAccessorW
  [CManualAccessor Class](../../data/oledb/cmanualaccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

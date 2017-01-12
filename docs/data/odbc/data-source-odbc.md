@@ -57,6 +57,6 @@ This topic applies to the MFC ODBC classes.
  [Open Database Connectivity (ODBC)](../../data/odbc/open-database-connectivity-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

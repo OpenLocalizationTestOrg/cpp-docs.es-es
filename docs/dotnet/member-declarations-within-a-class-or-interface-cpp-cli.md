@@ -74,6 +74,6 @@ The declaration of properties and operators has been extensively reworked from M
  [C++/CLI Migration Primer](../dotnet/cpp-cli-migration-primer.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

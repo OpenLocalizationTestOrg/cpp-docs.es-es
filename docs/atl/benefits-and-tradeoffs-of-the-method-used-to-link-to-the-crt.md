@@ -54,6 +54,6 @@ Your project can link with the CRT either dynamically or statically. The table b
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

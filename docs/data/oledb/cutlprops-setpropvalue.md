@@ -80,6 +80,6 @@ Sets a property in a property set.
  [CUtlProps Class](../../data/oledb/cutlprops-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

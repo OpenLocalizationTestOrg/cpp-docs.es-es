@@ -109,6 +109,6 @@ long double expm1l(
  [pow, powf, powl](../../c-runtime-library/reference/pow-powf-powl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

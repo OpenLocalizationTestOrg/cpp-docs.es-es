@@ -54,6 +54,6 @@ You can use the template class [IDispatchImpl](../atl/reference/idispatchimpl-cl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

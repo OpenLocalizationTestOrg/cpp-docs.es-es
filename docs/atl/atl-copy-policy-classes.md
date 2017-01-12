@@ -105,6 +105,6 @@ Copy policy classes are [utility classes](../atl/utility-classes.md) used to ini
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

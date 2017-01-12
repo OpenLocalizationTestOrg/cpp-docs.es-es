@@ -68,6 +68,6 @@ bool operator<(const Details::ComPtrRef<ComPtr<T>>& a, const Details::ComPtrRef<
  [Microsoft::WRL Namespace](../windows/microsoft-wrl-namespace.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

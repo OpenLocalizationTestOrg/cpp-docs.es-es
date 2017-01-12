@@ -74,6 +74,6 @@ A rich edit control is a window in which the user can enter and edit text. The t
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -65,6 +65,6 @@ inline static void Unlock(
  [SRWLockSharedTraits Structure](../windows/srwlocksharedtraits-structure.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

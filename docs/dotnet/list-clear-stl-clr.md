@@ -104,6 +104,6 @@ size() = 0
  [list::erase (STL/CLR)](../dotnet/list-erase-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

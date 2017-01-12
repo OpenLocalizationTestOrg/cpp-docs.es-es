@@ -52,6 +52,6 @@ variable-list
 -   A variable that is specified in the **copyin** clause must be a **threadprivate** variable.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

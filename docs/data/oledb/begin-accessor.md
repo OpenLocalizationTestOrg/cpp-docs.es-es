@@ -77,6 +77,6 @@ bAuto
  [END_ACCESSOR_MAP](../../data/oledb/end-accessor-map.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

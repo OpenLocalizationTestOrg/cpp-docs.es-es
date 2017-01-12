@@ -100,6 +100,6 @@ __except (GetExceptionCode() == STATUS_INSUFFICIENT_MEM ||
  [Structured Exception Handling (C/C++)](../cpp/structured-exception-handling-c-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

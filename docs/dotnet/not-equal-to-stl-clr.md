@@ -146,6 +146,6 @@ int main()
  [equal_to (STL/CLR)](../dotnet/equal-to-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

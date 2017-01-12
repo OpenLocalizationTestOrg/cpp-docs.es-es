@@ -141,6 +141,6 @@ First data word in file: 0x656e694c
  [_putw](../../c-runtime-library/reference/putw.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

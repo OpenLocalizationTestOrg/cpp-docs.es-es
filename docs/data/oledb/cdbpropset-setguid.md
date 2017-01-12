@@ -69,6 +69,6 @@ Sets the **guidPropertySet** field in the **DBPROPSET** structure.
  [CDBPropSet Class](../../data/oledb/cdbpropset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

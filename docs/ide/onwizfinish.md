@@ -64,6 +64,6 @@ Called from the wizard HTML script when the user clicks **Finish**. This functio
  [Designing a Wizard](../ide/designing-a-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

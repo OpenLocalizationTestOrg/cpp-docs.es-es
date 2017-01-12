@@ -201,6 +201,6 @@ Normal: log( 0.0 ) = -1.#INF00e+000
  [Floating-Point Support](../../c-runtime-library/floating-point-support.md)   
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

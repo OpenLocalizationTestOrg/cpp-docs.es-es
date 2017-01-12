@@ -59,6 +59,6 @@ After creating the tab control ([CTabCtrl](../mfc/reference/ctabctrl-class.md)),
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

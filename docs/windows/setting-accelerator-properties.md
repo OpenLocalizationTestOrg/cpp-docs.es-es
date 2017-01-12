@@ -65,6 +65,6 @@ In Visual C++ .NET, you can set accelerator properties in the [Properties window
  [Accelerator Editor](../mfc/accelerator-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

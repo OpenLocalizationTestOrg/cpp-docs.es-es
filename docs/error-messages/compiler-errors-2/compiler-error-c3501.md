@@ -44,6 +44,6 @@ there is no typelib registered for ProgID 'progid'
  The class ID for a given progid does not have an associated type library. Therefore, you cannot pass this progid to the `#import` statement.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -164,6 +164,6 @@ insert(begin()+1, L'x') = x
  [list::assign (STL/CLR)](../dotnet/list-assign-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

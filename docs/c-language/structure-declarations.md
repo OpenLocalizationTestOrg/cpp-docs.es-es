@@ -210,6 +210,6 @@ p_s->b = 100;  /* A reference to a field in the s structure */
  [Declarators and Variable Declarations](../c-language/declarators-and-variable-declarations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

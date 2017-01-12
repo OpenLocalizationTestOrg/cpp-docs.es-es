@@ -53,6 +53,6 @@ The **new** and **delete** operators, described in the article [Memory Managemen
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

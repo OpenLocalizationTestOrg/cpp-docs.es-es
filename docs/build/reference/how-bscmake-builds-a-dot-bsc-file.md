@@ -51,6 +51,6 @@ BSCMAKE builds or rebuilds a .bsc file in the most efficient way it can. To avoi
  [Building a .Bsc File](../../build/reference/building-a-dot-bsc-file.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -83,6 +83,6 @@ This article discusses considerations for writing code that uses both the MFC ex
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

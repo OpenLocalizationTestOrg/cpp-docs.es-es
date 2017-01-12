@@ -53,6 +53,6 @@ The Microsoft Foundation Class Library encapsulates many Windows API calls and s
  [ODBC and MFC](../../data/odbc/odbc-and-mfc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

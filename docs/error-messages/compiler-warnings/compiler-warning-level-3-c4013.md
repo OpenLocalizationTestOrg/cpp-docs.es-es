@@ -50,6 +50,6 @@ ms.openlocfilehash: 435377ec1fe7ce000a1c36fb841bb7b586dd5fdf
 2.  External functions not prototyped as `extern`
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

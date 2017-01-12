@@ -46,6 +46,6 @@ ms.openlocfilehash: 11dad54db6bcafbc96142feda3c52c0191d6a365
  [Preprocessing Directives](../c-language/preprocessing-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

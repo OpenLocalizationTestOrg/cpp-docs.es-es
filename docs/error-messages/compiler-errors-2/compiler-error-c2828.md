@@ -50,6 +50,6 @@ ms.openlocfilehash: 013772a49a0447beb718009a3f96be2f723c7704
 2.  Choose an appropriate unary operator to overload.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

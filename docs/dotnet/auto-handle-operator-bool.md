@@ -96,6 +96,6 @@ s2 is now invalid
  [auto_handle::operator!](../dotnet/auto-handle-operator-logical-not.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

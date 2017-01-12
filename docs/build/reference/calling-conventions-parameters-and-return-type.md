@@ -160,6 +160,6 @@ PfnDliHook __pfnDliNotifyHook2 = delayHook;
  [Understanding the Helper Function](../../build/reference/understanding-the-helper-function.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

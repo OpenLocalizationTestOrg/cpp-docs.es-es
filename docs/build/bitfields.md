@@ -43,6 +43,6 @@ Structure bit fields are limited to 64 bits and can be of type signed int, unsig
  [Types and Storage](../build/types-and-storage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -70,6 +70,6 @@ The valid states, and state transitions, for a stream are shown in the following
  [Files and Streams](../c-runtime-library/files-and-streams.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

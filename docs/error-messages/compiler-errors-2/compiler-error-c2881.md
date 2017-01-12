@@ -61,6 +61,6 @@ namespace C = B;   // C2881 C is already an alias for A
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

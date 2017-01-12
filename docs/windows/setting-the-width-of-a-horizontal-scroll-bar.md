@@ -65,6 +65,6 @@ When you add a list box with a horizontal scroll bar to a dialog box using MFC c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

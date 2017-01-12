@@ -65,6 +65,6 @@ A connectable object is one that supports outgoing interfaces. An outgoing inter
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -73,6 +73,6 @@ ms.openlocfilehash: 5a4198cddc5d5a9ba748766d2633a6cf95412a68
  [BindImageEx function](http://msdn.microsoft.com/library/windows/desktop/ms679279.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

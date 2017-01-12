@@ -60,6 +60,6 @@ Typical usage of an animation control follows the pattern below:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

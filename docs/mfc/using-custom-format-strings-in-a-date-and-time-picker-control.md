@@ -62,6 +62,6 @@ By default, date and time picker controls provide three format types (each forma
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

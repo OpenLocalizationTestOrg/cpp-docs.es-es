@@ -76,6 +76,6 @@ Called by [InsertIntoFunction](../ide/insertintofunction.md) to determine if a l
  [OffsetToLineNumber](../ide/offsettolinenumber.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

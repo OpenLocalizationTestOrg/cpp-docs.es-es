@@ -96,6 +96,6 @@ It is not possible to create an .exe or .dll that contains debug information. De
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

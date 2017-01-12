@@ -126,6 +126,6 @@ Handle::acquire(operator->(memory_handle), operator*(p));
  [Configuring Programs for ARM Processors](../build/configuring-programs-for-arm-processors-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

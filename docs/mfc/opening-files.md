@@ -80,6 +80,6 @@ In MFC, the most common way to open a file is a two-stage process.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

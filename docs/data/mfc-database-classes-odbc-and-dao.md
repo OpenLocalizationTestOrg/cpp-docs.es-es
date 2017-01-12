@@ -61,6 +61,6 @@ ms.openlocfilehash: 7e7914398728df256b815fffca4ee5f69988a3df
  [Data Access Programming (MFC/ATL)](../data/data-access-programming-mfc-atl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

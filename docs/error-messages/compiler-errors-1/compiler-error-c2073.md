@@ -66,6 +66,6 @@ B b[3] = { B(1), B(2) };   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

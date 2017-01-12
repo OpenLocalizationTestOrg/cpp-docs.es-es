@@ -46,6 +46,6 @@ The OLE DB Service Component Manager compares the properties specified by the co
  [OLE DB Resource Pooling and Services](../../data/oledb/ole-db-resource-pooling-and-services.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

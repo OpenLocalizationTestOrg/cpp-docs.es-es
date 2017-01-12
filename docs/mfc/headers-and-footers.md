@@ -66,6 +66,6 @@ This article explains how to add headers and footers to a printed document.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

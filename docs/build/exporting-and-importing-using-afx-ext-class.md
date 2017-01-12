@@ -153,6 +153,6 @@ class CExampleView : public CView
  [Exporting from a DLL](../build/exporting-from-a-dll.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -69,6 +69,6 @@ Use this dialog box to add resources to a C++ Windows desktop application projec
  [How to: Create a Resource](../windows/how-to-create-a-resource.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

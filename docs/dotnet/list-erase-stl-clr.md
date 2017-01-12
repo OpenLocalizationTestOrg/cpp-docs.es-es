@@ -125,6 +125,6 @@ size() = 1
  [list::clear (STL/CLR)](../dotnet/list-clear-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

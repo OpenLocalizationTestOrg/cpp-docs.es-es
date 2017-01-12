@@ -66,6 +66,6 @@ This procedure shows how to calculate the difference between two `CTime` objects
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

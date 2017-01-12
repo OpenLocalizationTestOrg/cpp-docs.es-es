@@ -46,6 +46,6 @@ pragma 'same_seg' not supported; use __based allocation
  The **#pragma same_seg** is no longer supported. Use the [__based](../../cpp/based-pointers-cpp.md) keyword instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

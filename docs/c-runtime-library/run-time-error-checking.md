@@ -62,6 +62,6 @@ The C run-time library contains the functions that support run-time error checks
  [Debug Routines](../c-runtime-library/debug-routines.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

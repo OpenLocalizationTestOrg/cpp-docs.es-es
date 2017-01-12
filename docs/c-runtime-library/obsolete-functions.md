@@ -98,6 +98,6 @@ Certain library functions are obsolete and have more recent equivalents. We reco
  [_unlock](../c-runtime-library/unlock.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

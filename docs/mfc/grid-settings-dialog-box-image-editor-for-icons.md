@@ -65,6 +65,6 @@ Allows you to specify the grid settings for your image and displays grid lines o
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

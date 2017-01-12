@@ -58,6 +58,6 @@ In the MFC framework, a dialog box has two components:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

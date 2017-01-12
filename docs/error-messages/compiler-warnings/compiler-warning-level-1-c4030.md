@@ -45,6 +45,6 @@ ms.openlocfilehash: 60dfc5245bc3b0fc48c6eb9e44e037185eb5e05c
  A function was redeclared with different formal parameters. The compiler uses the formal parameters given in the first declaration.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

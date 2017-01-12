@@ -89,6 +89,6 @@ This section introduces C++ classes and structs. The two constructs are identica
  [C++ Language Reference](../cpp/cpp-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

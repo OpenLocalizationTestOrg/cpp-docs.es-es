@@ -125,6 +125,6 @@ enum color { red, white, green } col;
  [Equality Operators: == and !=](../cpp/equality-operators-equal-equal-and-exclpt-equal.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

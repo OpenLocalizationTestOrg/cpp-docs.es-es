@@ -127,6 +127,6 @@ long double exp2l(
  [log2, log2f, log2l](../../c-runtime-library/reference/log2-log2f-log2l.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

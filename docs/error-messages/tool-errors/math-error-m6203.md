@@ -46,6 +46,6 @@ ms.openlocfilehash: b58f9eec4974a151ef7e99cd7022bc3b89024997
  This error calls the `_matherr` function with the function name, its arguments, and the error type. You can rewrite the `_matherr` function to customize the handling of certain run-time floating-point math errors.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

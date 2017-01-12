@@ -46,6 +46,6 @@ ms.openlocfilehash: f5ece098af034add8af5bcb1647be24dab89285c
  [Structures, Unions, Enumerations, and Bit Fields](../c-language/structures-unions-enumerations-and-bit-fields.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

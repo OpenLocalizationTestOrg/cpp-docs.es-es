@@ -54,6 +54,6 @@ ms.openlocfilehash: b1b6891d72e00fbf5f6f53842764d60b01d0fa07
  Resolve this warning by not specifying **/SUBSYSTEM:NATIVE**.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

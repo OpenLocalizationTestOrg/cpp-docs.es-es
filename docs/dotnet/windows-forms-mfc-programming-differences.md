@@ -83,6 +83,6 @@ The topics in [Using a Windows Form User Control in MFC](../dotnet/using-a-windo
  [Windows Forms Walkthroughs](http://msdn.microsoft.com/en-us/fd44d13d-4733-416f-aefc-32592e59e5d9)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

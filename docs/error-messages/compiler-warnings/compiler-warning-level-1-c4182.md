@@ -47,6 +47,6 @@ ms.openlocfilehash: 8d64e2f0eab71bbdf0f5f7750313a6d4c50b1fc0
  This message is informational and precedes error [C1076](../../error-messages/compiler-errors-1/fatal-error-c1076.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

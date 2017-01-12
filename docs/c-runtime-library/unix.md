@@ -58,6 +58,6 @@ If you plan to port your programs to UNIX, follow these guidelines:
  [Compatibility](../c-runtime-library/compatibility.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -76,6 +76,6 @@ ms.openlocfilehash: dadd281e5019a88a13101ba74126efdc190a9c83
  [Component Extensions for Runtime Platforms](../windows/component-extensions-for-runtime-platforms.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

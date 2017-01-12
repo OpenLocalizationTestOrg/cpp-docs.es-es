@@ -99,6 +99,6 @@ count(L'C') = 0
  [multimap::equal_range (STL/CLR)](../dotnet/multimap-equal-range-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -54,6 +54,6 @@ A wrapper for a COM object that can be used as a member of a CLR class. The wrap
  [C++ Support Library](../dotnet/cpp-support-library.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

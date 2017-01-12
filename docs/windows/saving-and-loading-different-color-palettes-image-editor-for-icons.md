@@ -73,6 +73,6 @@ You can save and load a Colors palette that contains [customized colors](../wind
  [Working with Color](../mfc/working-with-color-image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

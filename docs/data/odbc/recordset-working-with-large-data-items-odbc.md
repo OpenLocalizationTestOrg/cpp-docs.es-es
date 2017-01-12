@@ -85,6 +85,6 @@ This topic applies to both the MFC ODBC classes and the MFC DAO classes.
  [Record Field Exchange (RFX)](../../data/odbc/record-field-exchange-rfx.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

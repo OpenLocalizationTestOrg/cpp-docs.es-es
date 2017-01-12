@@ -108,6 +108,6 @@ rs.SetBookmark( varRecordToReturnTo );
  [Recordset (ODBC)](../../data/odbc/recordset-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

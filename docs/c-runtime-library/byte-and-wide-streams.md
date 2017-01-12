@@ -52,6 +52,6 @@ A byte stream treats a file as a sequence of bytes. Within the program, the stre
  [setlocale, _wsetlocale](../c-runtime-library/reference/setlocale-wsetlocale.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

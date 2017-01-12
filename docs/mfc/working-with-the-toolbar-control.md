@@ -87,6 +87,6 @@ This article explains how you can access the [CToolBarCtrl](../mfc/reference/cto
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

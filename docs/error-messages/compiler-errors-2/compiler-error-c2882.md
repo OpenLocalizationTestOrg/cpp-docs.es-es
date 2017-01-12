@@ -56,6 +56,6 @@ int i = A;   // C2882, can't assign A to i
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

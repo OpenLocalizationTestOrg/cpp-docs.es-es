@@ -71,6 +71,6 @@ In this page of the MFC Application Wizard, indicate to what level your applicat
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

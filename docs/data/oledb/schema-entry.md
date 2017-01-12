@@ -84,6 +84,6 @@ Associates a GUID with a class.
  [END_SCHEMA_MAP](../../data/oledb/end-schema-map.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

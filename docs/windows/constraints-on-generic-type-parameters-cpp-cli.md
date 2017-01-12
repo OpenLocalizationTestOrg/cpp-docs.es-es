@@ -222,6 +222,6 @@ ref struct SampleClass {};
  [Generics](../windows/generics-cpp-component-extensions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -119,6 +119,6 @@ Suppressing the abort message. If successful, this message will be the only outp
  [abort](../../c-runtime-library/reference/abort.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

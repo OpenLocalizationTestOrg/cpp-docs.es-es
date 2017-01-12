@@ -89,6 +89,6 @@ int _RTC_NumErrors( void );
  [Run-Time Error Checking](../../c-runtime-library/run-time-error-checking.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

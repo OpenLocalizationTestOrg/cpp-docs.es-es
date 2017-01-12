@@ -189,6 +189,6 @@ Arctangent of 0.500000 / 5.000000: 0.099669
  [_CIatan2](../../c-runtime-library/ciatan2.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

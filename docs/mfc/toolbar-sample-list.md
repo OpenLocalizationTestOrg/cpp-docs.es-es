@@ -51,6 +51,6 @@ See the following sample programs that illustrate using MFC's toolbars:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

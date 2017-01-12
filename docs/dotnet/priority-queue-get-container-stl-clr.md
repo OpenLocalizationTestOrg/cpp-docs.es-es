@@ -88,6 +88,6 @@ c a b
  [priority_queue::container_type (STL/CLR)](../dotnet/priority-queue-container-type-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

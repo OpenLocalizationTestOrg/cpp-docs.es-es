@@ -66,6 +66,6 @@ You can open GIF or JPEG images in the Image editor and save them as bitmaps. Al
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

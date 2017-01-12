@@ -65,6 +65,6 @@ typedef CDynamicStringAccessorT<WCHAR, DBTYPE_WSTR> CDynamicStringAccessorW;
  [CDynamicStringAccessor Class](../../data/oledb/cdynamicstringaccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

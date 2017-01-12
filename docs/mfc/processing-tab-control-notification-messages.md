@@ -52,6 +52,6 @@ As users click tabs or buttons, the tab control ([CTabCtrl](../mfc/reference/cta
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

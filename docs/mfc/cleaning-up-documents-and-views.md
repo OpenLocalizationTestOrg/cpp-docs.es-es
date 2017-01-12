@@ -52,6 +52,6 @@ When a document is closing, the framework first calls its [DeleteContents](../mf
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

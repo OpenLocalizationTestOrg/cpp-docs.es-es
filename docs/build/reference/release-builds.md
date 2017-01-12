@@ -62,6 +62,6 @@ A release build uses optimizations. When you use optimizations to create a relea
  [C/C++ Building Reference](../../build/reference/c-cpp-building-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

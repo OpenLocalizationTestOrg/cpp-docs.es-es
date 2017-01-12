@@ -48,6 +48,6 @@ Dynamic binding of directives must adhere to the following rules:
 -   A directive can never bind to any directive outside the closest dynamically enclosing **parallel**.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -51,6 +51,6 @@ The Microsoft Foundation Classes (MFC) provide a C++ object-oriented wrapper ove
 |[Visual C++](../visual-cpp-in-visual-studio.md)|Parent topic for all C++ content in the MSDN library.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

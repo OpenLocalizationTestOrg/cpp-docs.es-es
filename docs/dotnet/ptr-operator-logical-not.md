@@ -118,6 +118,6 @@ DOM Document created.
  [ptr::operator bool](../dotnet/ptr-operator-bool.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

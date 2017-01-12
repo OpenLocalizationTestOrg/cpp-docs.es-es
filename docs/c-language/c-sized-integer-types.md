@@ -57,6 +57,6 @@ __int64 nHuge;      // Declares 64-bit integer
  [Storage of Basic Types](../c-language/storage-of-basic-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

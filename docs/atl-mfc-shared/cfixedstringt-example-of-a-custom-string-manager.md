@@ -85,6 +85,6 @@ The ATL library implements one example of a custom string manager used by class 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

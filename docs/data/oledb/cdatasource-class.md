@@ -78,6 +78,6 @@ class CDataSource
  [OLE DB Consumer Templates Reference](../../data/oledb/ole-db-consumer-templates-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

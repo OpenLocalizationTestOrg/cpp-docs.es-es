@@ -67,6 +67,6 @@ Filename-parts syntax in commands represents components of the first dependent f
  [Commands in a Makefile](../build/commands-in-a-makefile.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

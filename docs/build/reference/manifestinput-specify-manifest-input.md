@@ -57,6 +57,6 @@ Specifies a manifest input file to include in the manifest that's embedded in th
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

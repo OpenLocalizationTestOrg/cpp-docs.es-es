@@ -216,6 +216,6 @@ In 'C' locale, _strftime_l returns 'Saturday, February 09, 2002'
  [wctomb, _wctomb_l](../../c-runtime-library/reference/wctomb-wctomb-l.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

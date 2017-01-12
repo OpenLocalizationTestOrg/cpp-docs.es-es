@@ -56,6 +56,6 @@ Except during initialization, an MFC DLL can safely create multiple threads as l
  [DLL Frequently Asked Questions](../build/dll-frequently-asked-questions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

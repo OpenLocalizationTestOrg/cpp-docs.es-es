@@ -64,6 +64,6 @@ When you are browsing symbols in the [Resource Symbols dialog box](../windows/re
  [Predefined Symbol IDs](../windows/predefined-symbol-ids.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

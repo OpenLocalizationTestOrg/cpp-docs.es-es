@@ -99,6 +99,6 @@ count(L'C') = 0
  [hash_set::equal_range (STL/CLR)](../dotnet/hash-set-equal-range-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

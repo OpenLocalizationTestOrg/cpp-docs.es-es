@@ -51,6 +51,6 @@ An external project is a Visual C++ project that uses a makefile or other facili
  [Building C++ Projects in Visual Studio](../ide/building-cpp-projects-in-visual-studio.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

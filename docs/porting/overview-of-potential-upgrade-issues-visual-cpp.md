@@ -166,6 +166,6 @@ dumpbin.exe /LINKERMEMBER somelibrary.lib
  [Upgrading Projects from Earlier Versions of Visual C++](../porting/upgrading-projects-from-earlier-versions-of-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

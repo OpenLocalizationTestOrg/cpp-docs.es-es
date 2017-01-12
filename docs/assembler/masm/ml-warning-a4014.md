@@ -47,6 +47,6 @@ instructions and initialized data not supported in BSS segments
  [ML Error Messages](../../assembler/masm/ml-error-messages.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

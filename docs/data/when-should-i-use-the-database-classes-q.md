@@ -44,6 +44,6 @@ Many applications require data storage in a database, and many other application
  [Data Access Frequently Asked Questions](../data/data-access-frequently-asked-questions-mfc-data-access.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

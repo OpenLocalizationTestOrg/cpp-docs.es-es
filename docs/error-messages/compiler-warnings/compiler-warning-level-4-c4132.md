@@ -45,6 +45,6 @@ ms.openlocfilehash: 0c3bb31f9259f531255f3a318ddda4fe804806dc
  The constant is not initialized. The value of a symbol with the **const** attribute cannot be changed after its definition, it should be given an initialization value.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

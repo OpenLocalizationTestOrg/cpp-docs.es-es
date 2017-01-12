@@ -62,6 +62,6 @@ Several directives accept clauses that allow a user to control the sharing attri
 -   **copyprivate**, [Section 2.7.2.8](../../parallel/openmp/2-7-2-8-copyprivate.md) on page 32.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

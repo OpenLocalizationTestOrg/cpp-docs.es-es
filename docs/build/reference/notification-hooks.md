@@ -105,6 +105,6 @@ PfnDliHook   __pfnDliFailureHook2;
  [Error Handling and Notification](../../build/reference/error-handling-and-notification.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

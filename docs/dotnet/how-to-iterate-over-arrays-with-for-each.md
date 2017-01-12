@@ -167,6 +167,6 @@ IntArray[1] = 11
  [for each, in](../dotnet/for-each-in.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

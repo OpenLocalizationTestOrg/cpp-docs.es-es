@@ -96,6 +96,6 @@ x b c
  [list::const_iterator (STL/CLR)](../dotnet/list-const-iterator-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

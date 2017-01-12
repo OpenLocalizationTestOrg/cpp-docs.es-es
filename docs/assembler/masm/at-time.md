@@ -53,6 +53,6 @@ The system time in 24-hour hh:mm:ss format (text macro).
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -101,6 +101,6 @@ size() = 4 after adding 2
  [stack::empty (STL/CLR)](../dotnet/stack-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

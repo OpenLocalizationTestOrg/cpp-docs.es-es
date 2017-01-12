@@ -91,6 +91,6 @@ To implement a window, derive a class from `CWindowImpl`. In your derived class,
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ ms.openlocfilehash: 7696ff2ce82b97f176ef4139b179441de34d8430
 This POSIX function is deprecated. Use the ISO C++ conformant [_access](../../c-runtime-library/reference/access-waccess.md) or security-enhanced [_access_s](../../c-runtime-library/reference/access-s-waccess-s.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

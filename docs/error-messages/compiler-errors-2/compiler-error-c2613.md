@@ -45,6 +45,6 @@ trailing ',' illegal in base class list
  A comma appears after the last base in a base class list.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -96,6 +96,6 @@ Retrieves the offset of a member from the beginning of its parent structure.
  [Memory Allocation](../../c-runtime-library/memory-allocation.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

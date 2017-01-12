@@ -69,6 +69,6 @@ To add an Active Template Library (ATL) object to your project, your project mus
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

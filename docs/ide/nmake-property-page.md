@@ -88,6 +88,6 @@ The **NMake** property page lets you specify build settings for NMake projects.
  [How to: Enable IntelliSense for Makefile Projects](../ide/how-to-enable-intellisense-for-makefile-projects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

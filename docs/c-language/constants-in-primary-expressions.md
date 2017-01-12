@@ -44,6 +44,6 @@ A constant operand has the value and type of the constant value it represents. A
  [C Primary Expressions](../c-language/c-primary-expressions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

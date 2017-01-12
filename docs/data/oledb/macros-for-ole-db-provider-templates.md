@@ -87,6 +87,6 @@ The OLE DB Templates Provider macros offer functionality in the following catego
  [OLE DB Provider Templates Reference](../../data/oledb/ole-db-provider-templates-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

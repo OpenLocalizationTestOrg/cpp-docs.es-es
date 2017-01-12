@@ -115,6 +115,6 @@ Use this wizard to add a method to an interface. Depending on the project type o
  [IDL Attributes, Add Method Wizard](../ide/idl-attributes-add-method-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -89,6 +89,6 @@ int glue()
  This code also generates a warning, because the compiler does not know that `fatal` never returns. To prevent this code from generating an error message, declare `fatal` using [__declspec(noreturn)](../../cpp/noreturn.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

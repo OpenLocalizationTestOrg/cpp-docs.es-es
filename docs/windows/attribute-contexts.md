@@ -57,6 +57,6 @@ C++ attributes can be described using four basic fields: the target they can be 
  [C++ Attributes Reference](../windows/cpp-attributes-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

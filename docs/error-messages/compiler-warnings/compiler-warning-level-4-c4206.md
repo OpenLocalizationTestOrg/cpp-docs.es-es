@@ -46,6 +46,6 @@ ms.openlocfilehash: fefb69ef3024baa67ca24a87d3e95a5ac3a42cd0
  This extension can prevent your code from being portable to other compilers. It generates an error under ANSI compatibility ([/Za](../../build/reference/za-ze-disable-language-extensions.md)) and only applies to C source code.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

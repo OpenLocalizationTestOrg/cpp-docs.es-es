@@ -59,6 +59,6 @@ ms.openlocfilehash: 67d950d41417a625669e883fc860906040ac7382
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

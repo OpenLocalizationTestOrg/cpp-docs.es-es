@@ -185,6 +185,6 @@ Converted value: 12000
  [_gcvt_s](../../c-runtime-library/reference/gcvt-s.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

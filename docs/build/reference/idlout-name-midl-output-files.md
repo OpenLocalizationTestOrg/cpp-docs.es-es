@@ -98,6 +98,6 @@ ms.openlocfilehash: 0faece19a2aeab06a0bbba90839c48f1a365961f
  [Building an Attributed Program](../../windows/building-an-attributed-program.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -94,6 +94,6 @@ This section of the reference lists all [message mapping macros](../../mfc/refer
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

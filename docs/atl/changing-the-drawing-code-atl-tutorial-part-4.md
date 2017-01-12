@@ -145,6 +145,6 @@ By default, the control's drawing code displays a square and the text **PolyCtl*
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

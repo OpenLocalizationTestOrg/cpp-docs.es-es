@@ -96,6 +96,6 @@ a b c
  [collection_adapter::reference (STL/CLR)](../dotnet/collection-adapter-reference-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

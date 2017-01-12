@@ -83,6 +83,6 @@ inline bool SafeEquals (
  [SafeNotEquals](../windows/safenotequals.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -135,6 +135,6 @@ Use this code wizard to add a class to an existing MFC project, or to add a clas
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

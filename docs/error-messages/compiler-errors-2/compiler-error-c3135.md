@@ -44,6 +44,6 @@ ms.openlocfilehash: ae5b3f0b79c19bbd76799e65a6543ae9228d4af6
  The [const](../../cpp/const-cpp.md) and [volatile](../../cpp/volatile-cpp.md) keywords are not permitted on properties.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

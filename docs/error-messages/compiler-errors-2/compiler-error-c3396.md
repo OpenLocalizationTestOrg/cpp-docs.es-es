@@ -45,6 +45,6 @@ ms.openlocfilehash: 300ae964d0b20d94cc1f8441579460447787ddd0
  C3396 indicates that you are not using an up-to-date common language runtime.  Reinstall your CLR to resolve.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

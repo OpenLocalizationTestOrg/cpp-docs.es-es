@@ -221,6 +221,6 @@ BOOL Resize(const CD2DSizeU& size);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

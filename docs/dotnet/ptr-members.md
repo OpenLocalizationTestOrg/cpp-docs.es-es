@@ -66,6 +66,6 @@ Members of `com::ptr`.
  [com::ptr Class](../dotnet/com-ptr-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

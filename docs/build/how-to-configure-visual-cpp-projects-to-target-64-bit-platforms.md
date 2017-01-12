@@ -87,6 +87,6 @@ You can use the project configurations in Visual Studio to set up C++ applicatio
  [Debug 64-Bit Applications](/visualstudio/debugger/debug-64-bit-applications)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ To find Knowledge Base articles about MFC ODBC topics, search the Knowledge Base
  [Data Access Frequently Asked Questions](../data/data-access-frequently-asked-questions-mfc-data-access.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

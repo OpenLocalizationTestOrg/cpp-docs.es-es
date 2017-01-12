@@ -45,6 +45,6 @@ ms.openlocfilehash: 343ee46243190bafef72bdbe92f765a678f61f55
  The specified intrinsic function is not declared; you may need to #include the appropriate header file.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

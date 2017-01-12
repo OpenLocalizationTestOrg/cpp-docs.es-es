@@ -53,6 +53,6 @@ The syntax of an OpenMP directive is formally specified by the grammar in [Appen
  An OpenMP directive applies to at most one succeeding statement, which must be a structured block.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

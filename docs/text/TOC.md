@@ -23,6 +23,6 @@
 ## [How to: Convert Between Various String Types](how-to-convert-between-various-string-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

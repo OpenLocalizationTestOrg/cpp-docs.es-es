@@ -66,6 +66,6 @@ The Dialog editor enables you to space controls evenly between the outermost con
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -106,6 +106,6 @@ auto i = find_if( begin(v), end(v),  [=](int i) { return i > x && i < y; }  );
  [C++ Standard Library](../standard-library/cpp-standard-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

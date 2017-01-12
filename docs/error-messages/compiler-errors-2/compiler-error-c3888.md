@@ -52,6 +52,6 @@ ms.openlocfilehash: 4c35d218b42d7a618d05014cd90032e62bf2a227
  [literal](../../windows/literal-cpp-component-extensions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

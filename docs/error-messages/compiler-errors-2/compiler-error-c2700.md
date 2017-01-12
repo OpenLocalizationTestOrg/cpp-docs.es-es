@@ -45,6 +45,6 @@ ms.openlocfilehash: 5251a2e045a9bd74594a6c6515796c0315c3f6b3
  The object cannot be thrown. Compile with [/W4](../../build/reference/compiler-option-warning-level.md) for more diagnostic information.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

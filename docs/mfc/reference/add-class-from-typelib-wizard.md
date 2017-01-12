@@ -88,6 +88,6 @@ Use this wizard to add an MFC class from an available type library. The wizard c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

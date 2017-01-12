@@ -46,6 +46,6 @@ ms.openlocfilehash: ffdb5677fdd50f4b61a9a2dd8c81972a713c57bc
  This warning is preceded by warning [U4010](../../error-messages/tool-errors/nmake-warning-u4010.md) for each dependent that failed to be created or updated.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

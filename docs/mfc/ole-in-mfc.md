@@ -104,6 +104,6 @@ These articles explain the fundamentals of OLE programming using MFC. MFC provid
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

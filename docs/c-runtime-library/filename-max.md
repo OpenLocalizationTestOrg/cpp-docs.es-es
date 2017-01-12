@@ -53,6 +53,6 @@ The maximum permissible length for a `filename` string buffer size.
  [Global Constants](../c-runtime-library/global-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

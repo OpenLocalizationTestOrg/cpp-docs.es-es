@@ -61,6 +61,6 @@ Specifies a key or a key pair to sign a Windows Runtime Metadata (.winmd) file.
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -65,6 +65,6 @@ This section describes Microsoft-specific extensions to C++ in the following are
  [C++ Language Reference](../cpp/cpp-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

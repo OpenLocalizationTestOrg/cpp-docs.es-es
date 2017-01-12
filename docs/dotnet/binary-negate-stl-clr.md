@@ -159,6 +159,6 @@ int main()
  [not2 (STL/CLR)](../dotnet/not2-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

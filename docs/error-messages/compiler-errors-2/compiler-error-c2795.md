@@ -44,6 +44,6 @@ ms.openlocfilehash: 027dff11168ab14442594a1b3eef7652773922a8
  This error message appears whenever you try to use [super](../../cpp/super.md) to access a member other than a member function.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -49,6 +49,6 @@ The 'Additional Dependencies' property for custom build rule 'rule' assigned to 
  [Project Build Errors and Warnings (PRJxxxx)](../../error-messages/tool-errors/project-build-errors-and-warnings-prjxxxx.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

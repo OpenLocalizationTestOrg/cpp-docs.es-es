@@ -197,6 +197,6 @@ There are 4 even numbers in the vector.
  [Microsoft-Specific Modifiers](../cpp/microsoft-specific-modifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

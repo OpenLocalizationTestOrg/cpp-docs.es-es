@@ -98,6 +98,6 @@ An assignment operation assigns the value of the right-hand operand to the stora
  [Assignment Operators](../cpp/assignment-operators.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

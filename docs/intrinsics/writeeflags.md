@@ -73,6 +73,6 @@ void __writeeflags(unsigned __int64 Value);
  [__readeflags](../intrinsics/readeflags.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

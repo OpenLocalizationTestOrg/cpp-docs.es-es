@@ -48,6 +48,6 @@ This section of the documentation contains information about compiler intrinsics
 |[Visual C++](../top/visual-cpp-in-visual-studio.md)|The top-level article for Visual C++ documentation.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

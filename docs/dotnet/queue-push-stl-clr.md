@@ -88,6 +88,6 @@ a b c
  [queue::pop (STL/CLR)](../dotnet/queue-pop-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

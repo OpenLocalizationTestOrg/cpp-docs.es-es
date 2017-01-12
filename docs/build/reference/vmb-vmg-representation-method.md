@@ -81,6 +81,6 @@ Select the method that the compiler uses to represent pointers to class members.
  [Setting Compiler Options](../../build/reference/setting-compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -71,6 +71,6 @@ Commits the transaction.
  [CSession Class](../../data/oledb/csession-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

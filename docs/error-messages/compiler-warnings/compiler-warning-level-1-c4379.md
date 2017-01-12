@@ -44,6 +44,6 @@ Version version of the common language runtime is not supported by this compiler
  You have a previous version of the common language runtime on your machine, but not the current version. To resolve C4379, install the version of the common language runtime that shipped with your compiler.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

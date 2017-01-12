@@ -54,6 +54,6 @@ public ref class B : public System::Enum {};   // C3838
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

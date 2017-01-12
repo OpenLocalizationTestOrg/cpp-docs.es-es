@@ -105,6 +105,6 @@ size() = 0
  [hash_multiset::erase (STL/CLR)](../dotnet/hash-multiset-erase-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

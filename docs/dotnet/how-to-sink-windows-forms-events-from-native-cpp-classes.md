@@ -87,6 +87,6 @@ You can enable native C++ classes to receive callbacks from managed events raise
  [EVENT_DELEGATE_ENTRY](http://msdn.microsoft.com/Library/17539da5-bad7-43ff-8a54-6ea3dc564965)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

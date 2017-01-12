@@ -102,6 +102,6 @@ The first time the development environment reads a resource file created by anot
  [Symbols: Resource Identifiers](../mfc/symbols-resource-identifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

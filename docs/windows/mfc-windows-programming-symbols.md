@@ -87,6 +87,6 @@ These symbols are also part of the MFC support files, but they support standard 
  [Symbols: Resource Identifiers](../mfc/symbols-resource-identifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -65,6 +65,6 @@ Specifies behavior for manifest lookup.
  [Manifest Files Reference](http://msdn.microsoft.com/library/aa375632.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

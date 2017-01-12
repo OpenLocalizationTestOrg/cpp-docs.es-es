@@ -79,6 +79,6 @@ Retrieves column information for a particular client request.
  [CRowsetImpl Class](../../data/oledb/crowsetimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

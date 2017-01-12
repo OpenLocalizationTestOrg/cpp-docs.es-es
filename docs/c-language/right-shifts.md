@@ -48,6 +48,6 @@ The result of a right shift of a negative-value signed integral type
  [Integers](../c-language/integers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

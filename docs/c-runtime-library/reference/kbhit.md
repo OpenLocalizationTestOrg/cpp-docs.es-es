@@ -129,6 +129,6 @@ Key struck was 'q'
  [Console and Port I/O](../../c-runtime-library/console-and-port-i-o.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

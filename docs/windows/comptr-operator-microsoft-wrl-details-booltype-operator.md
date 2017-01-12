@@ -57,6 +57,6 @@ WRL_NOTHROW operator Microsoft::WRL::Details::BoolType() const;
  [ComPtr::Get Method](../windows/comptr-get-method.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

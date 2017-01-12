@@ -57,6 +57,6 @@ This wizard adds an object to your project that supports COM+ 1.0 services, incl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -93,6 +93,6 @@ This topic provides information to help you determine the kind of DLL to build.
  [DLLs in Visual C++](../build/dlls-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

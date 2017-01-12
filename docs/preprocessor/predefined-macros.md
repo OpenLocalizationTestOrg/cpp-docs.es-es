@@ -428,6 +428,6 @@ The Visual C++ compiler predefines certain preprocessor macros, depending on the
  [Preprocessor Directives](../preprocessor/preprocessor-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

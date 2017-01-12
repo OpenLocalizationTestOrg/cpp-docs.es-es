@@ -144,6 +144,6 @@ Time to do 6000000 empty loops is 0.1 seconds
  [time, _time32, _time64](../../c-runtime-library/reference/time-time32-time64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -102,6 +102,6 @@ This wizard adds a member function declaration to the header file and a stub mem
  [Adding a Member Function](../ide/adding-a-member-function-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

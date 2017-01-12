@@ -51,6 +51,6 @@ The characters of a literal string are stored in order at contiguous memory loca
  [C String Literals](../c-language/c-string-literals.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

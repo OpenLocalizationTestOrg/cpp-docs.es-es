@@ -68,6 +68,6 @@ Compares two row handles to see if they refer to the same row.
  [IRowsetIdentityImpl Class](../../data/oledb/irowsetidentityimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

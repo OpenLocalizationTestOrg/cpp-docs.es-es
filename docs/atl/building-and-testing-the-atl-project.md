@@ -48,6 +48,6 @@ As mentioned in [Inserting a Composite Control](../atl/inserting-a-composite-con
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

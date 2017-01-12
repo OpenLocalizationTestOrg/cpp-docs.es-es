@@ -77,6 +77,6 @@ This structure contains class instance data in windowing code in ATL.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

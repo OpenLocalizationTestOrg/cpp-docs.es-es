@@ -44,6 +44,6 @@ ms.openlocfilehash: 586adb864216f04dd988ecb6c43800b200e2cecd
  The pointer type of the actual parameter differs from the pointer type of the corresponding formal parameter. The actual parameter is passed without change.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

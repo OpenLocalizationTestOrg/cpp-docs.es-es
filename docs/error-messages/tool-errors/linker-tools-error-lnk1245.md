@@ -50,6 +50,6 @@ invalid subsystem 'subsystem' specified; /SUBSYSTEM must be WINDOWS, WINDOWSCE, 
  For both situations, the resolution is to specify a valid value to the /SUBSYSTEM linker option.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

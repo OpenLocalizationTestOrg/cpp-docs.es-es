@@ -101,6 +101,6 @@ class-keyidentifier {
  [Partial Classes (C++/CX)](http://go.microsoft.com/fwlink/p/?LinkId=249023)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

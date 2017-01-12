@@ -73,6 +73,6 @@ Visual C++ includes a variety of material to help you use attributes in your pro
  Provides links to topics describing conceptual information about the Visual C++ libraries and topics discussing various coding technologies and techniques.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

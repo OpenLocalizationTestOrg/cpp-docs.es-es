@@ -76,6 +76,6 @@ EXPORTS
  will require two slots. (Be aware that you can also export with the [/EXPORT](../../build/reference/export-exports-a-function.md) linker option.)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

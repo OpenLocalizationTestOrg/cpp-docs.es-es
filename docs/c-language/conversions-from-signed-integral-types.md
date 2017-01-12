@@ -98,6 +98,6 @@ printf_s( "%hu\n", u );  // Prints 65533
  [Assignment Conversions](../c-language/assignment-conversions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

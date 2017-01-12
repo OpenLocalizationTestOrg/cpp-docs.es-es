@@ -141,6 +141,6 @@ size() = 0
  [queue::operator= (STL/CLR)](../dotnet/queue-operator-assign-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

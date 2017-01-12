@@ -99,6 +99,6 @@ printf_s( "%hd\n", j );   // Prints -3
  [Assignment Conversions](../c-language/assignment-conversions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

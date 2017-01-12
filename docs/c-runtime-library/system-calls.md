@@ -58,6 +58,6 @@ The following functions are Windows operating system calls.
  [Low-Level I/O](../c-runtime-library/low-level-i-o.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

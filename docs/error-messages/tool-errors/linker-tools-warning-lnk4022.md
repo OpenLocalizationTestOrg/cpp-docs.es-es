@@ -46,6 +46,6 @@ cannot find unique match for symbol 'symbol'
  To prevent this warning, specify the symbol in its decorated form. Run [DUMPBIN](../../build/reference/dumpbin-options.md) on the object to see decorated names.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

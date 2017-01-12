@@ -61,6 +61,6 @@ This section provides a brief introduction to COM and ATL.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

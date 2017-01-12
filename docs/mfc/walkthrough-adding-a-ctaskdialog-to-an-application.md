@@ -231,6 +231,6 @@ This walkthrough introduces the [CTaskDialog Class](../mfc/reference/ctaskdialog
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -48,6 +48,6 @@ ms.openlocfilehash: c5d0a1873fef53b64c74c5971068214252ef80a0
  [General Rules and Limitations](../../cpp/general-rules-and-limitations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

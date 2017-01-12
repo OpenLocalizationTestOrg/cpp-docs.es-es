@@ -83,6 +83,6 @@ The Image editor has an extensive set of tools for creating and editing images, 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

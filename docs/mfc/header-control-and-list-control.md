@@ -66,6 +66,6 @@ In most cases, you will use the header control that is embedded in a [CListCtrl]
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

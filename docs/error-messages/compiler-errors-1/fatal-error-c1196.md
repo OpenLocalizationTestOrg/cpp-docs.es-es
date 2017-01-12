@@ -45,6 +45,6 @@ ms.openlocfilehash: 2b8836eacb62722f8e88e77ced06a9da613c1d7a
  One of the identifiers in your type library is not a valid C++ identifier. The type library is not available for use with [#import](../../preprocessor/hash-import-directive-cpp.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

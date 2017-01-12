@@ -44,6 +44,6 @@ ms.openlocfilehash: 43040c1e97497e5d72144b250dcdd37b24377f00
  [Implementation-Defined Behavior](../c-language/implementation-defined-behavior.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

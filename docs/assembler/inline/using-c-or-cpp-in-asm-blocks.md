@@ -82,6 +82,6 @@ ms.openlocfilehash: eb47b06a43ba651adae1b2b6ecfa910f15b07895
  [Inline Assembler](../../assembler/inline/inline-assembler.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

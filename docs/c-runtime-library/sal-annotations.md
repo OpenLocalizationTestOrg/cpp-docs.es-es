@@ -89,6 +89,6 @@ If you examine the library header files, you may notice some unusual annotations
  [CRT Library Features](../c-runtime-library/crt-library-features.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

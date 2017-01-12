@@ -51,6 +51,6 @@ An application sets a thread-specific hot key ([CHotKeyCtrl](../mfc/reference/ch
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

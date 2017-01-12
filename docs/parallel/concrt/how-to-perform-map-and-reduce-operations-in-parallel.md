@@ -69,6 +69,6 @@ This example shows how to use the [concurrency::parallel_transform](reference/co
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

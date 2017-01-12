@@ -100,6 +100,6 @@ a->m_i = 5
  [auto_handle::get](../dotnet/auto-handle-get.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

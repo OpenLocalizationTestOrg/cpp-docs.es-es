@@ -100,6 +100,6 @@ Call the typedef class **CCharacterSets** to implement its parameter class **CCh
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

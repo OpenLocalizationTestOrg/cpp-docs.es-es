@@ -90,6 +90,6 @@ Explicitly specify the threading attribute for the entry point of your CLR progr
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

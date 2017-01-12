@@ -57,6 +57,6 @@ Not enough space for locale information
  The runtime maintains information about the locale on each thread so that it can process calls to locale-sensitive functions. If the allocation of the memory for this information fails, the runtime is unable to proceed because too many of its basic facilities depend on it.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

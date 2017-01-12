@@ -71,6 +71,6 @@ An MFC extension DLL is a DLL that typically implements reusable classes derived
  [Kinds of DLLs](../build/kinds-of-dlls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

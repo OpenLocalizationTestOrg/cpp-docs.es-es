@@ -59,6 +59,6 @@ This article explains how to allocate and deallocate the Windows graphics device
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

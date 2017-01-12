@@ -46,6 +46,6 @@ fixup name fixup overflow. Target 'target symbol name' is out of range, insertin
  You may want to reorder the image (using the [/ORDER](../../build/reference/order-put-functions-in-order.md) option, for example) to avoid the extra level of indirection.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

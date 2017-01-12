@@ -62,6 +62,6 @@ The recommended way to create an OLE DB provider is to use the wizards to create
  [DBVIEWER](http://msdn.microsoft.com/en-us/07620f99-c347-4d09-9ebc-2459e8049832)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

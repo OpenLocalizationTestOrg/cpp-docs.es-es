@@ -187,6 +187,6 @@ Visual C++ includes a C compiler that you can use to create everything from basi
  [Compatibility](../c-runtime-library/compatibility.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

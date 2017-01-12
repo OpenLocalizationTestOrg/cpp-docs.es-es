@@ -57,6 +57,6 @@ ms.openlocfilehash: 8b8aaf81d6a3eb7a7586a35243046af83a96e38c
  [DLL Import and Export Functions](../c-language/dll-import-and-export-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

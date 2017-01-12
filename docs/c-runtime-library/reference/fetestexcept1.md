@@ -105,6 +105,6 @@ int fetestexcept(
  [feraiseexcept](../../c-runtime-library/reference/feraiseexcept.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

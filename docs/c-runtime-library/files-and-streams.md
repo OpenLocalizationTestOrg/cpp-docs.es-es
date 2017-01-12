@@ -72,6 +72,6 @@ A program communicates with the target environment by reading and writing files.
  [Stream States](../c-runtime-library/stream-states.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

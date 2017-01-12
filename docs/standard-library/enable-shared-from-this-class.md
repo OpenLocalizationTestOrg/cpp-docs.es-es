@@ -129,6 +129,6 @@ sp2->val == 3
  [shared_ptr Class](../standard-library/shared-ptr-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

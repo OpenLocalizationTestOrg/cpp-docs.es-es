@@ -71,6 +71,6 @@ Using the Dialog editor, you can add, resize, edit, and delete controls in dialo
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

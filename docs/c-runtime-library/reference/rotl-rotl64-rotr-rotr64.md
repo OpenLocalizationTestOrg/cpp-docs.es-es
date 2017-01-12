@@ -167,6 +167,6 @@ int main( void )
  [_lrotl, _lrotr](../../c-runtime-library/reference/lrotl-lrotr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

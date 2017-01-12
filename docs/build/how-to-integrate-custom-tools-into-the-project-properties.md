@@ -65,6 +65,6 @@ You can add custom tool options to the Visual Studio **Property Pages** window b
  [MSBuild (Visual C++)](../build/msbuild-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

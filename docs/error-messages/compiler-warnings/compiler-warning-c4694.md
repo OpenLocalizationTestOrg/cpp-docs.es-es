@@ -57,6 +57,6 @@ ref struct B sealed abstract : A {};   // C4694
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

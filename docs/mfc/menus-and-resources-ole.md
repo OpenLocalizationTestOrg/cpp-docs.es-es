@@ -90,6 +90,6 @@ This group of articles explains the use of menus and resources in MFC OLE docume
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

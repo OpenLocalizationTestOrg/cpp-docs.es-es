@@ -120,6 +120,6 @@ _Lcomplex clog10l(
  [clog, clogf, clogl](../../c-runtime-library/reference/clog-clogf-clogl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

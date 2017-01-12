@@ -113,6 +113,6 @@ Restores stack environment and execution locale.
  [setjmp](../../c-runtime-library/reference/setjmp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

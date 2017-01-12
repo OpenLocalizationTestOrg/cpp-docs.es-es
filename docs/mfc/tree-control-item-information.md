@@ -53,6 +53,6 @@ Tree controls ([CTreeCtrl](../mfc/reference/ctreectrl-class.md)) have a number o
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

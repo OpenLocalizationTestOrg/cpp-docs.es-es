@@ -136,6 +136,6 @@ The Ribbon Designer lets you create and customize ribbons in MFC applications. A
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

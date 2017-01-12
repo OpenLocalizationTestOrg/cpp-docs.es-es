@@ -54,6 +54,6 @@ The OLE DB architecture uses the model of consumers and providers. A consumer ma
  [OLE DB Programming Overview](../../data/oledb/ole-db-programming-overview.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

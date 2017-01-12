@@ -80,6 +80,6 @@ Retreives a cache of class factories.
  [Module Class](../windows/module-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

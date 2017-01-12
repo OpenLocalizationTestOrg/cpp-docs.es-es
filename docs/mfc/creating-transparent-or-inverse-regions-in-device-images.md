@@ -90,6 +90,6 @@ In the [Image editor](../mfc/image-editor-for-icons.md), the initial icon or cur
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

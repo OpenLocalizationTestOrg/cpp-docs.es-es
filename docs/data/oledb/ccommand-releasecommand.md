@@ -62,6 +62,6 @@ void CCommandBase::ReleaseCommand( ) throw( );
  [CCommand::Close](../../data/oledb/ccommand-close.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

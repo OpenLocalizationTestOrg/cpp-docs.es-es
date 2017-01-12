@@ -108,6 +108,6 @@ The template class [IDispEventImpl](../atl/reference/idispeventimpl-class.md) ca
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

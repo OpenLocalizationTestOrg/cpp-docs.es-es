@@ -96,6 +96,6 @@ GetCodeForDllRegisterServer(2, 3)
  [GetCodeForDllUnregisterServer](../ide/getcodefordllunregisterserver.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

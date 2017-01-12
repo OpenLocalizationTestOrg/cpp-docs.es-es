@@ -105,6 +105,6 @@ typedef GC1<GS1<int> > MyGC2;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: 668b258d196499e76469ba3a9ed4a2ed3f601c9a
  The left operand of `operator` was a pointer, so the right operand must be an integer value.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

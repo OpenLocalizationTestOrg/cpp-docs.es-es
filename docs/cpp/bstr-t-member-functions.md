@@ -43,6 +43,6 @@ For information about `_bstr_t` member functions, see [_bstr_t Class](../cpp/bst
  [_bstr_t Class](../cpp/bstr-t-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

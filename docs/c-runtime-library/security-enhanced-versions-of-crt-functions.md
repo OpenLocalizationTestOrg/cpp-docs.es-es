@@ -131,6 +131,6 @@ More secure versions of run-time library routines are available. For further inf
  [CRT Library Features](../c-runtime-library/crt-library-features.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

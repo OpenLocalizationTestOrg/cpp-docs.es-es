@@ -92,6 +92,6 @@ _CRT_ALLOC_HOOK _CrtGetAllocHook( void );
  [_CrtSetAllocHook](../../c-runtime-library/reference/crtsetallochook.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

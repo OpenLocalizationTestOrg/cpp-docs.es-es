@@ -3,6 +3,6 @@ redirect_url: /cpp/parallel/amp/cpp-amp-cpp-accelerated-massive-parallelism
 --
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

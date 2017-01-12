@@ -118,6 +118,6 @@ This topic lists the Record Field Exchange (RFX, Bulk RFX, and DFX) functions us
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

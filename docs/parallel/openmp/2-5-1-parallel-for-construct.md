@@ -52,6 +52,6 @@ The **parallel for** directive is a shortcut for a **parallel** region that cont
 -   Data attribute clauses, see [2.7.2 Data-Sharing Attribute Clauses](../../parallel/openmp/2-7-2-data-sharing-attribute-clauses.md) on page 25.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

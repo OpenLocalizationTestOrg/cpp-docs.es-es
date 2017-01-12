@@ -54,6 +54,6 @@ The requirements listed for C++ attributes describe the project types, compiler 
  [Attributes by Group](../windows/attributes-by-group.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

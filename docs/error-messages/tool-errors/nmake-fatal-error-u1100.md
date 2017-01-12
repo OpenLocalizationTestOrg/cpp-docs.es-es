@@ -46,6 +46,6 @@ macro 'macroname' is illegal in the context of batch rule 'rule'
  $< is the only allowed macro for batch-mode rules.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

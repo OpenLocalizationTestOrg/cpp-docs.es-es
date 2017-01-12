@@ -74,6 +74,6 @@ The following procedure shows you how to align groups of controls.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -141,6 +141,6 @@ Traditionally, maintaining an .idl file meant that you had to:
  [Attribute Limitations](http://msdn.microsoft.com/en-us/6e6c4329-f667-4869-b991-cbe9cb7a8f61)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

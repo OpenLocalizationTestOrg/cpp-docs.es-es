@@ -100,6 +100,6 @@ In template definitions, there are three types of names.
  [Templates](../cpp/templates-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

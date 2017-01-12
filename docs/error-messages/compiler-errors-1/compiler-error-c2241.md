@@ -51,6 +51,6 @@ ms.openlocfilehash: bf556489f5f61ec87ca55fcc1b37c518ae948efe
 2.  Declare the member a `friend` of the accessing function.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

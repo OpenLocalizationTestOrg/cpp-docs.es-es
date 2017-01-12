@@ -68,6 +68,6 @@
 ### [Transaction: How Transactions Affect Updates (ODBC)](transaction-how-transactions-affect-updates-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

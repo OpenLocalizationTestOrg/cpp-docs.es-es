@@ -91,6 +91,6 @@ You can create Visual C++ programs that target the Windows Runtime and build the
  [Compiler Options](../build/reference/compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

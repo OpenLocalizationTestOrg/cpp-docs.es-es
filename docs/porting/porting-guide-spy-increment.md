@@ -733,6 +733,6 @@ return(n);
  [Previous case study: COM Spy](../porting/porting-guide-com-spy.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ Attempt to use MSIL code from this assembly during native code initialization. T
  This diagnostic indicates that MSIL instructions were executing during loader lock. This can occur if you have compiled native C++ by using the /clr flag. Only use the /clr flag on modules that contain managed code. For more information, see [Initialization of Mixed Assemblies](../../dotnet/initialization-of-mixed-assemblies.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

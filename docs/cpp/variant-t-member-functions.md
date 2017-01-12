@@ -43,6 +43,6 @@ For information about the `_variant_t` member functions, see [_variant_t Class](
  [_variant_t Class](../cpp/variant-t-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -70,6 +70,6 @@ int main(__m64 a, __m64 b)
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

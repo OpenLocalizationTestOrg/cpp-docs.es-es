@@ -53,6 +53,6 @@ The basic settings for the progress control ([CProgressCtrl](../mfc/reference/cp
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

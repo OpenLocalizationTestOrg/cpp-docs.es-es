@@ -73,6 +73,6 @@ Returns the property information requested for the connected data source object.
  [CDataSource Class](../../data/oledb/cdatasource-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

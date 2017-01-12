@@ -153,6 +153,6 @@ class_accessvalue structnamemodifier :  inherit_accessbase_type {};
  [Component Extensions for Runtime Platforms](../windows/component-extensions-for-runtime-platforms.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

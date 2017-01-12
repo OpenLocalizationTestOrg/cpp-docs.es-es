@@ -87,6 +87,6 @@ The Image editor tools for drawing lines and closed figures all work in the same
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

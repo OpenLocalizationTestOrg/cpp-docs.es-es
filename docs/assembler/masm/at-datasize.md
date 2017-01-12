@@ -53,6 +53,6 @@ ms.openlocfilehash: 912bb7bf184c7a510cd47a023e67b9effdc34ed3
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

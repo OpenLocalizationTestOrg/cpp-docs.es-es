@@ -63,6 +63,6 @@ When you [add ATL support to an existing MFC executable or DLL](../../mfc/refere
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

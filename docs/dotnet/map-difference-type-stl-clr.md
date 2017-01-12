@@ -102,6 +102,6 @@ begin()-end() = -3
  [map::size_type (STL/CLR)](../dotnet/map-size-type-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ If you are adding a property to an MFC dispinterface using the [Add Property Wiz
  [IDL Attributes, Add Property Wizard](../ide/idl-attributes-add-property-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

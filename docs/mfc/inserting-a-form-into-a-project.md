@@ -69,6 +69,6 @@ Forms provide a convenient container for controls. You can easily insert an MFC-
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

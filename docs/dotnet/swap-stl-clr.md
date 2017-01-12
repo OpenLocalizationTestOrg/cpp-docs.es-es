@@ -60,6 +60,6 @@ Exchanges the values of the elements between two types of objects, assigning the
  [algorithm (STL/CLR)](../dotnet/algorithm-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

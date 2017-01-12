@@ -120,6 +120,6 @@ The smaller of 10 and 21 is 10
  [__max](../../c-runtime-library/reference/max.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

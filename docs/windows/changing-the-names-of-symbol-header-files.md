@@ -68,6 +68,6 @@ Normally all symbol definitions are saved in Resource.h. However, you may need t
  [Predefined Symbol IDs](../windows/predefined-symbol-ids.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

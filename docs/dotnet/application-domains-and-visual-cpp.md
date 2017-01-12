@@ -57,6 +57,6 @@ If you have a `__clrcall` virtual function, the vtable will be per application d
  [Mixed (Native and Managed) Assemblies](../dotnet/mixed-native-and-managed-assemblies.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

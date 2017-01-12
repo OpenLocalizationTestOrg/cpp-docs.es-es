@@ -62,6 +62,6 @@ CComBSTR CRowsetBaseImpl::m_strIndexText;
  [CRowsetImpl::ValidateCommandID](../../data/oledb/crowsetimpl-validatecommandid.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

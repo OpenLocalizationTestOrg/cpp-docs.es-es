@@ -78,6 +78,6 @@ bool __uncaught_exception(
  [try, throw, and catch Statements (C++)](../../cpp/try-throw-and-catch-statements-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

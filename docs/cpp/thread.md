@@ -114,6 +114,6 @@ __declspec( thread ) int tls_i = 1;
  [Thread Local Storage (TLS)](../parallel/thread-local-storage-tls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

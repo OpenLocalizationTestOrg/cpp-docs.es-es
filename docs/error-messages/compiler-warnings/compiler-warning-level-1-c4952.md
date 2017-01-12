@@ -49,6 +49,6 @@ ms.openlocfilehash: 6bb297c2e19498a4f752d18eb49e988099e24e10
  This warning would be replaced with an error if `/LTCG:PGOPTIMIZE` had been used.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

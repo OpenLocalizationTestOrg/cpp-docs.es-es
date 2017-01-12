@@ -44,6 +44,6 @@ ms.openlocfilehash: 9a82e0e7921849cf2a5d6364e5c683e29d92d0bf
  [Using extern to Specify Linkage](../cpp/using-extern-to-specify-linkage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

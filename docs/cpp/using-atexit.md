@@ -45,6 +45,6 @@ With the [atexit](../c-runtime-library/reference/atexit.md) function, you can sp
  [Additional Termination Considerations](../cpp/additional-termination-considerations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ WRL_NOTHROW ~CriticalSection();
  [CriticalSection Class](../windows/criticalsection-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

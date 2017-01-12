@@ -70,6 +70,6 @@ Overidden by provider to commit data to its store.
  [IRowsetChangeImpl Class](../../data/oledb/irowsetchangeimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

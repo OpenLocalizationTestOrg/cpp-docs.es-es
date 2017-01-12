@@ -101,6 +101,6 @@ empty() = True
  [priority_queue::size (STL/CLR)](../dotnet/priority-queue-size-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ ms.openlocfilehash: 7b1a3ceda88d7ece95f97bc6c69e4f8a2c87829b
 This POSIX function is deprecated. Use the ISO C++ conformant [_unlink](../../c-runtime-library/reference/unlink-wunlink.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

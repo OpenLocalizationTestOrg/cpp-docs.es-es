@@ -66,6 +66,6 @@ In Visual C++, you can edit an accelerator table directly with in-place editing 
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ ms.openlocfilehash: 9c3faa106db41d4f6023af268f0ec6bbe5182b80
 This POSIX function is deprecated. Use the ISO C++ conformant [_setmode](../../c-runtime-library/reference/setmode.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

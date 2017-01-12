@@ -21,6 +21,6 @@ ms.openlocfilehash: c09693aacec8fa0df9d15b4b94f4615a2177bcc3
 Visual C++ in Visual Studio 2012
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

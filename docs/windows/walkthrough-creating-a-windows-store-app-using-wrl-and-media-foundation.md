@@ -147,6 +147,6 @@ Learn how to use the [!INCLUDE[cppwrl](../windows/includes/cppwrl_md.md)] ([!INC
  [Media extensions sample](http://code.msdn.microsoft.com/windowsapps/Media-extensions-sample-7b466096)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

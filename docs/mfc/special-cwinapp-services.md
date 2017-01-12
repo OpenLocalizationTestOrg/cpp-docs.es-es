@@ -105,6 +105,6 @@ Besides running the message loop and giving you an opportunity to initialize the
  [CWinApp: The Application Class](../mfc/cwinapp-the-application-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

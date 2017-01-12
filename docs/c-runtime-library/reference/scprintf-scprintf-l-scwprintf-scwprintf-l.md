@@ -190,6 +190,6 @@ The value of Pi is calculated to be 3.141593.
  [vprintf Functions](../../c-runtime-library/vprintf-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

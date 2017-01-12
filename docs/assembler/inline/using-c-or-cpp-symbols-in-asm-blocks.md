@@ -60,6 +60,6 @@ ms.openlocfilehash: 4014da2bc008b736b9b78b1852fc9438e8c41289
  [Using C or C++ in __asm Blocks](../../assembler/inline/using-c-or-cpp-in-asm-blocks.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -142,6 +142,6 @@ for (int i = 0; i < 1000; ++i)
  [Vectorizer and Parallelizer Messages](../error-messages/tool-errors/vectorizer-and-parallelizer-messages.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

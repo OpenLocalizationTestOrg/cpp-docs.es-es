@@ -57,6 +57,6 @@ int omp_get_thread_num( );
  [Functions](../../../parallel/openmp/reference/openmp-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

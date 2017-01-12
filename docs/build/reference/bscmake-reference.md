@@ -73,6 +73,6 @@ ms.openlocfilehash: 5918d79f224befae6f37ae8c54149a0d80e684a5
  [C/C++ Build Tools](../../build/reference/c-cpp-build-tools.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

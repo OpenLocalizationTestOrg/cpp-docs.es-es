@@ -45,6 +45,6 @@ ms.openlocfilehash: 652494d8a266fe1f37c4c78363c6a312b3b05bae
  A class, structure, or union name must appear on the left side of the scope-resolution operator (`::`) operator.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

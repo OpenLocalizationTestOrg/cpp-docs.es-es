@@ -96,6 +96,6 @@ Designates a function as the handler for reporting run-time error checks (RTCs).
  [Run-Time Error Checking](../../c-runtime-library/run-time-error-checking.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

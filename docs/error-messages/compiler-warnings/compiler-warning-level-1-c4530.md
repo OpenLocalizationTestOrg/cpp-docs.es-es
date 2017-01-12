@@ -58,6 +58,6 @@ int main() {
  Compile the sample with /EHsc to resolve the warning.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

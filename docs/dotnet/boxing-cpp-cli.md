@@ -48,6 +48,6 @@ Boxing is the process of converting a value type to the type `object` or to any 
 |[.NET Programming with C++/CLI (Visual C++)](../dotnet/dotnet-programming-with-cpp-cli-visual-cpp.md)|The top-level article for .NET programming in the Visual C++ documentation.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

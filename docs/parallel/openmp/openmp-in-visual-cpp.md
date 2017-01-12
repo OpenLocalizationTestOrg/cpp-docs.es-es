@@ -62,6 +62,6 @@ The OpenMP C and C++ application program interface lets you write applications t
  Names the predefined ANSI C and Microsoft C++ implementation macros. See the _OPENMP macro.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

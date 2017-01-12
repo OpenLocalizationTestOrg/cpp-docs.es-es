@@ -62,6 +62,6 @@ ref struct MyStruct { void Test(...){} };   // C3268
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

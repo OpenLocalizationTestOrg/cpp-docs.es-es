@@ -77,6 +77,6 @@ This topic discusses the following properties on the **General** linker property
  [Property Pages](../ide/property-pages-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

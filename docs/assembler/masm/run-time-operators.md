@@ -41,6 +41,6 @@ For more information about the run-time operators in the Microsoft Macro Assembl
  [Operators Reference](../../assembler/masm/operators-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

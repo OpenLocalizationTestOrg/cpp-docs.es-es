@@ -58,6 +58,6 @@ The service control manager (SCM) calls `ServiceMain` when you open the Services
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

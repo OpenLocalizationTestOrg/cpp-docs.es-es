@@ -66,6 +66,6 @@ Many of the settings for a spin button ([CSpinButtonCtrl](../mfc/reference/cspin
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

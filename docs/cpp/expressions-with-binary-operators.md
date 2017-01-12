@@ -119,6 +119,6 @@ Binary operators act on two operands in an expression. The binary operators are:
  [Types of Expressions](../cpp/types-of-expressions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

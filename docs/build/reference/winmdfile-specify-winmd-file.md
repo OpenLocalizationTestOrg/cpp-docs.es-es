@@ -62,6 +62,6 @@ Specifies the file name for the Windows Runtime Metadata (.winmd) output file th
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

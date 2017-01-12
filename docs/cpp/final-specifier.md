@@ -95,6 +95,6 @@ class DerivedClass: public BaseClass // compiler error: BaseClass is
  [override Specifier](../cpp/override-specifier.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

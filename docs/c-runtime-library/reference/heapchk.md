@@ -153,6 +153,6 @@ OK - heap is fine
  [_heapwalk](../../c-runtime-library/reference/heapwalk.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

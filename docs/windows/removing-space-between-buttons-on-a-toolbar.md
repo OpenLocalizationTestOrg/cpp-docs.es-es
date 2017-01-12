@@ -60,6 +60,6 @@ The following procedure shows you how to remove a space between buttons on a too
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

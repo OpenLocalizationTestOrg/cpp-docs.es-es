@@ -50,6 +50,6 @@ The direction flag is a CPU flag specific to Intel 80x86 processors. It applies 
  [CRT Library Features](../c-runtime-library/crt-library-features.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

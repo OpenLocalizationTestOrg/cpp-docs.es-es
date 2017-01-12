@@ -63,6 +63,6 @@ The additive operators perform addition (**+**) and subtraction (**–**).
  [Additive Operators: + and -](../cpp/additive-operators-plus-and.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

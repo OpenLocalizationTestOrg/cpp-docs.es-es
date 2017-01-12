@@ -48,6 +48,6 @@ ms.openlocfilehash: 9d27b8b3c4ffc0f0f2f4fd185d2b8e1990b413e4
 -   Q250847 : ATL Connection Point Wizard Generated Code for Event with VARIANT Argument Gives C4305 Warning
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

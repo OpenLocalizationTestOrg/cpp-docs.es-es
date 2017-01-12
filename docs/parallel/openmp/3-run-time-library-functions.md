@@ -50,6 +50,6 @@ This section describes the OpenMP C and C++ run-time library functions. The head
 -   Lock functions (see [Section 3.2](../../parallel/openmp/3-2-lock-functions.md) on page 41).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

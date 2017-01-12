@@ -65,6 +65,6 @@ You can use class [CDialog](../mfc/reference/cdialog-class.md) to manage two kin
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

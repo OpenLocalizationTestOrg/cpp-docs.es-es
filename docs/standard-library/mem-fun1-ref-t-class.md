@@ -92,6 +92,6 @@ class mem_fun1_ref_t : public binary_function<Type, Arg, Result> {
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

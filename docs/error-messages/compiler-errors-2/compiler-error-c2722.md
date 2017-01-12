@@ -44,6 +44,6 @@ ms.openlocfilehash: 65bfd2b4f939d5dc59c5162b13251eb34896ed00
  An `operator` statement redefines `::new` or `::delete`. The `new` and `delete` operators are global, so the scope resolution operator (`::`) is meaningless. Remove the `::` operator.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

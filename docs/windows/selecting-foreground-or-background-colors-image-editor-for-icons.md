@@ -61,6 +61,6 @@ Except for the **Eraser**, tools on the **Image Editor** toolbar draw with the c
  [Working with Color](../mfc/working-with-color-image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

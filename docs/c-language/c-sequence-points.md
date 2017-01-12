@@ -66,6 +66,6 @@ Between consecutive "sequence points" an object's value can be modified only onc
  [Expression Evaluation](../c-language/expression-evaluation-c.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -94,6 +94,6 @@ ms.openlocfilehash: a7f8442d907e416de54c0bd073adc428ba17ebec
    ![Change Signature result](images/changesignature_result.png)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

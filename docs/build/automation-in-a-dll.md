@@ -58,6 +58,6 @@ When you choose the Automation option in the MFC DLL Wizard, the wizard provides
  [DLLs in Visual C++](../build/dlls-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -145,6 +145,6 @@ asinh( 0.868671 ) = 0.785398
  [_CItan](../../c-runtime-library/citan.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

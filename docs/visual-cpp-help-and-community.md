@@ -66,6 +66,6 @@ Here's how to getting information about how to write C++ code and use the Visual
 |[MSDN forums](http://go.microsoft.com/fwlink/p/?LinkId=256538)|Official Microsoft forums where you can post questions and get answers from Microsoft and from experts in the community. Use the search box on the forums home page to find the forums that are specifically related to C++.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -129,6 +129,6 @@ IMPORT sym{, WEAK alias{, TYPE t}}
  [ARM Assembler Diagnostic Messages](../../assembler/arm/arm-assembler-diagnostic-messages.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

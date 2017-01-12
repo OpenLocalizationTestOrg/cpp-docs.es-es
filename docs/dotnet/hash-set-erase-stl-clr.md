@@ -130,6 +130,6 @@ size() = 1
  [hash_set::clear (STL/CLR)](../dotnet/hash-set-clear-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

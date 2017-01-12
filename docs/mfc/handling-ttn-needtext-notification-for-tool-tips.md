@@ -79,6 +79,6 @@ As part of [enabling tool tips](../mfc/enabling-tool-tips.md), you handle the **
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

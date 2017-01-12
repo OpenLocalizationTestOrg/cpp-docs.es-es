@@ -125,6 +125,6 @@ int main()
  [binder1st (STL/CLR)](../dotnet/binder1st-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

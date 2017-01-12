@@ -47,6 +47,6 @@ ms.openlocfilehash: f7902af5038880b0b8e0fee0b9fd64a256799fd7
  This warning may be fixed if you use prototype functions that are passed based pointers.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

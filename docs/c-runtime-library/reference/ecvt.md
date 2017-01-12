@@ -148,6 +148,6 @@ source: 3.1415926535   buffer: '3141592654'  decimal: 1  sign: 0
  [_gcvt](../../c-runtime-library/reference/gcvt.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

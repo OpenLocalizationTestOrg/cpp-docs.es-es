@@ -65,6 +65,6 @@ Suppose the user clicks the mouse in the File menu, which generates a `WM_INITME
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

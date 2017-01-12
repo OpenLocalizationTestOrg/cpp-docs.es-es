@@ -284,6 +284,6 @@
 #### [clock Function (C)](clock-function-c.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

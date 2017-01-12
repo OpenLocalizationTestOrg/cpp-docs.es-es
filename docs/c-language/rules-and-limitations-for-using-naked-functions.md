@@ -44,6 +44,6 @@ For information on rules and limitations for using naked functions, see the corr
  [Naked Functions](../c-language/naked-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

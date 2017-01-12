@@ -62,6 +62,6 @@ You might need to create projects with standardized features that differ from th
  [Customizing Your Wizard](../ide/customizing-your-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

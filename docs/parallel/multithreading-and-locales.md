@@ -466,6 +466,6 @@ unsigned __stdcall RunThreadB(void *params)
  [locale Class](../standard-library/locale-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

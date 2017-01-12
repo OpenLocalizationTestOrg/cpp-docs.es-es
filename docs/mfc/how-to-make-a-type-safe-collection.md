@@ -124,6 +124,6 @@ This article explains how to make type-safe collections for your own data types.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

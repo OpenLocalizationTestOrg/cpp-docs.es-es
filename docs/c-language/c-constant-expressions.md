@@ -74,6 +74,6 @@ A constant expression is evaluated at compile time, not run time, and can be use
  [Operands and Expressions](../c-language/operands-and-expressions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

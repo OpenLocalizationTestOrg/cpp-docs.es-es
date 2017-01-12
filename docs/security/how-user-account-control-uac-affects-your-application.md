@@ -67,6 +67,6 @@ User Account Control (UAC) is a feature of Windows Vista in which user accounts 
  [Security Best Practices](security-best-practices-for-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -202,6 +202,6 @@ The following intrinsics are available with the x86, AMD64, and ARM architecture
  [x64 (amd64) Intrinsics List](../intrinsics/x64-amd64-intrinsics-list.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -53,6 +53,6 @@ Use the **Manifest Tool** property pages to set build options for mt.exe.
  [Property Pages](../ide/property-pages-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

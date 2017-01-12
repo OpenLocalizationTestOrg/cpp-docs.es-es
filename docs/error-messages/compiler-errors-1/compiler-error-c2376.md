@@ -45,6 +45,6 @@ ms.openlocfilehash: 79f7c74b0805ac1fcac3fa3704d2857b798a5d29
  The function is already declared with a different based allocation.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

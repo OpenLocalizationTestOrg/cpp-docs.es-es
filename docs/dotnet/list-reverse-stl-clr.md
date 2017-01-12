@@ -95,6 +95,6 @@ c b a
  [list::sort (STL/CLR)](../dotnet/list-sort-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

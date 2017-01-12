@@ -177,6 +177,6 @@ In 20 days the time will be Thu May 15 13:34:07 2003
  [time, _time32, _time64](../../c-runtime-library/reference/time-time32-time64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

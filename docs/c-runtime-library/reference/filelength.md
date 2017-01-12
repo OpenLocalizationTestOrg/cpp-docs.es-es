@@ -58,6 +58,6 @@ ms.openlocfilehash: 7f5420ccf00bec97335f527177d7980002b1ffeb
 This POSIX function is deprecated. Use the ISO C++ conformant [_filelength](../../c-runtime-library/reference/filelength-filelengthi64.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

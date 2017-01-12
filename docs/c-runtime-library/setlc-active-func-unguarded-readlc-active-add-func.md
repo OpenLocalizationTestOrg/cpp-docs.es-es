@@ -78,6 +78,6 @@ int * ___unguarded_readlc_active_add_func(void);
  [setlocale, _wsetlocale](../c-runtime-library/reference/setlocale-wsetlocale.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

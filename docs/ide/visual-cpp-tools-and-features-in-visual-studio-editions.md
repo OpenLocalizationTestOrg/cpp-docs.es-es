@@ -203,6 +203,6 @@ The following tables show Visual C++ features that are available in Visual Studi
  [Visual Database Tools Editions](http://msdn.microsoft.com/en-us/a7689adc-f16b-4cc7-b6fe-39ca0c711161)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

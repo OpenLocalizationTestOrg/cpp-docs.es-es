@@ -128,6 +128,6 @@ This article describes how MFC performs frame allocations and heap allocations f
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

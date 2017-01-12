@@ -231,6 +231,6 @@ Default:  0x0001
  [_controlfp_s](../../c-runtime-library/reference/controlfp-s.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

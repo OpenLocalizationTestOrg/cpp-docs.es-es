@@ -139,6 +139,6 @@ For 5149627 / 234879, the quotient is 21, and the remainder is 217168
  [imaxdiv](../../c-runtime-library/reference/imaxdiv.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

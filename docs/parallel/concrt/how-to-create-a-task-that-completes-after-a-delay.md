@@ -81,6 +81,6 @@ This example shows how to use the [concurrency::task](../../parallel/concrt/refe
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

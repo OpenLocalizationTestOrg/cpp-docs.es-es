@@ -48,6 +48,6 @@ The structured block following an **ordered** directive is executed in the order
 -   An iteration of a loop with a **for** construct must not execute the same ordered directive more than once, and it must not execute more than one **ordered** directive.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

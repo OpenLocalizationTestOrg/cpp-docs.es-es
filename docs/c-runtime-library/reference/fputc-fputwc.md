@@ -155,6 +155,6 @@ This is a test of fputc!!
  [putc, putwc](../../c-runtime-library/reference/putc-putwc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

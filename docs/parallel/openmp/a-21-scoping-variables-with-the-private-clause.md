@@ -52,6 +52,6 @@ printf_s("%d %d\n", i, j);
  For more information on the `private` clause, see [Section 2.7.2.1](../../parallel/openmp/2-7-2-1-private.md) on page 25.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

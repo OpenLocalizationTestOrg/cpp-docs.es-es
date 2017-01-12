@@ -62,6 +62,6 @@ class-type *operator–>()
  [Operator Overloading](../cpp/operator-overloading.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

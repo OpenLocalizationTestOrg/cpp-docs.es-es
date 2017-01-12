@@ -69,6 +69,6 @@ ADO data control data can be either read-only or modifiable.
  [Using ADO Databinding in Visual C++](../../data/ado-rdo/using-ado-databinding-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -56,6 +56,6 @@ Allocates and optionally initializes a double word (4 bytes) of storage for each
  [DD](../../assembler/masm/dd.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -50,6 +50,6 @@ When you configure either an Oracle ODBC DSN or an OLE DB connection, you must h
  [Creating Database Connections](../../data/ado-rdo/creating-database-connections.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

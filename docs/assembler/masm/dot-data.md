@@ -55,6 +55,6 @@ When used with [.MODEL](../../assembler/masm/dot-model.md), starts a near data s
  [.FARDATA?](../../assembler/masm/dot-fardata-q.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

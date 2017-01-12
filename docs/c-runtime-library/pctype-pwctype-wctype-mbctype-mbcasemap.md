@@ -83,6 +83,6 @@ extern unsigned char _mbcasemap[];
  [__pctype_func](../c-runtime-library/pctype-func.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

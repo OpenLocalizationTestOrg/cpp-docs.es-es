@@ -53,6 +53,6 @@ setenv OMP_SCHEDULE "dynamic"
 -   **parallel for** directive, see [Section 2.5.1](../../parallel/openmp/2-5-1-parallel-for-construct.md) on page 16.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

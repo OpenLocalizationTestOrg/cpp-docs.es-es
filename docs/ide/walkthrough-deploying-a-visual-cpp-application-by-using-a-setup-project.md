@@ -70,6 +70,6 @@ Describes how to use a setup project to deploy a Visual C++ application.
  [Deployment Examples](../ide/deployment-examples.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

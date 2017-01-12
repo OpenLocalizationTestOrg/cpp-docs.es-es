@@ -67,6 +67,6 @@ You can resize a group of controls based on the size of the dominant control. Yo
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

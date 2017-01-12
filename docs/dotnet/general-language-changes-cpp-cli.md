@@ -58,6 +58,6 @@ A number of CLR language features changed from Managed Extensions for C++ to [!I
  [C++/CLI Migration Primer](../dotnet/cpp-cli-migration-primer.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

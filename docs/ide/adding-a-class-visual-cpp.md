@@ -70,6 +70,6 @@ To add a class in a Visual C++ project, in **Solution Explorer**, right-click th
  [Adding Functionality with Code Wizards](../ide/adding-functionality-with-code-wizards-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -106,6 +106,6 @@ is_default_constructible<Simple2> == false
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -117,6 +117,6 @@ This article contains information about security tools and practices. Using them
  [How User Account Control (UAC) Affects Your Application](how-user-account-control-uac-affects-your-application.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

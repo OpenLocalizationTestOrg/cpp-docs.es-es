@@ -78,6 +78,6 @@ struct X {
  This error is followed by fatal error `LNK1165`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

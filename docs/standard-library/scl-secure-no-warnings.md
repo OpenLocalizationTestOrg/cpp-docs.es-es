@@ -82,6 +82,6 @@ cl /w44996 [other compiler options] myfile.cpp
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

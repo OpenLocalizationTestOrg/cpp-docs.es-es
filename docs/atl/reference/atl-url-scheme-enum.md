@@ -68,6 +68,6 @@ The members of this enumeration provide constants for the schemes understood by 
  [CUrl::GetScheme](curl-class.md#curl__getscheme)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

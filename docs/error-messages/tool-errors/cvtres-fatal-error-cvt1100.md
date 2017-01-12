@@ -46,6 +46,6 @@ duplicate resource — type:type, name:name, language:language, flags:flags, siz
  You can get this error if the linker is creating a type library and you did not specify [/TLBID](../../build/reference/tlbid-specify-resource-id-for-typelib.md) and a resource in your project already uses 1. In this case, specify /TLBID and specify another number up to 65535.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

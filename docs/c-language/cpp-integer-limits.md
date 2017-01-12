@@ -73,6 +73,6 @@ ms.openlocfilehash: 3d7aadd1d42af046ba6e8c3b3444a4507cc64811
  [C Integer Constants](../c-language/c-integer-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

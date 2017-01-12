@@ -45,6 +45,6 @@ String literals have type array of `char` (that is, **char[ ]**). (Wide-characte
  [C String Literals](../c-language/c-string-literals.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

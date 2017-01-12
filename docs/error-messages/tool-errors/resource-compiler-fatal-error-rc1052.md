@@ -48,6 +48,6 @@ compiler limit : #if or #ifdef blocks nested too deeply
  To fix this issue, reduce the number of nested `#if` and `#ifdef` directives in your resource file. If the issue is caused by header files that are included in your resource file, reduce the number of nested `#if` and `#ifdef` directives in the header files. If this is not possible, consider creating and including a new header file in your resource file, by running the preprocessor on the existing included header files. For more information, see the [/P (Preprocess to a File)](../../build/reference/p-preprocess-to-a-file.md) compiler option.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

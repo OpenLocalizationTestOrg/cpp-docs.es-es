@@ -84,6 +84,6 @@ Determines whether the specified parameter is an input or output parameter.
  [CDynamicParameterAccessor Class](../../data/oledb/cdynamicparameteraccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

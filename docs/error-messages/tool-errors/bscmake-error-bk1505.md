@@ -50,6 +50,6 @@ cannot read from file 'filename' [: reason]
 2.  File truncation to the compiler running out of disk space or being interrupted while creating the .sbr file.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

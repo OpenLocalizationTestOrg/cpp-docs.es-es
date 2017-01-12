@@ -58,6 +58,6 @@ ms.openlocfilehash: f2a21f767b8315b2f419e26dce1c2e02ef5631fa
 This POSIX function is deprecated. Use the ISO C++ conformant [_ultoa](../../c-runtime-library/reference/ultoa-ultow.md) or security-enhanced [_ultoa_s](../../c-runtime-library/reference/ultoa-s-ultow-s.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

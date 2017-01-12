@@ -83,6 +83,6 @@ An MFC application is an executable application for Windows that is based on the
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

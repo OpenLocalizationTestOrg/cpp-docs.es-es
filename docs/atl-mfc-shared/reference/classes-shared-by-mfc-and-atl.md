@@ -65,6 +65,6 @@ The following table lists the classes shared between MFC and ATL.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

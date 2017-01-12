@@ -73,6 +73,6 @@ CDBPropSet( );
  [DBPROP Structure](https://msdn.microsoft.com/en-us/library/ms717970.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

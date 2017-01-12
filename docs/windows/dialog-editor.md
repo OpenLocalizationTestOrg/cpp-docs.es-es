@@ -92,6 +92,6 @@ The Dialog editor allows you to create or edit dialog box resources. You open th
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

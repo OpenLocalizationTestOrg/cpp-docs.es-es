@@ -44,6 +44,6 @@ invalid directive /directive found; ignored
  A directive passed via the [comment](../../preprocessor/comment-c-cpp.md) pragma was not valid. The linker ignores `/directive`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

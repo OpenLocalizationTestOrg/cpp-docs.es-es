@@ -121,6 +121,6 @@ __declspec( thread ) int tls_i = 1;
  [C Extended Storage-Class Attributes](../c-language/c-extended-storage-class-attributes.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

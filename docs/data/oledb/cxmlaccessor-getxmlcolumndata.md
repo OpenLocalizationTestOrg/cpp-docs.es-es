@@ -77,6 +77,6 @@ Retrieves the column type information of a table as XML-formatted string data, b
  [CXMLAccessor Class](../../data/oledb/cxmlaccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

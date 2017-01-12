@@ -45,6 +45,6 @@ ms.openlocfilehash: 7c71a3e33833f8a28ceeeb6449c66ba4c9bf15eb
  The register used in an indirect memory operand must be an index register in this context.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

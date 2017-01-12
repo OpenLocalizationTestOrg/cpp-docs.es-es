@@ -101,6 +101,6 @@ empty() = True
  [stack::size (STL/CLR)](../dotnet/stack-size-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -184,6 +184,6 @@ File crt_access_s.c does not have write permission.
  [_stat, _wstat Functions](../../c-runtime-library/reference/stat-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

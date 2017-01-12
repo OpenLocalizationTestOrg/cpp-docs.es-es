@@ -74,6 +74,6 @@ class ATL_NO_VTABLE IRowsetNotifyImpl : public IRowsetNotify
  [IRowsetNotifyCP Class](../../data/oledb/irowsetnotifycp-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

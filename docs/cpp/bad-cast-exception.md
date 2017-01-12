@@ -112,6 +112,6 @@ Shape& ref_shape = dynamic_cast<Shape&>(ref_circle);
  [C++ Exception Handling](../cpp/cpp-exception-handling.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

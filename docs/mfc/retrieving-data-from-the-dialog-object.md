@@ -70,6 +70,6 @@ The framework provides an easy way to initialize the values of controls in a dia
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

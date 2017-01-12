@@ -81,6 +81,6 @@ HRESULT SetData(
  [CRowset::Update](../../data/oledb/crowset-update.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

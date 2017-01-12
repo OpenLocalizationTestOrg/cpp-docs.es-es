@@ -119,6 +119,6 @@ int *aptr[10] // Declares an array of 10 pointers
  [Declarations and Types](../c-language/declarations-and-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

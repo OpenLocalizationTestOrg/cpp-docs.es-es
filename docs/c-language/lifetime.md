@@ -71,6 +71,6 @@ ms.openlocfilehash: f76d6859d80f9e88eddd2d34a4e744d4b0f139ac
  [Lifetime, Scope, Visibility, and Linkage](../c-language/lifetime-scope-visibility-and-linkage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

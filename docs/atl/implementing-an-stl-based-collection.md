@@ -124,6 +124,6 @@ ATL provides the `ICollectionOnSTLImpl` interface to enable you to quickly imple
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

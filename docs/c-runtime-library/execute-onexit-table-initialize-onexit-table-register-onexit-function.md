@@ -95,6 +95,6 @@ int _execute_onexit_table(
  [_onexit, _onexit_m](../c-runtime-library/reference/onexit-onexit-m.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

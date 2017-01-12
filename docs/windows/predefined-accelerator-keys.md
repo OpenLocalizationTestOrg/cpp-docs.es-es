@@ -107,6 +107,6 @@ There are a number of predefined accelerator keys that may be part of a Windows 
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

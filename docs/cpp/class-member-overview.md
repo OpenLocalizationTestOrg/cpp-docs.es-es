@@ -191,6 +191,6 @@ int CanInit2::j = i;
  [Classes and Structs](../cpp/classes-and-structs-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

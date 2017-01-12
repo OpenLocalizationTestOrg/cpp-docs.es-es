@@ -66,6 +66,6 @@ inline static bool Close(
  [HANDLETraits Structure](../windows/handletraits-structure.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

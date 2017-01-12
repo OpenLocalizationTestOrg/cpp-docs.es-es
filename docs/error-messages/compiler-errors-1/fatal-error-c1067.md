@@ -50,6 +50,6 @@ compiler limit : 64K limit on size of a type record has been exceeded
  C1067 can also occur if there are many symbols with long names or if a class, struct, or union has too many members.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

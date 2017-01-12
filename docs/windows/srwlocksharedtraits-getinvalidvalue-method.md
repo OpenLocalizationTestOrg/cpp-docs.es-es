@@ -60,6 +60,6 @@ inline static Type GetInvalidValue();
  [SRWLockSharedTraits Structure](../windows/srwlocksharedtraits-structure.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

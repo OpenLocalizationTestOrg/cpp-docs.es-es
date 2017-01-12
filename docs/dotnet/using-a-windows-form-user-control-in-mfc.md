@@ -106,6 +106,6 @@ Using the MFC Windows Forms support classes, you can host Windows Forms controls
  [Form Views](../mfc/form-views-mfc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

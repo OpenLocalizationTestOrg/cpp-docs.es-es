@@ -44,6 +44,6 @@ concatenating mismatched strings
  Both wide and non-wide character strings were specified for concatenation. You cannot concatenate a wide character string and non-wide character string.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

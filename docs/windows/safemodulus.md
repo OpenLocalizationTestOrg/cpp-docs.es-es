@@ -85,6 +85,6 @@ inline bool SafeModulus (
  [SafeDivide](../windows/safedivide.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

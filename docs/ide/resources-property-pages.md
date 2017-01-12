@@ -54,6 +54,6 @@ For more information on using the resource compiler, see [Using RC (The RC Comma
  [Property Pages](../ide/property-pages-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

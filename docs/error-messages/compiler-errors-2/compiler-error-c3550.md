@@ -47,6 +47,6 @@ only plain 'decltype(auto)' is allowed in this context
  [auto](../../cpp/auto-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

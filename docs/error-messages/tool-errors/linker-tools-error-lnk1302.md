@@ -52,6 +52,6 @@ only support linking safe .netmodules; unable to link file .netmodule
 -   [.netmodule Files as Linker Input](../../build/reference/netmodule-files-as-linker-input.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

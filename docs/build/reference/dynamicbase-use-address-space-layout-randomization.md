@@ -77,6 +77,6 @@ Specifies whether to generate an executable image that can be randomly rebased a
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

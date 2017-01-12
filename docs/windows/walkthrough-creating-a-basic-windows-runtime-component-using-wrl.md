@@ -136,6 +136,6 @@ This document shows how to use the [!INCLUDE[cppwrl](../windows/includes/cppwrl_
  [C/C++ Code Analysis tool](/visualstudio/code-quality/code-analysis-for-c-cpp-overview)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

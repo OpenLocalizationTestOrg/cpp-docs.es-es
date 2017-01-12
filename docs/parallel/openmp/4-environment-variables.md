@@ -59,6 +59,6 @@ This chapter describes the OpenMP C and C++ API environment variables (or equiva
  set OMP_SCHEDULE="dynamic"
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

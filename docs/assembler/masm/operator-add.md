@@ -57,6 +57,6 @@ The first operator returns *expression1* plus *expression2*. The second operator
  [Operators Reference](../../assembler/masm/operators-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

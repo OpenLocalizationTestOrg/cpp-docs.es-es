@@ -56,6 +56,6 @@ Like other operators, the subscript operator (**[ ]**) can be redefined by the u
  [Arrays](../cpp/arrays-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

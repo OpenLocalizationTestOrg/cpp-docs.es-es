@@ -55,6 +55,6 @@ ms.openlocfilehash: 2d724e41a04c4ff13c9789d38ddd8554224b7642
  [dllexport, dllimport](../cpp/dllexport-dllimport.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

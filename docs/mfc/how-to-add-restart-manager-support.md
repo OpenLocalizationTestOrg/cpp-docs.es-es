@@ -76,6 +76,6 @@ The restart manager is a feature added to [!INCLUDE[vsprvs](../assembler/masm/in
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

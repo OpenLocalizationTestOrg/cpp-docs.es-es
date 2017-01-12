@@ -55,6 +55,6 @@ The `va_arg`, `va_end`, and `va_start` macros provide access to function argumen
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

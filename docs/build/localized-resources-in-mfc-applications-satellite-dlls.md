@@ -80,6 +80,6 @@ MFC version 7.0 and later provides enhanced support for satellite DLLs, a featur
  [TN057: Localization of MFC Components](../mfc/tn057-localization-of-mfc-components.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

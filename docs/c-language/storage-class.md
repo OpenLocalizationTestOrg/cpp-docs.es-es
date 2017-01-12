@@ -84,6 +84,6 @@ The storage-class specifier in a function definition gives the function either `
  [C Function Definitions](../c-language/c-function-definitions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

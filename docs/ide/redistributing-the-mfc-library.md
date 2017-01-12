@@ -72,6 +72,6 @@ If you dynamically link your application to the MFC library, you must redistribu
  [Redistributing Visual C++ Files](../ide/redistributing-visual-cpp-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

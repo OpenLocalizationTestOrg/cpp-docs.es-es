@@ -162,6 +162,6 @@ The OLE DB Consumer Templates contain the following classes. The reference mater
  [OLE DB Templates](../../data/oledb/ole-db-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

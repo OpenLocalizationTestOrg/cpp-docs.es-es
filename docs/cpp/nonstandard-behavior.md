@@ -117,6 +117,6 @@ int main()
  The C++ standard (section 1.8 paragraph 6) requires complete C++ objects to have unique storage locations. However with Visual C++, there are cases where types without data members will share a storage location with other types for the lifetime of the object.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

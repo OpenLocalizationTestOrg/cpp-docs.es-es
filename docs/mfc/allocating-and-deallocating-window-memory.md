@@ -58,6 +58,6 @@ Do not use the C++ **delete** operator to destroy a frame window or view. Instea
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -66,6 +66,6 @@ Returns true if data is automatically retrieved for the accessor during a Move o
  [CAccessorBase Class](../../data/oledb/caccessorbase-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

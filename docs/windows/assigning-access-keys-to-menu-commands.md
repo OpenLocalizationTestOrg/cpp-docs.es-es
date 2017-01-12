@@ -66,6 +66,6 @@ You can assign an access key (a mnemonic that allows the user to select the menu
  [Menu Editor](../mfc/menu-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

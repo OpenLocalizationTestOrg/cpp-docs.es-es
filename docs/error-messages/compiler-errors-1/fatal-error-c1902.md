@@ -46,6 +46,6 @@ A program database file (.pdb) was created using a newer version of mspdb*XXX*.d
 Ensure matching versions of mspdbsrv.exe, mspdbcore.dll, and mspdb*XXX*.dll are installed on your system. Ensure that mismatched versions have not been copied to the directory that contains the compiler and link tools for your target platform. For example, you might have copied the files so you could invoke the compiler or link tool from the command prompt without setting the **PATH** environment variable accordingly.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

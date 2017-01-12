@@ -64,6 +64,6 @@ The **single** directive identifies a construct that specifies that the associat
 -   **private**, **firstprivate**, and **copyprivate** clauses, see [Section 2.7.2](../../parallel/openmp/2-7-2-data-sharing-attribute-clauses.md) on page 25.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

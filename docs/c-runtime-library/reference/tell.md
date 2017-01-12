@@ -58,6 +58,6 @@ ms.openlocfilehash: 85601e1cb3932334fa66cea6f30d47bf2ea867a8
 This POSIX function is deprecated. Use the ISO C++ conformant [_tell](../../c-runtime-library/reference/tell-telli64.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

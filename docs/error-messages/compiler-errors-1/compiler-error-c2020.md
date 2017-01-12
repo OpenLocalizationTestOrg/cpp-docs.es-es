@@ -44,6 +44,6 @@ ms.openlocfilehash: 3e5610c28c6282a2ce952728948aa87cc581bd31
  A member inherited from a base class or structure is redefined. Inherited members cannot be redefined unless declared as `virtual` in the base class.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

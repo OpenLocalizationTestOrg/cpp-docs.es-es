@@ -69,6 +69,6 @@ Assigns a `CBookmark` object to another.
  [CBookmark Class](../../data/oledb/cbookmark-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ ms.openlocfilehash: fe877564ca417090633c66c86d03318fbe73838b
 This POSIX function is deprecated. Use the ISO C++ conformant [_tempnam](../../c-runtime-library/reference/tempnam-wtempnam-tmpnam-wtmpnam.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

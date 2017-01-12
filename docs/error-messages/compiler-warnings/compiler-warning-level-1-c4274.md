@@ -42,6 +42,6 @@ ms.openlocfilehash: eb6da96ac3011834ec318e474e17f8e951e1feda
  [Working with Resource Files](../../mfc/working-with-resource-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

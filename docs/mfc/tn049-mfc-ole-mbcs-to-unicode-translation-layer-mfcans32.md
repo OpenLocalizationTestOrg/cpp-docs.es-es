@@ -50,6 +50,6 @@ This note originally described how MFCANS32.DLL provides ANSI interfaces in the 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

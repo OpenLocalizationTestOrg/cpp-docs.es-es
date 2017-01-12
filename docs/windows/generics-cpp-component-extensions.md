@@ -79,6 +79,6 @@ Generics are parameterized types and methods. In this section, find out which ge
  [Component Extensions for Runtime Platforms](../windows/component-extensions-for-runtime-platforms.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -113,6 +113,6 @@ Process id: 3584
  [_mktemp, _wmktemp](../../c-runtime-library/reference/mktemp-wmktemp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

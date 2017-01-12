@@ -79,6 +79,6 @@ wchar_t** ___lc_locale_name_func(void);
  [_free_locale](../c-runtime-library/reference/free-locale.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

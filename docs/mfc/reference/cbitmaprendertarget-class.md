@@ -161,6 +161,6 @@ operator ID2D1BitmapRenderTarget*();
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

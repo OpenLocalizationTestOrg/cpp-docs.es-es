@@ -85,6 +85,6 @@ The **#ifdef** and **#ifndef** directives perform the same task as the `#if` dir
  [Preprocessor Directives](../preprocessor/preprocessor-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

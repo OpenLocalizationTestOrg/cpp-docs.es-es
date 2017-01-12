@@ -313,6 +313,6 @@ virtual void SetRect(const RECT* prc,  BOOL bRedraw);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

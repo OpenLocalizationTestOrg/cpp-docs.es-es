@@ -124,6 +124,6 @@ The absolute value of 3.000000 + 4.000000i is 5.000000
  [fabs, fabsf, fabsl](../../c-runtime-library/reference/fabs-fabsf-fabsl.md)   
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

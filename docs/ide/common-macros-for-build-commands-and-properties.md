@@ -180,6 +180,6 @@ Depending on your installation options, Visual Studio can make hundreds of macro
  [Building C++ Projects in Visual Studio](../ide/building-cpp-projects-in-visual-studio.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

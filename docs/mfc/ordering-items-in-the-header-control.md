@@ -63,6 +63,6 @@ Once you've [added items to a header control](../mfc/adding-items-to-the-header-
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

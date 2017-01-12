@@ -225,6 +225,6 @@ Path extracted with _splitpath_s:
  [_makepath, _wmakepath](../../c-runtime-library/reference/makepath-wmakepath.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

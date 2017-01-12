@@ -99,6 +99,6 @@ errno_t _get_fmode(
  [Text and Binary Mode File I/O](../../c-runtime-library/text-and-binary-mode-file-i-o.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

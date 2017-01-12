@@ -58,6 +58,6 @@ ms.openlocfilehash: 3807414218d9b64c51b4c3aaed33c772a1a23a26
 This POSIX function is deprecated. Use the ISO C++ conformant [_wcsicoll](../../c-runtime-library/reference/stricoll-wcsicoll-mbsicoll-stricoll-l-wcsicoll-l-mbsicoll-l.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

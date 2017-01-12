@@ -62,6 +62,6 @@ template<class _InIt, class _Ty, class _Fn2> inline
  [numeric (STL/CLR)](../dotnet/numeric-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

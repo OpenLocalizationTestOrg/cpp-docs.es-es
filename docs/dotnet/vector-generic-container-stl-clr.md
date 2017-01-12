@@ -116,6 +116,6 @@ a b c d e
  [vector::generic_value (STL/CLR)](../dotnet/vector-generic-value-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

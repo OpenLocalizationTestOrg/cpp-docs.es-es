@@ -100,6 +100,6 @@ struct S {
  (The compiler in Visual Studio 2013 does this implicitly prior to Visual Studio 2013 Update 3.)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

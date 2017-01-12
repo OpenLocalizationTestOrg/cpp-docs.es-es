@@ -164,6 +164,6 @@ Memory freed
  [_aligned_malloc](../../c-runtime-library/reference/aligned-malloc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

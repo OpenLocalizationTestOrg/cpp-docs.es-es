@@ -54,6 +54,6 @@ template MyClass< int, 1>;              // C4662
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

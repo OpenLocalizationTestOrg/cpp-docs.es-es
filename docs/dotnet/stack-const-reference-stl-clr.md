@@ -92,6 +92,6 @@ c b a
  [stack::value_type (STL/CLR)](../dotnet/stack-value-type-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

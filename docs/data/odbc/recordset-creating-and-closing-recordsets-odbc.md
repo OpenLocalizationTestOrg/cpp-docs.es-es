@@ -134,6 +134,6 @@ if(!rsStudent.Open(CRecordset::snapshot, NULL, CRecordset::readOnly))
  [Recordset: Adding, Updating, and Deleting Records (ODBC)](../../data/odbc/recordset-adding-updating-and-deleting-records-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

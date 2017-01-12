@@ -98,6 +98,6 @@ empty() = True
  [deque::size (STL/CLR)](../dotnet/deque-size-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

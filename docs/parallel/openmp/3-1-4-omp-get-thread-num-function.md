@@ -51,6 +51,6 @@ int omp_get_thread_num(void);
 -   `omp_get_num_threads` function, see [Section 3.1.2](../../parallel/openmp/3-1-2-omp-get-num-threads-function.md) on page 37.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

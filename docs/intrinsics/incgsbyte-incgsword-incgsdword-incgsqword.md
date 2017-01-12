@@ -96,6 +96,6 @@ void __incgsqword(
  [Compiler Intrinsics](../intrinsics/compiler-intrinsics.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

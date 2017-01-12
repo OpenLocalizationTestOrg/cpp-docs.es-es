@@ -44,6 +44,6 @@ nonstandard extension used : non-lvalue array converted to pointer
  In standard C, you cannot convert a non-lvalue array to a pointer. With the default Microsoft extensions ([/Ze](../../build/reference/za-ze-disable-language-extensions.md)), you can.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -59,6 +59,6 @@ In C++, object construction and destruction can involve executing user code. The
  [Startup and Termination](../cpp/startup-and-termination-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

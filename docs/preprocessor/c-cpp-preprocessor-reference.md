@@ -71,6 +71,6 @@ The *C/C++ Preprocessor Reference* explains the preprocessor as it is implemente
  Describes the user interface in Visual Studio that enables you to specify the directories that the project system will search to locate files for your C++ project.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ void omp_set_nested(int nested);
 -   **omp_in_parallel** function, see [Section 3.1.6](../../parallel/openmp/3-1-6-omp-in-parallel-function.md) on page 38.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

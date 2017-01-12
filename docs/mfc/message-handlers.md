@@ -56,6 +56,6 @@ In MFC, a dedicated *handler* function processes each separate message. Message-
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

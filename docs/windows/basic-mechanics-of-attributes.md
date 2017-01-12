@@ -57,6 +57,6 @@ There are three ways to insert attributes into your project. First, you can inse
  [Concepts](../windows/attributed-programming-concepts.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

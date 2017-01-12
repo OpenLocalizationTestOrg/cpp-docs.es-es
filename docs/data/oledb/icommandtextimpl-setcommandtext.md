@@ -64,6 +64,6 @@ Sets the command text, replacing the existing command text.
  [ICommandTextImpl::GetCommandText](../../data/oledb/icommandtextimpl-getcommandtext.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

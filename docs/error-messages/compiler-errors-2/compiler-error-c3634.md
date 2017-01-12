@@ -59,6 +59,6 @@ void C::f() {   // C3634 - don't define managed class' pure virtual method
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

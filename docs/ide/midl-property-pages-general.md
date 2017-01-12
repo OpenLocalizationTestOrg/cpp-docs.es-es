@@ -78,6 +78,6 @@ The **General** property page in the **MIDL** folder specifies the following MID
  [MIDL Property Pages](../ide/midl-property-pages.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

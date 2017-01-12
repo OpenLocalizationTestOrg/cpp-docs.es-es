@@ -48,6 +48,6 @@ Technical Note 60, describing the new Windows common controls and how to use the
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

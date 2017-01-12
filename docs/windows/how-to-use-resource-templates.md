@@ -98,6 +98,6 @@ A resource template is a customized resource that you have saved as an .rct file
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

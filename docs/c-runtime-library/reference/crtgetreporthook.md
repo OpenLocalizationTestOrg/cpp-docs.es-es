@@ -95,6 +95,6 @@ _CRT_REPORT_HOOK _CrtGetReportHook( void );
  [_CrtSetReportHook](../../c-runtime-library/reference/crtsetreporthook.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

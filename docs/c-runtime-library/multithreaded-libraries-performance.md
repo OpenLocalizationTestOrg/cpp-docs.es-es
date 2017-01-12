@@ -62,6 +62,6 @@ The single-threaded CRT is no longer available. This topic discusses how to get 
  [CRT Library Features](../c-runtime-library/crt-library-features.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

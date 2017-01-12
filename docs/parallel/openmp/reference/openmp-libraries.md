@@ -54,6 +54,6 @@ Discusses the .lib files that make up the OpenMP run-time libraries in Visual C+
  [Library Reference](../../../parallel/openmp/reference/openmp-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

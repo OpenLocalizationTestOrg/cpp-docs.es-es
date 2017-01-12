@@ -88,6 +88,6 @@ The following topics describe how Visual C++ can target the .NET platform.
  [Native and .NET Interoperability](../dotnet/native-and-dotnet-interoperability.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

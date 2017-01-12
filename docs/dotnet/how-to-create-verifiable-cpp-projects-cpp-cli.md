@@ -80,6 +80,6 @@ Visual C++ application wizards do not create verifiable projects, but projects c
  [Pure and Verifiable Code (C++/CLI)](../dotnet/pure-and-verifiable-code-cpp-cli.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

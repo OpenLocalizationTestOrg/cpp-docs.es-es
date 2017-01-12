@@ -61,6 +61,6 @@ Visual C++ provides the following command-line tools for viewing or manipulating
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

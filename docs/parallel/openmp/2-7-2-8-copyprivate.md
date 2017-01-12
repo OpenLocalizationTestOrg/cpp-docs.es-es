@@ -58,6 +58,6 @@ variable-list
 -   A variable that is specified in the **copyprivate** clause must have an accessible unambiguous copy assignment operator.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

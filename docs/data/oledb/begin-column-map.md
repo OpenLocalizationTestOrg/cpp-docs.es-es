@@ -78,6 +78,6 @@ x
  [COLUMN_ENTRY_EX](../../data/oledb/column-entry-ex.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

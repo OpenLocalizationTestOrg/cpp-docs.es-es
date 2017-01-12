@@ -82,6 +82,6 @@ ms.openlocfilehash: dab6e663cbe480597cb5766bf1f8e687f9a9d451
  [OLE DB Interfaces](https://msdn.microsoft.com/en-us/library/ms709709.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

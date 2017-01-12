@@ -55,6 +55,6 @@ The user can directly edit the labels of items in a tree control ([CTreeCtrl](..
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -102,6 +102,6 @@ Multibyte character sets (MBCSs) are an older approach to the need to support ch
  [MBCS Support in Visual C++](../text/mbcs-support-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -59,6 +59,6 @@ You can determine data types on a rowset at compile time or at run time.
  [Using Accessors](../../data/oledb/using-accessors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

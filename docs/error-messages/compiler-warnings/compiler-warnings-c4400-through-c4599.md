@@ -253,6 +253,6 @@ The articles in this part of the documentation contain information about a subse
 |Compiler warning (level 1) C4595|'%$S': behavior change: destructor will no longer be implicitly called if an exception is thrown|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

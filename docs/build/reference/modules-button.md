@@ -43,6 +43,6 @@ Click the **Modules** button to bring up the **Additional Modules for Error Sear
  [Value Edit Control](../../build/reference/value-edit-control.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

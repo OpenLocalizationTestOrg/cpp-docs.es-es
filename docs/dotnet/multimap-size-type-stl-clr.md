@@ -95,6 +95,6 @@ end()-begin() = 3
  [multimap::empty (STL/CLR)](../dotnet/multimap-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

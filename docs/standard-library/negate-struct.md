@@ -131,6 +131,6 @@ The negated elements of the vector = ( 10 5 0 -5 -10 -15 -20 -25 )
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

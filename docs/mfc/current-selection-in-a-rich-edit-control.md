@@ -57,6 +57,6 @@ The user can select text in a rich edit control ([CRichEditCtrl](../mfc/referenc
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ Schema (or metadata) is any information about a database's structure or organiza
  [OLE DB Consumer Templates](../../data/oledb/ole-db-consumer-templates-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

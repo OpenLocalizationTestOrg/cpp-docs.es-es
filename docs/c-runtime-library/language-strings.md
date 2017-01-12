@@ -117,6 +117,6 @@ The `setlocale` and `_create_locale` functions can use the Windows NLS API suppo
  [_create_locale, _wcreate_locale](../c-runtime-library/reference/create-locale-wcreate-locale.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

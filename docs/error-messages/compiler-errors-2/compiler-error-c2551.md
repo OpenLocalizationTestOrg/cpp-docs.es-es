@@ -45,6 +45,6 @@ ms.openlocfilehash: f106b292fbb4fd8bcc8717b8dd00bef4ed31619a
  A `void` pointer is assigned to a nonvoid pointer by implicit conversion. You must use an explicit cast.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

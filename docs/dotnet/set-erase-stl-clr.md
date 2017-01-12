@@ -130,6 +130,6 @@ size() = 1
  [set::clear (STL/CLR)](../dotnet/set-clear-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

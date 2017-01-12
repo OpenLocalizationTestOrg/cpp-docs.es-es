@@ -74,6 +74,6 @@ If you have already created an MFC-based application, then you can add support f
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

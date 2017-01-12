@@ -70,6 +70,6 @@ Enables you to create a new device image of a specified type. To open the **New 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

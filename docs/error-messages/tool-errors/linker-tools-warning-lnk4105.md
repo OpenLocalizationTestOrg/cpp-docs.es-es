@@ -54,6 +54,6 @@ link /libpath:c:\filepath\lib bar.obj
  would direct the linker to search for the required libraries in `c:\filepath\lib` before searching in the default locations.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -60,6 +60,6 @@ Provides links to clauses used in the OpenMP API.
  [Directives](../../../parallel/openmp/reference/openmp-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

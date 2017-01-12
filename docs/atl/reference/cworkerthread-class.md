@@ -270,6 +270,6 @@ HRESULT Shutdown(DWORD   dwWait = ATL_WORKER_THREAD_WAIT) throw();
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

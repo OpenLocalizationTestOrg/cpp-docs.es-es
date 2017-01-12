@@ -48,6 +48,6 @@ A [manifest](http://msdn.microsoft.com/library/aa375365) is an XML document that
  [Building C/C++ Isolated Applications and Side-by-side Assemblies](../build/building-c-cpp-isolated-applications-and-side-by-side-assemblies.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

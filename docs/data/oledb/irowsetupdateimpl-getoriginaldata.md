@@ -66,6 +66,6 @@ Gets the data most recently transmitted to or obtained from the data source, ign
  [IRowsetUpdateImpl Class](../../data/oledb/irowsetupdateimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

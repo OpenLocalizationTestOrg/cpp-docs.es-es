@@ -91,6 +91,6 @@ Specifies the execution environment that's required by the executable image.
  [EDITBIN Options](../../build/reference/editbin-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -52,6 +52,6 @@ A database schema describes the current structure of the tables and database vie
  [Recordset (ODBC)](../data/odbc/recordset-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

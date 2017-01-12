@@ -48,6 +48,6 @@ ms.openlocfilehash: 6df09e7116f73498d87ecff9beed1765a302103c
 2.  The identifier is not a member of the structure or union specified with the member-selection (.) operator.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

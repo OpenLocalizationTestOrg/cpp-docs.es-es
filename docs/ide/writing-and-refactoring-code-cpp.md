@@ -127,6 +127,6 @@ The Visual C++ code editor and IDE provide many coding aids. Some are unique to 
  ![Visual Studio Quick Launch](../ide/media/vs2015_cpp_quick_launch.png "vs2015_cpp_quick_launch")
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

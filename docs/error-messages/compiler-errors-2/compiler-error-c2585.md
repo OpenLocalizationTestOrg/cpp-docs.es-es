@@ -50,6 +50,6 @@ explicit conversion to 'type' is ambiguous
 2.  A conversion operator and a constructor have been defined making the same conversion.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

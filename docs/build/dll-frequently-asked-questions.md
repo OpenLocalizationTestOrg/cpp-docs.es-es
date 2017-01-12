@@ -55,6 +55,6 @@ Following are some frequently asked questions (FAQ) about DLLs.
  [DLLs in Visual C++](../build/dlls-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

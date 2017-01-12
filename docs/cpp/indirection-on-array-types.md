@@ -44,6 +44,6 @@ Use of the indirection operator (**\***) on an *n*-dimensional array type yields
  [Arrays](../cpp/arrays-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

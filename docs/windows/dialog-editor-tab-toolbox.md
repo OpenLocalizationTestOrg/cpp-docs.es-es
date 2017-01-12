@@ -123,6 +123,6 @@ The Dialog Editor tab appears in the [Toolbox window](/visualstudio/ide/referenc
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

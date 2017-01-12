@@ -48,6 +48,6 @@ ms.openlocfilehash: d312a819b5e91386d805635fdd588b72ee842cfe
 -   The precompiled header is C++ and you are using it from C. Try recompiling the header for use with C by specifying one of the [/Tc](../../build/reference/tc-tp-tc-tp-specify-source-file-type.md) compiler options, or changing the suffix of the source file to "c". For more information, see [Two Choices for Precompiling Code](../../build/reference/two-choices-for-precompiling-code.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

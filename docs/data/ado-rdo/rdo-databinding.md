@@ -51,6 +51,6 @@ This section discusses the use of the databinding ActiveX controls that are buil
  [Databinding with ActiveX Controls in Visual C++](../../data/ado-rdo/databinding-with-activex-controls-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

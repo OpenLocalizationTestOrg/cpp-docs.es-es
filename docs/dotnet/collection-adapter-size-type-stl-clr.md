@@ -91,6 +91,6 @@ size() = 6
  [collection_adapter (STL/CLR)](../dotnet/collection-adapter-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

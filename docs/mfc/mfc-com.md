@@ -93,6 +93,6 @@ A subset of MFC is designed to support COM, while most of the Active Template Li
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

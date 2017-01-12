@@ -99,6 +99,6 @@ top_item = c
  [stack::top (STL/CLR)](../dotnet/stack-top-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

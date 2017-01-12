@@ -148,6 +148,6 @@ The Printing Loop
  [CDC Class](../mfc/reference/cdc-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

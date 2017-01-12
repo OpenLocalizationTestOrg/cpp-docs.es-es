@@ -70,6 +70,6 @@ Broadcasts an [OnFieldChange](https://msdn.microsoft.com/en-us/library/ms715961.
  [IRowsetNotifyCP Class](../../data/oledb/irowsetnotifycp-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

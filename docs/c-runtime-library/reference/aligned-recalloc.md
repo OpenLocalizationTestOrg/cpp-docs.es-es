@@ -109,6 +109,6 @@ void * _aligned_recalloc(
  [_aligned_offset_recalloc](../../c-runtime-library/reference/aligned-offset-recalloc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

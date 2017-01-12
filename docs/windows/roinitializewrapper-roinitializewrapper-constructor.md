@@ -62,6 +62,6 @@ RoInitializeWrapper(   RO_INIT_TYPE flags)
  [HandleT Class](../windows/handlet-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -136,6 +136,6 @@ The debug version of the C run-time library supplies many diagnostic services th
  [Run-Time Error Checking](../c-runtime-library/run-time-error-checking.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

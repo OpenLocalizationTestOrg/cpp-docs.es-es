@@ -61,6 +61,6 @@ The following files are created when you create a project in Visual Studio. They
  [File Types Created for Visual C++ Projects](../ide/file-types-created-for-visual-cpp-projects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

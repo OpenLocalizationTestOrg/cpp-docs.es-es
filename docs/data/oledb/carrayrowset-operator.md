@@ -72,6 +72,6 @@ Provides array-like syntax for accessing a row in the rowset.
  [CArrayRowset Class](../../data/oledb/carrayrowset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

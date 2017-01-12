@@ -156,6 +156,6 @@ struct __declspec(novtable) Implements<RuntimeClassFlags<flags>, I0, I1, I2, I3,
  [Microsoft::WRL Namespace](../windows/microsoft-wrl-namespace.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

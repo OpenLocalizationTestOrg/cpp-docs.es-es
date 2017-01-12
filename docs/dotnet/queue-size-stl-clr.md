@@ -101,6 +101,6 @@ size() = 4 after adding 2
  [queue::empty (STL/CLR)](../dotnet/queue-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

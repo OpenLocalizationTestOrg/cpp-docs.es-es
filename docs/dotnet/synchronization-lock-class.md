@@ -46,6 +46,6 @@ Provides a mechanism to automate taking a lock that synchronizes access to an ob
  [C++ Support Library](../dotnet/cpp-support-library.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

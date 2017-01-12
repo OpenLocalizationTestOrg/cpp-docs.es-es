@@ -61,6 +61,6 @@ In **Class View**, you can add a member function to any class. When you do this,
  [Navigating the Class Structure](../ide/navigating-the-class-structure-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

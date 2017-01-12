@@ -87,6 +87,6 @@ ms.openlocfilehash: 95e5833f83f9678756e6aa2957784b1821047836
 -   See <xref:Microsoft.VisualStudio.VCProjectEngine.VCLinkerTool.AdditionalOptions%2A>.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

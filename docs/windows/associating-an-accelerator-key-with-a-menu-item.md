@@ -50,6 +50,6 @@ Many times, you want a menu item and a keyboard combination to issue the same pr
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

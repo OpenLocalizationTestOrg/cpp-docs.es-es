@@ -48,6 +48,6 @@ ms.openlocfilehash: 92992650559b9c9e4c1a2234991f7368a7135b34
  [Creating Precompiled Header Files](../../build/reference/creating-precompiled-header-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

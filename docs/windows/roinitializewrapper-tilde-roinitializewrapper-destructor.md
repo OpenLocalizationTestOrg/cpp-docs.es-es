@@ -58,6 +58,6 @@ Uninitializes the [!INCLUDE[wrt](../atl/reference/includes/wrt_md.md)].
  [HandleT Class](../windows/handlet-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

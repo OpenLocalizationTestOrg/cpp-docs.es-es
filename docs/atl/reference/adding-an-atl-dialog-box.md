@@ -64,6 +64,6 @@ To add an ATL dialog to your project, your project must be either an ATL project
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

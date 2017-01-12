@@ -169,6 +169,6 @@ buffer: '-1.23456789012e-002' (19 chars)
  [_fcvt](../../c-runtime-library/reference/fcvt.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

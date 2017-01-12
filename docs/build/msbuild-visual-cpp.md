@@ -58,6 +58,6 @@ You can use the **MSBuild** tool to build a Visual C++ application from the comm
  [Building on the Command Line](../build/building-on-the-command-line.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

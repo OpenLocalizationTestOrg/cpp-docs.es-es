@@ -48,6 +48,6 @@ Identifiers can have integral, **float**, `enum`, `struct`, **union**, array, po
  [C Primary Expressions](../c-language/c-primary-expressions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

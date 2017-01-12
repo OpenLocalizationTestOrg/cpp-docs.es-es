@@ -63,6 +63,6 @@ Class [CStringT](../atl-mfc-shared/reference/cstringt-class.md) is a template cl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

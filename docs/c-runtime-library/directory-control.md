@@ -64,6 +64,6 @@ These routines access, modify, and obtain information about the directory struct
  [System Calls](../c-runtime-library/system-calls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

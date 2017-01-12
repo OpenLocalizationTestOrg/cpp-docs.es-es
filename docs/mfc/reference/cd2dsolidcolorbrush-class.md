@@ -240,6 +240,6 @@ void SetColor(D2D1_COLOR_F color);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

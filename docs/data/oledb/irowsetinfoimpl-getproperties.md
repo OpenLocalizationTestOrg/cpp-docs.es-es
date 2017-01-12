@@ -69,6 +69,6 @@ Returns the current settings for properties in the **DBPROPSET_ROWSET** group.
  [IRowsetInfoImpl::GetSpecification](../../data/oledb/irowsetinfoimpl-getspecification.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

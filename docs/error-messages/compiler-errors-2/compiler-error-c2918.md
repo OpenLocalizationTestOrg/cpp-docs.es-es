@@ -44,6 +44,6 @@ ms.openlocfilehash: ae6b78dac513a78bf241bc098a5bd24124005d7e
  Indexed properties are not supported on the published surface of a WinRT type.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

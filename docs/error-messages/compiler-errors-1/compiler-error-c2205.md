@@ -44,6 +44,6 @@ ms.openlocfilehash: d5eccb039d3c400d3a37b5bbdafc83549a36ef74
  An `extern` variable cannot be initialized in a function.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

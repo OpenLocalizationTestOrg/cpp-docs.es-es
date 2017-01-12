@@ -198,6 +198,6 @@ Position for end of file seek = 57
  [_tell, _telli64](../../c-runtime-library/reference/tell-telli64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

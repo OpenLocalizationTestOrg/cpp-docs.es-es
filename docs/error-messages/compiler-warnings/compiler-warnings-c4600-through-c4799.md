@@ -233,6 +233,6 @@ The articles in this part of the documentation contain information about a subse
 |[Compiler Warning (level 1) C4799](../../error-messages/compiler-warnings/compiler-warning-level-1-c4799.md)|function 'function' has no EMMS instruction|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

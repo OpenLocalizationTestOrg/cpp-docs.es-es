@@ -47,6 +47,6 @@ The [CMNCTRL1](../visual-cpp-samples.md) sample application demonstrates the var
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

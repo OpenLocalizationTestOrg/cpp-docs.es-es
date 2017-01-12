@@ -98,6 +98,6 @@ empty() = True
  [list::size (STL/CLR)](../dotnet/list-size-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -189,6 +189,6 @@ string = 3.14159This stopped it
  [_free_locale](../../c-runtime-library/reference/free-locale.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: c4a5b62fe3664f702108eae12e11801ee02eb523
  An undefined identifier is used with the `SIZE`, `LENGTH`, or member-selection (.) operator.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

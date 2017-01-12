@@ -67,6 +67,6 @@ C and C++ compiler options can be set either in the development environment or o
  [Compiler Options](../../build/reference/compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

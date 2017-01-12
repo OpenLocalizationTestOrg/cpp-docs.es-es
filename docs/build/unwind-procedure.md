@@ -61,6 +61,6 @@ The unwind code array is sorted into descending order. When an exception occurs,
  [Exception Handling (x64)](../build/exception-handling-x64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

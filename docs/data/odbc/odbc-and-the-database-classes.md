@@ -51,6 +51,6 @@ The MFC ODBC database classes encapsulate the ODBC API function calls you would 
  [ODBC Basics](../../data/odbc/odbc-basics.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

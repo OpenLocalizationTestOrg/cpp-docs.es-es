@@ -74,6 +74,6 @@ As users interact with the date and time picker control, the control (`CDateTime
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

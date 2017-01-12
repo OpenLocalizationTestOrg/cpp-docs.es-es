@@ -69,6 +69,6 @@ This article explains how to pass [CString](../atl-mfc-shared/reference/cstringt
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

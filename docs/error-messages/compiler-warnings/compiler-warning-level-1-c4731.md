@@ -66,6 +66,6 @@ void bad(int p) {
  EBP is the frame pointer (FPO is disallowed) and it is being modified. When `p` is later referenced, it is referenced relative to `EBP`. But `EBP` has been overwritten by the code, so the program will not work properly and may even fault.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

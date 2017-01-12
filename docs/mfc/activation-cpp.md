@@ -74,6 +74,6 @@ This article explains the role of activation in the visual editing of OLE items.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: d4bae05574324b204d5bf8ef6e439167c23b81a9
  The type is defined as an operand or in prototype scope.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

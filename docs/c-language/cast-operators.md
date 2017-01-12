@@ -55,6 +55,6 @@ A type cast provides a method for explicit conversion of the type of an object i
  [Cast Operator: ()](../cpp/cast-operator-parens.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

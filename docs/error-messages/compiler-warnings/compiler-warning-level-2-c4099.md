@@ -54,6 +54,6 @@ class A {};   // C4099, use different identifer or use same object type
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

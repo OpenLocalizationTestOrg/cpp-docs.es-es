@@ -50,6 +50,6 @@ If the first declaration at file-scope level for an identifier does not use the 
  [Using extern to Specify Linkage](../cpp/using-extern-to-specify-linkage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

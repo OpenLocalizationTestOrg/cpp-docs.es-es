@@ -74,6 +74,6 @@ Nearly all drawing in your application occurs in the view's `OnDraw` member func
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

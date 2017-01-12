@@ -84,6 +84,6 @@ data )
  [BLOB_NAME_STATUS](../../data/oledb/blob-name-status.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

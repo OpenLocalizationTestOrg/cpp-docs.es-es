@@ -111,6 +111,6 @@ armasm [[options]] -o objectfile sourcefile
  [ARM Assembler Directives](../../assembler/arm/arm-assembler-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

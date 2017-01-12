@@ -63,6 +63,6 @@ Microsoft provides several implementations of OLE DB, a set of COM interfaces th
  [OLE DB Templates Samples](http://msdn.microsoft.com/en-us/08958863-0b5f-41ad-ae99-fca7440c553c)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

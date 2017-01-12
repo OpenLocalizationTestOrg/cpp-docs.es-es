@@ -51,6 +51,6 @@ The amount of storage required for an address and the meaning of the address dep
  [Pointer Declarations](../c-language/pointer-declarations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

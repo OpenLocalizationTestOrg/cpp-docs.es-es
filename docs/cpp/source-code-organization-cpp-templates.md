@@ -112,6 +112,6 @@ template MyArray<double, 5>;template MyArray<string, 5>;
 >  In C++11 the `export` keyword was deprecated in the context of template definitions. In practical terms this has little impact because most compilers never supported it.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

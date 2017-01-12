@@ -60,6 +60,6 @@ CAtlArray<DBROWCOUNT> m_rgBookmarks;
  [IRowsetLocateImpl Class](../../data/oledb/irowsetlocateimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

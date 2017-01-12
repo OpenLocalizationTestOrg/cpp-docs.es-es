@@ -69,6 +69,6 @@ The STL/CLR header `<cliext/adapter>` specifies two template classes (`collectio
  [STL/CLR Library Reference](../dotnet/stl-clr-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

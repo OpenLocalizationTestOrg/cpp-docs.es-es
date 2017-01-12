@@ -145,6 +145,6 @@ in ClassA destructor:fourth
  [auto_gcroot::release](../dotnet/auto-gcroot-release.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

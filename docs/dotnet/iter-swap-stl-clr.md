@@ -60,6 +60,6 @@ template<class _FwdIt1, class _FwdIt2> inline
  [algorithm (STL/CLR)](../dotnet/algorithm-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -146,6 +146,6 @@ Position after trying to read 100 bytes: 100
  [_lseek, _lseeki64](../../c-runtime-library/reference/lseek-lseeki64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

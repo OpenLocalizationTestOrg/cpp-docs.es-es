@@ -92,6 +92,6 @@ void _aligned_free (
  [Data Alignment](../../c-runtime-library/data-alignment.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

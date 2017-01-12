@@ -71,6 +71,6 @@ The header control is not directly available in the dialog editor (although you 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

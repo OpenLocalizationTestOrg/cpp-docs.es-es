@@ -67,6 +67,6 @@ If you open a manifest resource from [Resource View](../windows/resource-view-wi
  [Working with Resource Files](../mfc/working-with-resource-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

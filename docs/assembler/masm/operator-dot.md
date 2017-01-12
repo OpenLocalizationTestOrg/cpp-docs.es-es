@@ -56,6 +56,6 @@ The first operator returns *expression* plus the offset of *field* within its st
  [Operators Reference](../../assembler/masm/operators-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

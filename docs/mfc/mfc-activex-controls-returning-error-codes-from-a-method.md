@@ -62,6 +62,6 @@ This article describes how to return error codes from an ActiveX control method.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -74,6 +74,6 @@ Override this method to check for security, integrity, and so on before updates.
  [IRowsetUpdateImpl Class](../../data/oledb/irowsetupdateimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

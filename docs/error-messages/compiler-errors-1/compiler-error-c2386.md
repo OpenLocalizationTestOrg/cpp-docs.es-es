@@ -57,6 +57,6 @@ namespace i = A;   // C2386, i already exists
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -78,6 +78,6 @@ A tree control, represented by the class [CTreeCtrl](../mfc/reference/ctreectrl-
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

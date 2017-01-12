@@ -54,6 +54,6 @@ unresolved module reference 'module'
  For more information, see [/ASSEMBLYMODULE (Add a MSIL Module to the Assembly)](../../build/reference/assemblymodule-add-a-msil-module-to-the-assembly.md) and [.netmodule Files as Linker Input](../../build/reference/netmodule-files-as-linker-input.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

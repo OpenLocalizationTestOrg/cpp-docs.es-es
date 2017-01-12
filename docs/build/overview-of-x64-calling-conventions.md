@@ -56,6 +56,6 @@ Two important differences between x86 and [!INCLUDE[vcprx64](../assembler/inline
  [x64 Software Conventions](../build/x64-software-conventions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

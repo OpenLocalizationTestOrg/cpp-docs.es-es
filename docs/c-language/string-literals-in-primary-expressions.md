@@ -44,6 +44,6 @@ A "string literal" is a character, wide character, or sequence of adjacent chara
  [C Primary Expressions](../c-language/c-primary-expressions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

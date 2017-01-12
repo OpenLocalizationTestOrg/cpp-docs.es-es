@@ -130,6 +130,6 @@ A toolbar is a [control bar](../mfc/control-bars.md) that contains the bitmap im
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

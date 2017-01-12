@@ -55,6 +55,6 @@ Beginning with MFC 4.2, there is multithreading support for the MFC ODBC classes
  [Data Access Programming (MFC/ATL)](../../data/data-access-programming-mfc-atl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

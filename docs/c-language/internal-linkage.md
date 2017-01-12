@@ -47,6 +47,6 @@ If the declaration of a file-scope identifier for an object or a function contai
  [Using extern to Specify Linkage](../cpp/using-extern-to-specify-linkage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

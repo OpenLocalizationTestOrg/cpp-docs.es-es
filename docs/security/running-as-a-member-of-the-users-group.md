@@ -75,6 +75,6 @@ This topic explains how configuring Windows user accounts as a member of the Use
  [Security Best Practices](security-best-practices-for-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

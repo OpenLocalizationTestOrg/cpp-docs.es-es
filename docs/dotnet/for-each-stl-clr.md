@@ -60,6 +60,6 @@ template<class _InIt, class _Fn1> inline
  [algorithm (STL/CLR)](../dotnet/algorithm-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

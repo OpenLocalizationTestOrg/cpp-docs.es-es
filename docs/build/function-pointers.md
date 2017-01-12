@@ -43,6 +43,6 @@ Function pointers are simply pointers to the label of the respective function. T
  [Calling Convention](../build/calling-convention.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

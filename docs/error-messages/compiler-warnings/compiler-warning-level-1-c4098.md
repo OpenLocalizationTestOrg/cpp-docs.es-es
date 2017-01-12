@@ -44,6 +44,6 @@ ms.openlocfilehash: b99ed0ad98ee51e754ca15435f7ada45177767f2
  A function declared with return type [void](../../cpp/void-cpp.md) has a `return` statement that returns a value. The compiler assumes the function returns a value of type `int`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

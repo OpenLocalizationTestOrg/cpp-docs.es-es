@@ -142,6 +142,6 @@ CYourNameApp theApp;
  [MFC Database Classes (ODBC and DAO)](../data/mfc-database-classes-odbc-and-dao.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

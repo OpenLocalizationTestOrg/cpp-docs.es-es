@@ -84,6 +84,6 @@ This topic provides information for UNIX users who are new to [!INCLUDE[vcprvc](
  [Visual C++ Guided Tour](http://msdn.microsoft.com/en-us/499cb66f-7df1-45d6-8b6b-33d94fd1f17c)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

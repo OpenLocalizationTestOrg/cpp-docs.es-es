@@ -70,6 +70,6 @@ int main() {
  Right: `String * myString = checkedListBox1->CheckedItems->Item[0]->ToString();`
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

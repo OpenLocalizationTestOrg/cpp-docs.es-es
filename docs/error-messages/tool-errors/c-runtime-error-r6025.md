@@ -60,6 +60,6 @@ pure virtual function call
  For more information, see the [Microsoft support](http://go.microsoft.com/fwlink/?LinkId=75220) website.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

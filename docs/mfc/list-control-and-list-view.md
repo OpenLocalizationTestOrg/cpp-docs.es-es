@@ -68,6 +68,6 @@ For convenience, MFC encapsulates the list control in two ways. You can use list
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -51,6 +51,6 @@ decltype expects an expression not a type
  `decltype(int); // C3553`
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

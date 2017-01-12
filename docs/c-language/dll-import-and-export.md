@@ -50,6 +50,6 @@ ms.openlocfilehash: 9f71b871c4213f0b17c9049b0bb341cf6a3acbe5
  [C Extended Storage-Class Attributes](../c-language/c-extended-storage-class-attributes.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

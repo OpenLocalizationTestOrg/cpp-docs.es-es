@@ -68,6 +68,6 @@ ms.openlocfilehash: ed9f243e187bfa6ed9cdd29eb58580385dc75c04
  [_bstr_t Class](../cpp/bstr-t-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

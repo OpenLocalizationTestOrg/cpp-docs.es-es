@@ -108,6 +108,6 @@ int fesetexceptflag(
  [fegetexceptflag](../../c-runtime-library/reference/fegetexceptflag2.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

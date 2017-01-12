@@ -45,6 +45,6 @@ The [MS-DOS Stub File Name](../../build/reference/stub-ms-dos-stub-file-name.md)
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

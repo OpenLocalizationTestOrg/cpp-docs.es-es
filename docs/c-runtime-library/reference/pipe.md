@@ -375,6 +375,6 @@ This is speaker beep number 10...
  [_open, _wopen](../../c-runtime-library/reference/open-wopen.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -94,6 +94,6 @@ OLE DB is an important part of the Microsoft Universal Data Access strategy. The
  [OLE DB Programmer's Reference](https://msdn.microsoft.com/en-us/library/ms713643.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

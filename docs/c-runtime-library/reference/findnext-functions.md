@@ -266,6 +266,6 @@ int _wfindnext64i32(
  [Filename Search Functions](../../c-runtime-library/filename-search-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

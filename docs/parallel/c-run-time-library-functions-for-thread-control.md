@@ -69,6 +69,6 @@ All Win32 programs have at least one thread. Any thread can create additional th
  [Multithreading with C and Win32](../parallel/multithreading-with-c-and-win32.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

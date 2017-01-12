@@ -44,6 +44,6 @@ ms.openlocfilehash: b43c54a3ce20a938eed08ded2255829da32c5480
  A required attribute for a function is not explicitly stated. For example, the function **main** must have the `__cdecl` attribute. The compiler forces the attribute.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

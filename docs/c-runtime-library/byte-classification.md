@@ -77,6 +77,6 @@ Each of these routines tests a specified byte of a multibyte character for satis
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

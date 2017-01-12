@@ -43,6 +43,6 @@ The **Error Message** box contains the text of the system error message or modul
  [Value Edit Control](../../build/reference/value-edit-control.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

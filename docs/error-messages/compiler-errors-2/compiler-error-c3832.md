@@ -44,6 +44,6 @@ ms.openlocfilehash: ec38573109ac61312cd9fd2008fad5a001a57b4f
  Explicit information supplied with the `ptrsize` attribute of the [#import](../../preprocessor/hash-import-directive-cpp.md) directive did not agree with what the compiler found in the type library.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

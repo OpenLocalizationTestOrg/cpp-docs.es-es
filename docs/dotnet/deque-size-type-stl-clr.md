@@ -92,6 +92,6 @@ end()-begin() = 3
  [deque::empty (STL/CLR)](../dotnet/deque-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

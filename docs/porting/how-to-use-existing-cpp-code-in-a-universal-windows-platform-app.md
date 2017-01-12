@@ -257,6 +257,6 @@ LNK4264: archiving object file compiled with /ZW into a static library; note tha
  [Porting to the Universal Windows Platform](../porting/porting-to-the-universal-windows-platform-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

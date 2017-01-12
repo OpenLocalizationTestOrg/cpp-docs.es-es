@@ -198,6 +198,6 @@ Visual C++ includes a command-line C++ compiler that you can use to create every
  [Compiler Options](../build/reference/compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

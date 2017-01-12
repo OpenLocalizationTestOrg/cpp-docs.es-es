@@ -58,6 +58,6 @@ The `// Attributes` section of an MFC class declaration contains the public attr
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

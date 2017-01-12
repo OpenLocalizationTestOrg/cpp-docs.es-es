@@ -73,6 +73,6 @@ This topic lists the data types most commonly used in the Microsoft Foundation C
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

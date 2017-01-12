@@ -63,6 +63,6 @@ MFC hosts a Windows Forms control as a special kind of ActiveX control and commu
  [Hosting a Windows Form User Control as an MFC Dialog Box](../dotnet/hosting-a-windows-form-user-control-as-an-mfc-dialog-box.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

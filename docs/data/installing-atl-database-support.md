@@ -47,6 +47,6 @@ Setup installs all the necessary components to support OLE DB programming as par
  [OLE DB Provider Templates](../data/oledb/ole-db-provider-templates-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

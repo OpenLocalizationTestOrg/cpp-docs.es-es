@@ -65,6 +65,6 @@ A pointer to one type of value can be converted to a pointer to a different type
  [Assignment Conversions](../c-language/assignment-conversions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -61,6 +61,6 @@ T** ReleaseAndGetAddressOf();
  [ComPtr::ptr_ Data Member](../windows/comptr-ptr-data-member.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

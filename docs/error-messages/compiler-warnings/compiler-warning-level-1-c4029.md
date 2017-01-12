@@ -44,6 +44,6 @@ declared formal parameter list different from definition
  Formal parameter types in the function declaration do not agree with those in the function definition. The compiler uses the parameter list from the definition.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

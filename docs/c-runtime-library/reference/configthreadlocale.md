@@ -219,6 +219,6 @@ The time in German locale is: 'Mittwoch, 12. Mai 2004'
  [Multithreading and Locales](../../parallel/multithreading-and-locales.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

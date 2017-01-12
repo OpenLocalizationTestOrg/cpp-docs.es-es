@@ -86,6 +86,6 @@ set OMP_SCHEDULE
  [Environment Variables](../../../parallel/openmp/reference/openmp-environment-variables.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -65,6 +65,6 @@ MFC supports several different ways of working with dates and times. These inclu
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

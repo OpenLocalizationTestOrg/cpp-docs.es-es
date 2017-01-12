@@ -64,6 +64,6 @@ For each dialog box in your program, create a new dialog class to work with the 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -55,6 +55,6 @@ int omp_get_num_threads(void);
 -   **parallel** construct, see [Section 2.3](../../parallel/openmp/2-3-parallel-construct.md) on page 8.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

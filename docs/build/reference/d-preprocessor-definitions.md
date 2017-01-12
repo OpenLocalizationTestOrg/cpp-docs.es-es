@@ -126,6 +126,6 @@ TEST defined 1
  [#define Directive (C/C++)](../../preprocessor/hash-define-directive-c-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

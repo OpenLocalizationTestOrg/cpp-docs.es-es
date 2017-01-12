@@ -118,6 +118,6 @@ SELECT CourseID, CourseTitle FROM Course WHERE CourseID = MATH101
  [Record Field Exchange (RFX)](../../data/odbc/record-field-exchange-rfx.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

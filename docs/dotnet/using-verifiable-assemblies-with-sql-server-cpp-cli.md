@@ -104,6 +104,6 @@ sqlcmd –S MyServer -E –i myScript.sql –o myResult.txt
  [Classes and Structs](../cpp/classes-and-structs-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

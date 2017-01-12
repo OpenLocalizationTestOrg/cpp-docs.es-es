@@ -60,6 +60,6 @@ The month calendar control ([CMonthCalCtrl](../mfc/reference/cmonthcalctrl-class
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

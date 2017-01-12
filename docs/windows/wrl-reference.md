@@ -59,6 +59,6 @@ This section contains reference information for the [!INCLUDE[cppwrl](../windows
  Introduces [!INCLUDE[cppwrl_short](../windows/includes/cppwrl_short_md.md)], a COM-based template library that provides a low-level way to author and use [!INCLUDE[wrt](../atl/reference/includes/wrt_md.md)] components.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

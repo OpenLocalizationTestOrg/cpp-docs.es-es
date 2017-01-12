@@ -54,6 +54,6 @@ If your application uses the MFC classes implementing the WebBrowser control (fo
  [Deploying Desktop Applications](../ide/deploying-native-desktop-applications-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

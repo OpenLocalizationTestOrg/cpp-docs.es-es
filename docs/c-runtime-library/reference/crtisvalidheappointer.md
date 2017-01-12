@@ -162,6 +162,6 @@ my_pointer is within the local heap.
  [Debug Routines](../../c-runtime-library/debug-routines.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

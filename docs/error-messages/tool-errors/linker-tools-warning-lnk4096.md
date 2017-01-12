@@ -44,6 +44,6 @@ ms.openlocfilehash: e0954fdb1762c829bc36ea547cfd57ee66815bf6
  The base address you specified is invalid. Windows 95 and Windows 98 executable files must have a base address greater than 0x400000. For more information on base addresses, see the [/BASE](../../build/reference/base-base-address.md) linker option.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

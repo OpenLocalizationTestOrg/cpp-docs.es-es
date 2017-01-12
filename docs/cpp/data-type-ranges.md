@@ -145,6 +145,6 @@ Visual C++ 32-bit and 64-bit compilers recognize the types in the table later in
  [Fundamental Types](../cpp/fundamental-types-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

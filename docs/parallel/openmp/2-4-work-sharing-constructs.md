@@ -48,6 +48,6 @@ A work-sharing construct distributes the execution of the associated statement a
 -   **single** directive
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ unable to /REBASE file; it has been signed
  You attempted to change the base address of a signed assembly with the /REBASE option for [editbin](../../build/reference/editbin-reference.md). To do this, first change the base address and then sign the assembly.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

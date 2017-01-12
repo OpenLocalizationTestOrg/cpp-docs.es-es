@@ -82,6 +82,6 @@ Object-code libraries for MFC use the following naming conventions. The library 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

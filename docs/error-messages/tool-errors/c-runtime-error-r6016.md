@@ -62,6 +62,6 @@ not enough space for thread data
  We recommend that an executable that calls the C runtime library (CRT) should use `_beginthreadex` for thread creation rather than the Windows API `CreateThread`. `_beginthreadex` initializes internal static storage used by many CRT functions in thread local storage. If you use `CreateThread` to create a thread, the CRT may terminate the process with R6016 when a call is made to a CRT function that requires initialized internal static storage.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

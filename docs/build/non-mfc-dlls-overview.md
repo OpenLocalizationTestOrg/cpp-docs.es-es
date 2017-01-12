@@ -64,6 +64,6 @@ A non-MFC DLL is a DLL that does not use MFC internally, and the exported functi
  [Kinds of DLLs](../build/kinds-of-dlls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

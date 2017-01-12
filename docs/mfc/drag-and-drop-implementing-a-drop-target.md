@@ -73,6 +73,6 @@ This article outlines how to make your application a drop target. Implementing a
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

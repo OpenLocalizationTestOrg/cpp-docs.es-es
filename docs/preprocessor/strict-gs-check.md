@@ -94,6 +94,6 @@ void ** ReverseArray(void **pData,
  [/GS (Buffer Security Check)](../build/reference/gs-buffer-security-check.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

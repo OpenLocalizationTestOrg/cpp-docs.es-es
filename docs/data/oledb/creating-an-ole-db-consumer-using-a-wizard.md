@@ -55,6 +55,6 @@ This procedure demonstrates how you can use the ATL Project Wizard and ATL OLE D
  [Creating an OLE DB Consumer](../../data/oledb/creating-an-ole-db-consumer.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

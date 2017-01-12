@@ -90,6 +90,6 @@ data
  [COLUMN_NAME_TYPE_STATUS](../../data/oledb/column-name-type-status.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

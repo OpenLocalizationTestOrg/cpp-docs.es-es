@@ -99,6 +99,6 @@ empty() = True
  [multiset::size (STL/CLR)](../dotnet/multiset-size-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

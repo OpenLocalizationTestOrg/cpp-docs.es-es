@@ -52,6 +52,6 @@ The MFC Application Wizard gives you a head start on your program development by
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

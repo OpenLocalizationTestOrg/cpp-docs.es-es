@@ -63,6 +63,6 @@ virtual ~WeakReference();
  [WeakReference Class](../windows/weakreference-class1.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -94,6 +94,6 @@ wint_t towctrans(
  [Data Conversion](../../c-runtime-library/data-conversion.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

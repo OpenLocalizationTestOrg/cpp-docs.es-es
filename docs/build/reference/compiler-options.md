@@ -82,6 +82,6 @@ cl.exe is a tool that controls the Microsoft C and C++ compilers and linker. cl.
  [CL Invokes the Linker](../../build/reference/cl-invokes-the-linker.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

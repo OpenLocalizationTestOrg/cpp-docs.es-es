@@ -66,6 +66,6 @@ When you use the [Application Wizard](../ide/creating-desktop-projects-by-using-
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -71,6 +71,6 @@ Gets the type of interface.
  [GetInterfaceClasses](../ide/getinterfaceclasses.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

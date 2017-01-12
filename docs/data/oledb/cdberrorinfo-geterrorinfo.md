@@ -70,6 +70,6 @@ Calls [IErrorRecords::GetErrorInfo](https://msdn.microsoft.com/en-us/library/ms7
  [CDBErrorInfo Class](../../data/oledb/cdberrorinfo-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

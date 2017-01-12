@@ -70,6 +70,6 @@ typedef int (x)(int);   // OK, no local definition in typedef
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

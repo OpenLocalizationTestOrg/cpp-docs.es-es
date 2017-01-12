@@ -59,6 +59,6 @@ const X x1;   // C4268
  As this instance of the class is **const**, the value of `m_data` cannot be changed.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

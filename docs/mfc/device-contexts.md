@@ -102,6 +102,6 @@ A device context is a Windows data structure containing information about the dr
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

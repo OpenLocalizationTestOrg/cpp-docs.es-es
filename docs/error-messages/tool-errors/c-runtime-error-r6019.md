@@ -57,6 +57,6 @@ unable to open console device
  This error occurs because the app called a console function, but the operating system did not grant access to the console. Except in debugging mode, console functions are generally not allowed in Windows Store apps. If your app requires administrator privileges to run, make sure it is installed to run as administrator by default.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

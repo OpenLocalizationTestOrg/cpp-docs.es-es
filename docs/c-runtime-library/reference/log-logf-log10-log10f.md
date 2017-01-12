@@ -204,6 +204,6 @@ Log base 2 of 65536.000000 is 16.000000
  [_CIlog10](../../c-runtime-library/cilog10.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

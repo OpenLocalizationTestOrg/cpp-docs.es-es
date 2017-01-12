@@ -76,6 +76,6 @@ New Item Box with Focus Shifted After You Type Menu Name
  [Menu Editor](../mfc/menu-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

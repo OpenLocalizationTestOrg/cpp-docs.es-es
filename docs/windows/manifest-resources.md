@@ -74,6 +74,6 @@ Manifest resources are XML files that describe the dependencies that an applicat
  [Working with Resource Files](../mfc/working-with-resource-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -54,6 +54,6 @@ name SQWORD initializer [[, initializer]]...
  [DQ](../../assembler/masm/dq.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

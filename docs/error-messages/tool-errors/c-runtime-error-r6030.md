@@ -59,6 +59,6 @@ CRT not initialized
  It's also possible to get this error when another program uses code injection techniques to trap certain DLL library calls. Some intrusive security programs use this technique. In versions of Visual C++ before Visual Studio 2015, it's possible to use a statically-linked CRT library to address the issue, but this is not recommended for reasons of security and application updates. Correcting this issue may require end-user action.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

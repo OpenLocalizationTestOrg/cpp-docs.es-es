@@ -137,6 +137,6 @@ frexp( 16.400000, &n ) = 0.512500, n = 5
  [modf, modff, modfl](../../c-runtime-library/reference/modf-modff-modfl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

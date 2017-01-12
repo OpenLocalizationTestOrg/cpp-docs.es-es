@@ -160,6 +160,6 @@ In _purecall_handler.
  [_purecall](../../c-runtime-library/reference/purecall.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -53,6 +53,6 @@ Designates a null pointer constant of type `std::nullptr_t`, which is convertibl
  [nullptr](../windows/nullptr-cpp-component-extensions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

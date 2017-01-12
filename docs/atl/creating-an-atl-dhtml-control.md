@@ -55,6 +55,6 @@ The ATL Control Wizard automates the process of creating a DHTML control. It gen
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

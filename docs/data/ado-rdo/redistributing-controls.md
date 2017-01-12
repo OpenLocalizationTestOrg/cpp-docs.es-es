@@ -76,6 +76,6 @@ Visual C++ .NET supplies ActiveX controls that you can use in applications. You 
  [MFC ActiveX Controls: Distributing ActiveX Controls](../../mfc/mfc-activex-controls-distributing-activex-controls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

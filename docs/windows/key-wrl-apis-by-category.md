@@ -94,6 +94,6 @@ The following tables list primary [!INCLUDE[cppwrl](../windows/includes/cppwrl_m
  [Windows Runtime C++ Template Library (WRL)](../windows/windows-runtime-cpp-template-library-wrl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

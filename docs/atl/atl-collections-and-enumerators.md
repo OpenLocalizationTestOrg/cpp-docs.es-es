@@ -71,6 +71,6 @@ A `collection` is a COM object that provides an interface that allows access to 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

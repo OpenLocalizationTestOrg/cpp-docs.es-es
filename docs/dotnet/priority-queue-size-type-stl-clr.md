@@ -96,6 +96,6 @@ size difference = 2
  [priority_queue::empty (STL/CLR)](../dotnet/priority-queue-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

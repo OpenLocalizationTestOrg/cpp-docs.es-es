@@ -70,6 +70,6 @@ Returns an array of ordinals of the columns in a rowset that are identified by t
  [IColumnsInfoImpl::GetColumnInfo](../../data/oledb/icolumnsinfoimpl-getcolumninfo.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

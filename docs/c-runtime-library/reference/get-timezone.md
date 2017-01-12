@@ -101,6 +101,6 @@ Retrieves the difference in seconds between coordinated universal time (UTC) and
  [_get_tzname](../../c-runtime-library/reference/get-tzname.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -63,6 +63,6 @@ Run-time type information (RTTI) is a mechanism that allows the type of an objec
  [Casting](../cpp/casting.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

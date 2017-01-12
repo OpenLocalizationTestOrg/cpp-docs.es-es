@@ -57,6 +57,6 @@ The controls in a dialog box can use the interfaces of MFC control classes such 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

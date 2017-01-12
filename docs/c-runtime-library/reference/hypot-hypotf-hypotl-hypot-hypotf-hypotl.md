@@ -155,6 +155,6 @@ If a right triangle has sides 3.0 and 4.0, its hypotenuse is 5.0
  [_matherr](../../c-runtime-library/reference/matherr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

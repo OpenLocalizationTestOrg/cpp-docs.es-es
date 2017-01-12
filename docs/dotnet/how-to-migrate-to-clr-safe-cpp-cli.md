@@ -98,6 +98,6 @@ Visual C++ can generate verifiable components by using **/clr:safe**, which caus
  [Pure and Verifiable Code (C++/CLI)](../dotnet/pure-and-verifiable-code-cpp-cli.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

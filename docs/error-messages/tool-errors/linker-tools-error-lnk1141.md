@@ -52,6 +52,6 @@ failure during build of exports file
  [.Exp Files as Linker Input](../../build/reference/dot-exp-files-as-linker-input.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

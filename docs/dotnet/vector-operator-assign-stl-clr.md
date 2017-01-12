@@ -99,6 +99,6 @@ a b c
  [vector::assign (STL/CLR)](../dotnet/vector-assign-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

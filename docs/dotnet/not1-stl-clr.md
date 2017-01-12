@@ -116,6 +116,6 @@ int main()
  [unary_negate (STL/CLR)](../dotnet/unary-negate-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -63,6 +63,6 @@ class B : public virtual A  // C4435
  [/vd (Disable Construction Displacements)](../../build/reference/vd-disable-construction-displacements.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

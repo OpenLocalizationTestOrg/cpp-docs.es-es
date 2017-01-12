@@ -117,6 +117,6 @@ This article describes the process for accessing the exposed [methods](../mfc/mf
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

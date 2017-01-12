@@ -70,6 +70,6 @@ The following are legal entries for the Key property in the accelerator table:
  [Accelerator Editor](../mfc/accelerator-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -75,6 +75,6 @@ Retrieves the initialization string of a data source that is currently open.
  [CDataSource Class](../../data/oledb/cdatasource-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

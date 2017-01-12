@@ -100,6 +100,6 @@ HRESULT ValidateCommandID(DBID* pTableID, DBID* pIndexID)
  [Advanced Provider Techniques](../../data/oledb/advanced-provider-techniques.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

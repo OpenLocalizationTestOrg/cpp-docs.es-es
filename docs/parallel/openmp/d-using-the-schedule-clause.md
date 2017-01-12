@@ -106,6 +106,6 @@ for(i=0; i<n; i++) {
  Because both the **dynamic** and **guided** schedules ensure that no thread waits for more than one unit at the barrier, the delayed thread causes their execution times for the construct to increase only to 138 units, possibly increased by delays from synchronization. If such delays are not negligible, it becomes important that the number of synchronizations is 1000 for **dynamic** but only 41 for **guided**, assuming the default chunk size of one. With a chunk size of 25, **dynamic** and **guided** both finish in 150 units, plus any delays from the required synchronizations, which now number only 40 and 20, respectively.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

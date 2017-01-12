@@ -91,6 +91,6 @@ c b a
  [multiset::iterator (STL/CLR)](../dotnet/multiset-iterator-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

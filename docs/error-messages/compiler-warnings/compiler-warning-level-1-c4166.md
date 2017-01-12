@@ -45,6 +45,6 @@ ms.openlocfilehash: 7ae79dc6a33ce0fab8276711a9ddcd586ed2e62b
  Constructors and destructors cannot have calling conventions other than the default for the platform (except when you explicitly specify **__clrcall**).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ cannot open filename for writing
  [You may receive an "error PRJ0008" or "Fatal error LNK1168" error message when you try to build a solution or an ActiveX project in Visual C++](http://support.microsoft.com/kb/308358)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

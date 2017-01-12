@@ -100,6 +100,6 @@ if (x!=0) {
 -   A variable specified in a **flush** directive must not have a reference type.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

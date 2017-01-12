@@ -56,6 +56,6 @@ The easiest way to use a tab control ([CTabCtrl](../mfc/reference/ctabctrl-class
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

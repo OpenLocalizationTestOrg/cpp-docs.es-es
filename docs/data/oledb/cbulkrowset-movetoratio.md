@@ -82,6 +82,6 @@ Fetches rows starting from a fractional position in the rowset.
  [CBulkRowset Class](../../data/oledb/cbulkrowset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

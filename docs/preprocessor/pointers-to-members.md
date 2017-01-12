@@ -89,6 +89,6 @@ ms.openlocfilehash: 969299686411f934b832c2bd06c008597cff90de
  [Pragma Directives and the __Pragma Keyword](../preprocessor/pragma-directives-and-the-pragma-keyword.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

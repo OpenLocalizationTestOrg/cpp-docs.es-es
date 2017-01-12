@@ -44,6 +44,6 @@ call to CryptoAPI failed
  The compiler made a call to the CryptoAPI and the call failed. Reinstall Visual Studio and possibly reinstall the operating system.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

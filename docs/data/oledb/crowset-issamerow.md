@@ -72,6 +72,6 @@ Compares the specified row with the current row.
  [CRowset Class](../../data/oledb/crowset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

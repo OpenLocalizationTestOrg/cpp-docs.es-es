@@ -164,6 +164,6 @@ int _vwprintf_p_l(
  [printf_p Positional Parameters](../../c-runtime-library/printf-p-positional-parameters.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -72,6 +72,6 @@ Use this page of the Add Property Wizard to specify any interface definition lan
  [Stock Properties](../ide/stock-properties.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

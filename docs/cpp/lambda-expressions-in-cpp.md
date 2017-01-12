@@ -370,6 +370,6 @@ auto Sqr = [](int t) __declspec(code_seg("PagedMem")) -> int { return t*t; };
  [for_each](http://msdn.microsoft.com/Library/8cb2ae72-bef6-488b-b011-0475c0787e33)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

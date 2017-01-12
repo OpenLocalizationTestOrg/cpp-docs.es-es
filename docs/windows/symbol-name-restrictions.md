@@ -78,6 +78,6 @@ The restrictions on symbol names are as follows:
  [Predefined Symbol IDs](../windows/predefined-symbol-ids.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

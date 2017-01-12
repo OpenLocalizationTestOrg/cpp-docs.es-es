@@ -89,6 +89,6 @@ Call the typedef class **CConstraintTableUsage** to implement its parameter clas
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -93,6 +93,6 @@ LIB /DEF[:deffile] [options] [objfiles] [libraries]
  [Working with Import Libraries and Export Files](../../build/reference/working-with-import-libraries-and-export-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

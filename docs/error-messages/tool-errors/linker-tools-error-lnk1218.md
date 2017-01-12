@@ -46,6 +46,6 @@ warning treated as error; no output file generated
  See [/WX (Treat Linker Warnings as Errors)](../../build/reference/wx-treat-linker-warnings-as-errors.md) for more information.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

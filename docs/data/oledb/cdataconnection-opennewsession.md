@@ -71,6 +71,6 @@ Opens a new session using the current connection object's data source.
  [CDataConnection Class](../../data/oledb/cdataconnection-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -81,6 +81,6 @@ The sizing handles of controls snap to guides when the controls are moved, and g
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

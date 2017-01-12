@@ -65,6 +65,6 @@ The following procedures shows you how to crop or extend an entire image.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

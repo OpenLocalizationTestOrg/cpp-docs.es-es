@@ -76,6 +76,6 @@ ms.openlocfilehash: 1e67f52227adc5b580c74b96b9b4d0373c58bceb
  [OLE DB Programming Overview](../../data/oledb/ole-db-programming-overview.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

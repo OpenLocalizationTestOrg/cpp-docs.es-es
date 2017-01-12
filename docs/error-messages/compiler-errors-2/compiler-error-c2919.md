@@ -46,6 +46,6 @@ ms.openlocfilehash: 4ca9fb301b3fbd684379e743daf81009663f405c
  To fix this issue, remove the operator member function from the public interface, or change it to a named member function. For example, instead of `operator==`, name the member function `Equals`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

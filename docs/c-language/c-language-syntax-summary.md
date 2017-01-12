@@ -50,6 +50,6 @@ This section gives the full description of the C language and the Microsoft-spec
  [C Language Reference](../c-language/c-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

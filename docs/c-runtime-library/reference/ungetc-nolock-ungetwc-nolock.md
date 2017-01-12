@@ -120,6 +120,6 @@ wint_t _ungetwc_nolock(
  [putc, putwc](../../c-runtime-library/reference/putc-putwc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

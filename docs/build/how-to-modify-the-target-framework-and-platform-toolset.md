@@ -87,6 +87,6 @@ You can change [!INCLUDE[vcprvc](../build/includes/vcprvc_md.md)] project settin
  [MSBuild (Visual C++)](../build/msbuild-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -52,6 +52,6 @@ The following topics help you install the components that you need to start work
  [Open Database Connectivity (ODBC)](../../data/odbc/open-database-connectivity-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

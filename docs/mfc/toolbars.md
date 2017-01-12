@@ -61,6 +61,6 @@ The toolbar family of articles describes MFC toolbars and how to create and use 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

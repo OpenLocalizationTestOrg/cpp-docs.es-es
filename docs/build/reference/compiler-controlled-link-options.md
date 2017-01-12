@@ -71,6 +71,6 @@ The CL compiler automatically calls LINK unless you specify the /c option. CL pr
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

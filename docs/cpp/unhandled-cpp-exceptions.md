@@ -81,6 +81,6 @@ term_func was called by terminate.
  [C++ Exception Handling](../cpp/cpp-exception-handling.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -76,6 +76,6 @@ IntelliSense fails to operate in the IDE for Visual C++ makefile projects when c
  [How to: Create a C++ Project from Existing Code](../ide/how-to-create-a-cpp-project-from-existing-code.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

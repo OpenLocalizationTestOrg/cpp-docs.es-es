@@ -51,6 +51,6 @@ The [ExitInstance](../mfc/reference/cwinapp-class.md#cwinapp__exitinstance) memb
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

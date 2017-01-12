@@ -182,6 +182,6 @@ _variant_t& operator=(
  [_variant_t Class](../cpp/variant-t-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -109,6 +109,6 @@ e d b a c
  [priority_queue (STL/CLR)](../dotnet/priority-queue-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -122,6 +122,6 @@ class ATL_NO_VTABLE IRowsetLocateImpl : public IRowsetImpl<
  [Bookmarks](https://msdn.microsoft.com/en-us/library/ms709728.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

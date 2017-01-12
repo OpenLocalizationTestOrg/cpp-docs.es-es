@@ -74,6 +74,6 @@ When you use the MFC DLL wizard to create an MFC DLL project, you get a working 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

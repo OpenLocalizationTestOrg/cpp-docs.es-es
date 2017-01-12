@@ -73,6 +73,6 @@ ms.openlocfilehash: 9a276e38f30d4b3ba44ddaff613ae0baf81878b1
  [#define Directive (C/C++)](../../preprocessor/hash-define-directive-c-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -56,6 +56,6 @@ In the MFC framework, when the user closes the frame window, the window's defaul
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

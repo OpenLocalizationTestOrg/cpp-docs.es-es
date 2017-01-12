@@ -105,6 +105,6 @@ The **Add Class** dialog box contains templates that allow you to:
  [Navigating the Class Structure](../ide/navigating-the-class-structure-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -56,6 +56,6 @@ fil = fopen( "path1\\path2\\myfile", "rt" );
  [Preprocessing Directives](../c-language/preprocessing-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

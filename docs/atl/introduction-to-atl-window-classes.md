@@ -67,6 +67,6 @@ The following ATL classes are designed to implement and manipulate windows:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

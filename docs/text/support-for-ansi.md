@@ -47,6 +47,6 @@ Most MFC classes and methods support the ANSI character set, although the MFC fr
  [Shell And Common Controls Versions](http://msdn.microsoft.com/library/windows/desktop/bb776779)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

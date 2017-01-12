@@ -54,6 +54,6 @@ To add items to the list control ([CListCtrl](../mfc/reference/clistctrl-class.m
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

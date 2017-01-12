@@ -72,6 +72,6 @@ ms.openlocfilehash: d1754fbd6753f87546f20d84fb7a093577947f68
  [_variant_t Class](../cpp/variant-t-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

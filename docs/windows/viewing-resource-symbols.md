@@ -63,6 +63,6 @@ ms.openlocfilehash: c8eec82d77bd1fa8e045161ac6922d721a49eff8
  [Symbols: Resource Identifiers](../mfc/symbols-resource-identifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

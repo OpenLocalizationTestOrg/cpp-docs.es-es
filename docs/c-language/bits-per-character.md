@@ -44,6 +44,6 @@ ms.openlocfilehash: 100c6556af7a3aad43db937ba9a877a3e903556d
  [Characters](../c-language/characters.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

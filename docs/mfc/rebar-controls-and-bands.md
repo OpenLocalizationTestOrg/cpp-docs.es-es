@@ -69,6 +69,6 @@ The main purpose of a rebar control is to act as a container for child windows, 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

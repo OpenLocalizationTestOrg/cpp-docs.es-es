@@ -58,6 +58,6 @@ extern "C" void func( void );   // C2732
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

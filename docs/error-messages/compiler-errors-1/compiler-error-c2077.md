@@ -44,6 +44,6 @@ non-scalar field initializer 'identifier'
  You tried to initialize a bit field with a nonscalar (struct, union, array, or class). Use an integer or floating-point value.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

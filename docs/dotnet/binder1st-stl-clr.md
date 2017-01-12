@@ -150,6 +150,6 @@ int main()
  [bind1st (STL/CLR)](../dotnet/bind1st-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

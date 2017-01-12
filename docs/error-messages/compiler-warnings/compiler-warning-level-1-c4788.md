@@ -62,6 +62,6 @@ new_class::f
  This warning only occurs in the [!INCLUDE[vcprx64](../../assembler/inline/includes/vcprx64_md.md)] compiler.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

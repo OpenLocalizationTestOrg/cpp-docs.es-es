@@ -44,6 +44,6 @@ ms.openlocfilehash: 4055d59e2a313297066a815ef1418f807d4a1b30
  An `intrinsic` or `function` pragma lists a function not available in intrinsic form. For example, certain intrinsics are not available when compiling a program that uses /clr programming.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

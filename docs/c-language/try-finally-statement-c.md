@@ -87,6 +87,6 @@ ms.openlocfilehash: e61544ee9e8053dbfc467f13e19d42df36e30739
  [try-finally Statement](../cpp/try-finally-statement.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

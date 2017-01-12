@@ -51,6 +51,6 @@ This section contains some general rules to consider when handling errors in you
  [Customizing Your Wizard](../ide/customizing-your-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -131,6 +131,6 @@ long double truncl(
  [round, roundf, roundl](../../c-runtime-library/reference/round-roundf-roundl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

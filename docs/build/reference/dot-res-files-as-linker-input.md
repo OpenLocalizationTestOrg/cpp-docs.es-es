@@ -47,6 +47,6 @@ You can specify a .res file when linking a program. The .res file is created by 
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

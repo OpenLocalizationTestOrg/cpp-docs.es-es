@@ -49,6 +49,6 @@ You can define individual items of a tab control ([CTabCtrl](../mfc/reference/ct
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

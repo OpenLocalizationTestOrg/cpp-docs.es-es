@@ -59,6 +59,6 @@ If you need to circumvent the object-`HWND` relationship, MFC provides another `
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

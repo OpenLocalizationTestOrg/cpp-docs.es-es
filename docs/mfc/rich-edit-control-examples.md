@@ -44,6 +44,6 @@ The MFC OLE sample [WORDPAD](../visual-cpp-samples.md) uses the `CRichEditView`,
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

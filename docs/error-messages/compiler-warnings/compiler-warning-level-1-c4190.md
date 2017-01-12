@@ -63,6 +63,6 @@ extern "C" X func ();   // C4190
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

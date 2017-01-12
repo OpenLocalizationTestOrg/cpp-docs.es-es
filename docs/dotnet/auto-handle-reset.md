@@ -117,6 +117,6 @@ done
  [auto_handle::release](../dotnet/auto-handle-release.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

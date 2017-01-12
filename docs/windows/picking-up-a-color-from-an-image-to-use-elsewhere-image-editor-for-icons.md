@@ -70,6 +70,6 @@ The **Select Color**, or color-pickup, tool makes any color on the image the cur
  [Working with Color](../mfc/working-with-color-image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

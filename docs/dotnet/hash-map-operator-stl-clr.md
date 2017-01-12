@@ -114,6 +114,6 @@ c1[b] = 2
  [hash_map::insert (STL/CLR)](../dotnet/hash-map-insert-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -155,6 +155,6 @@ Expanded block to 1024 bytes at 002C12BC
  [realloc](../../c-runtime-library/reference/realloc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

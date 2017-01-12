@@ -85,6 +85,6 @@ Mixed assemblies are capable of containing both unmanaged machine instructions a
  [Native and .NET Interoperability](../dotnet/native-and-dotnet-interoperability.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

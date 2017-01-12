@@ -80,6 +80,6 @@ The multithreaded classes provided with MFC fall into two categories: synchroniz
  [Multithreading with C++ and MFC](../parallel/multithreading-with-cpp-and-mfc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ In addition to the session, rowset, and optional command object, each provider s
  [OLE DB Provider Template Architecture](../../data/oledb/ole-db-provider-template-architecture.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -47,6 +47,6 @@ The extended example in this topic shows how to edit the wizard-created files to
  [Creating a Simple Read-Only Provider](../../data/oledb/creating-a-simple-read-only-provider.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ The [Replace](../mfc/reference/cimagelist-class.md#cimagelist__replace) member f
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

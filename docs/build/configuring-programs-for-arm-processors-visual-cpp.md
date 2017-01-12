@@ -54,6 +54,6 @@ This section of the documentation contains information about how to use the Visu
 |[ARM Intrinsics](../intrinsics/arm-intrinsics.md)|Describes compiler intrinsics for processors that use the ARM architecture.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

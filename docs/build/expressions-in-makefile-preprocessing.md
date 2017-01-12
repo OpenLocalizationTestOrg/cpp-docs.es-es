@@ -52,6 +52,6 @@ The **!IF** or **!ELSE IF** `constantexpression` consists of integer constants (
  [Makefile Preprocessing](../build/makefile-preprocessing.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

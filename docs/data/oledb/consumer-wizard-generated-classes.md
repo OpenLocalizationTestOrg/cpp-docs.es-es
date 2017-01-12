@@ -205,6 +205,6 @@ class CProducts : public CCommand<CAccessor<_CProductsAccessor> >
  [Creating an OLE DB Consumer Using a Wizard](../../data/oledb/creating-an-ole-db-consumer-using-a-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

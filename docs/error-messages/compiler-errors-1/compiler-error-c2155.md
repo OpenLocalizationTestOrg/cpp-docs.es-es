@@ -44,6 +44,6 @@ ms.openlocfilehash: 5f835fea92fae8f99011ebe4b618723bce614f13
  An expression on the left hand side of `?` cannot be compared to zero. You must use an arithmetic or pointer expression that can be compared to zero.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

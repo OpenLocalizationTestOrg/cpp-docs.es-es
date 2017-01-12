@@ -45,6 +45,6 @@ ms.openlocfilehash: 45134d022c785306e1422d2ee279a0ca0d25ba65
  To use [component](../../preprocessor/component.md) pragma, you must generate browse information during compilation ([/FR](../../build/reference/fr-fr-create-dot-sbr-file.md)).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

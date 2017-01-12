@@ -55,6 +55,6 @@ The MFC DAO classes support two kinds of access to databases:
  [Data Access Frequently Asked Questions](../data/data-access-frequently-asked-questions-mfc-data-access.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

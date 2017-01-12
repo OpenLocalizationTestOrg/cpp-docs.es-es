@@ -75,6 +75,6 @@ Specifies a property setting function.
  [propputref](../windows/propputref.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

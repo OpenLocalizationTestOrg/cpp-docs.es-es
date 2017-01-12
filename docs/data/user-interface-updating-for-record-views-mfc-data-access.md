@@ -54,6 +54,6 @@ ms.openlocfilehash: 507fed6cfaea8fbc1a8e96f44faf4d41220506a8
  [Using a Record View](../data/using-a-record-view-mfc-data-access.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

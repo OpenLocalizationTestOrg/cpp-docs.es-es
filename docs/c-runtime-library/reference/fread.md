@@ -161,6 +161,6 @@ Contents of buffer = zyxwvutsrqponmlkjihgfedcb
  [_read](../../c-runtime-library/reference/read.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -47,6 +47,6 @@ The **critical** directive identifies a construct that restricts execution of th
  A thread waits at the beginning of a critical region until no other thread is executing a critical region (anywhere in the program) with the same name. All unnamed **critical** directives map to the same unspecified name.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

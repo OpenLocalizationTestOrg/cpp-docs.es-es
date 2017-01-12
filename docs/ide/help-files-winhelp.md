@@ -61,6 +61,6 @@ The following files are created when you add the WinHelp type of Help support to
  [File Types Created for Visual C++ Projects](../ide/file-types-created-for-visual-cpp-projects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

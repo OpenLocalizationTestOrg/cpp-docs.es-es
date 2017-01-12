@@ -45,6 +45,6 @@ typedef name cannot follow class/struct/union
  A `typedef` name appears at the end of a qualified name.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

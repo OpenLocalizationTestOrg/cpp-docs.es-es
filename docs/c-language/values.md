@@ -48,6 +48,6 @@ ms.openlocfilehash: 19a674eaceb61963e7bfe47ec578d661f5ab882d
  [Floating-Point Math](../c-language/floating-point-math.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

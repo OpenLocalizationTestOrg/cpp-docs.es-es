@@ -82,6 +82,6 @@ To implement a connection point using the Implement Connection Point Wizard, you
  [Adding Connection Points to an Object](../atl/adding-connection-points-to-an-object.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ The size of a signed or unsigned `int` item is the standard size of an integer o
  [Storage of Basic Types](../c-language/storage-of-basic-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

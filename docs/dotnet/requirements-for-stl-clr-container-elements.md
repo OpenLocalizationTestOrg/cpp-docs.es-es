@@ -56,6 +56,6 @@ All reference types that are inserted into STL/CLR containers must have, at a mi
  [C++ Standard Library Reference](../standard-library/cpp-standard-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

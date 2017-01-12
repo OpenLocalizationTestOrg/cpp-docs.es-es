@@ -74,6 +74,6 @@ void __cdecl _CIfmod();
  [fmod, fmodf](../c-runtime-library/reference/fmod-fmodf.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

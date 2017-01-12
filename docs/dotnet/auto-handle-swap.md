@@ -93,6 +93,6 @@ s1 = 'string two', s2 = 'string one'
  [swap Function (auto_handle)](../dotnet/swap-function-auto-handle.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

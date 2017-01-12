@@ -82,6 +82,6 @@ You can add controls to a dialog box using the [Dialog Editor tab](../mfc/dialog
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

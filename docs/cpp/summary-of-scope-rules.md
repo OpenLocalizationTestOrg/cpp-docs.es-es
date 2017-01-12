@@ -95,6 +95,6 @@ The use of a name must be unambiguous within its scope (up to the point where ov
  [Inheritance](../cpp/inheritance-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

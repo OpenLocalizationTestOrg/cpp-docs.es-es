@@ -61,6 +61,6 @@ Linker options can be set inside or outside of the development environment. The 
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

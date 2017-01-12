@@ -127,6 +127,6 @@ int _mbbtype_l(
  [Byte Classification](../../c-runtime-library/byte-classification.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

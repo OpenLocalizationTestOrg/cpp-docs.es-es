@@ -142,6 +142,6 @@ while (product.MoveNext() == S_OK)
  [Working with OLE DB Consumer Templates](../../data/oledb/working-with-ole-db-consumer-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ ms.openlocfilehash: c2e134f99b269ebc8066f1a5b37ba80a9b146a48
  Only a file in the Microsoft Intermediate Language (MSIL) format can be passed to a [#using](../../preprocessor/hash-using-directive-cpp.md) directive. The [/clr](../../build/reference/clr-common-language-runtime-compilation.md) compiler option lets you create an MSIL output file. Other [!INCLUDE[vsprvs](../../assembler/masm/includes/vsprvs_md.md)] languages also produce MSIL files.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

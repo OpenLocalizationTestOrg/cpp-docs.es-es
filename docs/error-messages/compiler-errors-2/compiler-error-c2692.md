@@ -44,6 +44,6 @@ ms.openlocfilehash: cf1396ee49f433bae65e91b618d6afc246e43f9a
  When compiling for .NET managed code, the C compiler requires ANSI function declarations. In addition, if a function takes no parameters, it must explicitly declare `void` as the parameter type.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -98,6 +98,6 @@ You can use Visual C++ in the Visual Studio integrated development environment (
  [C++ Standard Library](../standard-library/cpp-standard-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

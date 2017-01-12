@@ -55,6 +55,6 @@ The ASCII character set defines characters in the range 0x00 – 0x7F. There are
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

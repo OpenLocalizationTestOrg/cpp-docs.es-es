@@ -57,6 +57,6 @@ The naming convention for all Microsoft-specific identifiers in the run-time sys
  [Compatibility](../c-runtime-library/compatibility.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

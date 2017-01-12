@@ -247,6 +247,6 @@ void SetTransform(const D2D1_MATRIX_3X2_F* transform);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -119,6 +119,6 @@ fffffffffffffff0
  [__ull_rshift](../intrinsics/ull-rshift.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

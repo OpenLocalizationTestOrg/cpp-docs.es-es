@@ -85,6 +85,6 @@ The Image editor contains many features that specifically handle and customize c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: ea833a2b6d50bddc7f2741bc55d1f3a02d9366a0
  The `__va_start` intrinsic is used in a declaration for a function with a fixed number of arguments.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -74,6 +74,6 @@ Returns a list of rows with pending changes.
  [IRowsetUpdateImpl Class](../../data/oledb/irowsetupdateimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

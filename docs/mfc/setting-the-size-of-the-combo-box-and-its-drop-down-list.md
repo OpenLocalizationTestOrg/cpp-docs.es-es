@@ -80,6 +80,6 @@ You can size a combo box when you add it to the dialog box. You can also specify
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

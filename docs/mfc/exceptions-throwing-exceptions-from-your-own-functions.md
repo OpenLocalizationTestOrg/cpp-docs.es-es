@@ -70,6 +70,6 @@ It is possible to use the MFC exception-handling paradigm solely to catch except
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

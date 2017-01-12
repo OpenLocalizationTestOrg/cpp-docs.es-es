@@ -75,6 +75,6 @@ MFC supports views that scroll and views that are automatically scaled to the si
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -84,6 +84,6 @@ Two normal situations cause a thread to terminate: the controlling function exit
  [ExitThread](http://msdn.microsoft.com/library/windows/desktop/ms682659)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

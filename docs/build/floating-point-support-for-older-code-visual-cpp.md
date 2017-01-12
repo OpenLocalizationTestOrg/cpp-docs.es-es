@@ -41,6 +41,6 @@ The MMX and floating-point stack registers (MM0-MM7/ST0-ST7) are preserved acros
  [Calling Convention](../build/calling-convention.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

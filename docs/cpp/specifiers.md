@@ -76,6 +76,6 @@ This topic describes the *decl-specifiers* (declaration specifiers) component of
  [Declarations and Definitions](declarations-and-definitions-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ ms.openlocfilehash: a516921a7dd79992784c2b18dbb2c1c502b050ad
  An attempt was made to subtract pointers that point to different types.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -89,6 +89,6 @@ After adding a common control or rich edit control to a dialog box, it will not 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

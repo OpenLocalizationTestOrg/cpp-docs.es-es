@@ -87,6 +87,6 @@ Transmits any pending changes made to the current row since the last fetch or **
  [CRowset::SetData](../../data/oledb/crowset-setdata.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

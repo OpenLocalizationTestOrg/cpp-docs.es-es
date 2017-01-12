@@ -58,6 +58,6 @@ The following are legal entries for the Modifier property in the accelerator tab
  [Accelerator Editor](../mfc/accelerator-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

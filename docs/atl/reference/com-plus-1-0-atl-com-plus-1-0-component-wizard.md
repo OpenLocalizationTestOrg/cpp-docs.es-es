@@ -78,6 +78,6 @@ Use this page of the ATL COM+ 1.0 Component Wizard to specify interface type and
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

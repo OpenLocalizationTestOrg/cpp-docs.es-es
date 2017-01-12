@@ -77,6 +77,6 @@ The sample in this topic shows how to create AXHost and how to host an ActiveX c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

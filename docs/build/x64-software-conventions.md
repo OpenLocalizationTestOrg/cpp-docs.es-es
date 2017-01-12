@@ -66,6 +66,6 @@ This section describes the Visual C++ calling convention methodology for [!INCLU
  [Calling Conventions](../cpp/calling-conventions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

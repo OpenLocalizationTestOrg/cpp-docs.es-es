@@ -62,6 +62,6 @@ You can use the status bar control ([CStatusBarCtrl](../mfc/reference/cstatusbar
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

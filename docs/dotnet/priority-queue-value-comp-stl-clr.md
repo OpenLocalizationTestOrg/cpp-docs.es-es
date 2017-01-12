@@ -107,6 +107,6 @@ compare(L'b', L'a') = True
  [priority_queue::value_type (STL/CLR)](../dotnet/priority-queue-value-type-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

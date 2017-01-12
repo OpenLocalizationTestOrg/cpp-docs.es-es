@@ -52,6 +52,6 @@ The Microsoft Foundation Classes (MFC) library relies on a document/view archite
  [ODBC and MFC](../../data/odbc/odbc-and-mfc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

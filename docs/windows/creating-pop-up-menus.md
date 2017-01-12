@@ -71,6 +71,6 @@ ms.openlocfilehash: e591568c0adaaac85ec8db0d829422dd80f44e5b
  [Menu Editor](../mfc/menu-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

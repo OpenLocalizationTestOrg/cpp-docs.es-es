@@ -62,6 +62,6 @@ This section explains concepts that are critical to understanding C++. C program
  [C++ Language Reference](../cpp/cpp-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

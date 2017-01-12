@@ -59,6 +59,6 @@ Use this wizard to add an ATL OLE DB provider to a project. An ATL OLE DB provid
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

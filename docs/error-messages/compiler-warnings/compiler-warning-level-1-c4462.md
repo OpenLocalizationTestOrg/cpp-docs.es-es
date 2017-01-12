@@ -93,6 +93,6 @@ public ref struct R sealed : [Windows::Foundation::Metadata::Default] IR
  A GUID of the type `Windows::Foundation::TypedEventHandler<R ^, EventArgs^>^` is only used when the type is accessed from another component. The first workaround works because it can only be accessed within its own component after the workaround. Otherwise, the compiler has to assume the worst case and emit the warning.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

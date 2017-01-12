@@ -100,6 +100,6 @@ size() = 2 after adding 2
  [deque::empty (STL/CLR)](../dotnet/deque-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

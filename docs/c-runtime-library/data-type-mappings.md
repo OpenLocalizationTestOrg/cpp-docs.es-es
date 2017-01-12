@@ -89,6 +89,6 @@ These data-type mappings are defined in TCHAR.H and depend on whether the consta
  [Using Generic-Text Mappings](../c-runtime-library/using-generic-text-mappings.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

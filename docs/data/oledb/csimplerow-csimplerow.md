@@ -68,6 +68,6 @@ The constructor.
  [CSimpleRow Class](../../data/oledb/csimplerow-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

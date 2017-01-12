@@ -65,6 +65,6 @@ fx( 1, 2 );
  [General Language Changes (C++/CLI)](../dotnet/general-language-changes-cpp-cli.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

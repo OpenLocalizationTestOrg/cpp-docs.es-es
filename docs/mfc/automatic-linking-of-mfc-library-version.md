@@ -83,6 +83,6 @@ In versions of MFC before version 3.0 (before Visual C++ version 2.0), you had t
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

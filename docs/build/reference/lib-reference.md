@@ -64,6 +64,6 @@ The Microsoft Library Manager (LIB.exe) creates and manages a library of Common 
  [C/C++ Build Tools](../../build/reference/c-cpp-build-tools.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

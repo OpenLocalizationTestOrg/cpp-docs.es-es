@@ -70,6 +70,6 @@ class type_index { public: type_index(const type_info& tinfo); const char *name(
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

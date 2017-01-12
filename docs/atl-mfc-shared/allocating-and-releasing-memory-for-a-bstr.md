@@ -73,6 +73,6 @@ When you create `BSTR`s and pass them between COM objects, you must take care in
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

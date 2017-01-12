@@ -135,6 +135,6 @@ int main()
  [negate (STL/CLR)](../dotnet/negate-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

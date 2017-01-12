@@ -173,6 +173,6 @@ COMObj2->Method(args);  // C++ equivalent
  [Mixed (Native and Managed) Assemblies](../dotnet/mixed-native-and-managed-assemblies.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -59,6 +59,6 @@ You can add a generic C++ class by using **Class View**. A generic C++ class is 
  [ATL Simple Object](../atl/reference/adding-an-atl-simple-object.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

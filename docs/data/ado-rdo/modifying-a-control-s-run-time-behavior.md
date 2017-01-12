@@ -55,6 +55,6 @@ After you [insert a control](../../data/ado-rdo/inserting-the-control-into-a-vis
  [Using ActiveX Controls](../../data/ado-rdo/using-activex-controls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

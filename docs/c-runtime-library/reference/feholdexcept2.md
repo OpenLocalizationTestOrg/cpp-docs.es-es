@@ -97,6 +97,6 @@ int feholdexcept(
  [feupdateenv](../../c-runtime-library/reference/feupdateenv.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

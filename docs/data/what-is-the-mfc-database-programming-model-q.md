@@ -78,6 +78,6 @@ Although MFC implements DAO and ODBC quite differently underneath, they have sim
  [Data Access Frequently Asked Questions](../data/data-access-frequently-asked-questions-mfc-data-access.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

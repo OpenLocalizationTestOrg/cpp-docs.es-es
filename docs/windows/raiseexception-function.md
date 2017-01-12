@@ -71,6 +71,6 @@ inline void __declspec(noreturn)   RaiseException(
  [Microsoft::WRL::Details Namespace](../windows/microsoft-wrl-details-namespace.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

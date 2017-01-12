@@ -51,6 +51,6 @@ A custom attribute is a strongly typed technique that allows the user to extend 
  [Custom Attributes (C++)](../windows/custom-attributes-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

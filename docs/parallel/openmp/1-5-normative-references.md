@@ -44,6 +44,6 @@ ms.openlocfilehash: cdd33d6a535a3b18925528680a25155cc970dca8
  Where this OpenMP API specification refers to C, reference is made to the base language supported by the implementation.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -56,6 +56,6 @@ If a macro has multiple definitions, NMAKE uses the highest-precedence definitio
  [Defining an NMAKE Macro](../build/defining-an-nmake-macro.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

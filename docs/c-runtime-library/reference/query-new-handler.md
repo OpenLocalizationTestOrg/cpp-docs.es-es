@@ -94,6 +94,6 @@ _PNH _query_new_handler(
  [free](../../c-runtime-library/reference/free.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

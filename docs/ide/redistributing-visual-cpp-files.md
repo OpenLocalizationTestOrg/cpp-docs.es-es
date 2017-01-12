@@ -70,6 +70,6 @@ When you deploy an application, you must also deploy the files that are required
 |[Deploying Desktop Applications](../ide/deploying-native-desktop-applications-visual-cpp.md)|Introduces Visual C++ deployment concepts and technologies.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

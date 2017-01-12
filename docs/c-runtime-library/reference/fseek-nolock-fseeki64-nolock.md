@@ -118,6 +118,6 @@ int _fseeki64_nolock(
  [rewind](../../c-runtime-library/reference/rewind.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

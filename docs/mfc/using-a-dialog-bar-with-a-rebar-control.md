@@ -72,6 +72,6 @@ As mentioned in [Rebar Controls and Bands](../mfc/rebar-controls-and-bands.md), 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

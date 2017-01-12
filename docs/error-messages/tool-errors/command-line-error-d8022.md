@@ -46,6 +46,6 @@ cannot open 'messagefile'
  Move this file to the current directory or a directory in the current path. If this file cannot be found, run the SETUP program to copy it from the distribution disks.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

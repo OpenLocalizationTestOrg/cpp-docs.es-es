@@ -51,6 +51,6 @@ ms.openlocfilehash: b2c690df4c0b258249373ea8381e713f34f5da29
 2.  **static** or **inline** attribute with **main** function.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

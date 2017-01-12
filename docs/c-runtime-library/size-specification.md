@@ -85,6 +85,6 @@ In a format specification, the fourth field is an argument length modifier for t
  [printf Type Field Characters](../c-runtime-library/printf-type-field-characters.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

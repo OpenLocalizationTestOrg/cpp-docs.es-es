@@ -69,6 +69,6 @@ You can use either the **static** or the `extern` storage-class specifier in fun
  [C Storage Classes](../c-language/c-storage-classes.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

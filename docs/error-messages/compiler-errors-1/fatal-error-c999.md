@@ -44,6 +44,6 @@ UNKNOWN MESSAGE    Please choose the Technical Support command on the Visual C++
  This error usually means that you have mixed files from different versions of the compiler, or your compiler installation is corrupted. Use the **Programs and Features** applet in the Control Panel to repair or reinstall the product.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

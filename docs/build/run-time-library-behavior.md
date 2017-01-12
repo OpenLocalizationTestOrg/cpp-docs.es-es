@@ -80,6 +80,6 @@ BOOL    WINAPI   DllMain (HANDLE hInst,
  [DLLs in Visual C++](../build/dlls-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -93,6 +93,6 @@ Use this wizard to add an MFC class from an available ActiveX control. The wizar
  [Automation Clients: Using Type Libraries](../mfc/automation-clients-using-type-libraries.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

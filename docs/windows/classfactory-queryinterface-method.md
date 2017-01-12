@@ -69,6 +69,6 @@ STDMETHOD(
  [ClassFactory Class](../windows/classfactory-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

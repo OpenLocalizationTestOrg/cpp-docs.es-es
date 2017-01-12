@@ -50,6 +50,6 @@ Most property page folders contain a **Command Line** property page. This page d
  [.Lib Files as Linker Input](../build/reference/dot-lib-files-as-linker-input.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -49,6 +49,6 @@ class element must be static member or member function
  This error is identical to CAN0041.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

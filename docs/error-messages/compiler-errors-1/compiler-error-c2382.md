@@ -55,6 +55,6 @@ void f2(void) throw(char) {}   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

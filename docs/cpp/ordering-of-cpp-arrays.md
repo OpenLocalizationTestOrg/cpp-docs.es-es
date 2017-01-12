@@ -45,6 +45,6 @@ C++ arrays are stored in row-major order. Row-major order means the last subscri
  [Arrays](../cpp/arrays-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

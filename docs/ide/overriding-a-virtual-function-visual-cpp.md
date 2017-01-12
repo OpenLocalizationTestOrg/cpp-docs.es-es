@@ -71,6 +71,6 @@ You can override virtual functions defined in a base class from the Visual Studi
  [Navigating the Class Structure](../ide/navigating-the-class-structure-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

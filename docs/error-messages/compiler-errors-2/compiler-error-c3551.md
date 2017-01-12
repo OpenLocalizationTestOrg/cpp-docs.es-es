@@ -52,6 +52,6 @@ auto myFunction()->int(*)[4];
  [auto](../../cpp/auto-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

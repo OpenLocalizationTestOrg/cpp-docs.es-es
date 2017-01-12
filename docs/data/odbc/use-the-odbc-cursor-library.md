@@ -48,6 +48,6 @@ ODBC manages scrolling through recordsets through the Cursor Library. These topi
  [Open Database Connectivity (ODBC)](../../data/odbc/open-database-connectivity-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

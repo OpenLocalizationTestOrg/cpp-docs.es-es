@@ -60,6 +60,6 @@ virtual void OnClose(
  [AsyncBase::Close Method](../windows/asyncbase-close-method.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

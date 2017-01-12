@@ -45,6 +45,6 @@ ms.openlocfilehash: adc40b0b376b5553d136df420fd03b3500bc25a8
  Passing a based pointer to a function with variable arguments causes the pointer to be normalized, with unpredictable results. Do not pass based pointers to functions with variable arguments.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

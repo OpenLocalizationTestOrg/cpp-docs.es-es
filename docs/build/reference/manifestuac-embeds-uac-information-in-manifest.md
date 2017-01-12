@@ -103,6 +103,6 @@ Specifies whether User Account Control (UAC) information is embedded in the prog
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

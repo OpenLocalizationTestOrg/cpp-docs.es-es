@@ -72,6 +72,6 @@ You can create your record view class with the [MFC Application Wizard](../mfc/r
  [ODBC Driver List](../data/odbc/odbc-driver-list.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ ms.openlocfilehash: 02465b9ba1b898d22fd2e7aa372e06d1c680fc7f
  The linker ignores `dllname` because it does not need any of the functions that `dllname` exports.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: ff8d886bd5a34ae027423d2da2c55a698b8f744a
  Recursive base classes are invalid. Specify another class as the base class.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -82,6 +82,6 @@ Normally it is easy and convenient to work with the default arrangement of all r
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

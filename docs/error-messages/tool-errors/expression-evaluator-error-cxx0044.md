@@ -47,6 +47,6 @@ use of _based(void) pointer requires :> operator
  This error is identical to CAN0044.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

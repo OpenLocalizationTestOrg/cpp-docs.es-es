@@ -46,6 +46,6 @@ ms.openlocfilehash: 10bb309c61bfbf8a3bdf8ffed0f7892a22a35d8d
  For more information, see [Compiler Support for Type Traits](../../windows/compiler-support-for-type-traits-cpp-component-extensions.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

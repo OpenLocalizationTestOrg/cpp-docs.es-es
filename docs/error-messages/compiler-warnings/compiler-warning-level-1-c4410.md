@@ -44,6 +44,6 @@ illegal size for operand
  One of the operands on the instruction had an incorrect size. The smallest legal size for the operand was used.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

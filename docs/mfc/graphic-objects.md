@@ -134,6 +134,6 @@ Windows provides a variety of drawing tools to use in device contexts. It provid
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

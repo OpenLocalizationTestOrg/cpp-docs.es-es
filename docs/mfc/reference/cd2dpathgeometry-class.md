@@ -205,6 +205,6 @@ BOOL Stream(ID2D1GeometrySink* geometrySink);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

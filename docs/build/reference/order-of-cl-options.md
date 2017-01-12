@@ -45,6 +45,6 @@ Options can appear anywhere on the CL command line, except for the /link option,
  [Compiler Command-Line Syntax](../../build/reference/compiler-command-line-syntax.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

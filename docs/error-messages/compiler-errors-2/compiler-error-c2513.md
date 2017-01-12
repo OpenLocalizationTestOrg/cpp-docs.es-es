@@ -68,6 +68,6 @@ typedef struct S {
  An alternative would be to delete `typedef` to define a variable with aggregate initializer list, but this is not recommended because it will create a variable with the same name as the type and hide the type name.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

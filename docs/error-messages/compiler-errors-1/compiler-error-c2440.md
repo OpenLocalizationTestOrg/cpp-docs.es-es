@@ -258,6 +258,6 @@ This error can appear in ATL code that uses the SINK_ENTRY_INFO macro defined in
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

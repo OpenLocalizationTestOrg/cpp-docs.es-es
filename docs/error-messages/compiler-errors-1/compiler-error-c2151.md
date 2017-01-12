@@ -44,6 +44,6 @@ more than one language attribute
  A function has more than one keyword ( `__cdecl`, `__stdcall`, or `__fastcall`) specifying a calling convention.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

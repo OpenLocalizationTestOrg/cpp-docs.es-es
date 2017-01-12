@@ -135,6 +135,6 @@ void *_lsearch_s(
  [_lsearch](../../c-runtime-library/reference/lsearch.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

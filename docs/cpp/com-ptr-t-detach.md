@@ -61,6 +61,6 @@ Interface* Detach( ) throw( );
  [_com_ptr_t Class](../cpp/com-ptr-t-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

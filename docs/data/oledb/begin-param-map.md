@@ -70,6 +70,6 @@ x
  [SET_PARAM_TYPE](../../data/oledb/set-param-type.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

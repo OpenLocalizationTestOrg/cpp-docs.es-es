@@ -55,6 +55,6 @@ int __declspec(noreturn) TestFunction()
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

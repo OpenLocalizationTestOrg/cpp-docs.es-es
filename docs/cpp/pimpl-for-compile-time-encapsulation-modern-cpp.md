@@ -86,6 +86,6 @@ my_class::my_class(): pimpl( new impl )
  [C++ Standard Library](../standard-library/cpp-standard-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

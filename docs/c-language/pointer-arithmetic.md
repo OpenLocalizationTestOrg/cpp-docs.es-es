@@ -49,6 +49,6 @@ Additive operations involving a pointer and an integer give meaningful results o
  [C Additive Operators](../c-language/c-additive-operators.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

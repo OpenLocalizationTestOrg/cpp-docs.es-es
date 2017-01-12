@@ -46,6 +46,6 @@ ms.openlocfilehash: 40bc566ddefd9015a90166134f99091657a1837d
  This is an error under ANSI compatibility ([/Za](../../build/reference/za-ze-disable-language-extensions.md)) and a warning under Microsoft extensions (**/Ze**).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

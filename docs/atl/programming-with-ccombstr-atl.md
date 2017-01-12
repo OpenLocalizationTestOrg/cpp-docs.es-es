@@ -99,6 +99,6 @@ The ATL class [CComBSTR](../atl/reference/ccombstr-class.md) provides a wrapper 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

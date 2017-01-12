@@ -64,6 +64,6 @@ The XML Document Generator Tool property page exposes the functionality of xdcma
  [Property Pages](../ide/property-pages-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

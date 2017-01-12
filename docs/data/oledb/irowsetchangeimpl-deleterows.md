@@ -67,6 +67,6 @@ Deletes rows from the rowset.
  [IRowsetChangeImpl Class](../../data/oledb/irowsetchangeimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

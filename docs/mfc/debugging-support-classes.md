@@ -59,6 +59,6 @@ MFC provides the following classes to help you debug dynamic memory allocation p
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

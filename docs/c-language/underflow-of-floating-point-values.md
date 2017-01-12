@@ -44,6 +44,6 @@ ms.openlocfilehash: 58a95e7756fe15f2abf1103cfc6dd0b091248e06
  [Library Functions](../c-language/library-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

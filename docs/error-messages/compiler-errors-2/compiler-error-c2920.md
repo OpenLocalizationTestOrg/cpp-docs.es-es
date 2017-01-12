@@ -66,6 +66,6 @@ ref struct GC2 {};   // OK - fix by using a different name
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

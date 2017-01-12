@@ -72,6 +72,6 @@ Sets the status of the specified parameter stored in the buffer.
  [CDynamicParameterAccessor Class](../../data/oledb/cdynamicparameteraccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

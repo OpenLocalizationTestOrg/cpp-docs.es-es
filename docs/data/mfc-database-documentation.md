@@ -74,6 +74,6 @@ The MFC documentation for DAO and ODBC classes consists of the components listed
  [ODBC Basics](../data/odbc/odbc-basics.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

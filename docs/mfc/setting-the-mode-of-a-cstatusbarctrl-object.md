@@ -60,6 +60,6 @@ There are two modes for a `CStatusBarCtrl` object: simple and nonsimple. In the 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

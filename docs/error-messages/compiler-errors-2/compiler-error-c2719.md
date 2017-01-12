@@ -53,6 +53,6 @@ void func(int __declspec(align(32)) i);   // C2719
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

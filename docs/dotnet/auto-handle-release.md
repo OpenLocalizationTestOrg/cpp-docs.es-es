@@ -115,6 +115,6 @@ done
  [auto_handle::reset](../dotnet/auto-handle-reset.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

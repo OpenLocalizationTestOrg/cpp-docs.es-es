@@ -59,6 +59,6 @@ An animation control, represented by the class [CAnimateCtrl](../mfc/reference/c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

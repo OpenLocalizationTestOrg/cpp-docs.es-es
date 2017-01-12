@@ -66,6 +66,6 @@ The hot spot of a [cursor](../mfc/icons-and-cursors-image-resources-for-display-
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

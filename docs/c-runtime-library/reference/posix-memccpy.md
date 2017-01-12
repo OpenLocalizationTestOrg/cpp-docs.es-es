@@ -58,6 +58,6 @@ ms.openlocfilehash: 8a2d2eab2f9039cedcde761cfa603e2cc7883d2b
 This POSIX function is deprecated. Use the ISO C++ conformant [_memccpy](../../c-runtime-library/reference/memccpy.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

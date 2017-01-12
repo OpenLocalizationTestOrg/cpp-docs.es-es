@@ -117,6 +117,6 @@ Use this wizard to add a property to an interface.
  [Implementing an Interface](../ide/implementing-an-interface-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

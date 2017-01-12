@@ -47,6 +47,6 @@ Many C run-time (CRT) APIs can’t be used in [!INCLUDE[win8_appname_long](../bu
  [Alphabetical Function Reference](../c-runtime-library/reference/crt-alphabetical-function-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

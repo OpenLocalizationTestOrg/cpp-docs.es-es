@@ -177,6 +177,6 @@ This pointer, 3280891, is offset by 5 on alignment of 16
  [Data Alignment](../../c-runtime-library/data-alignment.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

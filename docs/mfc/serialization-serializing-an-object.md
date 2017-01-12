@@ -57,6 +57,6 @@ The article [Serialization: Making a Serializable Class](../mfc/serialization-ma
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

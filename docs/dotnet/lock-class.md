@@ -64,6 +64,6 @@ ref class lock;
  [lock Members](../dotnet/lock-members.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -64,6 +64,6 @@ MFC provides two classes to create rebars: [CReBar](../mfc/reference/crebar-clas
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

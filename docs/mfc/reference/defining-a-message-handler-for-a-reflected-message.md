@@ -83,6 +83,6 @@ Once you have created a new MFC control class, you can define message handlers f
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -74,6 +74,6 @@ void __cdecl _CIlog10();
  [log, logf, log10, log10f](../c-runtime-library/reference/log-logf-log10-log10f.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

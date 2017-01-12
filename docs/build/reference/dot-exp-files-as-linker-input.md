@@ -51,6 +51,6 @@ Export (.exp) files contain information about exported functions and data items.
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -67,6 +67,6 @@ Every type of Visual C++ project has an application wizard that helps you genera
  [ATL Wizards and Dialog Boxes](../atl/reference/atl-wizards-and-dialog-boxes.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

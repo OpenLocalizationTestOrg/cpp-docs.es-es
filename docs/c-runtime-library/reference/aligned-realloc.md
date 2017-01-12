@@ -103,6 +103,6 @@ void * _aligned_realloc(
  [Data Alignment](../../c-runtime-library/data-alignment.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

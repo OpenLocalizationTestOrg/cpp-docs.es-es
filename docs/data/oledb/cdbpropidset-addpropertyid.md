@@ -65,6 +65,6 @@ Adds a property ID to the property ID set.
  [CDBPropIDSet Class](../../data/oledb/cdbpropidset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

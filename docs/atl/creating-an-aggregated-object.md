@@ -59,6 +59,6 @@ Aggregation delegates **IUnknown** calls, providing a pointer to the outer objec
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

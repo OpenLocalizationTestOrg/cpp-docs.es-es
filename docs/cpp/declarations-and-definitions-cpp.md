@@ -114,6 +114,6 @@ char *strchr( const char *Str, const char Target );
  [Point of Declaration](../cpp/point-of-declaration-in-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

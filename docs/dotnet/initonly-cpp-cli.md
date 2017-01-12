@@ -65,6 +65,6 @@ ref struct Y1 {
  [Classes and Structs](../windows/classes-and-structs-cpp-component-extensions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

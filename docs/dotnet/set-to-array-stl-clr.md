@@ -96,6 +96,6 @@ a b c
  [set (STL/CLR)](../dotnet/set-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

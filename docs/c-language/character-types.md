@@ -55,6 +55,6 @@ wchar_t wchar = L'x';   /* A wide-character constant for
  [C Character Constants](../c-language/c-character-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

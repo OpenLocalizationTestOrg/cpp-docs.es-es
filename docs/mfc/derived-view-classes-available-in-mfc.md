@@ -70,6 +70,6 @@ The following table shows MFC's view classes and their relationships to one anot
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

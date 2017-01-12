@@ -46,6 +46,6 @@ iam = omp_get_thread_num() + index;
  If vendors define extensions to OpenMP, they may specify additional predefined macros.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -151,6 +151,6 @@ The **/MP** option can reduce the total time to compile the source files on the 
  [Command-Line Reference](/visualstudio/msbuild/msbuild-command-line-reference)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

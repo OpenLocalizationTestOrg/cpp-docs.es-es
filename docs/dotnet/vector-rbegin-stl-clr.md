@@ -104,6 +104,6 @@ int main()
  [vector::rend (STL/CLR)](../dotnet/vector-rend-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -79,6 +79,6 @@ The C operators are a subset of the [C++ built-in operators](../cpp/cpp-built-in
  [Expressions and Assignments](../c-language/expressions-and-assignments.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

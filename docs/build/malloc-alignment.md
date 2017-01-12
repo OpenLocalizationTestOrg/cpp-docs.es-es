@@ -45,6 +45,6 @@ ms.openlocfilehash: 8f66a21384a6aa4882c79f23fab481bcc3ecde6f
  [__declspec](../cpp/declspec.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

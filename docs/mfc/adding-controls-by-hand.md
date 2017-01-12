@@ -65,6 +65,6 @@ You can either [add controls to a dialog box with the dialog editor](../mfc/usin
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

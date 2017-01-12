@@ -158,6 +158,6 @@ MSBuild is the standard build system for Visual C++ projects. When you build a p
  [MSBuild (Visual C++)](../build/msbuild-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

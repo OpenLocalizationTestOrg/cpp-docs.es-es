@@ -58,6 +58,6 @@ ms.openlocfilehash: 2822bcb3fb01b7f66b975e686ef5d54ceee2e5c8
 This POSIX function is deprecated. Use the ISO C++ conformant [_chsize](../../c-runtime-library/reference/chsize.md) or security-enhanced [_chsize_s](../../c-runtime-library/reference/chsize-s.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

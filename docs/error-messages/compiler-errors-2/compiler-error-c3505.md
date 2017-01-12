@@ -54,6 +54,6 @@ cannot load type library 'guid'
 -   [How to: Configure Visual C++ Projects to Target 64-Bit Platforms](../../build/how-to-configure-visual-cpp-projects-to-target-64-bit-platforms.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

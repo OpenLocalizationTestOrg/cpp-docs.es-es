@@ -46,6 +46,6 @@ unescaped newline in character constant in inactive code
  All text until the next double quotation mark was considered to be within a character constant.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

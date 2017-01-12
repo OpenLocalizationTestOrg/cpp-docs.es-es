@@ -64,6 +64,6 @@ The [C Run-Time Libraries](../c-runtime-library/crt-library-features.md) (CRT) p
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

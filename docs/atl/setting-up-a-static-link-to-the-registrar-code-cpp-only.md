@@ -55,6 +55,6 @@ C++ clients can create a static link to the Registrar's code. Static linking of 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

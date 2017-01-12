@@ -58,6 +58,6 @@ system( SET LIB = D:\LIBS );
  [getenv, _wgetenv](../c-runtime-library/reference/getenv-wgetenv.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

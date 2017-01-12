@@ -186,6 +186,6 @@ Convert wide-character string:
  [WideCharToMultiByte](http://msdn.microsoft.com/library/windows/desktop/dd374130)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -54,6 +54,6 @@ The maximum permissible string length for a time zone name variable.
  [_get_tzname](../c-runtime-library/reference/get-tzname.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

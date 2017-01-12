@@ -65,6 +65,6 @@ Returns basic information about the error, such as the return code and provider-
  [IErrorRecordsImpl Class](../../data/oledb/ierrorrecordsimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

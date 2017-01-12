@@ -58,6 +58,6 @@ Inference rules supply commands to update targets and to infer dependents for ta
  [NMAKE Reference](../build/nmake-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

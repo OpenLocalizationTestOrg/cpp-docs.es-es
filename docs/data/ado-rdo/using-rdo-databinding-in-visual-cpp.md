@@ -81,6 +81,6 @@ To use RDO databinding in Visual C++, you need to add an RDO RemoteData control 
  [Databinding with ActiveX Controls in Visual C++](../../data/ado-rdo/databinding-with-activex-controls-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

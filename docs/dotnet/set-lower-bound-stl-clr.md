@@ -106,6 +106,6 @@ lower_bound(L'x')==end() = True
  [set::upper_bound (STL/CLR)](../dotnet/set-upper-bound-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

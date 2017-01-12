@@ -151,6 +151,6 @@ int main()
  [_get_output_format](../c-runtime-library/get-output-format.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

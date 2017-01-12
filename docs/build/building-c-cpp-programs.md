@@ -76,6 +76,6 @@ You can build Visual C++ projects either in Visual Studio or on the command line
  Describes the Visual Studio build system and tools.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

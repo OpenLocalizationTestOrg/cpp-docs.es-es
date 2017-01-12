@@ -52,6 +52,6 @@ Every image list ([CImageList](../mfc/reference/cimagelist-class.md)) includes a
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

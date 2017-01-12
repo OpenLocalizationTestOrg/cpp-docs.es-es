@@ -53,6 +53,6 @@ link /out:prog.exe stub.obj prog1.obj prog2.obj
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -92,6 +92,6 @@ s2 is now invalid
  [auto_handle::operator bool](../dotnet/auto-handle-operator-bool.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

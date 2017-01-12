@@ -2879,6 +2879,6 @@ When you upgrade to a new version of the Visual C++ compiler, you might encounte
 [What's New for Visual C++ in Visual Studio](../what-s-new-for-visual-cpp-in-visual-studio.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

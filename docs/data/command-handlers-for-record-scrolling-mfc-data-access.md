@@ -58,6 +58,6 @@ Classes [CRecordView](../mfc/reference/crecordview-class.md) and [CDaoRecordView
  [Supporting Navigation in a Record View](../data/supporting-navigation-in-a-record-view-mfc-data-access.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

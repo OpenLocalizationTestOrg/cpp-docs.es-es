@@ -68,6 +68,6 @@ When you deploy a [!INCLUDE[vcprvc](../build/includes/vcprvc_md.md)] application
  [Deploying Desktop Applications](../ide/deploying-native-desktop-applications-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

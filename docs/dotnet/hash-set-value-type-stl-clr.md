@@ -94,6 +94,6 @@ a b c
  [hash_set::reference (STL/CLR)](../dotnet/hash-set-reference-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

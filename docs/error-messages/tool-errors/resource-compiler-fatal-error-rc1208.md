@@ -44,6 +44,6 @@ input file has .RES extension
  The .RES extension is used for Resource Compiler output. The .RC extension should be used for Resource Compiler scripts.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

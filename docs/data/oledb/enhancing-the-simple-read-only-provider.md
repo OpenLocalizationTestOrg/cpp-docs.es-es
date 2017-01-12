@@ -54,6 +54,6 @@ This section shows how to enhance the [simple read-only provider](../../data/ole
  [Creating a Simple Read-Only Provider](../../data/oledb/creating-a-simple-read-only-provider.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

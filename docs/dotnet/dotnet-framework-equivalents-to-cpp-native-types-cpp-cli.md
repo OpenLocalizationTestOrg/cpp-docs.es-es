@@ -59,6 +59,6 @@ The following table shows the keywords for built-in Visual C++ types, which are 
  [Managed Types (C++/CLI)](../dotnet/managed-types-cpp-cli.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

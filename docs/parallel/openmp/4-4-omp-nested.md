@@ -48,6 +48,6 @@ setenv OMP_NESTED TRUE
 -   `omp_set_nested` function, see [Section 3.1.9](../../parallel/openmp/3-1-9-omp-set-nested-function.md) on page 40.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

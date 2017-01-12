@@ -71,6 +71,6 @@ Typically, your DLL has initialization code (such as allocating memory) that mus
  [DLLs in Visual C++](../build/dlls-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

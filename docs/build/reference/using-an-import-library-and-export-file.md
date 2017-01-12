@@ -55,6 +55,6 @@ When a program (either an executable file or a DLL) exports to another program t
  [Working with Import Libraries and Export Files](../../build/reference/working-with-import-libraries-and-export-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -67,6 +67,6 @@ Most traditional C and C++ code makes assumptions about character and string man
  [Internationalization Strategies](../text/internationalization-strategies.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

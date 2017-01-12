@@ -57,6 +57,6 @@ To add a message handler (a member function that handles Windows messages) to a 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

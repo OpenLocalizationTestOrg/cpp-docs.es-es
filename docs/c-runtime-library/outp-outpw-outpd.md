@@ -127,6 +127,6 @@ unsigned long dataword
  [_inp, _inpw, _inpd](../c-runtime-library/inp-inpw-inpd.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

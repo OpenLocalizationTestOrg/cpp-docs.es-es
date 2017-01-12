@@ -137,6 +137,6 @@ int main() {
  [ptr::~ptr](../dotnet/ptr-tilde-ptr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

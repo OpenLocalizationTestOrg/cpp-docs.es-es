@@ -67,6 +67,6 @@ Returns the basic columns bindings from the consumer in an accessor.
  [IAccessorImpl Class](../../data/oledb/iaccessorimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

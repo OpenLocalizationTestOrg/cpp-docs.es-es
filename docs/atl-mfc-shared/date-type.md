@@ -95,6 +95,6 @@ The **DATE** type is implemented using an 8-byte floating-point number. Days are
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

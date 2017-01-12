@@ -97,6 +97,6 @@ int main()
  [Lambda Expression Syntax](../../cpp/lambda-expression-syntax.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

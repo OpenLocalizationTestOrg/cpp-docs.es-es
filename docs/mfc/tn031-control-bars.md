@@ -252,6 +252,6 @@ BOOL CMyControlBar::Create(CWnd* pParentWnd,
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

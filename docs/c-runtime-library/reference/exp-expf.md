@@ -138,6 +138,6 @@ exp( 2.302585 ) = 10.000000
  [_CIexp](../../c-runtime-library/ciexp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

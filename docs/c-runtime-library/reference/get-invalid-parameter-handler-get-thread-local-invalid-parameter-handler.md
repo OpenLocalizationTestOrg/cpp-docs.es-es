@@ -102,6 +102,6 @@ typedef void (__cdecl* _invalid_parameter_handler)(
  [Security-Enhanced Versions of CRT Functions](../../c-runtime-library/security-enhanced-versions-of-crt-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

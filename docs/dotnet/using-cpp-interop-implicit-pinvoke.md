@@ -162,6 +162,6 @@ Done
  [Calling Native Functions from Managed Code](../dotnet/calling-native-functions-from-managed-code.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

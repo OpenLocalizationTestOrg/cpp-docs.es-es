@@ -44,6 +44,6 @@ ms.openlocfilehash: ce784152b14559a36653519de151ad07ea8e02e6
  You can declare a whole class, or certain members of a non-DLL interface class, with DLL interface. You cannot declare a class with DLL interface and then declare a member of that class with DLL interface.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

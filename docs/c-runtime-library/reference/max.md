@@ -98,6 +98,6 @@ type __max(
  [__min](../../c-runtime-library/reference/min.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

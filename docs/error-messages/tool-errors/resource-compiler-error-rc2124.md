@@ -44,6 +44,6 @@ empty menus not allowed
  An **END** keyword appears before any menu items are defined in the **MENU** statement. The Resource Compiler does not permit empty menus. Make sure you do not have any open quotation marks within the **MENU** statement.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

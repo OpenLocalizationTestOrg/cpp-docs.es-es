@@ -106,6 +106,6 @@ int main()
  [list::rbegin (STL/CLR)](../dotnet/list-rbegin-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -78,6 +78,6 @@ There are three ways to change the current position of a progress control ([CPro
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

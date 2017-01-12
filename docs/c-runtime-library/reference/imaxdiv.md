@@ -130,6 +130,6 @@ results in a quotient of 1079252848505, and a remainder of 5170
  [ldiv, lldiv](../../c-runtime-library/reference/ldiv-lldiv.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

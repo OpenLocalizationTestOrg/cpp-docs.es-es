@@ -74,6 +74,6 @@ Validates and stores the **DBID**s in the two strings ([m_strCommandText](../../
  [CRowsetImpl Class](../../data/oledb/crowsetimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

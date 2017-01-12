@@ -46,6 +46,6 @@ The [CMNCTRL1](../visual-cpp-samples.md) sample demonstrates the various attribu
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

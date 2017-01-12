@@ -21,6 +21,6 @@ ms.openlocfilehash: 0a4f580e5e288a3a2183bd08ee96a337bda292ac
 This topic is included for completeness. For more detail see the source code located in the VC\atlmfc\src\mfc folder of your Visual Studio installation.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

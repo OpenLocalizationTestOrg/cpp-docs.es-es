@@ -50,6 +50,6 @@ The Microsoft run-time library contains definitions for [global variables](../c-
  [Global Constants](../c-runtime-library/global-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

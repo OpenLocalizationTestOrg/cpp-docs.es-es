@@ -90,6 +90,6 @@ The CRT lib directory includes a number of small object files that enable specif
  [CRT Library Features](../c-runtime-library/crt-library-features.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

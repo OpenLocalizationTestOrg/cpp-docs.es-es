@@ -335,6 +335,6 @@ MemoryBlock(MemoryBlock&& other)
  [\<utility> move](http://msdn.microsoft.com/en-us/abef7e85-9dd6-4724-85da-d7f7fe95dca9)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

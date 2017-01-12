@@ -67,6 +67,6 @@ The easiest way to create an ATL project is to use the ATL Project Wizard, locat
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

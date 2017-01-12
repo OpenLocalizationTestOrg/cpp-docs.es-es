@@ -56,6 +56,6 @@ enum class MyEnum2 : bool { a = true};   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -61,6 +61,6 @@ Enables partial signing of a Windows Runtime Metadata (.winmd) file by putting t
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

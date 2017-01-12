@@ -74,6 +74,6 @@ template<class T>   void func2(T, float) {}
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

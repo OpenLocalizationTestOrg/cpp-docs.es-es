@@ -85,6 +85,6 @@ inline bool SafeSubtract (
  [SafeAdd](../windows/safeadd.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

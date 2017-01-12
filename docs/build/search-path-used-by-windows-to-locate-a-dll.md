@@ -70,6 +70,6 @@ With both implicit and explicit linking, Windows first searches for "known DLLs"
  [DLLs in Visual C++](../build/dlls-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

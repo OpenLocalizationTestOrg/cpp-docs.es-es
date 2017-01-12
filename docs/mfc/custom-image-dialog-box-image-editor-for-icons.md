@@ -58,6 +58,6 @@ Enables you to create a new image with a custom size and number of colors.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

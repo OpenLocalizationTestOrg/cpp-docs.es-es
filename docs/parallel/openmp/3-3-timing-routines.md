@@ -42,6 +42,6 @@ The functions described in this section support a portable wall-clock timer:
 -   The `omp_get_wtick` function returns seconds between successive clock ticks.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -49,6 +49,6 @@ In previous versions of MFC, it was important that you clean up [CString](../atl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

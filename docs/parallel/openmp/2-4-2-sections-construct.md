@@ -72,6 +72,6 @@ The **sections** directive identifies a noniterative work-sharing construct that
 -   **private**, **firstprivate**, **lastprivate**, and **reduction** clauses, see [Section 2.7.2](../../parallel/openmp/2-7-2-data-sharing-attribute-clauses.md) on page 25.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

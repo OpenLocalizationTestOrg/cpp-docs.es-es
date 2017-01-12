@@ -101,6 +101,6 @@ int _close(
  [_unlink, _wunlink](../../c-runtime-library/reference/unlink-wunlink.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

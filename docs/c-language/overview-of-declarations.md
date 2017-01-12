@@ -99,6 +99,6 @@ int const *fp;
  [Summary of Declarations](../c-language/summary-of-declarations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

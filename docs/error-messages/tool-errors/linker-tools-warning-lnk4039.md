@@ -46,6 +46,6 @@ section 'name' specified with /SECTION option does not exist
  To see the sections in a file, run DUMPBIN with the [/HEADERS](../../build/reference/headers.md) option.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

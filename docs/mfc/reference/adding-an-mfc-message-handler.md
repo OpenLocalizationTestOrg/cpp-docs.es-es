@@ -58,6 +58,6 @@ You can [use the Properties window to add a message handler](../../mfc/reference
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

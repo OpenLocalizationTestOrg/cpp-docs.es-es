@@ -73,6 +73,6 @@ When you build an application that uses DLLs supplied by Visual Studio, users of
  [Deploying Desktop Applications](../ide/deploying-native-desktop-applications-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

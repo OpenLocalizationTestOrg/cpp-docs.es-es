@@ -49,6 +49,6 @@ This section includes the following topics:
  [Microsoft-Specific Modifiers](../cpp/microsoft-specific-modifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

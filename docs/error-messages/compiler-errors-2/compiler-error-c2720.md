@@ -55,6 +55,6 @@ static S::i;   // C2720 - remove the unneeded 'static' to fix it
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

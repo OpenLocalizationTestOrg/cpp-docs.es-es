@@ -60,6 +60,6 @@ Several language keywords changed from Managed Extensions for C++ to [!INCLUDE[c
  [Component Extensions for Runtime Platforms](../windows/component-extensions-for-runtime-platforms.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

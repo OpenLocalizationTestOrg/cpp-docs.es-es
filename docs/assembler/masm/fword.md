@@ -55,6 +55,6 @@ Allocates and optionally initializes 6 bytes of storage for each `initializer`.
  [DF](../../assembler/masm/df.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

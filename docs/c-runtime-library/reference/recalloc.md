@@ -128,6 +128,6 @@ _set_new_mode(1)
  [Link Options](../../c-runtime-library/link-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -52,6 +52,6 @@ incorrect argument to 'decltype'
  [Fatal Error C1001](../../error-messages/compiler-errors-1/fatal-error-c1001.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

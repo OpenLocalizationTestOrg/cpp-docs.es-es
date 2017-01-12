@@ -72,6 +72,6 @@ Called by [AddRefRows](../../data/oledb/irowsetimpl-addrefrows.md) and [ReleaseR
  [CSimpleRow Class](../../data/oledb/csimplerow-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -145,6 +145,6 @@ ADDEQ r0, r1, r8              ; A4509: This form of conditional instruction is d
  [ARM Assembler Directives](../../assembler/arm/arm-assembler-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

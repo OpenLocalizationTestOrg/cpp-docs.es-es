@@ -86,6 +86,6 @@ In writing your [tool tip notification handler](../mfc/handling-ttn-needtext-not
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -63,6 +63,6 @@ Use the following tips:
  [Last Character in a String](../text/last-character-in-a-string.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

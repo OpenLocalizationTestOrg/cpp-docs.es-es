@@ -331,6 +331,6 @@ Destroying: Static I3
  [Declarations and Definitions](../cpp/declarations-and-definitions-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -65,6 +65,6 @@ Class `CToolTipCtrl` provides a group of member functions that control the vario
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

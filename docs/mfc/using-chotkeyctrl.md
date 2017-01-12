@@ -61,6 +61,6 @@ A hot key control, represented by class [CHotKeyCtrl](../mfc/reference/chotkeyct
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ not enough space for _onexit/atexit table
  This error occurs because there was no memory available for the `_onexit` or `atexit` function. This error is caused by a low-memory condition. You may consider pre-allocating buffers at app startup to assist in saving user data and performing a clean app exit in low-memory conditions.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

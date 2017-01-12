@@ -65,6 +65,6 @@ Microsoft defines a set of attributes that simplify COM programming and .NET Fra
  Provides links to sample code showing the capabilities of Visual C++ and the libraries and technologies it supports.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

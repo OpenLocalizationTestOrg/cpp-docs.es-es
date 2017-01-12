@@ -79,6 +79,6 @@ Use a header control, represented by class [CHeaderCtrl](../mfc/reference/cheade
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

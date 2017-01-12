@@ -59,6 +59,6 @@ The Image editor provides a convenient way to invert colors in the selected part
  [Working with Color](../mfc/working-with-color-image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -84,6 +84,6 @@ Returns a description for the exception type.
  [Designing a Wizard](../ide/designing-a-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

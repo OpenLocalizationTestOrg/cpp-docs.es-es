@@ -82,6 +82,6 @@ This article explains what you must do to implement in-place frame windows in yo
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

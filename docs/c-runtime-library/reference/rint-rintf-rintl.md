@@ -147,6 +147,6 @@ rintl(-2.500000) is -3
  [rint](../../c-runtime-library/reference/rint-rintf-rintl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

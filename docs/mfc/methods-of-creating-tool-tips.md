@@ -54,6 +54,6 @@ MFC provides three classes to create and manage the tool tip control: [CWnd](../
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

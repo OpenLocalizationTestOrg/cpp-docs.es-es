@@ -72,6 +72,6 @@ To create browse information for symbol browsing, the compiler creates an .sbr f
  [BSCMAKE Reference](../../build/reference/bscmake-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

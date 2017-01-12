@@ -49,6 +49,6 @@ Managed templates not supported by the version of the runtime installed
  To resolve C1207 install the common language runtime version that is intended for use with your compiler.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

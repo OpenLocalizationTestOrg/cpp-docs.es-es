@@ -178,6 +178,6 @@ Full path is: C:\Documents and Settings\user\test
  [_splitpath, _wsplitpath](../../c-runtime-library/reference/splitpath-wsplitpath.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

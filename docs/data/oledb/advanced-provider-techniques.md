@@ -54,6 +54,6 @@ For more information about advanced provider techniques, see the following topic
  [OLE DB Consumer Templates](../../data/oledb/ole-db-consumer-templates-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

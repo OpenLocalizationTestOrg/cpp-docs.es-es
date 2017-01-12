@@ -62,6 +62,6 @@ The linker tool (LINK.EXE) accepts .obj files that are in Common Object File For
  [Common Object File Format Specification](http://go.microsoft.com/fwlink/?LinkId=93292)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

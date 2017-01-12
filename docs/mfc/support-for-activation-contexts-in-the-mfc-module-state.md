@@ -74,6 +74,6 @@ MFC creates an activation context using a manifest resource provided by the user
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

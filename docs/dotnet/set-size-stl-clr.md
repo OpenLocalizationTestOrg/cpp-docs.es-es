@@ -101,6 +101,6 @@ size() = 2 after adding 2
  [set::empty (STL/CLR)](../dotnet/set-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ ms.openlocfilehash: d4ff17816dbded1721b59aec6410245040f886ec
  The compiler assumed the `extern` keyword.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

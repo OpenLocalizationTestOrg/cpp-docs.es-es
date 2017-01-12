@@ -112,6 +112,6 @@ virtual void OnDrawSplitter(
  [CMFCVisualManager Class](cmfcvisualmanager-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

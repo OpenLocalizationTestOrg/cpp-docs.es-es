@@ -66,6 +66,6 @@ ms.openlocfilehash: 96cb694be35bb9c7f20a280016fbb26a0eb5a5b7
  [Files and Streams](../c-runtime-library/files-and-streams.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

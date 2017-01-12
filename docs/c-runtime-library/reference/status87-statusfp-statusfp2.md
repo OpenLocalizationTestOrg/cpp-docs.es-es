@@ -165,6 +165,6 @@ Status = 0x00080003 - inexact, underflow, denormal
  [_control87, _controlfp, \__control87_2](../../c-runtime-library/reference/control87-controlfp-control87-2.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -150,6 +150,6 @@ Fundamental types in C++ are divided into three categories: integral, floating p
  [Data Type Ranges](../cpp/data-type-ranges.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

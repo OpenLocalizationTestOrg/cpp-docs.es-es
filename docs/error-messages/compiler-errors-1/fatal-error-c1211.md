@@ -51,6 +51,6 @@ The TypeForwardedTo Custom Attribute is not supported by the version of the runt
  For more information, see [Type Forwarding (C++/CLI)](../../windows/type-forwarding-cpp-cli.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

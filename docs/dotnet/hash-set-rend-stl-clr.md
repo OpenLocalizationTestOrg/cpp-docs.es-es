@@ -98,6 +98,6 @@ int main()
  [hash_set::rbegin (STL/CLR)](../dotnet/hash-set-rbegin-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

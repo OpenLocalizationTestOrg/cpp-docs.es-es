@@ -92,6 +92,6 @@ ms.openlocfilehash: efb53f9f6cadd5a721adb44f4759eed44ab34980
  [Designing a Wizard](../ide/designing-a-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -61,6 +61,6 @@ An ODBC data source is a specific set of data, the information required to acces
  [ODBC and MFC](../../data/odbc/odbc-and-mfc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

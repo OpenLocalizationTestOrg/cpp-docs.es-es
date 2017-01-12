@@ -45,6 +45,6 @@ ms.openlocfilehash: 71510fac784bb632fcc1f1c6ea778e35906b055a
  The `#import` directive is not allowed in, for example, a function or structure.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

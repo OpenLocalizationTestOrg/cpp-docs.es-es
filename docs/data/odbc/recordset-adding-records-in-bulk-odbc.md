@@ -62,6 +62,6 @@ appendOnly | optimizeBulkAdd
  [Recordset: Locking Records (ODBC)](../../data/odbc/recordset-locking-records-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

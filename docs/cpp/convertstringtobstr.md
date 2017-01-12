@@ -93,6 +93,6 @@ BSTR text: Test
  [Compiler COM Global Functions](../cpp/compiler-com-global-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

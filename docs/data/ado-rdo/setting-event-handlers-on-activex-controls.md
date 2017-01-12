@@ -52,6 +52,6 @@ ActiveX controls can be programmed to respond to events. You can use **ControlEv
  [Using ActiveX Controls](../../data/ado-rdo/using-activex-controls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

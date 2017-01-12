@@ -69,6 +69,6 @@ Calls [IErrorRecords::GetCustomErrorObject](https://msdn.microsoft.com/en-us/lib
  [CDBErrorInfo Class](../../data/oledb/cdberrorinfo-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

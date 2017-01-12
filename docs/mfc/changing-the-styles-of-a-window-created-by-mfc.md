@@ -106,6 +106,6 @@ In its version of the `WinMain` function, MFC registers several standard window 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

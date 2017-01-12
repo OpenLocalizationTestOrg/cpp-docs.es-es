@@ -70,6 +70,6 @@ The following procedure shows how to create a `CTime` object and initialize it w
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

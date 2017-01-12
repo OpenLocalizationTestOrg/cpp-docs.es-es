@@ -53,6 +53,6 @@ Displays the IMAGE_TLS_DIRECTORY structure from an executable.
  [DUMPBIN Options](../../build/reference/dumpbin-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

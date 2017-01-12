@@ -62,6 +62,6 @@ DWORD AddRefRow( );
  [IRowsetImpl::AddRefRows](../../data/oledb/irowsetimpl-addrefrows.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

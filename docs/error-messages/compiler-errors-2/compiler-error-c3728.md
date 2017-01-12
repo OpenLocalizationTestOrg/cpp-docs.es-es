@@ -46,6 +46,6 @@ ms.openlocfilehash: 124c234c995f409bd2570333d5b5166de528e92a
  To raise an event in a program developed in a language such as C#, the class containing the event needs to also define a public method that raises the event.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

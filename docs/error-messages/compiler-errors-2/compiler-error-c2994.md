@@ -45,6 +45,6 @@ unnamed class in template parameter list
  You cannot use the `class` keyword as a template argument without specifying a class name.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

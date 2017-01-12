@@ -50,6 +50,6 @@ The core of the Microsoft Foundation Class (MFC) Library is an encapsulation of 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

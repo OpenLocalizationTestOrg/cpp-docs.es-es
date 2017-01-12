@@ -206,6 +206,6 @@ The string was successfully converted.
  [mbsinit](../../c-runtime-library/reference/mbsinit.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

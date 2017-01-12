@@ -57,6 +57,6 @@ Attempt to initialize the CRT more than once. This indicates a bug in your appli
  This diagnostic indicates that MSIL instructions were executing during loader lock. For more information, see [Initialization of Mixed Assemblies](../../dotnet/initialization-of-mixed-assemblies.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

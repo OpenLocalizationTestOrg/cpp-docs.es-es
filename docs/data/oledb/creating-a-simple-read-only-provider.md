@@ -50,6 +50,6 @@ When you have created an OLE DB provider using the ATL Project Wizard and ATL OL
  [Creating an OLE DB Provider](../../data/oledb/creating-an-ole-db-provider.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

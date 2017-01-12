@@ -181,6 +181,6 @@ Real:     = 15.000000
  [vsscanf, vswscanf](../../c-runtime-library/reference/vsscanf-vswscanf.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

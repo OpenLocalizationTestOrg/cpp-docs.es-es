@@ -157,6 +157,6 @@ This article explains the exception-handling mechanisms available in MFC. Two me
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

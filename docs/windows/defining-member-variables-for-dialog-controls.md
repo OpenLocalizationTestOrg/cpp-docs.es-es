@@ -82,6 +82,6 @@ To define a member variable for any dialog box control except buttons, you can u
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

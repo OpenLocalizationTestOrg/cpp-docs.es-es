@@ -158,6 +158,6 @@ This step-by-step walkthrough shows how to create a static library (.lib file) f
  [Desktop Applications (Visual C++)](../windows/desktop-applications-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

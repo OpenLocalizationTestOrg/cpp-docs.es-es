@@ -138,6 +138,6 @@ Hello world from fputs.
  [puts, _putws](../../c-runtime-library/reference/puts-putws.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

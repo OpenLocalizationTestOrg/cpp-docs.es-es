@@ -80,6 +80,6 @@ Allocates memory for the column bind structures and initializes the column data 
  [DBViewer sample](../../visual-cpp-samples.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

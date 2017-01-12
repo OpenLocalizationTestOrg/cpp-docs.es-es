@@ -60,6 +60,6 @@ An MFC [dialog box](../mfc/dialog-boxes.md) can take on a "tab dialog" look by i
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

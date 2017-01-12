@@ -57,6 +57,6 @@ ATL provides the following classes to help you implement collections and enumera
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

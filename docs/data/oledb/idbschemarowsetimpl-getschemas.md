@@ -85,6 +85,6 @@ Returns a list of schema rowsets accessible by [IDBSchemaRowsetImpl::GetRowset](
  [Schema Rowset Classes and Typedef Classes](../../data/oledb/schema-rowset-classes-and-typedef-classes.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

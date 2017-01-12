@@ -45,6 +45,6 @@ explicit instantiation; 'identifier' is not a function or static data member of 
  You cannot explicitly instantiate a member of `class` that is not a function or `static` variable.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

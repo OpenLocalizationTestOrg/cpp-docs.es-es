@@ -105,6 +105,6 @@ Unary operators act on only one operand in an expression. The unary operators ar
  [Types of Expressions](../cpp/types-of-expressions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

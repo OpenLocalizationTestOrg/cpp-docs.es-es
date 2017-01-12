@@ -248,6 +248,6 @@ The Active Template Library (ATL) includes the following classes. To find a part
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

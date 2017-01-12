@@ -44,6 +44,6 @@ ms.openlocfilehash: 2da376ee0f0aa0a8e22f2216dede1ba60a30d8f8
  The .pdb file has out-of-date information. The linker will continue to link object without debug information. You may want to recompile the object file using the [/Zi](../../build/reference/z7-zi-zi-debug-information-format.md) option.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

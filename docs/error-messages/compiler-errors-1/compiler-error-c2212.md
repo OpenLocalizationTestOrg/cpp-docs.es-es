@@ -44,6 +44,6 @@ ms.openlocfilehash: d1aa06c7bebe066107b1d7e2ff9ca87c6a99fd08
  Pointers to functions cannot be declared `__based`. If you need code-based data, use the `__declspec` keyword or the `data_seg` pragma.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

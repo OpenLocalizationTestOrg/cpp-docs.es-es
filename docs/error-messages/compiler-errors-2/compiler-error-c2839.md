@@ -44,6 +44,6 @@ invalid return type 'type' for overloaded 'operator ->'
  The `->` operator must return a class, struct, or union, or a reference to one.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

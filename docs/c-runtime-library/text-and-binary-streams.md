@@ -65,6 +65,6 @@ A text stream consists of one or more lines of text that can be written to a tex
  [Files and Streams](../c-runtime-library/files-and-streams.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

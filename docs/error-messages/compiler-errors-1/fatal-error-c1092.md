@@ -62,6 +62,6 @@ Edit and Continue does not support changes to data types; build required
  For further information, see the [Supported Code Changes](/visualstudio/debugger/supported-code-changes-cpp).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -54,6 +54,6 @@ An "operand" is an entity on which an operator acts. An "expression" is a sequen
  [Expressions and Assignments](../c-language/expressions-and-assignments.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

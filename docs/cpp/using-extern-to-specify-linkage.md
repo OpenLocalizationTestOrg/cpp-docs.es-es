@@ -142,6 +142,6 @@ extern "C" int CFunc2(); // Error: not the first declaration of
  [Linkage](../c-language/linkage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

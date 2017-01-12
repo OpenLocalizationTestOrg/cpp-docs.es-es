@@ -57,6 +57,6 @@ np = omp_get_num_threads(); // misplaced
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

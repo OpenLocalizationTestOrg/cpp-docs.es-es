@@ -53,6 +53,6 @@ A framework application spends most of its time in the [Run](../mfc/reference/cw
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

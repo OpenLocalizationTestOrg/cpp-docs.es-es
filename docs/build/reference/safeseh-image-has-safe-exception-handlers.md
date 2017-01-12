@@ -140,6 +140,6 @@ const IMAGE_LOAD_CONFIG_DIRECTORY32_2 _load_config_used = {
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

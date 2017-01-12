@@ -105,6 +105,6 @@ int setjmp(
  [_setjmp3](../../c-runtime-library/setjmp3.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

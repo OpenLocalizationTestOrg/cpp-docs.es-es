@@ -145,6 +145,6 @@ errno_t _ultow_s(
  [_ltoa_s, _ltow_s](../../c-runtime-library/reference/ltoa-s-ltow-s.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

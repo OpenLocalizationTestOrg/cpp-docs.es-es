@@ -126,6 +126,6 @@ An "integer constant" is a decimal (base 10), octal (base 8), or hexadecimal (ba
  [C Constants](../c-language/c-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

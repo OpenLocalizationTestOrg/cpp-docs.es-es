@@ -85,6 +85,6 @@ ms.openlocfilehash: 56950accba3de8c170cf11a7ba499362348c5f52
  [Add Resource Dialog Box](../windows/add-resource-dialog-box.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

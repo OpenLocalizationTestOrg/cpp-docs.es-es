@@ -54,6 +54,6 @@ template<> class X<int> { };   // new syntax
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -52,6 +52,6 @@ As usual in MFC, if you need finer control, you can call DAO or ODBC directly in
  [Data Access Frequently Asked Questions](../data/data-access-frequently-asked-questions-mfc-data-access.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -55,6 +55,6 @@ List controls ([CListCtrl](../mfc/reference/clistctrl-class.md)) are scrollable 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

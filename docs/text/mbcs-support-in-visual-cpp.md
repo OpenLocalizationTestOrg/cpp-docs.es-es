@@ -86,6 +86,6 @@ When run on an MBCS-enabled version of the Windows 2000 or Windows XP operating 
  [MBCS Programming Tips](../text/mbcs-programming-tips.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

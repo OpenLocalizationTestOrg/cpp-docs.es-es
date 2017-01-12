@@ -109,6 +109,6 @@ isprint || _ismbbkprint
  [_ismbb Routines](../../c-runtime-library/ismbb-routines.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -181,6 +181,6 @@ if( rsDel.Open( CRecordset::snapshot, strSQL ) )
  [Recordset: Performing a Join (ODBC)](../../data/odbc/recordset-performing-a-join-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

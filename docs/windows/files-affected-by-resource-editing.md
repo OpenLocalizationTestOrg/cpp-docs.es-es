@@ -55,6 +55,6 @@ The Visual Studio environment works with the files shown in the following table 
  [Resource Files](../mfc/resource-files-visual-studio.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

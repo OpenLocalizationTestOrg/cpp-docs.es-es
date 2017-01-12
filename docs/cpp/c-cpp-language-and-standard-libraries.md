@@ -52,6 +52,6 @@ This section of the documentation includes guidelines and reference content for 
 |[What's New for Visual C++](../top/what-s-new-for-visual-cpp-in-visual-studio.md)|Describes the new features and enhancements in this release.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ The easy way to use a header control ([CHeaderCtrl](../mfc/reference/cheaderctrl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

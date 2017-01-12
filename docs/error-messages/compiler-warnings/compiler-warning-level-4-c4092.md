@@ -44,6 +44,6 @@ sizeof returns 'unsigned long'
  The operand of the `sizeof` operator was very large, so `sizeof` returned an unsigned **long**. This warning occurs under the Microsoft extensions ([/Ze](../../build/reference/za-ze-disable-language-extensions.md)). Under ANSI compatibility (/Za), the result is truncated instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

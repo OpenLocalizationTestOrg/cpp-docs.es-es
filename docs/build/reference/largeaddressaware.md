@@ -52,6 +52,6 @@ ms.openlocfilehash: 607cb54599e46a1a46b52eb3833b981b2e5556c8
  [EDITBIN Options](../../build/reference/editbin-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -76,6 +76,6 @@ The [CTime](../atl-mfc-shared/reference/ctime-class.md) class has constructors t
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

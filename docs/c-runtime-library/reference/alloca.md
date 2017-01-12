@@ -170,6 +170,6 @@ Allocated 1000 bytes of stack at 0x0012FB50
  [_malloca](../../c-runtime-library/reference/malloca.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -47,6 +47,6 @@ number unresolved externals
  To resolve this error, correct all of the LNK2001 errors that precede it in the build output. For more information, see [Linker Tools Error LNK2001](../../error-messages/tool-errors/linker-tools-error-lnk2001.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

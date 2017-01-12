@@ -146,6 +146,6 @@ In CMyClass::IMyInt2::mf2(int)
  [Inheritance](../cpp/inheritance-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

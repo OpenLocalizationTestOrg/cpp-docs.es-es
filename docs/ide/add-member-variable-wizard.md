@@ -111,6 +111,6 @@ This wizard adds a member variable declaration to the header file and, depending
  [Adding a Member Variable](../ide/adding-a-member-variable-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -103,6 +103,6 @@ The Image menu, which appears only when the Image editor is active, has commands
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -52,6 +52,6 @@ Many data-access applications select data and display it in fields in a form. Th
  [ODBC and MFC](../../data/odbc/odbc-and-mfc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

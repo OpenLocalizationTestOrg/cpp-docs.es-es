@@ -92,6 +92,6 @@ end()-begin() = 3
  [vector::empty (STL/CLR)](../dotnet/vector-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

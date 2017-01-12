@@ -48,6 +48,6 @@ To protect MFC window procedures, a module static links with a special window pr
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

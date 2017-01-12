@@ -61,6 +61,6 @@
 ### [Concurrency::precise_math namespace functions](concurrency-precise-math-namespace-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

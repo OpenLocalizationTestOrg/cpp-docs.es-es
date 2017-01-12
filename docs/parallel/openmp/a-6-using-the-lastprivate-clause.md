@@ -50,6 +50,6 @@ a[i]=b[i];
  In the preceding example, the value of `i` at the end of the parallel region will equal `n–1`, as in the sequential case.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

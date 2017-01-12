@@ -78,6 +78,6 @@ To create your ATL COM object so that it runs in a service, simply select Servic
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

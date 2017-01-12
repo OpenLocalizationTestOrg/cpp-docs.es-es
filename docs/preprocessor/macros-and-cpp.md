@@ -58,6 +58,6 @@ C++ offers new capabilities, some of which supplant those offered by the ANSI C 
  [Macros (C/C++)](../preprocessor/macros-c-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

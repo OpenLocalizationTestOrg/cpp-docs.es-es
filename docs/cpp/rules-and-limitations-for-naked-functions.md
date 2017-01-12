@@ -99,6 +99,6 @@ __declspec(naked) int __fastcall  power(int i, int j) {
  [Naked Function Calls](../cpp/naked-function-calls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

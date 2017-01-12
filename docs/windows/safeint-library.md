@@ -57,6 +57,6 @@ The SafeInt library helps prevent integer overflows that might result when the a
 |[C/C++ Language and Standard Libraries](../cpp/c-cpp-language-and-standard-libraries.md)|Reference and conceptual content for the C and C++ languages and standard libraries.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

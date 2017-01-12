@@ -149,6 +149,6 @@ This example shows how to use the [IXMLHTTPRequest2](http://msdn.microsoft.com/e
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

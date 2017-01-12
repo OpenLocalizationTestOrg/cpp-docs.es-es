@@ -64,6 +64,6 @@ int main()
  Such casts are invalid under ANSI compatibility ([/Za](../../build/reference/za-ze-disable-language-extensions.md)).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

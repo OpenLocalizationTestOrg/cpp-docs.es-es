@@ -80,6 +80,6 @@ ms.openlocfilehash: 9bd9a4098da2a581f7f70d00ce30688d51a23b16
  [Calling Conventions](../cpp/calling-conventions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

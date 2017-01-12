@@ -99,6 +99,6 @@ empty() = True
  [hash_multiset::size (STL/CLR)](../dotnet/hash-multiset-size-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

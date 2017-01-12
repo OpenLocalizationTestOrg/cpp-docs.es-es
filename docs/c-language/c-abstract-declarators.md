@@ -74,6 +74,6 @@ int (*const []) ( unsigned int, ... )
  [Declarators and Variable Declarations](../c-language/declarators-and-variable-declarations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

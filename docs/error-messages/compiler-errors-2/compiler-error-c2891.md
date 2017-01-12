@@ -56,6 +56,6 @@ template <int& r> int* f() { return &r; }
  To correct this error, do not take the address of a template parameter unless it is an lvalue.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

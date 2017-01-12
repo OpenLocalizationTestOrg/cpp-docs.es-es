@@ -44,6 +44,6 @@ An implementation of the OpenMP C/C++ API is *OpenMP-compliant* if it recognizes
  The OpenMP C/C++ API specifies that certain behavior is *implementation-defined.* A conforming OpenMP implementation is required to define and document its behavior in these cases. See [Appendix E](../../parallel/openmp/e-implementation-defined-behaviors-in-openmp-c-cpp.md), page 97, for a list of implementation-defined behaviors.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

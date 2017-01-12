@@ -144,6 +144,6 @@ long _InterlockedCompareExchangePointer_rel (
  [Keywords](../cpp/keywords-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

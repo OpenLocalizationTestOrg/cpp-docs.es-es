@@ -48,6 +48,6 @@ This technical note described the support in MFC for "double-byte character sets
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

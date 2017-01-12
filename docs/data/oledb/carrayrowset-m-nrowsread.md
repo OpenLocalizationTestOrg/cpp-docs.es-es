@@ -63,6 +63,6 @@ ULONG m_nRowsRead;
  [CArrayRowset Class](../../data/oledb/carrayrowset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

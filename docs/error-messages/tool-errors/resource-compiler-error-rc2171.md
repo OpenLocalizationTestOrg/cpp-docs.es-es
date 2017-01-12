@@ -44,6 +44,6 @@ unknown DIB header format
  The bitmap header is not a **BITMAPCOREHEADER** or **BITMAPINFOHEADER** structure.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -98,6 +98,6 @@ x b a
  [deque::iterator (STL/CLR)](../dotnet/deque-iterator-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -53,6 +53,6 @@ To use a RichEdit control, you must first call [AfxInitRichEdit2](../mfc/referen
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

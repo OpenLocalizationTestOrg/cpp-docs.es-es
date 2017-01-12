@@ -52,6 +52,6 @@ A wide character is a 2-byte multilingual character code. Any character in use i
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

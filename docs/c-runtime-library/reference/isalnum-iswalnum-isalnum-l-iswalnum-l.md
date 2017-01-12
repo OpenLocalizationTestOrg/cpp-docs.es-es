@@ -132,6 +132,6 @@ int _iswalnum_l(
  [is, isw Routines](../../c-runtime-library/is-isw-routines.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

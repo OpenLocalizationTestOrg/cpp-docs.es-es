@@ -68,6 +68,6 @@ The __fastcall calling convention
  [Calling Example: Function Prototype and Call](../cpp/calling-example-function-prototype-and-call.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

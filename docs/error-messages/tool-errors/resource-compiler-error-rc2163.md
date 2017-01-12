@@ -44,6 +44,6 @@ accelerator type required [ASCII or VIRTKEY]
  The `type` field in the **ACCELERATORS** statement must contain either the ASCII or VIRTKEY value.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

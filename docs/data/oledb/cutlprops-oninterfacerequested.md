@@ -80,6 +80,6 @@ Handles requests for an optional interface when a consumer calls a method on one
  [CUtlProps Class](../../data/oledb/cutlprops-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

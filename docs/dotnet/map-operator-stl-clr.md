@@ -114,6 +114,6 @@ c1[b] = 2
  [map::insert (STL/CLR)](../dotnet/map-insert-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

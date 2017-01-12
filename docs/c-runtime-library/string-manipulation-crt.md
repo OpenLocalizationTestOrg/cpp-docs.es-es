@@ -98,6 +98,6 @@ These routines operate on null-terminated single-byte character, wide-character,
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

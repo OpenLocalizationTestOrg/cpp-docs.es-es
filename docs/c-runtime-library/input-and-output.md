@@ -59,6 +59,6 @@ The I/O functions read and write data to and from files and devices. File I/O op
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

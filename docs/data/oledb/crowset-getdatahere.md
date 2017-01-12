@@ -80,6 +80,6 @@ Retrieves data from the current row and places it into the specified buffer.
  [CRowset::GetData](../../data/oledb/crowset-getdata.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

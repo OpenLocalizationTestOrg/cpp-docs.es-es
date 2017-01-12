@@ -79,6 +79,6 @@ class CSimpleRow
  [IRowsetImpl Class](../../data/oledb/irowsetimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

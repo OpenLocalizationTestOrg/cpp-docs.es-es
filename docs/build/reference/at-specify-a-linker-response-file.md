@@ -69,6 +69,6 @@ ms.openlocfilehash: 87bd8714a13a625fa70a7e0339e6c5f32bd6bdd7
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

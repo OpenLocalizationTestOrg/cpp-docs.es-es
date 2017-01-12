@@ -50,6 +50,6 @@ In a dependency line, specify zero or more dependents after the colon (:) or dou
  [Description Blocks](../build/description-blocks.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

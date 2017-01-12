@@ -57,6 +57,6 @@ public ref class C : T {};   // C3234
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -92,6 +92,6 @@ now s is invalid
  [auto_gcroot::operator bool](../dotnet/auto-gcroot-operator-bool.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

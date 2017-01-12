@@ -104,6 +104,6 @@ size() = 0
  [vector::erase (STL/CLR)](../dotnet/vector-erase-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

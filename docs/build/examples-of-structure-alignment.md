@@ -56,6 +56,6 @@ Example 4
  [Types and Storage](../build/types-and-storage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

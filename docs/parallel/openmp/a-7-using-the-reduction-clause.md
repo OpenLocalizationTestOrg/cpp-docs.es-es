@@ -47,6 +47,6 @@ The following example demonstrates the reduction clause ([Section 2.7.2.6](../..
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

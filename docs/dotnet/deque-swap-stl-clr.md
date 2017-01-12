@@ -111,6 +111,6 @@ a b c
  [operator= (deque) (STL/CLR)](../dotnet/operator-assign-deque-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

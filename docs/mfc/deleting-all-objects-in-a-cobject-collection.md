@@ -108,6 +108,6 @@ This article explains how to delete all objects in a collection (without deletin
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

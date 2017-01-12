@@ -57,6 +57,6 @@ cout << alignof(Bar) << endl; // output: 16
  [Alignment](../cpp/alignment-cpp-declarations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

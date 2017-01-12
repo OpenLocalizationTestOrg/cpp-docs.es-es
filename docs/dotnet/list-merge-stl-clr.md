@@ -144,6 +144,6 @@ c1.size() = 0
  [list::splice (STL/CLR)](../dotnet/list-splice-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ You can terminate a C++ program by using **exit**, `return`, or **abort**. You c
  [Startup and Termination](../cpp/startup-and-termination-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

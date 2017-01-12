@@ -63,6 +63,6 @@ When it creates a skeleton application, the MFC Application Wizard declares an a
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

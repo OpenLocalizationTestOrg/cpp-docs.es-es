@@ -87,6 +87,6 @@ int wmain(int argc, wchar_t *argv[], wchar_t *envp[]);
  [main Function Restrictions](../cpp/main-function-restrictions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

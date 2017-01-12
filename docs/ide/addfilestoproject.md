@@ -99,6 +99,6 @@ AddFilesToProject(selProj, strProjectName, InfFile);
  [SetCommonPchSettings](../ide/setcommonpchsettings.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

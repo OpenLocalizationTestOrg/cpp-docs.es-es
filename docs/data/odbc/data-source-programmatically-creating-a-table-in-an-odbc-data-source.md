@@ -60,6 +60,6 @@ myDB.ExecuteSQL("CREATE TABLE OFFICES (OfficeID TEXT(4)" ",
  [Data Source (ODBC)](../../data/odbc/data-source-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

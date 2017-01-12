@@ -66,6 +66,6 @@ ATL uses [CComCoClass](../atl/reference/ccomcoclass-class.md) to define the defa
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

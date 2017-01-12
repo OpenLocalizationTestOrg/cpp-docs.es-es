@@ -118,6 +118,6 @@ Indicates whether a multithreaded module is a DLL and specifies retail or debug 
  [Setting Compiler Options](../../build/reference/setting-compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

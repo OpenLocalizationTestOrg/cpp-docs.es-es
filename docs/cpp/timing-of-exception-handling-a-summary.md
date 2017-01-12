@@ -76,6 +76,6 @@ A termination handler is executed no matter how the `__try` statement block is t
  [Structured Exception Handling (C/C++)](../cpp/structured-exception-handling-c-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

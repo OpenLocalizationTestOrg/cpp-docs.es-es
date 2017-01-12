@@ -170,6 +170,6 @@ Exit returning EXIT_SUCCESS
  [terminate](../../standard-library/exception-functions.md#terminate)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -87,6 +87,6 @@ mov eax, DWORD PTR [ecx*2+r10+0100h]
  [Microsoft Macro Assembler Reference](../../assembler/masm/microsoft-macro-assembler-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

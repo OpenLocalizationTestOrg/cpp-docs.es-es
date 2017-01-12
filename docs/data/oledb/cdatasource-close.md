@@ -59,6 +59,6 @@ void Close( ) throw( );
  [CDataSource Class](../../data/oledb/cdatasource-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

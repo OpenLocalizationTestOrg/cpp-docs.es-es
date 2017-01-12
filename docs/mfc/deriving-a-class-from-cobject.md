@@ -93,6 +93,6 @@ This article describes the minimum steps necessary to derive a class from [CObje
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -52,6 +52,6 @@ When you create your dialog-template resource with the [dialog editor](../mfc/di
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

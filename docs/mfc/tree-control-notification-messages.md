@@ -65,6 +65,6 @@ A tree control ([CTreeCtrl](../mfc/reference/ctreectrl-class.md)) sends the foll
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

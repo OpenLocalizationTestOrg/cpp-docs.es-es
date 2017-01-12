@@ -45,6 +45,6 @@ ms.openlocfilehash: 73a52a016c432df91ccb0cec55c30653ee398d86
  The signature in a call to the specified function differs from the prototype.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

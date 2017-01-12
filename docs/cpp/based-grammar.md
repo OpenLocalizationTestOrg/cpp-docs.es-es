@@ -64,6 +64,6 @@ ms.openlocfilehash: 94b7002caffc6c3c6a198b1001b6073ca0027463
  [Based Pointers](../cpp/based-pointers-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -84,6 +84,6 @@ There may be times when you want to view the contents of your project's resource
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

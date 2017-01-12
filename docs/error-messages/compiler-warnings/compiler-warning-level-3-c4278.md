@@ -46,6 +46,6 @@ ms.openlocfilehash: 8b7811a0112e0054e6e1ce1b62f0900f7333ccc6
  Use the `#import` **rename** attribute to assign an alias to the symbol in the type library.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

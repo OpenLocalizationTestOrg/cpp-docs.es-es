@@ -81,6 +81,6 @@ You provide the linker with files that contain objects, import and standard libr
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

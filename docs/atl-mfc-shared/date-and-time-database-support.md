@@ -57,6 +57,6 @@ As of version 4.0, MFC database programming uses the [COleDateTime](../atl-mfc-s
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

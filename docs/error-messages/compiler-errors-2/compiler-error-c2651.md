@@ -44,6 +44,6 @@ ms.openlocfilehash: f103c7cc0f3788c2ebfdb84ac7842e8b69045a8b
  To use a template parameter as if it is a class, specialize the class template with a class instead of an integral type.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

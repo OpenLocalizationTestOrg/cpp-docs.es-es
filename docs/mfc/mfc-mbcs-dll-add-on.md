@@ -49,6 +49,6 @@ In Visual Studio 2015, the MFC library for multibyte character encoding (MBCS) i
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

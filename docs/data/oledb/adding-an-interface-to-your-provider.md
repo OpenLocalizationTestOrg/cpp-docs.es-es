@@ -69,6 +69,6 @@ END_COM_MAP()
  [Working with OLE DB Provider Templates](../../data/oledb/working-with-ole-db-provider-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

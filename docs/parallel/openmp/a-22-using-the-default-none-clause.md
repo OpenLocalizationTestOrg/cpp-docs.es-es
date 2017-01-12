@@ -73,6 +73,6 @@ void fun(int a) {
  For more information on the `default` clause, see [Section 2.7.2.5](../../parallel/openmp/2-7-2-5-default.md) on page 28.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

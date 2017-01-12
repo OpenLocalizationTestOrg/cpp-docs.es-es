@@ -53,6 +53,6 @@ You can navigate a project class structure, including functions, inheritance and
  [MFC Message Handler](../mfc/reference/adding-an-mfc-message-handler.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

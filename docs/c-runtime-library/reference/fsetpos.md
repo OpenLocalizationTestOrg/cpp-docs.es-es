@@ -101,6 +101,6 @@ int fsetpos(
  [fgetpos](../../c-runtime-library/reference/fgetpos.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

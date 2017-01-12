@@ -128,6 +128,6 @@ ms.openlocfilehash: 751270c60a86109298fcc5f05f1ccbcf09f28de6
  [Grammar Summary (C/C++)](../preprocessor/grammar-summary-c-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

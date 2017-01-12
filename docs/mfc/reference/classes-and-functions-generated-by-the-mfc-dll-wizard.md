@@ -58,6 +58,6 @@ The code that the MFC DLL Wizard generates depends on the kind of DLL you are cr
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

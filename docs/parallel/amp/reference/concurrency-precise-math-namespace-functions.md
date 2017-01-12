@@ -2338,6 +2338,6 @@ inline float truncf(float _X) restrict(amp);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

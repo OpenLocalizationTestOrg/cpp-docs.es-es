@@ -115,6 +115,6 @@ int _fclose_nolock(
  [freopen, _wfreopen](../../c-runtime-library/reference/freopen-wfreopen.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

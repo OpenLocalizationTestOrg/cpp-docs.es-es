@@ -62,6 +62,6 @@ Assigns the contents of one property ID set to another ID property set.
  [CDBPropIDSet Class](../../data/oledb/cdbpropidset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

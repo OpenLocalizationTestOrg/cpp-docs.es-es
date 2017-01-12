@@ -66,6 +66,6 @@ struct s
  You can use [#pragma pack](../../preprocessor/pack.md) or [/Zp](../../build/reference/zp-struct-member-alignment.md) to specify the structure alignment. (The compiler does not generate this warning when **/Zp1** is specified.)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

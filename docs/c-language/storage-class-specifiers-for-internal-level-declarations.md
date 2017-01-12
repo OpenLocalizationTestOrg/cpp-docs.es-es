@@ -45,6 +45,6 @@ You can use any of four *storage-class-specifier* terminals for variable declara
  [C Storage Classes](../c-language/c-storage-classes.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

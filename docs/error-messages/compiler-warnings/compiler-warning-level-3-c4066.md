@@ -45,6 +45,6 @@ characters beyond first in wide-character constant ignored
  The compiler processes only the first character of a wide-character constant.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

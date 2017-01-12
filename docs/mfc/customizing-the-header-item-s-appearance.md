@@ -64,6 +64,6 @@ By setting the *dwStyle* parameter when you first create a header control ([CHea
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -119,6 +119,6 @@ unsigned long _inpd(
  [_outp, _outpw, _outpd](../c-runtime-library/outp-outpw-outpd.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

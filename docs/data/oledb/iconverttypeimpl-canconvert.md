@@ -67,6 +67,6 @@ Gives information on the availability of type conversions on a command or on a r
  [IConvertTypeImpl Class](../../data/oledb/iconverttypeimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

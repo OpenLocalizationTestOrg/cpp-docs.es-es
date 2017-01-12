@@ -68,6 +68,6 @@ Initializes a new instance of the Module::GenericReleaseNotifier class.
  [Module::GenericReleaseNotifier Class](../windows/module-genericreleasenotifier-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ The [virtual](../cpp/virtual-cpp.md) keyword can be applied only to nonstatic cl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

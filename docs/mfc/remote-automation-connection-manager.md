@@ -54,6 +54,6 @@ To configure both client and server machines, you need to make registry changes.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

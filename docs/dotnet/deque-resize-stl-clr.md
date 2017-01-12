@@ -108,6 +108,6 @@ size() = 0
  [deque::insert (STL/CLR)](../dotnet/deque-insert-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

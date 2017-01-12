@@ -133,6 +133,6 @@ Thread 3 - ending locked region
  [Functions](../../../parallel/openmp/reference/openmp-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

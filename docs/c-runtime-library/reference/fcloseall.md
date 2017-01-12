@@ -58,6 +58,6 @@ ms.openlocfilehash: fae02d1fc45c2e1edfd3c92d1a533cc5bfb5f942
 This POSIX function is deprecated. Use the ISO C++ conformant [_fcloseall](../../c-runtime-library/reference/fclose-fcloseall.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

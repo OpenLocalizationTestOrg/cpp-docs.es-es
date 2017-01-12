@@ -73,6 +73,6 @@ You can set or modify properties of an image using the [Properties window](/visu
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

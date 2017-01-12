@@ -64,6 +64,6 @@ The syntax for the declaration of managed types and the creation and use of obje
  [Arrays](../windows/arrays-cpp-component-extensions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

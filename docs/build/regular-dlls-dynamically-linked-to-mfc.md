@@ -123,6 +123,6 @@ AFX_MANAGE_STATE(AfxGetStaticModuleState( ))
  [Kinds of DLLs](../build/kinds-of-dlls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

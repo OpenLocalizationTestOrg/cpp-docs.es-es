@@ -110,6 +110,6 @@ in ClassA destructor:first
  [auto_gcroot Members](../dotnet/auto-gcroot-members.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -178,6 +178,6 @@ Size of block after realloc of 1000 more longs: 8000
  [malloc](../../c-runtime-library/reference/malloc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

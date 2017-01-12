@@ -81,6 +81,6 @@ Indicates that an executable was tested to be compatible with the Windows Data E
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -93,6 +93,6 @@ _onexit_t __dllonexit(   _onexit_t func,
  [_onexit, _onexit_m](../c-runtime-library/reference/onexit-onexit-m.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -83,6 +83,6 @@ return bRet;
  [Introduction to ATL](../atl/introduction-to-atl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

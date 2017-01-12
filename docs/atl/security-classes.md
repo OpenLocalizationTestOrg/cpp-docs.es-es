@@ -66,6 +66,6 @@ These classes are wrappers for common Win32 security classes and objects.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -82,6 +82,6 @@ You can add a member variable to a class using Class View. Member variables can 
  [Navigating the Class Structure](../ide/navigating-the-class-structure-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -51,6 +51,6 @@ Friend assemblies not supported by the version of the runtime installed
  For more information, see [Friend Assemblies (C++)](../../dotnet/friend-assemblies-cpp.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

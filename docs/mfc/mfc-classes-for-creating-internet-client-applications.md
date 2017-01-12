@@ -86,6 +86,6 @@ MFC provides the following classes and global functions for writing Internet cli
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

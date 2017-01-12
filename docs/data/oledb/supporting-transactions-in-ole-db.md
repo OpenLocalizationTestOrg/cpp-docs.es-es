@@ -78,6 +78,6 @@ A [transaction](../../data/transactions-mfc-data-access.md) is a way to group, o
  [Using Accessors](../../data/oledb/using-accessors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

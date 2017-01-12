@@ -85,6 +85,6 @@ This article explains how the MFC framework implements print preview functionali
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

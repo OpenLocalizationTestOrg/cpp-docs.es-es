@@ -148,6 +148,6 @@ The quotient is 67, and the remainder is 5
  [imaxdiv](../../c-runtime-library/reference/imaxdiv.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

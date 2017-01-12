@@ -96,6 +96,6 @@ s1 = 'string two', s2 = 'string one'
  [auto_gcroot::swap](../dotnet/auto-gcroot-swap.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

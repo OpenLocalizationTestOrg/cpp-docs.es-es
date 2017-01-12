@@ -45,6 +45,6 @@ A library contains COFF objects. Objects in a library contain functions and data
  [Overview of LIB](../../build/reference/overview-of-lib.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

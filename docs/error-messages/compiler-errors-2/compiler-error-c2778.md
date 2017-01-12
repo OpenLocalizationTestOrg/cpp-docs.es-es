@@ -63,6 +63,6 @@ struct __declspec(uuid("00000000000000000000000000000000")) D { };   // C2778
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -105,6 +105,6 @@ int main()
  [list::begin (STL/CLR)](../dotnet/list-begin-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

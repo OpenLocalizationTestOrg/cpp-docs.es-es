@@ -52,6 +52,6 @@ CL accepts files with names that follow FAT, HPFS, or NTFS naming conventions. A
  [Compiler Command-Line Syntax](../../build/reference/compiler-command-line-syntax.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

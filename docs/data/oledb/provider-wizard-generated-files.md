@@ -51,6 +51,6 @@ The ATL OLE DB Provider Wizard generates the following files. The following topi
  [Creating an OLE DB Provider](../../data/oledb/creating-an-ole-db-provider.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

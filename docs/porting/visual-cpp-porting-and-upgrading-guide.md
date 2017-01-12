@@ -112,6 +112,6 @@ This topic provides a guide for upgrading Visual C++ code. This includes getting
  [Visual C++](../visual-cpp-in-visual-studio.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -97,6 +97,6 @@ Returns an integer indicating the new handler mode set by `_set_new_mode` for `m
  [_query_new_handler](../../c-runtime-library/reference/query-new-handler.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -53,6 +53,6 @@ __interface IDerived2 : private IBase {};    // C3141
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

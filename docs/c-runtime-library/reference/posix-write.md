@@ -58,6 +58,6 @@ ms.openlocfilehash: ac75ef043bcf7bc2f34785e89370a64820254201
 This POSIX function is deprecated. Use the ISO C++ conformant [_write](../../c-runtime-library/reference/write.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

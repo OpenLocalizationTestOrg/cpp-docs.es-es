@@ -78,6 +78,6 @@ This dialog box allows you to customize the colors you use for your image. For m
  [Colors Window](../windows/colors-window-image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

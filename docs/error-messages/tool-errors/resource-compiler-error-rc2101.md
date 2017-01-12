@@ -56,6 +56,6 @@ Invalid directive in preprocessed RC file
  The **#ifndef** RC_INVOKED technique can control including header files in project-based header files.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

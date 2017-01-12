@@ -61,6 +61,6 @@ The ERRLOOK utility, which is available from the Tools menu as **Error Lookup**,
  Provides links to topics discussing the C/C++ build tools provided in Visual C++.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

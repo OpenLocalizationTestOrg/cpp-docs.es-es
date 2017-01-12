@@ -63,6 +63,6 @@ The SafeInt library provides several functions that you can use without creating
 |[SafeIntException Class](../windows/safeintexception-class.md)|The exception class specific to the SafeInt library.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

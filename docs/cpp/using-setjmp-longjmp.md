@@ -58,6 +58,6 @@ When [setjmp](../c-runtime-library/reference/setjmp.md) and [longjmp](../c-runti
  [Mixing C (Structured) and C++ Exceptions](../cpp/mixing-c-structured-and-cpp-exceptions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

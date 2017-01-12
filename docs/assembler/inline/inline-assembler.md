@@ -79,6 +79,6 @@ ms.openlocfilehash: 5e3c0514646ba4d6e0f5398f2364980655569ab8
  [C++ Language Reference](../../cpp/cpp-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

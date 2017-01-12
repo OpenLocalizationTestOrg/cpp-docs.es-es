@@ -59,6 +59,6 @@ pDBList = static_cast<CDBList*>(GetDlgItem(IDC_DBLIST));
  [Modifying a Control's Run-Time Behavior](../../data/ado-rdo/modifying-a-control-s-run-time-behavior.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

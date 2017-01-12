@@ -51,6 +51,6 @@ You can set the tool tip control ([CToolTipCtrl](../mfc/reference/ctooltipctrl-c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

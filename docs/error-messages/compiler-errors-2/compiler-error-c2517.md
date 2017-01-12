@@ -44,6 +44,6 @@ ms.openlocfilehash: 57cc04f43000ef06e00ad67b62bedc0137745278
  The identifier on the right of the scope-resolution operator (`::`) must be a defined member of the class, structure, or union on the left. If no class, structure, or union is named, the identifier on the right must be declared with global scope.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -63,6 +63,6 @@ Since many of the drawing tools are available from the [keyboard](../mfc/acceler
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

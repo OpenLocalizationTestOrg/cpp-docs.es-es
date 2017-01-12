@@ -136,6 +136,6 @@ This article explains the type-safe template-based collection classes in MFC ver
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

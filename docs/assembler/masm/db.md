@@ -56,6 +56,6 @@ Allocates and optionally initializes a byte of storage for each `initializer`. `
  [SBYTE](../../assembler/masm/sbyte-masm.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

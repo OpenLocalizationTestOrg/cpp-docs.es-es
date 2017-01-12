@@ -60,6 +60,6 @@ You can insert an ActiveX control into a dialog box from the toolbar or using th
  [Using ActiveX Controls](../../data/ado-rdo/using-activex-controls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

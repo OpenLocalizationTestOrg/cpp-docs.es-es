@@ -86,6 +86,6 @@ This wizard [adds a property page into an ATL project](../../atl/reference/addin
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

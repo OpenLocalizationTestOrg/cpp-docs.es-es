@@ -52,6 +52,6 @@ detected\<count> Windows Runtime types imported in one module and defined in ano
  [Linker Tools Errors and Warnings](../../error-messages/tool-errors/linker-tools-errors-and-warnings.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

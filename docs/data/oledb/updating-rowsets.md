@@ -224,6 +224,6 @@ product.Update();                 // Update row 101 now
  [IRowsetChange](https://msdn.microsoft.com/en-us/library/ms715790.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

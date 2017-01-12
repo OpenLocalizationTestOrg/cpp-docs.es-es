@@ -56,6 +56,6 @@ ms.openlocfilehash: a363c788cc0a7f9aff211692d76b5d644207d969
  [Argument Passing and Naming Conventions](../cpp/argument-passing-and-naming-conventions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

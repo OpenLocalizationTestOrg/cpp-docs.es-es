@@ -95,6 +95,6 @@ a b c
  [vector (STL/CLR)](../dotnet/vector-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

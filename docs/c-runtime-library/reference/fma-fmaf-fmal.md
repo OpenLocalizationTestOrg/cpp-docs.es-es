@@ -147,6 +147,6 @@ long double fmal(
  [remquo, remquof, remquol](../../c-runtime-library/reference/remquo-remquof-remquol.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -73,6 +73,6 @@ ms.openlocfilehash: 001f4894e09a3b2ba9d59238ac6572739eb9f656
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -50,6 +50,6 @@ This tech note, which discussed the transaction requirements of the MFC ODBC dat
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

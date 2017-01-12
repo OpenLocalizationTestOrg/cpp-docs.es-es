@@ -126,6 +126,6 @@ This article explains the nature and purpose of Windows Sockets. The article als
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

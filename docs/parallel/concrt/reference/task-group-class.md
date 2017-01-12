@@ -211,6 +211,6 @@ task_group_status wait();
  [structured_task_group Class](structured-task-group-class.md)   
  [task_handle Class](task-handle-class.md)
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

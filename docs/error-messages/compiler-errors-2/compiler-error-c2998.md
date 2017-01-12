@@ -53,6 +53,6 @@ template <class T> int x = 1018; // C2998
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

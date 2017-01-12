@@ -53,6 +53,6 @@ ms.openlocfilehash: 84799c7879270a2cd27632820a6fbdbe29c8f9cd
  [CAccessorRowset Class](../../data/oledb/caccessorrowset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -61,6 +61,6 @@ In classic Windows programming, libraries are often implemented as COM objects (
  [Smart Pointers](../cpp/smart-pointers-modern-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

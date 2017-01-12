@@ -57,6 +57,6 @@ The following partial listing of class `CChildFrame` uses most of the standard c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

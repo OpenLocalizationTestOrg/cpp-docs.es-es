@@ -62,6 +62,6 @@ An "item" in a list control ([CListCtrl](../mfc/reference/clistctrl-class.md)) c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ invalid image base address
  You specified an invalid base address for the image. Base addresses must be 64KB aligned (the last four hex digits must be zero) and image base must fit within a 32-bit signed or unsigned value.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

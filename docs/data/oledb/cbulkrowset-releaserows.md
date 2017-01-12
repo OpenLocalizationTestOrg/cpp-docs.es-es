@@ -67,6 +67,6 @@ HRESULT ReleaseRows( ) throw( );
  [CBulkRowset::AddRefRows](../../data/oledb/cbulkrowset-addrefrows.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

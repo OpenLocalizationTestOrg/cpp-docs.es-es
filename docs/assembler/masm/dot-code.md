@@ -58,6 +58,6 @@ When used with [.MODEL](../../assembler/masm/dot-model.md), indicates the start 
  [.DATA](../../assembler/masm/dot-data.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

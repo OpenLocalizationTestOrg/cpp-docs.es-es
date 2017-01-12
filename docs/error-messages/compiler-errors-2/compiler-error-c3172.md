@@ -66,6 +66,6 @@ int main() {}
  the compiler would generate C3172 (note the different version values).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

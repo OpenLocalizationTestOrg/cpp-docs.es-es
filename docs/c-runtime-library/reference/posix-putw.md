@@ -58,6 +58,6 @@ ms.openlocfilehash: 52f7ac1521789c91c1b7832cb57791b28274d553
 This POSIX function is deprecated. Use the ISO C++ conformant [_putw](../../c-runtime-library/reference/putw.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

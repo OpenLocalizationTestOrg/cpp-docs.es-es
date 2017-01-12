@@ -87,6 +87,6 @@ The ATL Reference documents the Active Template Library (ATL), a set of template
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

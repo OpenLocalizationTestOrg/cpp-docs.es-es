@@ -64,6 +64,6 @@ ref class auto_handle;
  [auto_gcroot Class](../dotnet/auto-gcroot-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

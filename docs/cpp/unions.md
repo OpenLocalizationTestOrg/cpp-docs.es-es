@@ -682,6 +682,6 @@ In addition to the restrictions for named unions, anonymous unions are subject t
  [struct](../cpp/struct-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

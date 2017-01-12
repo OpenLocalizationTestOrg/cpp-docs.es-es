@@ -85,6 +85,6 @@ MFC supplies class [CWnd](../mfc/reference/cwnd-class.md) to encapsulate the `HW
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

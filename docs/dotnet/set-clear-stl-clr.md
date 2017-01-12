@@ -105,6 +105,6 @@ size() = 0
  [set::erase (STL/CLR)](../dotnet/set-erase-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

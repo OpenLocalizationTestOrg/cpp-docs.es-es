@@ -90,6 +90,6 @@ c b a
  [list::reverse_iterator (STL/CLR)](../dotnet/list-reverse-iterator-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

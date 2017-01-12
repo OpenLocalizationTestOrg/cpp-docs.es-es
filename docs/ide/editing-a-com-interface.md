@@ -63,6 +63,6 @@ By using commands from the Class View shortcut menu, you can define new methods 
  [Visual C++ Project Types](../ide/visual-cpp-project-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -50,6 +50,6 @@ See the following sample programs that illustrate Microsoft Messaging Applicatio
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

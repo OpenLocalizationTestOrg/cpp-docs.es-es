@@ -80,6 +80,6 @@ This article and two companion articles explain several issues in Windows Socket
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

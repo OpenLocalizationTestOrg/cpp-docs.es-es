@@ -51,6 +51,6 @@ Before you release a provider, you should perform the following tests, in the or
  [Working with OLE DB Provider Templates](../../data/oledb/working-with-ole-db-provider-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

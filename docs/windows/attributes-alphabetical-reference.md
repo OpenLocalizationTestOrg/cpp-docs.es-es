@@ -156,6 +156,6 @@ The following attributes are available in Visual C++.
  [Attributes by Usage](../windows/attributes-by-usage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

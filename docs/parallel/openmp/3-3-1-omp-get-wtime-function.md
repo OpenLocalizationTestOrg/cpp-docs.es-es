@@ -56,6 +56,6 @@ printf_s("Work took %f sec. time.\n", end-start);
  The times returned are "per-thread times" by which is meant they are not required to be globally consistent across all the threads participating in an application.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

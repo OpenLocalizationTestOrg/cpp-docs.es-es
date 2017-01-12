@@ -86,6 +86,6 @@ The following terms are used in this document:
  An identifier, optionally qualified by namespace names, that names an object.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -81,6 +81,6 @@ Used by [AddATLSupportToProject](../ide/addatlsupporttoproject.md) to insert cod
  [GetMemberfunction](../ide/getmemberfunction.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -54,6 +54,6 @@ When the service is run, **_tWinMain** calls **CAtlServiceModuleT::WinMain**, wh
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

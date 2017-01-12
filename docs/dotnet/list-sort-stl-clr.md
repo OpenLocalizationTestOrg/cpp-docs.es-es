@@ -114,6 +114,6 @@ a b c
  [list::unique (STL/CLR)](../dotnet/list-unique-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

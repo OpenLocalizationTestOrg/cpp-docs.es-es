@@ -115,6 +115,6 @@ Make sure you really need dynamic column binding. You might need it because:
  [Working with OLE DB Provider Templates](../../data/oledb/working-with-ole-db-provider-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

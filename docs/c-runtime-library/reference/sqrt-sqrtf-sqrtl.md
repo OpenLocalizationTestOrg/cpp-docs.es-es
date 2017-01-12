@@ -146,6 +146,6 @@ The square root of 45.35 is 6.73
  [_CIsqrt](../../c-runtime-library/cisqrt.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

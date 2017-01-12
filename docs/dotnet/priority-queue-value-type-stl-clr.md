@@ -93,6 +93,6 @@ c b a
  [priority_queue::reference (STL/CLR)](../dotnet/priority-queue-reference-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

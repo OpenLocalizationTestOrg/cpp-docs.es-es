@@ -9,6 +9,6 @@
 # [Using accelerator and accelerator_view Objects](using-accelerator-and-accelerator-view-objects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

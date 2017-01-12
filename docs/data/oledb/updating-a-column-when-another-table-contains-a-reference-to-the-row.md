@@ -43,6 +43,6 @@ Some providers can detect which columns in the row change, but many providers ca
  [Using Accessors](../../data/oledb/using-accessors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

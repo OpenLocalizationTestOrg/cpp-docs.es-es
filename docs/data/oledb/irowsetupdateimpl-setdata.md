@@ -69,6 +69,6 @@ Sets data values in one or more columns.
  [IRowsetUpdateImpl Class](../../data/oledb/irowsetupdateimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

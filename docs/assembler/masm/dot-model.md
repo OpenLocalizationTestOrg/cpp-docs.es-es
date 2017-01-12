@@ -114,6 +114,6 @@ end
  [Visual C++ Samples and Related Documentation for Visual Studio 2010](http://go.microsoft.com/fwlink/?LinkID=178749)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

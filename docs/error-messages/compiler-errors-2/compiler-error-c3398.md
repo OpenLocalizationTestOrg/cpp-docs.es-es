@@ -47,6 +47,6 @@ ms.openlocfilehash: 799a334cba62ea66b3a9e255df47e201823cfa41
  By default the compiler returns the native entry point, but there are some cases where the managed entry point is desired (for instance when assigning the address to a `__clrcall` function pointer). In order for the compiler to reliably choose the managed entry point in an assignment, the right hand side must be a function symbol.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -55,6 +55,6 @@ Creating image lists is the same whether you use [CListView](../mfc/reference/cl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

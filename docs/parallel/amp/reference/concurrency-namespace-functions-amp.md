@@ -667,6 +667,6 @@ inline void tile_static_memory_fence(const tile_barrier& _Barrier) restrict(amp)
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

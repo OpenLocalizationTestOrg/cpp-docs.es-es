@@ -68,6 +68,6 @@ You can use the [Add Property Wizard](../ide/names-add-property-wizard.md) to ad
  [Interface Pointers and Interfaces](http://msdn.microsoft.com/library/windows/desktop/ms688484)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

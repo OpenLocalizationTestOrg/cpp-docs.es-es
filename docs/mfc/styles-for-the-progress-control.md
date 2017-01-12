@@ -72,6 +72,6 @@ When you initially create the progress control ([CProgressCtrl::Create](../mfc/r
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -166,6 +166,6 @@ Wrote 36 bytes to file.
  [_setmode](../../c-runtime-library/reference/setmode.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -178,6 +178,6 @@ Writing fast code requires understanding all aspects of your application and how
  [Optimizing Your Code](../../build/reference/optimizing-your-code.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -53,6 +53,6 @@ Even though [CString](../atl-mfc-shared/reference/cstringt-class.md) objects are
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

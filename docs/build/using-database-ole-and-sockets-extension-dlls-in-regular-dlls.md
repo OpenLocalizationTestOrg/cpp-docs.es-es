@@ -173,6 +173,6 @@ BOOL CYourRegularDLL::InitInstance()
  [Extension DLLs](../build/extension-dlls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

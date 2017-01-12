@@ -63,6 +63,6 @@ The `#error` directive emits a user-specified error message at compile time and 
  [Preprocessor Directives](../preprocessor/preprocessor-directives.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

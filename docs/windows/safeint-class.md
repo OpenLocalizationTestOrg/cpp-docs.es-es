@@ -246,6 +246,6 @@ Int x = flag ? (int) SafeInt<unsigned int>(y) : -1;
  [SafeIntException Class](../windows/safeintexception-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

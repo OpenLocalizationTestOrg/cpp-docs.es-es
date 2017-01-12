@@ -76,6 +76,6 @@ void __sidt(
  [__lidt](../intrinsics/lidt.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

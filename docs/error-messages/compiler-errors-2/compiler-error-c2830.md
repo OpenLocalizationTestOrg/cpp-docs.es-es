@@ -45,6 +45,6 @@ The standard formal parameters for [operator new](../../standard-library/new-ope
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

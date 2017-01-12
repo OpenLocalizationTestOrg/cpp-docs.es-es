@@ -53,6 +53,6 @@ To configure the following properties of the HLSL compiler (fxc.exe), use its **
  [HLSL Property Pages: Output Files](../ide/hlsl-property-pages-output-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

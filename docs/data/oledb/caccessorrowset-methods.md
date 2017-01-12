@@ -40,6 +40,6 @@ ms.openlocfilehash: 2e506db2751e09ce3fe1b3551ac7c21f9fa986cf
 For information about the methods in `CAccessorRowset`, see [CAccessorRowset Members](../../data/oledb/caccessorrowset-members.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

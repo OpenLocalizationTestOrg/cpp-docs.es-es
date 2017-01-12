@@ -54,6 +54,6 @@ MASK {recordfieldname | record}
  [Operators Reference](../../assembler/masm/operators-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -183,6 +183,6 @@ Character count: 25
  [Locale](../../c-runtime-library/locale.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

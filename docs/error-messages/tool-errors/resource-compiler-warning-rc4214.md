@@ -44,6 +44,6 @@ Codepage not valid : ignored
  The .rc file contained a codepage argument and the codepage specified is invalid. See [IsValidCodePage](http://msdn.microsoft.com/library/windows/desktop/dd318674) for more information.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

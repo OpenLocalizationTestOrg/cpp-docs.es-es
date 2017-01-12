@@ -44,6 +44,6 @@ NMAKE reads Tools.ini before it reads makefiles, unless /R is used. It looks for
  [Running NMAKE](../build/running-nmake.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

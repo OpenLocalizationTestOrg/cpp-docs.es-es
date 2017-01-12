@@ -47,6 +47,6 @@ ms.openlocfilehash: 2e357864e954059bfd6f3d036be9b4743fdfdfbf
  Make sure that array elements and initializers match in size and quantity.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

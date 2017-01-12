@@ -73,6 +73,6 @@ Begins a new transaction for this session.
  [CSession Class](../../data/oledb/csession-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

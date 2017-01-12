@@ -264,6 +264,6 @@ After GoodAppend:  This is the initial string!Extra text t (39 chars)
  [Interpretation of Multibyte-Character Sequences](../../c-runtime-library/interpretation-of-multibyte-character-sequences.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

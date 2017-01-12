@@ -97,6 +97,6 @@ The use of documentation tags requires delimiters, which indicate to the compile
  [XML Documentation](../ide/xml-documentation-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

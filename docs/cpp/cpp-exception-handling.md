@@ -66,6 +66,6 @@ The C++ language provides built-in support for throwing and catching exceptions.
  [Exception Handling](../cpp/exception-handling-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

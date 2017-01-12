@@ -52,6 +52,6 @@ Macro function that concatenates one or more strings. Returns a string.
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

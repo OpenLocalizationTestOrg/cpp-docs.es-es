@@ -87,6 +87,6 @@ Dllimport int j;          /* a declaration. */
  [DLL Import and Export Functions](../c-language/dll-import-and-export-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

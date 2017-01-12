@@ -148,6 +148,6 @@ A Visual C++ project file is an XML-based file that has the .vcxproj file name e
  [Working with Project Properties](../ide/working-with-project-properties.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

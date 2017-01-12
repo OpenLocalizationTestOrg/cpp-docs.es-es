@@ -53,6 +53,6 @@ To use a [data source](../../data/odbc/data-source-odbc.md) with an application 
  [ODBC: Calling ODBC API Functions Directly](../../data/odbc/odbc-calling-odbc-api-functions-directly.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -61,6 +61,6 @@ ms.openlocfilehash: 6e775694b73f2b6963e8523e4bfee96b174f2bfc
 These POSIX functions are deprecated. Use the ISO C++ conformant [_strrev, _wcsrev, _mbsrev, _mbsrev_l](../../c-runtime-library/reference/strrev-wcsrev-mbsrev-mbsrev-l.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -162,6 +162,6 @@ MFC provides the template class [CWinFormsDialog](../mfc/reference/cwinformsdial
  [Using a Windows Form User Control in MFC](../dotnet/using-a-windows-form-user-control-in-mfc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

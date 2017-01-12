@@ -161,6 +161,6 @@ This note describes the MFC [CSplitterWnd Class](../mfc/reference/csplitterwnd-c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

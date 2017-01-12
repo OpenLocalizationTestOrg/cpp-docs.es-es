@@ -44,6 +44,6 @@ Combined parallel work–sharing constructs are shortcuts for specifying a paral
 -   the **parallel sections** directive.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

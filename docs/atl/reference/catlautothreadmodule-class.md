@@ -79,6 +79,6 @@ class CAtlAutoThreadModule :  public CAtlAutoThreadModuleT<CAtlAutoThreadModule>
  [Module Classes](../../atl/atl-module-classes.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

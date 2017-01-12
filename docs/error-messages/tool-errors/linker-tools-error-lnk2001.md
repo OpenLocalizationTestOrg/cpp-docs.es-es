@@ -163,6 +163,6 @@ unresolved external symbol "symbol"
  For more information on some of the causes listed above, see [Name decoration](../../error-messages/tool-errors/name-decoration.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

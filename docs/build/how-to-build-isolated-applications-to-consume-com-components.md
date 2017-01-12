@@ -66,6 +66,6 @@ Isolated applications are applications that have manifests built into the progra
  [About Side-by-Side Assemblies](http://msdn.microsoft.com/library/ff951640)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

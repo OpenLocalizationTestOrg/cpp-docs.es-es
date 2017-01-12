@@ -44,6 +44,6 @@ ms.openlocfilehash: b191c648657c67886e94eb3bfcc90ed848d4816a
  The compiler could not generate a default copy-constructor for a class; a base class may have a private copy-constructor.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -237,6 +237,6 @@ q
  [Multithreading with C and Win32](../parallel/multithreading-with-c-and-win32.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

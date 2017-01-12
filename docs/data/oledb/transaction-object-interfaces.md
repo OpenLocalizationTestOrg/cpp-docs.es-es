@@ -56,6 +56,6 @@ The transaction object defines an atomic unit of work on a data source and deter
  [OLE DB Provider Template Architecture](../../data/oledb/ole-db-provider-template-architecture.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

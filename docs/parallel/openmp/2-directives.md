@@ -38,6 +38,6 @@ ms.openlocfilehash: d590d1f26e660198d20002019d0de9b5271b52bf
 Directives are based on **#pragma** directives defined in the C and C++ standards.  Compilers that support the OpenMP C and C++ API will include a command-line option that activates and allows interpretation of all OpenMP compiler directives.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -90,6 +90,6 @@ An ActiveX control is a specific type of [automation server](../../mfc/automatio
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

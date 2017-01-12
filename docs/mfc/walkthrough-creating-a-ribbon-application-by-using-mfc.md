@@ -118,6 +118,6 @@ This walkthrough shows how to use the **MFC Application Wizard** to create an ap
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

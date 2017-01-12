@@ -147,6 +147,6 @@ Global macros that hold error codes that are set during program execution, and s
  [_set_errno](../c-runtime-library/reference/set-errno.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -55,6 +55,6 @@ You can use streams to transfer data into or out of a rich edit control ([CRichE
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

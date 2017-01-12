@@ -84,6 +84,6 @@ When you create a classic Windows desktop project in [!INCLUDE[vs_dev14](../ide/
  [Windows Desktop Applications (Visual C++)](../windows/how-to-use-the-windows-10-sdk-in-a-windows-desktop-application.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

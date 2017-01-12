@@ -54,6 +54,6 @@ The following topics explain how to connect to ODBC data sources.
  [Open Database Connectivity (ODBC)](../../data/odbc/open-database-connectivity-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

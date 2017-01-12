@@ -263,6 +263,6 @@ Time modified : Wed May 07 15:25:11 2003
  [_stat, _wstat Functions](../../c-runtime-library/reference/stat-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -65,6 +65,6 @@ generic<class T,class T> ref struct GC {};   // C2991
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

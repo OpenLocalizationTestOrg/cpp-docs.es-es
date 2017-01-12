@@ -58,6 +58,6 @@ The `// Constructors` section of an MFC class declaration declares constructors 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

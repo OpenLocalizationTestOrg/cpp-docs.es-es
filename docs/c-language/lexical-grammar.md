@@ -56,6 +56,6 @@ ms.openlocfilehash: 342f96533d91e7d129446a0b07a0a5b3093bcb8e
  [C Language Syntax Summary](../c-language/c-language-syntax-summary.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

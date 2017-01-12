@@ -21,6 +21,6 @@ ms.openlocfilehash: ce2eed6ac4835746670f91714d3c29cac06c3797
 Windows Communication Foundation (WCF)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

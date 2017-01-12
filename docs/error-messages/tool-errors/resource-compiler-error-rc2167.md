@@ -44,6 +44,6 @@ unrecognized VERSIONINFO field; BEGIN or comma expected
  An unrecognized field was found in the **FIXED** part of a **VERSIONINFO** structure declaration. A **VERSIONINFO** field must be DWORDS separated by a comma.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

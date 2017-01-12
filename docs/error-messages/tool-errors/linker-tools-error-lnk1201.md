@@ -56,6 +56,6 @@ error writing to program database 'filename'; check for insufficient disk space,
 5.  Out of heap space.  See [C1060](../../error-messages/compiler-errors-1/fatal-error-c1060.md) for more information.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

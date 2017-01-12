@@ -45,6 +45,6 @@ unable to find 'entry point' in DLL 'dll'
  An entry point in a [delay-loaded DLL](../../build/reference/linker-support-for-delay-loaded-dlls.md) required by the compiler could not be found.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

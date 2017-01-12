@@ -44,6 +44,6 @@ ms.openlocfilehash: 9321edae20c4fce580e735b359e53adc2d4a2713
  You tried to use a feature that requires run-time type information without enabling run-time type information. Recompile with [/GR](../../build/reference/gr-enable-run-time-type-information.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

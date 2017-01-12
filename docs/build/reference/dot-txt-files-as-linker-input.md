@@ -46,6 +46,6 @@ LINK expects various text files as additional input. The [command-file](../../bu
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

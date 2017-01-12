@@ -72,6 +72,6 @@ Specifies the inline heuristic search depth, such that, no function will be inli
  [inline_recursion](../preprocessor/inline-recursion.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

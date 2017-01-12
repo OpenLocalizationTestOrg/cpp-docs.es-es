@@ -95,6 +95,6 @@ int main()
  [hash_set::end (STL/CLR)](../dotnet/hash-set-end-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

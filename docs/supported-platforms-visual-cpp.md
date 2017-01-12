@@ -65,6 +65,6 @@ Apps built by using [!INCLUDE[vsprvs](assembler/masm/includes/vsprvs_md.md)] can
  [Getting Started](/visualstudio/ide/getting-started-with-visual-cpp-in-visual-studio)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

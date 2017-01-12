@@ -62,6 +62,6 @@ ArrayType CRowsetBaseImpl::m_rgRowData;
  [CRowsetImpl::m_strIndexText](../../data/oledb/crowsetimpl-m-strindextext.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

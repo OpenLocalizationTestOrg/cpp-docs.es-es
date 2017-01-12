@@ -67,6 +67,6 @@ Opens a connection to a data source using an initialization string.
  [CDataConnection Class](../../data/oledb/cdataconnection-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

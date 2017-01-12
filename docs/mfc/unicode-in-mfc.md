@@ -85,6 +85,6 @@ MFC supports the Unicode standard for encoding wide characters on Windows NT, Wi
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

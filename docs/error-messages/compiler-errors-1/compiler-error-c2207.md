@@ -44,6 +44,6 @@ ms.openlocfilehash: b4c3f28e22819ec88836d54f76b2f5daa024003e
  The `member` of the class template was previously parsed as a non-static data member. It cannot be redefined as a member function.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

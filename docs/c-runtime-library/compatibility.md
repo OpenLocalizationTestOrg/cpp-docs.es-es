@@ -65,6 +65,6 @@ The Universal C Run-Time Library (UCRT) supports most of the C standard library 
 |[CRT Library Features](../c-runtime-library/crt-library-features.md)|Provides an overview of the CRT library (.lib) files and the associated compiler options.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

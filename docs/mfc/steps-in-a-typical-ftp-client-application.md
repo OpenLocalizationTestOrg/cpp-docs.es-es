@@ -72,6 +72,6 @@ A typical FTP client application creates a [CInternetSession](../mfc/reference/c
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

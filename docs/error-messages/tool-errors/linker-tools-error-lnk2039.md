@@ -54,6 +54,6 @@ importing ref class '\<type>' that is defined in another.obj; it should be eithe
  [Linker Tools Error LNK1332](../../error-messages/tool-errors/linker-tools-error-lnk1332.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

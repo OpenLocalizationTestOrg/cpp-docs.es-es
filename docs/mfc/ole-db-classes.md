@@ -48,6 +48,6 @@ The OLE DB support in MFC currently consists of the class [COLEDBRecordView](../
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

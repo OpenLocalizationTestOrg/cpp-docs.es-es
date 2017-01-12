@@ -66,6 +66,6 @@ Once you have created your project, you can build and test the sample control. B
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

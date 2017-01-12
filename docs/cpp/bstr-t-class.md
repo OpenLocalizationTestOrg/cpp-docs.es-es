@@ -85,6 +85,6 @@ ms.openlocfilehash: 3a4641a83dd5b54c596f523bf79ab7d59fc9be53
  [Compiler COM Support Classes](../cpp/compiler-com-support-classes.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

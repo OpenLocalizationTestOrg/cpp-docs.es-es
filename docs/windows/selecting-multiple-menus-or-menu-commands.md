@@ -56,6 +56,6 @@ You can select multiple menu names or menu commands to perform bulk operations s
  [Menu Editor](../mfc/menu-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -52,6 +52,6 @@ Your application can use the information provided by a hot key ([CHotKeyCtrl](..
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

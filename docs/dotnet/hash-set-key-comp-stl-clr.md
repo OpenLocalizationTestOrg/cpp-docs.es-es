@@ -107,6 +107,6 @@ compare(L'b', L'a') = True
  [hash_set::key_type (STL/CLR)](../dotnet/hash-set-key-type-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

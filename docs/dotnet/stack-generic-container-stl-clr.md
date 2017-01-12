@@ -111,6 +111,6 @@ a b c d e
  [stack::generic_value (STL/CLR)](../dotnet/stack-generic-value-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

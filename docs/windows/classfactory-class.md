@@ -125,6 +125,6 @@ class ClassFactory : public Details::RuntimeClass<
  [RuntimeClassType Enumeration](../windows/runtimeclasstype-enumeration.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

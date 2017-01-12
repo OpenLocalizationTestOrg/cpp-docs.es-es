@@ -110,6 +110,6 @@ equal_range(L'x') empty = True
  [multimap::upper_bound (STL/CLR)](../dotnet/multimap-upper-bound-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

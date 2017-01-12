@@ -87,6 +87,6 @@ a b c
  [vector::pop_back (STL/CLR)](../dotnet/vector-pop-back-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -80,6 +80,6 @@ Using ATL, you can create a control with Dynamic HTML (DHTML) capability. An ATL
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

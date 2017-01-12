@@ -203,6 +203,6 @@ Enter the number of bytes to allocate using _malloca: 1000
  [_resetstkoflw](../../c-runtime-library/reference/resetstkoflw.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

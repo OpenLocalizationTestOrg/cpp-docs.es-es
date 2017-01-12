@@ -67,6 +67,6 @@ inline void CurrentStatus(
  [AsyncStatusInternal Enumeration](../windows/asyncstatusinternal-enumeration.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -68,6 +68,6 @@ You should consider the following issues before starting your OLE DB application
  [OLE DB Programming Overview](../../data/oledb/ole-db-programming-overview.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

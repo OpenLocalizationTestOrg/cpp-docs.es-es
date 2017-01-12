@@ -45,6 +45,6 @@ The `long double` type is identical to the [double](../c-language/type-double.md
  [Storage of Basic Types](../c-language/storage-of-basic-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

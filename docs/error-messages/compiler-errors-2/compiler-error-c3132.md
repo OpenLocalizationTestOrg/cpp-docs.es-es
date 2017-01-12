@@ -57,6 +57,6 @@ void h( [ParamArray] array<Char ^> ^ MyArray );   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

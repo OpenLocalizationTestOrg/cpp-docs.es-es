@@ -86,6 +86,6 @@ A symbol value can be any integer expressed in the normal manner for #define pre
  [Predefined Symbol IDs](../windows/predefined-symbol-ids.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

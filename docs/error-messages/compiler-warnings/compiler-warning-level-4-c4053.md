@@ -45,6 +45,6 @@ one void operand for '?:'
  The `?:` operator is given an expression of type `void`. The value of the `void` operand is undefined.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

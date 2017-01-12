@@ -81,6 +81,6 @@ class CLASS_DECLSPEC CExampleA : public CObject
  [Importing into an Application](../build/importing-into-an-application.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

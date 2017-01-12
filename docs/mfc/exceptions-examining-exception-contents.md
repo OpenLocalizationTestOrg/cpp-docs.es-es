@@ -58,6 +58,6 @@ Although a **catch** block's argument can be of almost any data type, the MFC fu
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

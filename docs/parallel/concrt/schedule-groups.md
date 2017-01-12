@@ -65,6 +65,6 @@ This document describes the role of schedule groups in the Concurrency Runtime. 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

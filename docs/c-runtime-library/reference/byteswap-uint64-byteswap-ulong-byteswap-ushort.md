@@ -125,6 +125,6 @@ byteswap of 1020304 = 4030201
  [Run-Time Routines by Category](../../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

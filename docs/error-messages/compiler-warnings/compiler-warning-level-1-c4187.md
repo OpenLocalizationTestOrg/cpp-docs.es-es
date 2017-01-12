@@ -45,6 +45,6 @@ ms.openlocfilehash: fa5afb7213adf98f1ac08e2a05e2323a0bcede4c
  A [#import](../../preprocessor/hash-import-directive-cpp.md) statement specified `no_implementation` and `implementation_only` attributes. Both are ignored.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -49,6 +49,6 @@ Managed resource files (.resx) are XML files. When you add a managed resource fi
  [Resource Files](../mfc/resource-files-visual-studio.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -606,6 +606,6 @@ virtual HRESULT UpdateRegistryFromResourceS(UINT nResID,
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

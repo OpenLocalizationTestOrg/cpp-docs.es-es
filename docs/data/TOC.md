@@ -37,6 +37,6 @@
 ### [Where Can I Find Microsoft Knowledge Base Articles on Database Topics?](where-can-i-find-microsoft-knowledge-base-articles-on-database-topics-q.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

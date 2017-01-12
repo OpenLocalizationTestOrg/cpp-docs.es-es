@@ -73,6 +73,6 @@ Checks to see if either or both **DBID**s contain string values, and if so, copi
  [CRowsetImpl::SetCommandText](../../data/oledb/crowsetimpl-setcommandtext.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

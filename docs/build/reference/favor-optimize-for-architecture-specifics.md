@@ -86,6 +86,6 @@ ms.openlocfilehash: 9af47efe565d9ac97c1830a105df224a1da7dc21
  [Setting Compiler Options](../../build/reference/setting-compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

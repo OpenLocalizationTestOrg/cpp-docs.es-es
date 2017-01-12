@@ -58,6 +58,6 @@ Resources are interface elements that provide information to the user. Bitmaps, 
  [File Types Created for Visual C++ Projects](../ide/file-types-created-for-visual-cpp-projects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -71,6 +71,6 @@ Use this page of the MFC DLL wizard to design and add basic features to a new MF
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

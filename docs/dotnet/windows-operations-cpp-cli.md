@@ -76,6 +76,6 @@ Demonstrates various Windows-specific tasks using the [!INCLUDE[winsdklong](../d
  [.NET Programming with C++/CLI (Visual C++)](../dotnet/dotnet-programming-with-cpp-cli-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

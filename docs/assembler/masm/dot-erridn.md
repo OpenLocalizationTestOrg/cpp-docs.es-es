@@ -55,6 +55,6 @@ Generates an error if the text items are identical.
  [Directives Reference](../../assembler/masm/directives-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

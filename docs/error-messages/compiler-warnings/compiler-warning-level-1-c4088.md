@@ -44,6 +44,6 @@ ms.openlocfilehash: b909d649fa543547414819bb1d943cf687f897b4
  The corresponding formal and actual parameters have a different level of indirection. The actual parameter is passed without change. The called function interprets its value as a pointer.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

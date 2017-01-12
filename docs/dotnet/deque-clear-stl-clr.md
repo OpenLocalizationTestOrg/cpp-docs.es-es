@@ -104,6 +104,6 @@ size() = 0
  [deque::erase (STL/CLR)](../dotnet/deque-erase-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

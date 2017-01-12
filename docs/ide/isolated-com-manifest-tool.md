@@ -68,6 +68,6 @@ Use this dialog box to specify **Isolated COM** options for [Mt.exe](http://msdn
  [Working with Project Properties](../ide/working-with-project-properties.md)   
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

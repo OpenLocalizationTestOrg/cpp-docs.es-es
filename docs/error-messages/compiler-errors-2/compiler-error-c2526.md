@@ -44,6 +44,6 @@ ms.openlocfilehash: 59217e407abfcfa32a7df4286bfaac6fd42eff8c
  A function defined with C linkage cannot return a user-defined type.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -62,6 +62,6 @@ ATL provides three types of message handler functions:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

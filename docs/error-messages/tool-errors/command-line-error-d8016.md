@@ -52,6 +52,6 @@ ms.openlocfilehash: 79dad5a5134e91b67a395870e4ff7fa8e14066fb
  See [/RTC (Run-Time Error Checks)](../../build/reference/rtc-run-time-error-checks.md) for information on changing the **/RTC** property setting.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

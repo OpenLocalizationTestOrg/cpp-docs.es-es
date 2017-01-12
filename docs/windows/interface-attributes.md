@@ -78,6 +78,6 @@ The following attributes apply to the [interface (or __interface)](../cpp/interf
  [Attributes by Usage](../windows/attributes-by-usage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

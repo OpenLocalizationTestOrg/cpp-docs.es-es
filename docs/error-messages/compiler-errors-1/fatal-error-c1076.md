@@ -64,6 +64,6 @@ compiler limit : internal heap limit reached; use /Zm to specify a higher limit
  If C1076 occurs immediately after the build starts, the value specified for **/Zm** is probably too high for your program. Reduce the **/Zm** value.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -108,6 +108,6 @@ A "floating-point constant" is a decimal number that represents a signed real nu
  [C Constants](../c-language/c-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ ms.openlocfilehash: b1df16ec24936dfc64a57b4da530ad5fe0f8b76e
 This POSIX function is deprecated. Use the ISO C++ conformant [_read](../../c-runtime-library/reference/read.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

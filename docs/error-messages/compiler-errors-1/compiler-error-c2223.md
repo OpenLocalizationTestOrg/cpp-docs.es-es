@@ -46,6 +46,6 @@ left of '->identifier' must point to struct/union
  This error can be caused by a left operand that is an undefined variable (therefore type `int`).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: 012e9142dd4aede4090e829c10ca77c680d7691f
  Nonstatic members of a class or structure cannot be defined.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

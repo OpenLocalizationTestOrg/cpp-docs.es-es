@@ -46,6 +46,6 @@ resource file 'resource file' already specified
  To specify multiple .res files, pass them all to the linker as .res files, not from within .obj files created by **cvtres**.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

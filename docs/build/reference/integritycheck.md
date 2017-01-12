@@ -55,6 +55,6 @@ Specifies that the digital signature of the binary image must be checked at load
  [EDITBIN Options](../../build/reference/editbin-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

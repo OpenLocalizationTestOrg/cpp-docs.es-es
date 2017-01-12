@@ -125,6 +125,6 @@ size() = 1
  [deque::clear (STL/CLR)](../dotnet/deque-clear-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

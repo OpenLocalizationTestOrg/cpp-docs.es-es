@@ -45,6 +45,6 @@ ms.openlocfilehash: ac5c4e6950b8887d6b9cf00d1a95b5241c9e829f
  Only members and friends can assign a value to a private or protected member. Nonpublic members should be initialized in the class constructor.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

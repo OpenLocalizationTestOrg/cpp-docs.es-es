@@ -74,6 +74,6 @@ When you use Visual C++ to create applications to run on a 64-bit Windows operat
  [Visual C++ Porting and Upgrading Guide](../porting/visual-cpp-porting-and-upgrading-guide.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

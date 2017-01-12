@@ -52,6 +52,6 @@ Macro function that finds the first occurrence of *string2* in *string1*, beginn
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

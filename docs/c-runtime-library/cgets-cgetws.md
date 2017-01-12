@@ -165,6 +165,6 @@ Text = A line of input.
  [_getch, _getwch](../c-runtime-library/reference/getch-getwch.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

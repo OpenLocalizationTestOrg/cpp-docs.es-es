@@ -335,6 +335,6 @@ Recovered from stack overflow and allocated 100,000 bytes using _alloca.
  [_alloca](../../c-runtime-library/reference/alloca.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

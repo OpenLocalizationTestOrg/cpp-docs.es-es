@@ -91,6 +91,6 @@ A virtual list control is a list view control that has the **LVS_OWNERDATA** sty
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

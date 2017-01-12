@@ -94,6 +94,6 @@ The OLE DB object model comprises the following objects or components. The first
  [OLE DB Programming Overview](../../data/oledb/ole-db-programming-overview.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

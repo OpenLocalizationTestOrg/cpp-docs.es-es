@@ -126,6 +126,6 @@ _Lcomplex csqrtl(
  [ccos, ccosf, ccosl](../../c-runtime-library/reference/ccos-ccosf-ccosl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

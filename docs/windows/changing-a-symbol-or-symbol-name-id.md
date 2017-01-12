@@ -66,6 +66,6 @@ When you create a new resource or resource object, the development environment a
  [Predefined Symbol IDs](../windows/predefined-symbol-ids.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

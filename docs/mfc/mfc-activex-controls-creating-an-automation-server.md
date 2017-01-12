@@ -77,6 +77,6 @@ You can develop an MFC ActiveX control as an Automation server for the purpose o
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

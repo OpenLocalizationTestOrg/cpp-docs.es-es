@@ -55,6 +55,6 @@ The following files are created when you create an ATL project in Visual Studio,
  [CLR Projects](../ide/files-created-for-clr-projects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

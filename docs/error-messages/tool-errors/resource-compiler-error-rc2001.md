@@ -52,6 +52,6 @@ newline in constant
  It is not sufficient to end the first line with \n, the escape sequence for embedding a newline character in a string constant.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ syntax error : unexpected type 'type'
  A syntax error occurs before or in the type specifier.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

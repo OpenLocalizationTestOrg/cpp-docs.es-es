@@ -47,6 +47,6 @@ The command object uses the `IAccessor` interface to specify parameter bindings.
  [OLE DB Provider Template Architecture](../../data/oledb/ole-db-provider-template-architecture.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

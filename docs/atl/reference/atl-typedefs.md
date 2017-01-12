@@ -263,6 +263,6 @@ typedef CUrl* LPURL;
  [Classes](../../atl/reference/atl-classes.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

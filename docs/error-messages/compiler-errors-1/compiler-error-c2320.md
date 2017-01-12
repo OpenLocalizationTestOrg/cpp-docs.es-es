@@ -45,6 +45,6 @@ expected ':' to follow access specifier 'specifier'
  The keyword `public`, `protected`, or `private` must be followed by a colon.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

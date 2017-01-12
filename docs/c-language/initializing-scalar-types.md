@@ -135,6 +135,6 @@ int function( void )
  [Initialization](../c-language/initialization.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

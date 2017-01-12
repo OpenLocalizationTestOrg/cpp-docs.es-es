@@ -237,6 +237,6 @@ Convert back to wide-character string:
  [MultiByteToWideChar](http://msdn.microsoft.com/library/windows/desktop/dd319072)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

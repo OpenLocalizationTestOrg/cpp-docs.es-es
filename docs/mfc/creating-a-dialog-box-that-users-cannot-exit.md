@@ -70,6 +70,6 @@ You can create a runtime dialog box that a user cannot exit. This kind of dialog
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -51,6 +51,6 @@ The following linkage rules apply to names with block scope (local names):
  [Program and Linkage](../cpp/program-and-linkage-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

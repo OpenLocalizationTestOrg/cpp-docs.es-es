@@ -64,6 +64,6 @@ A dual interface allows its methods to be accessed as dispinterface methods or a
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

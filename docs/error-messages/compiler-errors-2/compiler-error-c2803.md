@@ -59,6 +59,6 @@ bool operator< (const A *left, const A *right);   // C2803
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

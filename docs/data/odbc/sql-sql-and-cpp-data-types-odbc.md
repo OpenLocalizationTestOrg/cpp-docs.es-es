@@ -83,6 +83,6 @@ ms.openlocfilehash: 25656ddc0d61a826db100c4f470d478832ac4483
  [SQL: Making Direct SQL Calls (ODBC)](../../data/odbc/sql-making-direct-sql-calls-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

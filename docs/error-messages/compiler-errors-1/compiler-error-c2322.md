@@ -45,6 +45,6 @@ ms.openlocfilehash: 6e36487ea2583829f1c143b2152316255852a0f4
  A nonstatic value is given as the address of a function declared with `dllimport`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

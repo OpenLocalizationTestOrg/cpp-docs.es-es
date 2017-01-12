@@ -56,6 +56,6 @@ Type conversions depend on the specified operator and the type of the operand or
  [Expressions and Assignments](../c-language/expressions-and-assignments.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

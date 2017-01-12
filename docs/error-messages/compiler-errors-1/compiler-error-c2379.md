@@ -53,6 +53,6 @@ void func(char);   // C2379, char promotes to int
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

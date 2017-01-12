@@ -90,6 +90,6 @@ wtick = 2.793651148400146e-007
  [Functions](../../../parallel/openmp/reference/openmp-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

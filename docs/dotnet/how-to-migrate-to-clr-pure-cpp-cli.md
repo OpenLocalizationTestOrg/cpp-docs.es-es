@@ -73,6 +73,6 @@ This topic discusses issues likely to arise when migrating to pure MSIL using **
  [Pure and Verifiable Code (C++/CLI)](../dotnet/pure-and-verifiable-code-cpp-cli.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

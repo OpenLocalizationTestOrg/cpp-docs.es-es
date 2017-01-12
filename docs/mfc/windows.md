@@ -137,6 +137,6 @@ This family of articles covers window objects in the MFC framework. All MFC wind
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

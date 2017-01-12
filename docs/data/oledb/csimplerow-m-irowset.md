@@ -58,6 +58,6 @@ KeyType m_iRowset;
  [CSimpleRow::CSimpleRow](../../data/oledb/csimplerow-csimplerow.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -56,6 +56,6 @@ module machine type 'type1' conflicts with target machine type 'type2'
  [Linker Tools Errors and Warnings](../../error-messages/tool-errors/linker-tools-errors-and-warnings.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

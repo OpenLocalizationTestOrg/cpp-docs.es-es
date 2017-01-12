@@ -52,6 +52,6 @@ int __cdecl const function1();   // C4230 const ignored
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

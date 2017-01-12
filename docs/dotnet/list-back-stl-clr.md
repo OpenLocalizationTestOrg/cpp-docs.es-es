@@ -100,6 +100,6 @@ back() = c
  [list::front_item (STL/CLR)](../dotnet/list-front-item-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

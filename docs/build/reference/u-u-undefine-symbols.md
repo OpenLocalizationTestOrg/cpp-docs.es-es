@@ -100,6 +100,6 @@ The **/U** compiler option undefines the specified preprocessor symbol. The **/u
  [/MD, /MT, /LD (Use Run-Time Library)](../../build/reference/md-mt-ld-use-run-time-library.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

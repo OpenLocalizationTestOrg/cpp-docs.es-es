@@ -53,6 +53,6 @@ ms.openlocfilehash: e4fa0b16e0f62ef1fbfbd13db8637cc12f7ba711
  [Using Assembly Language in __asm Blocks](../../assembler/inline/using-assembly-language-in-asm-blocks.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

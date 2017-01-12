@@ -67,6 +67,6 @@ Depending on your target operating systems and markets, you have several interna
  [Locales and Code Pages](../text/locales-and-code-pages.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

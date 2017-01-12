@@ -137,6 +137,6 @@ float _logbf(
  [frexp](../../c-runtime-library/reference/frexp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

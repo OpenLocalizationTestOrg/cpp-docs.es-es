@@ -48,6 +48,6 @@ ATL allows you to easily create COM objects, Automation servers, and ActiveX con
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

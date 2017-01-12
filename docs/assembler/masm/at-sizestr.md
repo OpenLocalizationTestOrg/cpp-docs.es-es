@@ -52,6 +52,6 @@ A macro function that returns the length of the given string. Returns an integer
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

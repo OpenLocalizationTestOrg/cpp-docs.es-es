@@ -103,6 +103,6 @@ This article explains how to change the text that appears in an MFC status bar p
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

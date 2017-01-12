@@ -79,6 +79,6 @@ Use these functions to get the current time and convert, adjust, and store it as
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -130,6 +130,6 @@ RetVal = strrev(szString);
  [A Sample Generic-Text Program](../c-runtime-library/a-sample-generic-text-program.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

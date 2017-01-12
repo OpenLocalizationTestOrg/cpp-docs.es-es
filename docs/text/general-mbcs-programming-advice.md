@@ -65,6 +65,6 @@ Use the following tips:
  [Incrementing and Decrementing Pointers](../text/incrementing-and-decrementing-pointers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

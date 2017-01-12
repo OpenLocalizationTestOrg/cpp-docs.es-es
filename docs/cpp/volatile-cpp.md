@@ -98,6 +98,6 @@ volatile declarator ;
  [const and volatile Pointers](../cpp/const-and-volatile-pointers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

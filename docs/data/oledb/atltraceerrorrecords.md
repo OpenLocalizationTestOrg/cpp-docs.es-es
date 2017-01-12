@@ -67,6 +67,6 @@ Dumps OLE DB Error Record information to the dump device if an error is returned
  [CDBErrorInfo Class](../../data/oledb/cdberrorinfo-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

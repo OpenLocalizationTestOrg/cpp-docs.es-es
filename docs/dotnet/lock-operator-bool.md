@@ -157,6 +157,6 @@ All threads completed.
  [lock::is_locked](../dotnet/lock-is-locked.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

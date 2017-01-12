@@ -56,6 +56,6 @@ The **parallel sections** directive provides a shortcut form for specifying a **
 -   **sections** directive, see [Section 2.4.2](../../parallel/openmp/2-4-2-sections-construct.md) on page 14.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

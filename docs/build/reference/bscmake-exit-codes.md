@@ -50,6 +50,6 @@ BSCMAKE returns an exit code (also called a return code or error code) to the op
  [BSCMAKE Reference](../../build/reference/bscmake-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

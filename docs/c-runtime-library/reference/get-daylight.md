@@ -103,6 +103,6 @@ Retrieves the daylight saving time offset in hours.
  [_get_tzname](../../c-runtime-library/reference/get-tzname.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

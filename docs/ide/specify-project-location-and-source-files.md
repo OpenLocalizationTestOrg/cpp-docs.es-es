@@ -80,6 +80,6 @@ Use this page of the Create New Project From Existing Code Files wizard to speci
  Specifies that all files in the new project to be visible and displayed in the Solution Explorer window. This option is enabled by default.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

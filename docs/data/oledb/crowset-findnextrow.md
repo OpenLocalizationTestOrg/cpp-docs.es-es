@@ -106,6 +106,6 @@ Finds the next matching row after the specified bookmark.
  [DBBINDING Structures](https://msdn.microsoft.com/en-us/library/ms716845.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

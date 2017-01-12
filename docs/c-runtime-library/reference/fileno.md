@@ -127,6 +127,6 @@ The file descriptor for stderr is 2
  [freopen, _wfreopen](../../c-runtime-library/reference/freopen-wfreopen.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

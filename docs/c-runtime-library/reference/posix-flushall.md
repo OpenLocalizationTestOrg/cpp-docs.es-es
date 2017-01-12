@@ -58,6 +58,6 @@ ms.openlocfilehash: 05a2d26a9599c8c401587233b48057d5deab205c
 This POSIX function is deprecated. Use the ISO C++ conformant [_flushall](../../c-runtime-library/reference/flushall.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

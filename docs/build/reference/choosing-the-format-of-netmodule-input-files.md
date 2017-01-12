@@ -64,6 +64,6 @@ An MSIL .obj file (compiled with [/clr](../../build/reference/clr-common-languag
  [.netmodule Files as Linker Input](../../build/reference/netmodule-files-as-linker-input.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

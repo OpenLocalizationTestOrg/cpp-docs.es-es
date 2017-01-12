@@ -53,6 +53,6 @@ Two for a 16-bit segment or four for a 32-bit segment (numeric equate).
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

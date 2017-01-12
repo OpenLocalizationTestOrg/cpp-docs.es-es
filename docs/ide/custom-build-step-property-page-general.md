@@ -78,6 +78,6 @@ For each combination of project configuration and target platform in your projec
  [Property Pages](../ide/property-pages-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

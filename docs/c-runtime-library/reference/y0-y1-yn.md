@@ -64,6 +64,6 @@ ms.openlocfilehash: e559ca138f4fc63e1881b72607c9a4637e79bbc2
 These POSIX functions are deprecated. Use the ISO C++ conformant [Bessel Functions: _j0, _j1, _jn, _y0, _y1, _yn](../../c-runtime-library/reference/bessel-functions-j0-j1-jn-y0-y1-yn.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ minimal rebuild failure, reverting to normal build
  For more information on minimal rebuilds and the .idb file, see the [/Gm compiler option](../../build/reference/gm-enable-minimal-rebuild.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

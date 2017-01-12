@@ -230,6 +230,6 @@ The articles in this part of the documentation contain information about a subse
  [Compiler Error C3498](../../error-messages/compiler-errors-2/compiler-error-c3498.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

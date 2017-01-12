@@ -98,6 +98,6 @@ A build event is a command that [!INCLUDE[vstecmsbuild](../build/includes/vstecm
  [Walkthrough: Using MSBuild to Create a Visual C++ Project](../build/walkthrough-using-msbuild-to-create-a-visual-cpp-project.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

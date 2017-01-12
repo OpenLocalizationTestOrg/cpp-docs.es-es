@@ -44,6 +44,6 @@ ms.openlocfilehash: 4e1e6d437637aff4864504f46408427ecedda09a
 -   New features in OpenMP C/C++ Version 2.0 ([see Appendix F](../../parallel/openmp/f-new-features-and-clarifications-in-version-2-0.md)).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

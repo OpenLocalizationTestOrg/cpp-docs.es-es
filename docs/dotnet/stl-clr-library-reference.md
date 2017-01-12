@@ -87,6 +87,6 @@ The STL/CLR Library is a packaging of the Standard Template Library (STL), a sub
  [C++ Standard Library](../standard-library/cpp-standard-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

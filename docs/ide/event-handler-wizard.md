@@ -66,6 +66,6 @@ This wizard adds an event handler for a dialog box control to the class of your 
  [Adding an Event Handler](../ide/adding-an-event-handler-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

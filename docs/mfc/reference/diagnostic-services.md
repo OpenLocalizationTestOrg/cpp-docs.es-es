@@ -673,6 +673,6 @@ void AfxDoForAllObjects(
  [Macros and Globals](../../mfc/reference/mfc-macros-and-globals.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

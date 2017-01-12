@@ -94,6 +94,6 @@ There are two types of linking: implicit linking and explicit linking.
  [Linking an Executable to a DLL](../build/linking-an-executable-to-a-dll.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -81,6 +81,6 @@ Allocates memory for the parameter bind structures and initializes the parameter
  [CManualAccessor::AddParameterEntry](../../data/oledb/cmanualaccessor-addparameterentry.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

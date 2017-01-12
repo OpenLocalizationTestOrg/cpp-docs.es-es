@@ -76,6 +76,6 @@ A helper method called by [GetNextRows](../../data/oledb/irowsetimpl-getnextrows
  [IRowsetImpl Class](../../data/oledb/irowsetimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

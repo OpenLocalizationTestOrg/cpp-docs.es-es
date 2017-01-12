@@ -44,6 +44,6 @@ ms.openlocfilehash: 232eff4e4960dad7ab7708119a5c51b6b151649f
  The corresponding formal and actual parameters have different types. The actual parameter is passed without change. The function casts the actual parameter to the type specified in the function definition.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

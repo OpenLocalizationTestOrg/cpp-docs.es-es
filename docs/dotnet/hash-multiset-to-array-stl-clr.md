@@ -96,6 +96,6 @@ a b c
  [hash_multiset (STL/CLR)](../dotnet/hash-multiset-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -146,6 +146,6 @@ int main()
  [logical_and (STL/CLR)](../dotnet/logical-and-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

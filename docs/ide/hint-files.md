@@ -341,6 +341,6 @@ static const struct ATL::_ATL_CATMAP_ENTRY pMap[] = {
  [Object Map Macros](../atl/reference/object-map-macros.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

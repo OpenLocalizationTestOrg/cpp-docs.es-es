@@ -86,6 +86,6 @@ if (CanAddClass(selProj, selObj))
  [IsMFCProject](../ide/ismfcproject.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

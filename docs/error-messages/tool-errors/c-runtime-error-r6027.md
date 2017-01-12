@@ -59,6 +59,6 @@ not enough space for lowio initialization
  This error occurs when there is not enough free memory available to initialize the low-level I/O support in the C runtime. This error usually occurs at app startup. Verify that your app and the drivers and dlls that it loads do not corrupt the heap at startup.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

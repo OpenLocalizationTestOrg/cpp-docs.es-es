@@ -44,6 +44,6 @@ ms.openlocfilehash: 3b37be48c281f3c3e381abd3ed4c6704c8b5c528
  You specified a pointer in [__hook](../../cpp/hook.md) or [__unhook](../../cpp/unhook.md) that did not point to a valid class. To fix this error, ensure that your `__hook` and `__unhook` calls specify pointers to valid classes.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

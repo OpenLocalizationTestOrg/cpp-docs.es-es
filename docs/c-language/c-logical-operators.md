@@ -93,6 +93,6 @@ printf( "%d" , (x == w || x == y || x == z) );
  [Logical OR Operator: &#124;&#124;](../cpp/logical-or-operator-pipe-pipe.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

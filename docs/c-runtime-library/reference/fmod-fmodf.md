@@ -138,6 +138,6 @@ The remainder of -10.00 / 3.00 is -1.000000
  [_CIfmod](../../c-runtime-library/cifmod.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

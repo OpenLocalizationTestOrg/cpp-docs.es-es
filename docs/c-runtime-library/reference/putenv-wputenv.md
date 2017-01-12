@@ -132,6 +132,6 @@ int _wputenv(
  [_searchenv, _wsearchenv](../../c-runtime-library/reference/searchenv-wsearchenv.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

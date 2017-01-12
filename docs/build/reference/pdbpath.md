@@ -78,6 +78,6 @@ ms.openlocfilehash: f71eb368f06019fbe9de1bf96e878e589b5c59b9
  [/PDBALTPATH (Use Alternate PDB Path)](../../build/reference/pdbaltpath-use-alternate-pdb-path.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

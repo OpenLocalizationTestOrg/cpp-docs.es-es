@@ -191,6 +191,6 @@ The time is Mon Apr 28 11:08:54.230 2003
  [time, _time32, _time64](../../c-runtime-library/reference/time-time32-time64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

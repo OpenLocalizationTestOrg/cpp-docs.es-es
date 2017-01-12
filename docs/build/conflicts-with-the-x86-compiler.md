@@ -50,6 +50,6 @@ Data types that are larger than 4 bytes are not automatically aligned on the sta
  [align](../cpp/align-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

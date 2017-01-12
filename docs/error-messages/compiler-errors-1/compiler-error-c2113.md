@@ -45,6 +45,6 @@ ms.openlocfilehash: 294335656366b3c3ee1be990ccd97002ccf48f7b
  The right operand in a subtraction operation was a pointer, but the left operand was not.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

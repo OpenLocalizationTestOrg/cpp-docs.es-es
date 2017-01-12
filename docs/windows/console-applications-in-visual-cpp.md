@@ -46,6 +46,6 @@ A console application accepts input and sends output to the console, which is al
 |[Creating a Console Application](../windows/creating-a-console-application.md)|Provides information about console applications.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

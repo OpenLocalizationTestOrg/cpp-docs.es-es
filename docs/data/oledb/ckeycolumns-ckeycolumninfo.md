@@ -106,6 +106,6 @@ Call the typedef class **CKeyColumns** to implement its parameter class **CKeyCo
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

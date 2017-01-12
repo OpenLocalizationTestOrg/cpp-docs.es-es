@@ -94,6 +94,6 @@ A custom brush is a rectangular portion of an image that you pick up and use lik
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

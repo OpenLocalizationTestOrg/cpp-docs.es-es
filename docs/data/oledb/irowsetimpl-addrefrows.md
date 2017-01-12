@@ -70,6 +70,6 @@ Adds a reference count to an existing row handle.
  [IRowsetImpl::ReleaseRows](../../data/oledb/irowsetimpl-releaserows.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

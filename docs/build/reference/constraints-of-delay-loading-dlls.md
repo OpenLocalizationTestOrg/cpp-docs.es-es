@@ -66,6 +66,6 @@ There are constraints regarding the delay loading of imports.
  [TlsSetValue function](http://msdn.microsoft.com/library/windows/desktop/ms686818.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

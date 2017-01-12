@@ -84,6 +84,6 @@ ms.openlocfilehash: 432f88f1bccc13658bffac648cddf5f0cea05de9
  [Microsoft Macro Assembler Reference](../../assembler/masm/microsoft-macro-assembler-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

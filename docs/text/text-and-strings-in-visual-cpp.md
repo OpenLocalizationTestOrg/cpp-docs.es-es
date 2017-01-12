@@ -86,6 +86,6 @@ An important aspect of developing applications for international markets is the 
  Provides the language and country/region strings in the C run-time library.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

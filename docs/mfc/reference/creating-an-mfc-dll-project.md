@@ -71,6 +71,6 @@ An MFC DLL is a binary file that acts as a shared library of functions that can 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

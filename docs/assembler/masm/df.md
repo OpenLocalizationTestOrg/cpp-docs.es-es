@@ -54,6 +54,6 @@ Allocates and optionally initializes 6 bytes of storage for each `initializer`. 
  [Directives Reference](../../assembler/masm/directives-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

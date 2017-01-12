@@ -117,6 +117,6 @@ All Visual C++ CLR projects link to the C run-time libraries by default. Consequ
         |[Void](https://msdn.microsoft.com/en-us/library/system.void\(v=vs.140\).aspx)|Indicates a method that does not return a value; that is, the method has the void return type.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

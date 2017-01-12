@@ -49,6 +49,6 @@ Define macros in a command line, command file, makefile, or the Tools.ini file.
  [Defining an NMAKE Macro](../build/defining-an-nmake-macro.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

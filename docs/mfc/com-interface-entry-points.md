@@ -72,6 +72,6 @@ For member functions of a COM interface, use the [METHOD_PROLOGUE](http://msdn.m
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

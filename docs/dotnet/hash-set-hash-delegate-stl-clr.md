@@ -85,6 +85,6 @@ hash(L'b') = 570892832
  [hash_set::hasher (STL/CLR)](../dotnet/hash-set-hasher-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

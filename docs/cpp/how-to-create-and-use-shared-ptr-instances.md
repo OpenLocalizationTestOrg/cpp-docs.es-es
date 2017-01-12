@@ -85,6 +85,6 @@ The `shared_ptr` type is a smart pointer in the C++ standard library that is des
  [Smart Pointers](../cpp/smart-pointers-modern-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

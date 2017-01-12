@@ -52,6 +52,6 @@ At this point, your composite control project implements the necessary objects f
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

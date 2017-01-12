@@ -58,6 +58,6 @@ ms.openlocfilehash: 276e63d62bd1dd508bbaeb1d7821167ddc51f665
 This POSIX function is deprecated. Use the ISO C++ conformant [_lfind](../../c-runtime-library/reference/lfind.md) or security-enhanced [_lfind_s](../../c-runtime-library/reference/lfind-s.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

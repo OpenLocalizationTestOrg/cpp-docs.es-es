@@ -80,6 +80,6 @@ inline bool SafeCast (
  [SafeInt Class](../windows/safeint-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

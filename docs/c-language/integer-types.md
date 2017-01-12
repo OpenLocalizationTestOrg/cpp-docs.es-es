@@ -77,6 +77,6 @@ Every integer constant is given a type based on its value and the way it is expr
  [C Integer Constants](../c-language/c-integer-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

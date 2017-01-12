@@ -53,6 +53,6 @@ Individual OLE DB services can be enabled or disabled by default for all applica
  [Enabling and Disabling OLE DB Services](../../data/oledb/enabling-and-disabling-ole-db-services.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

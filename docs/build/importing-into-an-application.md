@@ -59,6 +59,6 @@ You can import functions into an application using two methods:
  [Importing and Exporting](../build/importing-and-exporting.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

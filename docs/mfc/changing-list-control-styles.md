@@ -60,6 +60,6 @@ You can change the window style of a list control ([CListCtrl](../mfc/reference/
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

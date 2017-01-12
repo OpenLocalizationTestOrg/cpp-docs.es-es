@@ -89,6 +89,6 @@ a b c
  [hash_set::iterator (STL/CLR)](../dotnet/hash-set-iterator-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -75,6 +75,6 @@ Learn how to use the [!INCLUDE[cppwrl](../windows/includes/cppwrl_md.md)] ([!INC
  [Microsoft::WRL::Details::MakeAndInitialize](../windows/makeandinitialize-function.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

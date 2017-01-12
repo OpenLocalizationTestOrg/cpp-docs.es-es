@@ -44,6 +44,6 @@ ms.openlocfilehash: 23b5e8b3caf2da2dcd3fb569cc4676ad8a359a89
  The bit field is not declared as an integer type. The compiler assumes the base type of the bit field to be unsigned. Bit fields must be declared as unsigned integer types.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

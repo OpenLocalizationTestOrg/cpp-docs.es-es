@@ -45,6 +45,6 @@ ms.openlocfilehash: a192efb1a126ac95802835641e3aac9e6e801629
  The type library specified in the `#import` statement is unreadable by the compiler. You may want to either regenerate the type library, if possible, or request a new type library from your supplier. You may want to use the OLE Viewer, supplied with Visual C++, to view the type library file to see what is the matter with it.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

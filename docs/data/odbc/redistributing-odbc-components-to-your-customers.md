@@ -63,6 +63,6 @@ If you incorporate the functionality of the ODBC Administrator programs into you
  [ODBC Administrator](../../data/odbc/odbc-administrator.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

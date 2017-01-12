@@ -92,6 +92,6 @@ This topic describes the ODBC Cursor Library and explains how to use it. For mor
  [ODBC Basics](../../data/odbc/odbc-basics.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

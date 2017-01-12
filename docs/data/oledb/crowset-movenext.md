@@ -91,6 +91,6 @@ HRESULT MoveNext(
  [CRowset::MoveLast](../../data/oledb/crowset-movelast.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

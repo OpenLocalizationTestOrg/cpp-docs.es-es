@@ -76,6 +76,6 @@ When you're designing a dialog box, you can simulate and test its run-time behav
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

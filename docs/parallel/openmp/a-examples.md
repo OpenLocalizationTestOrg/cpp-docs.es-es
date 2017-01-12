@@ -38,6 +38,6 @@ ms.openlocfilehash: e1ec15e84391f0cb319093abd709bafbe4a36534
 The following are examples of the constructs defined in this document. Note that a statement following a directive is compound only when necessary, and a non-compound statement is indented with respect to a directive preceding it.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

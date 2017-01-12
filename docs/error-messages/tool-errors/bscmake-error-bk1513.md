@@ -54,6 +54,6 @@ nonincremental update requires all .SBR files
  To resolve this issue, delete the truncated .sbr files and rebuild, or clean the solution and rebuild. (In the IDE, choose **Build**, **Clean Solution**, and then choose **Build**, **Rebuild Solution**.)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

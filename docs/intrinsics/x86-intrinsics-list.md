@@ -1295,6 +1295,6 @@ This document lists intrinsics that the Visual C++ compiler supports when x86 is
  [x64 (amd64) Intrinsics](../intrinsics/x64-amd64-intrinsics-list.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

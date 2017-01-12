@@ -51,6 +51,6 @@ You can get an idea of the kinds of issues you might encounter duration a migrat
  [Visual C++ Porting and Upgrading Guide](../porting/visual-cpp-porting-and-upgrading-guide.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

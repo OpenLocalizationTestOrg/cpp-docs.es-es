@@ -49,6 +49,6 @@ Visual C++ provides the following technologies to help you create multi-threaded
 |[Visual C++](../visual-cpp-in-visual-studio.md)|This section of the documentation contains information about most of the features of Visual C++.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

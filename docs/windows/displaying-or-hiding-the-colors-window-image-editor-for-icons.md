@@ -65,6 +65,6 @@ ms.openlocfilehash: 9271ec1cce075b3571ab16c9a33f5cd7e292bce7
  [Image Editor for Icons](../mfc/image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

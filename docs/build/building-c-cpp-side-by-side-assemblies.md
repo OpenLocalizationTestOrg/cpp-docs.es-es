@@ -60,6 +60,6 @@ A [side-by-side assembly](http://msdn.microsoft.com/en-us/501bbffe-5927-4656-8ee
  [Building C/C++ Isolated Applications and Side-by-side Assemblies](../build/building-c-cpp-isolated-applications-and-side-by-side-assemblies.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

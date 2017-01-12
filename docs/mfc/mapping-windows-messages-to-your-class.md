@@ -62,6 +62,6 @@ If you need your dialog box to handle Windows messages, override the appropriate
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

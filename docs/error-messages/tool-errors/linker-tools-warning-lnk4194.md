@@ -44,6 +44,6 @@ ms.openlocfilehash: 5bf8bf6f1399588ec194ff223219190749741709
  The linker cannot [delay load](../../build/reference/delayload-delay-load-import.md) the requested DLL.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

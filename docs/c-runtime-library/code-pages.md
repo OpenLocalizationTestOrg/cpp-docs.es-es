@@ -71,6 +71,6 @@ A `code page` is a character set, which can include numbers, punctuation marks, 
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

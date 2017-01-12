@@ -64,6 +64,6 @@ The concept of a transaction was developed to handle cases in which the resultin
  [Data Access Programming (MFC/ATL)](../data/data-access-programming-mfc-atl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

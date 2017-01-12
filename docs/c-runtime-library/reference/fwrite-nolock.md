@@ -110,6 +110,6 @@ size_t _fwrite_nolock(
  [_write](../../c-runtime-library/reference/write.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

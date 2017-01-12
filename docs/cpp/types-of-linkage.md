@@ -70,6 +70,6 @@ The way the names of objects and functions are shared between translation units 
  [Program and Linkage](../cpp/program-and-linkage-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

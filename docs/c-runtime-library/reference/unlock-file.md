@@ -94,6 +94,6 @@ void _unlock_file(
  [_lock_file](../../c-runtime-library/reference/lock-file.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

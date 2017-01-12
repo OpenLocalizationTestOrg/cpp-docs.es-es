@@ -117,6 +117,6 @@ OLE provided the means to uniquely identify persistent documents (**GetClassFile
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

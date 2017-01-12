@@ -53,6 +53,6 @@ When you use Visual C++ templates to create your projects, several files are cre
 |ReadMe.txt|A file describing each file in your project using the actual filenames created by the template.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

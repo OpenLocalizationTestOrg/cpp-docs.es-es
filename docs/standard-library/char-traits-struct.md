@@ -1170,6 +1170,6 @@ The recovered char_type of ch2 is equal to the original ch2.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

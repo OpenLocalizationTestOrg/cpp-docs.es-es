@@ -77,6 +77,6 @@ Undoes any changes to the row since the last fetch or update.
  [IRowsetUpdateImpl Class](../../data/oledb/irowsetupdateimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

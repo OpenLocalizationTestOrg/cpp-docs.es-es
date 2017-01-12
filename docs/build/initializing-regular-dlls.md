@@ -71,6 +71,6 @@ Because regular DLLs have a `CWinApp` object, they should perform their initiali
  [Initializing a DLL](../build/initializing-a-dll.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -71,6 +71,6 @@ void __svm_stgi(void);
  [__svm_clgi](../intrinsics/svm-clgi.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

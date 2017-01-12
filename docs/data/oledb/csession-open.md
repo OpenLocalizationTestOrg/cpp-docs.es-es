@@ -78,6 +78,6 @@ Opens a new session for the data source object.
  [CSession Class](../../data/oledb/csession-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

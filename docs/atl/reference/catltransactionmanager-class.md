@@ -478,6 +478,6 @@ inline BOOL CAtlTransactionManager::SetFileAttributes(LPCTSTR lpFileName,  DWORD
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

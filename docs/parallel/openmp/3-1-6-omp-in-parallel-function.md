@@ -45,6 +45,6 @@ int omp_in_parallel(void);
  This function returns a nonzero value when called from within a region executing in parallel, including nested regions that are serialized.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -59,6 +59,6 @@ ms.openlocfilehash: ef8f22ab5595cc79c91d9b826b0ab15055e1d768
  [Creating an OLE DB Provider](../../data/oledb/creating-an-ole-db-provider.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

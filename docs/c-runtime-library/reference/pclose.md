@@ -104,6 +104,6 @@ FILE *stream
  [_popen, _wpopen](../../c-runtime-library/reference/popen-wpopen.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

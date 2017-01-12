@@ -50,6 +50,6 @@ In the following example, (for [Section 2.4.2](../../parallel/openmp/2-4-2-secti
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

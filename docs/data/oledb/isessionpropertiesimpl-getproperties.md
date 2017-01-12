@@ -66,6 +66,6 @@ Returns the list of properties in the **DBPROPSET_SESSION** property group that 
  [ISessionPropertiesImpl::SetProperties](../../data/oledb/isessionpropertiesimpl-setproperties.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

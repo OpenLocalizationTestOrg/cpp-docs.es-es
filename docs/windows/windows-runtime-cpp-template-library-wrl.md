@@ -162,6 +162,6 @@ The [!INCLUDE[cppwrl](../windows/includes/cppwrl_md.md)] ([!INCLUDE[cppwrl_short
 |[Using Windows Runtime Components in Visual C++](http://go.microsoft.com/fwlink/?LinkId=229155)|Shows how to use [!INCLUDE[cppwrt_short](../build/reference/includes/cppwrt_short_md.md)] to create a basic [!INCLUDE[wrt](../atl/reference/includes/wrt_md.md)] component.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

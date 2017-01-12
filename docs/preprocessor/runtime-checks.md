@@ -92,6 +92,6 @@ Disables or restores the [/RTC](../build/reference/rtc-run-time-error-checks.md)
  [RTC sample](http://msdn.microsoft.com/en-us/b3415b09-f6fd-43dc-8c02-9a910bc2574e)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

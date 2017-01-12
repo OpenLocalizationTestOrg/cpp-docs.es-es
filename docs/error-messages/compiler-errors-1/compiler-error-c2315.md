@@ -45,6 +45,6 @@ ms.openlocfilehash: 776284fe0ac43f81acb1ed25646d4a64e2d63326
  The exception type is handled by a previous handler. The reference for the second catch has the type of the first.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -53,6 +53,6 @@ __declspec(dllimport) __declspec(process) extern const int i;   // C4399
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

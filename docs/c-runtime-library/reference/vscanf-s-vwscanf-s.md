@@ -193,6 +193,6 @@ The contents are: 36 92.300003 y n Wide characters
  [vscanf, vwscanf](../../c-runtime-library/reference/vscanf-vwscanf.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

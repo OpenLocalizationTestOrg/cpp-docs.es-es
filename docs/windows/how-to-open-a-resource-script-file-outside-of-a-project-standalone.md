@@ -91,6 +91,6 @@ You can view resources in an .rc file without having a project open. The .rc fil
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

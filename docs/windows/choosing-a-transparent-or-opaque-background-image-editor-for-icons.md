@@ -78,6 +78,6 @@ Transparent and Opaque Options on the Image Editor Toolbar
  [Working with Color](../mfc/working-with-color-image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -96,6 +96,6 @@ int main()
  [set::begin (STL/CLR)](../dotnet/set-begin-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

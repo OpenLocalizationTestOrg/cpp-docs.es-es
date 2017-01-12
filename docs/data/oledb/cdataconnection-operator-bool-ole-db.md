@@ -64,6 +64,6 @@ operator bool( ) throw( );
  [CDataConnection::operator BOOL](../../data/oledb/cdataconnection-operator-bool.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

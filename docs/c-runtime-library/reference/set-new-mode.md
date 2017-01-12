@@ -106,6 +106,6 @@ _set_new_mode(1)
  [_query_new_mode](../../c-runtime-library/reference/query-new-mode.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

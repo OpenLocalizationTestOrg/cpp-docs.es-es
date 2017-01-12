@@ -62,6 +62,6 @@ CStreamRowset( );
  [CStreamRowset Class](../../data/oledb/cstreamrowset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

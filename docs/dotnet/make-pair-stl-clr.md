@@ -98,6 +98,6 @@ int main()
  [range_adapter (STL/CLR)](../dotnet/range-adapter-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ explicit override list did not find any methods to override
  For more information, see [Explicit Overrides](../../windows/explicit-overrides-cpp-component-extensions.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -246,6 +246,6 @@ MyMap<string, MyClass> classes2; // uses the partial specialization
  For more information, see [Template Specialization](../cpp/template-specialization-cpp.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

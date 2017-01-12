@@ -59,6 +59,6 @@ ms.openlocfilehash: c189e4ee4ad57c37308a77ba873dbe3937aebc19
 This POSIX function is deprecated. Use the ISO C++ conformant [_stricmp](../../c-runtime-library/reference/stricmp-wcsicmp-mbsicmp-stricmp-l-wcsicmp-l-mbsicmp-l.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

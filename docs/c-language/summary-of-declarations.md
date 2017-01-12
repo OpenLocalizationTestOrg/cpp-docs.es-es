@@ -260,6 +260,6 @@ ms.openlocfilehash: 342314b01e23cd22227482689521bacd74137d12
  [Obsolete Calling Conventions](../cpp/obsolete-calling-conventions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

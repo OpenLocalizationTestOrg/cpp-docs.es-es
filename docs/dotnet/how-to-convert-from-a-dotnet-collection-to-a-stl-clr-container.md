@@ -156,6 +156,6 @@ Key: 74.00 Value: 74
  [How to: Convert from a STL/CLR Container to a .NET Collection](../dotnet/how-to-convert-from-a-stl-clr-container-to-a-dotnet-collection.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

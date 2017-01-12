@@ -70,6 +70,6 @@ Visual C++ supports a deployment model for Windows client applications based on 
  [Deploying Desktop Applications](../ide/deploying-native-desktop-applications-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -75,6 +75,6 @@ Your wizard uses the name that you specify in the **Name** box in the **New Proj
  [Customizing C++ Wizards with Common JScript Functions](../ide/customizing-cpp-wizards-with-common-jscript-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -82,6 +82,6 @@ Parse `wchar_t` as a built-in type according to the C++ standard. By default, **
  [/Zc (Conformance)](../../build/reference/zc-conformance.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

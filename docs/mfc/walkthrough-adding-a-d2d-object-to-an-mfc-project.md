@@ -171,6 +171,6 @@ This walkthrough teaches how to add a basic Direct2D (D2D) object to a Visual C+
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

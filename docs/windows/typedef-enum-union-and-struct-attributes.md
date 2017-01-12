@@ -133,6 +133,6 @@ The following attributes apply to the [typedef](http://msdn.microsoft.com/en-us/
  [Attributes by Usage](../windows/attributes-by-usage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

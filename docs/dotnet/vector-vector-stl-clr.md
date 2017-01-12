@@ -193,6 +193,6 @@ size() = 0
  [vector::operator= (STL/CLR)](../dotnet/vector-operator-assign-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

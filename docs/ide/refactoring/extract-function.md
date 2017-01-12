@@ -63,6 +63,6 @@ ms.openlocfilehash: 871eea21e40f6ccedae49919cf51779ba4bae73a
    ![Extract function result](images/extractfunction_result.png)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

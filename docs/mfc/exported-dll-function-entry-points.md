@@ -61,6 +61,6 @@ For exported functions of a DLL, use the [AFX_MANAGE_STATE](http://msdn.microsof
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

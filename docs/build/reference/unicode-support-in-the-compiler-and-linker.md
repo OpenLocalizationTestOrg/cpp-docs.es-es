@@ -73,6 +73,6 @@ This topic describes Unicode support in the Visual C++ build tools.
  [Building on the Command Line](../../build/building-on-the-command-line.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

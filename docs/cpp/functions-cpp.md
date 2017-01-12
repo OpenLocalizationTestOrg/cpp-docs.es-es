@@ -294,6 +294,6 @@ int (*myFunction(char* s))(int);
  [Inline Functions](../cpp/inline-functions-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

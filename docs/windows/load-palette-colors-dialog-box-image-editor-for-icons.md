@@ -60,6 +60,6 @@ Use this dialog box to load special color palettes to use in your project. For m
  [Image Editor for Icons](../mfc/image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ static function 'function' declared but not defined
  A `static` function must be defined within file scope. If the function is defined in another file, it must be declared `extern`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

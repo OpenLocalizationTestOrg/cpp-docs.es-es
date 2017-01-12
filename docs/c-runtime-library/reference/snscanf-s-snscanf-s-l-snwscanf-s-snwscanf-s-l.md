@@ -206,6 +206,6 @@ _snwscanf_s converted 2 fields: 15 and 12.000000
  [scanf Width Specification](../../c-runtime-library/scanf-width-specification.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

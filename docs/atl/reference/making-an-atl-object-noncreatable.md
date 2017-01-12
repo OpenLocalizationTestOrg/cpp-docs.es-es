@@ -71,6 +71,6 @@ You can change the attributes of an ATL-based COM object so that a client cannot
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

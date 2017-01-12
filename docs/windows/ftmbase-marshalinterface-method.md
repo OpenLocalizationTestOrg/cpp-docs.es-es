@@ -100,6 +100,6 @@ STDMETHODIMP MarshalInterface(
  [FtmBase Class](../windows/ftmbase-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

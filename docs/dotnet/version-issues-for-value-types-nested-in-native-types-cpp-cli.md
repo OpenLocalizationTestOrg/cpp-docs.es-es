@@ -102,6 +102,6 @@ S.i = 11
  [Managed Types (C++/CLI)](../dotnet/managed-types-cpp-cli.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

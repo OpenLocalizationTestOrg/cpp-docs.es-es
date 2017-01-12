@@ -51,6 +51,6 @@ The **Add Class** dialog box allows you to insert an ATL object into a project. 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

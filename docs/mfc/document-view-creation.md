@@ -65,6 +65,6 @@ The framework supplies implementations of the `New` and **Open** commands (among
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

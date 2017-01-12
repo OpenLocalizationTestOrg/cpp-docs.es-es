@@ -74,6 +74,6 @@ A [unique_ptr](../standard-library/unique-ptr-class.md) does not share its point
  [make_unique](http://msdn.microsoft.com/Library/4b5fa0d6-fd1b-42b3-a35d-d71c3b6529f8)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ ms.openlocfilehash: 01e85931552a65c49095001834a53093dfc3ea37
 This POSIX function is deprecated. Use the ISO C++ conformant [_fileno](../../c-runtime-library/reference/fileno.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

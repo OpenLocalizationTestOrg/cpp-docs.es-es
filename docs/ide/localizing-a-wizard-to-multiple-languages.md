@@ -102,6 +102,6 @@ MyWizard1
  [Custom Parameters in the Wizard .Vsz File](../ide/custom-parameters-in-the-wizard-dot-vsz-file.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

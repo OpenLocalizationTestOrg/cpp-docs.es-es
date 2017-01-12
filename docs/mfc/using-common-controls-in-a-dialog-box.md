@@ -88,6 +88,6 @@ The Windows common controls can be used in [dialog boxes](../mfc/dialog-boxes.md
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

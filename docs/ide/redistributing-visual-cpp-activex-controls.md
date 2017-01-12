@@ -69,6 +69,6 @@ Visual C++ 6.0 supplies ActiveX controls you can use in applications that you th
  [Redistributing Visual C++ Files](../ide/redistributing-visual-cpp-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

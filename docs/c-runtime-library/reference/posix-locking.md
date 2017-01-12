@@ -58,6 +58,6 @@ ms.openlocfilehash: e9149709987e32eed7c5ba38fb66fbd7d787b70c
 This POSIX function is deprecated. Use the ISO C++ conformant [_locking](../../c-runtime-library/reference/locking.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

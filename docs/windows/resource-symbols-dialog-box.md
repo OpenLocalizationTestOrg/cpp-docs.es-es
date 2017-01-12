@@ -76,6 +76,6 @@ The **Resource Symbols** dialog box allows you to add new resource symbols, chan
  [Viewing Resource Symbols](../windows/viewing-resource-symbols.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

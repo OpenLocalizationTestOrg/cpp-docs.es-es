@@ -54,6 +54,6 @@ name SBYTEinitializer [[, initializer]]...
  [DB](../../assembler/masm/db.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

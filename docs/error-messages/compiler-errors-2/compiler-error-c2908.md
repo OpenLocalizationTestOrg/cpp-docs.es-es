@@ -59,6 +59,6 @@ template<> class X<int> {}  // C2908, explicit specialization
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

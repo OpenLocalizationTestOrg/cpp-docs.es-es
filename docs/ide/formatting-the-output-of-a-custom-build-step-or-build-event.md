@@ -76,6 +76,6 @@ If the output of a custom build step or build event is formatted correctly, user
  [Understanding Custom Build Steps and Build Events](../ide/understanding-custom-build-steps-and-build-events.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

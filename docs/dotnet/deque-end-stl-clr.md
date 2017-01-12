@@ -105,6 +105,6 @@ int main()
  [deque::begin (STL/CLR)](../dotnet/deque-begin-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

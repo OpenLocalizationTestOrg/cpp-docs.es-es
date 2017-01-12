@@ -46,6 +46,6 @@ bitmap file filename is not in 3.00 format
  To fix this issue, redraw or convert the bitmap to 3.x format.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

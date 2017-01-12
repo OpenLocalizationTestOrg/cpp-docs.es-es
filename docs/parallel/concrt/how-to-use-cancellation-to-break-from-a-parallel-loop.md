@@ -65,6 +65,6 @@ This example shows how to use cancellation to implement a basic parallel search 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

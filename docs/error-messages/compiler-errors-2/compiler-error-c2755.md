@@ -57,6 +57,6 @@ struct A<I,I*5> {};   // C2755
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

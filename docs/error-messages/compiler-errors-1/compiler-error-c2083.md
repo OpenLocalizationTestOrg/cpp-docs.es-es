@@ -45,6 +45,6 @@ struct/union comparison illegal
  A structure or union is compared directly with another user-defined type. This is not allowed unless a comparison operator has been defined or a conversion to a scalar type exists.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

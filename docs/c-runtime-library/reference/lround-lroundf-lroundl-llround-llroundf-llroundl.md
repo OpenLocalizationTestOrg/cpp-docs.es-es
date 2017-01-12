@@ -178,6 +178,6 @@ lroundl(-2.500000) is -4
  [rint, rintf, rintl](../../c-runtime-library/reference/rint-rintf-rintl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: 4661268bb7671cd1575ba7de00c70cbbe75bb054
  CVTRES did not find a machine specification. It assumed the given machine type. If the default is incorrect, rerun CVTRES using the /MACHINE option.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

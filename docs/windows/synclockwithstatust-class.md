@@ -101,6 +101,6 @@ class SyncLockWithStatusT : public SyncLockT<SyncTraits>;
  [Microsoft::WRL::Wrappers::Details Namespace](../windows/microsoft-wrl-wrappers-details-namespace.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

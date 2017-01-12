@@ -63,6 +63,6 @@ As users interact with the extended combo box, the control (`CComboBoxEx`) sends
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

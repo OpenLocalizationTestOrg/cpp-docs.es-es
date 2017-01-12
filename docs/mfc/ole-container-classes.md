@@ -78,6 +78,6 @@ These classes are used by container applications. Both `COleLinkingDoc` and `COl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

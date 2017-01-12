@@ -92,6 +92,6 @@ db_command("{ ? = CALL dbo.dt_adduserobject }")
  [Using Stored Procedures](../../data/oledb/using-stored-procedures.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

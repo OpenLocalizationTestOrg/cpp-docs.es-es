@@ -48,6 +48,6 @@ No EMMS at end of function 'function'
  For related information, see the [Intel's MMX Instruction Set](../../assembler/inline/intel-s-mmx-instruction-set.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

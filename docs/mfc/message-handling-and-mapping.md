@@ -75,6 +75,6 @@ This article family describes how messages and commands are processed by the MFC
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

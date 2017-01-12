@@ -89,6 +89,6 @@ This appendix summarizes the behaviors that are described as "implementation-def
      In Visual C++, the default is `FALSE`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

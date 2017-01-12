@@ -66,6 +66,6 @@ ms.openlocfilehash: cb20092d5fb97594c7580b0dc75376a5493d8b93
  [Open Database Connectivity (ODBC)](../../data/odbc/open-database-connectivity-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

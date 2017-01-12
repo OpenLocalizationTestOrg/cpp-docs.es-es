@@ -44,6 +44,6 @@ invalid managed entry point function
  The entry point is not valid for a managed image. The return type of a managed entry point function can only be `void` or `int`. The type of the parameter of a managed entry point function can only be `void` or `String []`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

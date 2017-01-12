@@ -56,6 +56,6 @@ Thread int tls_i = sizeof( tls_i );   // Okay in C and C++
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ non-public method 'method2' does not override 'method1'
  A type that implements another type defined an override method, but the override was not public. Therefore, the method does not override the base type method.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

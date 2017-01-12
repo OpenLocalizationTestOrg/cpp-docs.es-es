@@ -45,6 +45,6 @@ An overloaded [operator delete](../../standard-library/new-operators.md#operator
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -153,6 +153,6 @@ All threads completed.
  [lock::lock](../dotnet/lock-lock.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -177,6 +177,6 @@ errno_t _mbstowcs_s_l(
  [wctomb, _wctomb_l](../../c-runtime-library/reference/wctomb-wctomb-l.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

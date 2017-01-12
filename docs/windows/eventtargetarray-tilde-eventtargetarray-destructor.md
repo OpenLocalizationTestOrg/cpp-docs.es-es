@@ -61,6 +61,6 @@ Supports the WRL infrastructure and is not intended to be used directly from you
  [Microsoft::WRL::Details Namespace](../windows/microsoft-wrl-details-namespace.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

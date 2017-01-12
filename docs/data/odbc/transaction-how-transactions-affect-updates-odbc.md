@@ -82,6 +82,6 @@ Updates to the [data source](../../data/odbc/data-source-odbc.md) are managed du
  [CRecordset Class](../../mfc/reference/crecordset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

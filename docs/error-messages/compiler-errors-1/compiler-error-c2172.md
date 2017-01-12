@@ -45,6 +45,6 @@ ms.openlocfilehash: 7ca07348b4b6132d0228e0efa56d6c1223ea248e
  Parameter `number` is not a pointer. The function expects a pointer.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

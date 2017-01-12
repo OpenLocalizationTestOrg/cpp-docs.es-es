@@ -90,6 +90,6 @@ The [ATL Tutorial](../atl/active-template-library-atl-tutorial.md) demonstrates 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

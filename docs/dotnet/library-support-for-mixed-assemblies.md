@@ -72,6 +72,6 @@ Visual C++ supports the use of the Standard C++ Library, the Common RunTime libr
  [Mixed (Native and Managed) Assemblies](../dotnet/mixed-native-and-managed-assemblies.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

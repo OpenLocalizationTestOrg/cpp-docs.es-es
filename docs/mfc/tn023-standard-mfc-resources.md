@@ -128,6 +128,6 @@ This note describes the standard resources provided with and needed by the MFC l
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

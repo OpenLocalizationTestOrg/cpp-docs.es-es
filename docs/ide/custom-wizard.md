@@ -60,6 +60,6 @@ The Visual C++ Custom Wizard is a specific type of wizard, designed to help you 
  [Designing a Wizard](../ide/designing-a-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

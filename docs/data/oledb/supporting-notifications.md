@@ -124,6 +124,6 @@ END_CONNECTION_POINT_MAP()
  [Advanced Provider Techniques](../../data/oledb/advanced-provider-techniques.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -59,6 +59,6 @@ You can use the [ATL Project Wizard](../../atl/reference/creating-an-atl-project
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

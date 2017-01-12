@@ -56,6 +56,6 @@ NMAKE assumes an inferred dependent for a target if an applicable inference rule
  [Inference Rules](../build/inference-rules.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

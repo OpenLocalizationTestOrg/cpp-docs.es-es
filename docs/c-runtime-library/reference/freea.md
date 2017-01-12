@@ -113,6 +113,6 @@ void _freea(
  [_heapmin](../../c-runtime-library/reference/heapmin.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

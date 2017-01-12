@@ -64,6 +64,6 @@ The Image Editor window typically displays an image in two panes separated by a 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

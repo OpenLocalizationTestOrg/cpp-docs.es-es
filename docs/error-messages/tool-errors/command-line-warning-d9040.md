@@ -49,6 +49,6 @@ ignoring option '/analyze'; Code Analysis warnings are not available in this edi
  [Compiler Options](../../build/reference/compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

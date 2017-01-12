@@ -133,6 +133,6 @@ class IRowsetUpdateImpl : public IRowsetChangeImpl<
  [Creating an Updatable Provider](../../data/oledb/creating-an-updatable-provider.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

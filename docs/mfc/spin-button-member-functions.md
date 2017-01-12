@@ -57,6 +57,6 @@ There are several member functions available for the spin control ([CSpinButtonC
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

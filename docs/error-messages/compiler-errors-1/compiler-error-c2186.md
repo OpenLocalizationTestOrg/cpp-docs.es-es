@@ -56,6 +56,6 @@ int j = 2 + func2();   // OK both operands are type int
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

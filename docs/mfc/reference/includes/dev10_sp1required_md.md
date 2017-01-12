@@ -21,6 +21,6 @@ ms.openlocfilehash: c4c94e04b8067f64eade4e2506e7ac207fef7add
 Visual Studio 2010 SP1 is required.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

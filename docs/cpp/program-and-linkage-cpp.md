@@ -41,6 +41,6 @@ A program consists of one or more translation units linked together. Execution (
  [Basic Concepts](../cpp/basic-concepts-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

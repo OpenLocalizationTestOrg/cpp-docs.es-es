@@ -61,6 +61,6 @@ The COM attributes inject code to support numerous areas of COM development and 
  [Attributes by Group](../windows/attributes-by-group.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

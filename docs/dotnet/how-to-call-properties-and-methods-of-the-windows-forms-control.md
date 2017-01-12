@@ -76,6 +76,6 @@ Because [CWinFormsView::GetControl](../mfc/reference/cwinformsview-class.md#cwin
  [Hosting a Windows Forms User Control as an MFC View](../dotnet/hosting-a-windows-forms-user-control-as-an-mfc-view.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -300,6 +300,6 @@ Caught an SEH exception with exception code: e0000101
  [Exception Handling](../cpp/exception-handling-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

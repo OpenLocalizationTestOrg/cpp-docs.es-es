@@ -60,6 +60,6 @@ The compiler performs limited type checking on functions that can take a variabl
  [CRT Library Features](../c-runtime-library/crt-library-features.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

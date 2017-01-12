@@ -74,6 +74,6 @@ Checks to see if either or both parameters contain string values, and if so, cop
  [CRowsetImpl::SetCommandText](../../data/oledb/crowsetimpl-setcommandtext.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

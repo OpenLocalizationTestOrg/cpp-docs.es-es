@@ -66,6 +66,6 @@ In a format specification, the second optional field is the width specification.
  [printf Type Field Characters](../c-runtime-library/printf-type-field-characters.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

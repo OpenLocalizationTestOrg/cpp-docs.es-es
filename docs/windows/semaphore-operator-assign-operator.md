@@ -66,6 +66,6 @@ Semaphore& operator=(
  [Semaphore Class](../windows/semaphore-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

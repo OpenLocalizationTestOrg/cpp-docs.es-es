@@ -61,6 +61,6 @@ Typical usage of a tree control ([CTreeCtrl](../mfc/reference/ctreectrl-class.md
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

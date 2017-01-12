@@ -67,6 +67,6 @@ Specifies whether the linker creates an executable image that must be run in an 
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

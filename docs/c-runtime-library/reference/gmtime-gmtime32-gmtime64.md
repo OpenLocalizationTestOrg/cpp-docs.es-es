@@ -191,6 +191,6 @@ Coordinated universal time is Tue Feb 12 23:11:31 2002
  [time, _time32, _time64](../../c-runtime-library/reference/time-time32-time64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

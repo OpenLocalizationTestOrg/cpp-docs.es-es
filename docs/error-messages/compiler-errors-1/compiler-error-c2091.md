@@ -44,6 +44,6 @@ function returns function
  A function cannot return a function. Return a pointer to a function instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

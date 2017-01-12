@@ -78,6 +78,6 @@ void __svm_vmsave(
  [__svm_vmload](../intrinsics/svm-vmload.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -74,6 +74,6 @@ void __writedr(unsigned DebugRegister, unsigned __int64 DebugValue);
  [__readdr](../intrinsics/readdr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

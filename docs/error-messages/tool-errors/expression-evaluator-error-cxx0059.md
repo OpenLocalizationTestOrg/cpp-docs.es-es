@@ -48,6 +48,6 @@ left operand is class not a function name
  This error is identical to CAN0059.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

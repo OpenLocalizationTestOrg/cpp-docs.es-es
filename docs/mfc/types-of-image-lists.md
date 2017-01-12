@@ -52,6 +52,6 @@ There are two types of image lists ([CImageList](../mfc/reference/cimagelist-cla
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

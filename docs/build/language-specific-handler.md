@@ -87,6 +87,6 @@ typedef struct _DISPATCHER_CONTEXT {
  [Exception Handling (x64)](../build/exception-handling-x64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

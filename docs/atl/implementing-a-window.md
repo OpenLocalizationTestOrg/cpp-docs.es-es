@@ -55,6 +55,6 @@ Class [CWindowImpl](../atl/reference/cwindowimpl-class.md) allows you to impleme
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

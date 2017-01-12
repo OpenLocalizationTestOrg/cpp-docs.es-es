@@ -49,6 +49,6 @@ Invalid or corrupt MSIL in function 'function' from module 'file'
  For more information, see [.netmodule Files as Linker Input](../../build/reference/netmodule-files-as-linker-input.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

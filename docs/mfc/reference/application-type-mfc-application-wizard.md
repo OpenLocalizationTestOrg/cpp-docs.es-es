@@ -121,6 +121,6 @@ Use this page of the [MFC Application Wizard](../../mfc/reference/mfc-applicatio
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

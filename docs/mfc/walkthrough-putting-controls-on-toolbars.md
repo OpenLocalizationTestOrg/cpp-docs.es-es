@@ -126,6 +126,6 @@ This topic describes how to add a toolbar button that contains a Windows control
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

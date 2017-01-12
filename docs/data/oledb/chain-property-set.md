@@ -68,6 +68,6 @@ ChainClass
  [Macros for OLE DB Provider Templates](../../data/oledb/macros-for-ole-db-provider-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

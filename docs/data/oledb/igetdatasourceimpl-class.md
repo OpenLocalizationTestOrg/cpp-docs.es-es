@@ -75,6 +75,6 @@ class ATL_NO_VTABLE IGetDataSourceImpl : public IGetDataSource
  [OLE DB Provider Template Architecture](../../data/oledb/ole-db-provider-template-architecture.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

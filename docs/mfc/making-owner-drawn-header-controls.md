@@ -50,6 +50,6 @@ You can define individual items of a header control ([CHeaderCtrl](../mfc/refere
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

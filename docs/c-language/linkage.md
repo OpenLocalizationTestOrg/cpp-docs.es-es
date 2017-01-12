@@ -45,6 +45,6 @@ Identifier names can refer to different identifiers in different scopes. An iden
  [Using extern to Specify Linkage](../cpp/using-extern-to-specify-linkage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

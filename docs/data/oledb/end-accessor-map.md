@@ -64,6 +64,6 @@ END_ACCESSOR_MAP( )
  [BEGIN_ACCESSOR](../../data/oledb/begin-accessor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

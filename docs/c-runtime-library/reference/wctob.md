@@ -134,6 +134,6 @@ Determined the corresponding multibyte character to be "A".
  [WideCharToMultiByte](http://msdn.microsoft.com/library/windows/desktop/dd374130)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

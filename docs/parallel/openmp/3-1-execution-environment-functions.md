@@ -58,6 +58,6 @@ The functions described in this section affect and monitor threads, processors, 
 -   the **omp_get_nested** function.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

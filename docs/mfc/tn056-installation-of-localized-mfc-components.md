@@ -60,6 +60,6 @@ This tech note, which discussed the installation of localized MFC components, is
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

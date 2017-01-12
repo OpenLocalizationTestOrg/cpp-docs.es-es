@@ -64,6 +64,6 @@ The functions described in this section manipulate locks used for synchronizatio
  The OpenMP lock functions access the lock variable in such a way that they always read and update the most current value of the lock variable. Therefore, it is not necessary for an OpenMP program to include explicit **flush** directives to ensure that the lock variable's value is consistent among different threads. (There may be a need for **flush** directives to make the values of other variables consistent.)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

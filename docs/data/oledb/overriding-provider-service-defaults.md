@@ -60,6 +60,6 @@ The provider's registry value for **OLEDB_SERVICES** is returned as the default 
  [Enabling and Disabling OLE DB Services](../../data/oledb/enabling-and-disabling-ole-db-services.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

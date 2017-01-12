@@ -94,6 +94,6 @@ The **/Za** compiler option emits an error for language constructs that are not 
  [/Zc (Conformance)](../../build/reference/zc-conformance.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

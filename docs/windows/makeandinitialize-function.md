@@ -127,6 +127,6 @@ typename TArg9> HRESULT MakeAndInitialize(_Outptr_result_nullonfailure_ I** ppvO
  [Microsoft::WRL::Details Namespace](../windows/microsoft-wrl-details-namespace.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

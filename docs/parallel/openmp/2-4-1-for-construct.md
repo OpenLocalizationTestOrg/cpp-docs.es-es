@@ -156,6 +156,6 @@ The **for** directive identifies an iterative work-sharing construct that specif
 -   [Appendix D](../../parallel/openmp/d-using-the-schedule-clause.md), page 93, gives more information on using the schedule clause.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

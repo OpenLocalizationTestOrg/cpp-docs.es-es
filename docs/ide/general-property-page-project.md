@@ -161,6 +161,6 @@ When you right-click on a project node in in Solution Explorer, and select **Pro
  [Property Pages](../ide/property-pages-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

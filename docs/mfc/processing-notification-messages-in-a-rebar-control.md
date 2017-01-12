@@ -71,6 +71,6 @@ In the parent class of the rebar control, create an `OnChildNotify` handler func
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

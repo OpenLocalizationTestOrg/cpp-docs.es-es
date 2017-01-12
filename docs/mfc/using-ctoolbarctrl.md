@@ -62,6 +62,6 @@ You can use the toolbar control ([CToolBarCtrl](../mfc/reference/ctoolbarctrl-cl
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

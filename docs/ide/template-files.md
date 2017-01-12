@@ -84,6 +84,6 @@ The name of this project is MyApp8.
  [Templates.inf File](../ide/templates-inf-file.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

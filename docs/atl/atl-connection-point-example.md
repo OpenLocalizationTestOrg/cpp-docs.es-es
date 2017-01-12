@@ -52,6 +52,6 @@ This example shows an object that supports [IPropertyNotifySink](http://msdn.mic
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

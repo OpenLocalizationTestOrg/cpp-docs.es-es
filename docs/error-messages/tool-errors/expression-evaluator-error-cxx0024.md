@@ -51,6 +51,6 @@ operation needs l-value
  This error is identical to CAN0024.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

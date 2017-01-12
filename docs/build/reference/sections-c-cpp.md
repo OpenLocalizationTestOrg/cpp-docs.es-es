@@ -87,6 +87,6 @@ section [CLASS 'classname'] specifier
  [Rules for Module-Definition Statements](../../build/reference/rules-for-module-definition-statements.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

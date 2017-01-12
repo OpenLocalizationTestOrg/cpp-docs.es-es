@@ -45,6 +45,6 @@ ms.openlocfilehash: 7ba778957aa0e4a33cf8f03e78de550f54327b3e
  There were no curly braces around the specified class, structure, or union initializer.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

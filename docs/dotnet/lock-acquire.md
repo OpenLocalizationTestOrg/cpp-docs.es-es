@@ -168,6 +168,6 @@ All threads completed.
  [lock::try_acquire](../dotnet/lock-try-acquire.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -71,6 +71,6 @@ unsigned __int64 __readcr0(void);  /* X64 */
  [Compiler Intrinsics](../intrinsics/compiler-intrinsics.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

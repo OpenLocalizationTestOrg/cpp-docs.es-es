@@ -62,6 +62,6 @@ END_PROVIDER_COLUMN_MAP( )
  [Creating an OLE DB Provider](../../data/oledb/creating-an-ole-db-provider.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

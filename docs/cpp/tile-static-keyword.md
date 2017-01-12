@@ -176,6 +176,6 @@ for (int i = 0; i < 4; i++) {
  [Walkthrough: Matrix Multiplication](../parallel/amp/walkthrough-matrix-multiplication.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

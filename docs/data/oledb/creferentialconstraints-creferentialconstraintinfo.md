@@ -100,6 +100,6 @@ Call the typedef class **CReferentialConstraints** to implement its parameter cl
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

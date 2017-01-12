@@ -73,6 +73,6 @@ This article explains the code the MFC Application Wizard creates for a visual e
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

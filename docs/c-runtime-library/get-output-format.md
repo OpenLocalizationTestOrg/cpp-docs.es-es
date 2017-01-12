@@ -90,6 +90,6 @@ unsigned int _get_output_format();
  [_set_output_format](../c-runtime-library/set-output-format.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

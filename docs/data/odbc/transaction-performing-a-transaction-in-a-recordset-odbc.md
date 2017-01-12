@@ -112,6 +112,6 @@ BOOL CEnrollDoc::RemoveStudent( CString strStudentID )
  [CRecordset Class](../../mfc/reference/crecordset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

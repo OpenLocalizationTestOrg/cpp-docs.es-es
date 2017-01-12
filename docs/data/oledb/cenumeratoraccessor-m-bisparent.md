@@ -63,6 +63,6 @@ VARIANT_BOOL m_bIsParent;
  [CEnumeratorAccessor Class](../../data/oledb/cenumeratoraccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

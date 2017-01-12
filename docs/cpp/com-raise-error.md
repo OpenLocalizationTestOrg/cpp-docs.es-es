@@ -85,6 +85,6 @@ void __stdcall _com_raise_error(HRESULT hr, IErrorInfo* perrinfo) {
  [_set_com_error_handler](../cpp/set-com-error-handler.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

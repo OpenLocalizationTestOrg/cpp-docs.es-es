@@ -79,6 +79,6 @@ void __cdecl _unlock(
  [_lock](../c-runtime-library/lock.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

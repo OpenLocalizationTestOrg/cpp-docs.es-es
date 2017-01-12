@@ -51,6 +51,6 @@ struct or union used as scalar
  This error is identical to CAN0021.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ In assignment operations, the type of the value being assigned is converted to t
  [Type Conversions](../c-language/type-conversions-c.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

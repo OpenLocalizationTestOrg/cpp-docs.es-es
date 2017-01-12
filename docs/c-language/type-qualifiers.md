@@ -92,6 +92,6 @@ int volatile vint;     /* Volatile integer        */
  [Declarations and Types](../c-language/declarations-and-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

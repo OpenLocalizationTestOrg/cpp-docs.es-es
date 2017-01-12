@@ -75,6 +75,6 @@ Use this page of the wizard to set options for the Win32 project.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

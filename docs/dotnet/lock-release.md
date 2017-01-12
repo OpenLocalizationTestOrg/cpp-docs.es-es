@@ -154,6 +154,6 @@ All threads completed.
  [lock::~lock](../dotnet/lock-tilde-lock.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

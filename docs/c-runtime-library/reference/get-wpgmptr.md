@@ -94,6 +94,6 @@ errno_t _get_wpgmptr(
  [_get_pgmptr](../../c-runtime-library/reference/get-pgmptr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

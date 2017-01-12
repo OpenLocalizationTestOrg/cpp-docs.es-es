@@ -105,6 +105,6 @@ size() = 0
  [multimap::erase (STL/CLR)](../dotnet/multimap-erase-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

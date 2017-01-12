@@ -94,6 +94,6 @@ Visual C++ provides several ways to work with databases. The preferred way is to
  [Data Access](http://msdn.microsoft.com/library/a9455752-39c4-4457-b14e-197772d3df0b)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

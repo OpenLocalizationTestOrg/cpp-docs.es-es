@@ -58,6 +58,6 @@ ms.openlocfilehash: 86308db486fd4618bb01f9ab10231935a25e9ffd
 This POSIX function is deprecated. Use the ISO C++ conformant [_rmdir](../../c-runtime-library/reference/rmdir-wrmdir.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

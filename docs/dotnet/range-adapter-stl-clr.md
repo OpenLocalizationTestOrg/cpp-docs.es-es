@@ -90,6 +90,6 @@ template<typename Iter>
  [make_collection (STL/CLR)](../dotnet/make-collection-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

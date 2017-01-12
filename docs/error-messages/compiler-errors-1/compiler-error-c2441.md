@@ -58,6 +58,6 @@ __declspec(process) const int j = 0;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

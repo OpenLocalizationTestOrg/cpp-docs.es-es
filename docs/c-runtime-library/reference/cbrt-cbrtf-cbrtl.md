@@ -138,6 +138,6 @@ The cube root of -64.64 is -4.013289
  [pow, powf, powl](../../c-runtime-library/reference/pow-powf-powl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

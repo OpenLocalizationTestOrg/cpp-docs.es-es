@@ -44,6 +44,6 @@ ms.openlocfilehash: b9ea2a5d8ab40459e5de44a2d8f82e4255d87163
  The parameter is not a legal type. ANSI C does not support user-defined types.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

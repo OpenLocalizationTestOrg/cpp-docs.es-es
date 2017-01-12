@@ -73,6 +73,6 @@ When you specify the `TBSTYLE_TOOLTIPS` style, the toolbar creates and manages a
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

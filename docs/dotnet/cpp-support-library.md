@@ -53,6 +53,6 @@ The C++ Support Library provides classes that support managed programming in C++
  [com::ptr](../dotnet/com-ptr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

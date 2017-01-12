@@ -84,6 +84,6 @@ inline HRESULT STDMETHODCALLTYPE CreateClassFactory(
  [Microsoft::WRL::Wrappers::Details Namespace](../windows/microsoft-wrl-wrappers-details-namespace.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

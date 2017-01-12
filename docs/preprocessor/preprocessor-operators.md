@@ -54,6 +54,6 @@ Four preprocessor-specific operators are used in the context of the `#define` di
  [C/C++ Preprocessor Reference](../preprocessor/c-cpp-preprocessor-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

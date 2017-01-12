@@ -66,6 +66,6 @@ inline static void Unlock(
  [SemaphoreTraits Structure](../windows/semaphoretraits-structure.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

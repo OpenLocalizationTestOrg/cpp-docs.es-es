@@ -106,6 +106,6 @@ size_t _msize(
  [Memory Allocation](../../c-runtime-library/memory-allocation.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

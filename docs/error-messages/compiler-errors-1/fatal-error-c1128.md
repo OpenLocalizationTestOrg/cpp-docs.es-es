@@ -57,6 +57,6 @@ number of sections exceeded object file format limit : compile with /bigobj
  When porting code, C1128 will likely appear first when using the x64 compiler, and much later with the x86 compiler. x64 will have at least 4 sections associated with each function compiled **/Gy** or inlined from templates or class-inline: code, pdata, and debug info, and possibly xdata.  X86 won’t have the pdata.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

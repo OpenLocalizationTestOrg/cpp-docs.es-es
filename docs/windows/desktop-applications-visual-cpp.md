@@ -72,6 +72,6 @@ A *desktop application* in C++ is a native application that can access the full 
  [Visual C++](../visual-cpp-in-visual-studio.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

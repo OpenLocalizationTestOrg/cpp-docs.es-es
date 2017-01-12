@@ -57,6 +57,6 @@ ms.openlocfilehash: 6981951332b4ed2ca52f70f0cf9fc8b12082e86a
    ![Raw String Literal result](images/stringliteral_result.png)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

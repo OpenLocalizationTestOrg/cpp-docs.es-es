@@ -73,6 +73,6 @@ Opens a data source from a file specified by the user-supplied file name.
  [CDataSource Class](../../data/oledb/cdatasource-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -307,6 +307,6 @@ This walkthrough demonstrates how to modify an existing MFC application to use t
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

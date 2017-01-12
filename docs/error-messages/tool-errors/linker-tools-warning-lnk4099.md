@@ -52,6 +52,6 @@ PDB 'filename' was not found with 'object/library' or at 'path'; linking object 
  You could also compile with [/Z7](../../build/reference/z7-zi-zi-debug-information-format.md), so the pdb doesn't need to be used, or remove the [/DEBUG](../../build/reference/debug-generate-debug-info.md) linker option if you do not have .pdb files for the objects you are linking.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

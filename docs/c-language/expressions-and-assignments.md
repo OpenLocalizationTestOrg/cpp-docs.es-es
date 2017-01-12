@@ -67,6 +67,6 @@ This section describes how to form expressions and to assign values in the C lan
  [C Language Reference](../c-language/c-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

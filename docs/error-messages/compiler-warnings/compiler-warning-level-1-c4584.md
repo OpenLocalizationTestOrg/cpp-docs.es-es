@@ -59,6 +59,6 @@ class C : public A, public B { // C4584
  In this case, a warning would be issued on class C because it inherits both from class A and class B, which also inherits from class A. This warning serves as a reminder that you must fully qualify the use of members from these base classes or a compiler error will be generated due to the ambiguity as to which class member you refer.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

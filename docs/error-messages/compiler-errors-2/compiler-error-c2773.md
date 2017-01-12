@@ -44,6 +44,6 @@ ms.openlocfilehash: 3c60960272619af79a55ac042565c45aada6402a
  The C compiler does not recognize the `#import` preprocessor directive. Compile the source as C++. Use [/TP](../../build/reference/tc-tp-tc-tp-specify-source-file-type.md) if necessary.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

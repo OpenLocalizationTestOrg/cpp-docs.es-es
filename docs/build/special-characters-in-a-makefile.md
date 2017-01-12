@@ -56,6 +56,6 @@ To use an NMAKE special character as a literal character, place a caret (^) in f
  [Contents of a Makefile](../build/contents-of-a-makefile.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

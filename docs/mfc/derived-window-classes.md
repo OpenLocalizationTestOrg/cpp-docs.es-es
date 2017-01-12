@@ -88,6 +88,6 @@ You can create windows directly from [CWnd](../mfc/reference/cwnd-class.md), or 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

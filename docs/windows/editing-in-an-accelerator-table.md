@@ -68,6 +68,6 @@ ms.openlocfilehash: 4740dcef63496e5fe145d69a20e78b503d9e957f
  [Accelerator Editor](../mfc/accelerator-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

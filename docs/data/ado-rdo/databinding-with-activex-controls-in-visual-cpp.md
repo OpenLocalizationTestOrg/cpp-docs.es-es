@@ -74,6 +74,6 @@ Databinding is implemented through two types of ActiveX controls: data controls 
  [Data-Bound Controls (ADO and RDO)](../../data/ado-rdo/data-bound-controls-ado-and-rdo.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

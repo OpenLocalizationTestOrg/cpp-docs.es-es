@@ -54,6 +54,6 @@ ms.openlocfilehash: a90f045e600a8e130cd40218d588f5e26a5337e2
 3.  The problem can occur when an attempt is made to copy a class instance declared `const` by using a copy constructor that does not take a `const` reference parameter. Declare your copy constructor with a `const` type reference instead of a non-const type reference.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -298,6 +298,6 @@ void SetSegmentFlags(D2D1_PATH_SEGMENT vertexFlags);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

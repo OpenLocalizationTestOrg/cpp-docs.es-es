@@ -87,6 +87,6 @@ Creates and initializes a new row using data from the accessor.
  [CRowset Class](../../data/oledb/crowset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

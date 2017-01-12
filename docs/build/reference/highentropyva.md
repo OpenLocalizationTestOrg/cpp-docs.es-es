@@ -59,6 +59,6 @@ Specifies whether the executable image supports high-entropy 64-bit address spac
  [Windows ISV Software Security Defenses](http://msdn.microsoft.com/library/bb430720.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

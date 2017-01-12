@@ -44,6 +44,6 @@ ms.openlocfilehash: 2b53b5e6815293ace92877fbc403c6f35f675fa1
  A pointer to a function with one calling convention (`__cdecl`, `__stdcall`, or `__fastcall`) is assigned to a pointer to a function with another calling convention.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

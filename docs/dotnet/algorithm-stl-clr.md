@@ -129,6 +129,6 @@ Defines STL/CLR container template functions that perform algorithms.
  [STL/CLR Library Reference](../dotnet/stl-clr-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

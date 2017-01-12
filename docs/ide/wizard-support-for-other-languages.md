@@ -77,6 +77,6 @@ When you install Visual Studio, the setup application detects the locale listed 
  [Creating and Managing Visual C++ Projects](../ide/creating-and-managing-visual-cpp-projects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ The Microsoft COFF Binary File Editor (EDITBIN.EXE) modifies Common Object File 
  [C/C++ Build Tools](../../build/reference/c-cpp-build-tools.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

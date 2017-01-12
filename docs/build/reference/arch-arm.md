@@ -75,6 +75,6 @@ Specifies the architecture for code generation on ARM. See also [/arch (x86)](..
  [Setting Compiler Options](../../build/reference/setting-compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

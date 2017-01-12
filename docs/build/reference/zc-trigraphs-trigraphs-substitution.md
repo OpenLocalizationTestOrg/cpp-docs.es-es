@@ -60,6 +60,6 @@ When **/Zc:trigraphs** is specified, the compiler replaces a trigraph character 
  [Trigraphs](../../c-language/trigraphs.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

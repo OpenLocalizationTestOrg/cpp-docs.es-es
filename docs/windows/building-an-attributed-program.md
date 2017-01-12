@@ -65,6 +65,6 @@ After you put Visual C++ attributes into your source code, you may want the Visu
  [Concepts](../windows/attributed-programming-concepts.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

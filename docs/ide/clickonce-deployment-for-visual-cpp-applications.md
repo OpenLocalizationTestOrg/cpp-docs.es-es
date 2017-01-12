@@ -75,6 +75,6 @@ ms.openlocfilehash: 0a90542e9c353d756130a9252512eb6ee8dbc188
  [Native and .NET Interoperability](../dotnet/native-and-dotnet-interoperability.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -54,6 +54,6 @@ However, you are still writing for technical professionals. You can assume that 
 
 >The Close() method is idempotent, meaning that you can call it multiple times and the effect is the same as if you called it once.
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ ms.openlocfilehash: 52554f2af130c098dc005e18f897b45550b0397d
  Parameter `number1` passed to parameter list `number2` is a `void` parameter. Parameters cannot have type `void`. Use `void*` instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -79,6 +79,6 @@ extern template MyStack<int, 6>::MyStack( void );
  [Function Templates](../cpp/function-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

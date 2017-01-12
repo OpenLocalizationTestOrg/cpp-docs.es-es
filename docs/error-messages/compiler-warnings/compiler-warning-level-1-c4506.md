@@ -48,6 +48,6 @@ no definition for inline function 'function'
  Make sure that external functions to be inlined are declared with the `extern` keyword.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

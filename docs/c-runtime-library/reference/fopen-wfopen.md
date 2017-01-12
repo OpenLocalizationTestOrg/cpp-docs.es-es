@@ -360,6 +360,6 @@ FILE*   fileHandle;
  [_sopen, _wsopen](../../c-runtime-library/reference/sopen-wsopen.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

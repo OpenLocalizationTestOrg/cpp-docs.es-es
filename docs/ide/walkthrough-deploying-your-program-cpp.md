@@ -115,6 +115,6 @@ Now that you've created your application by completing the earlier related walkt
  [Deploying Desktop Applications](../ide/deploying-native-desktop-applications-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

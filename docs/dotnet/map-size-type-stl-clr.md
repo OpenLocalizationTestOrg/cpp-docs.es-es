@@ -95,6 +95,6 @@ end()-begin() = 3
  [map::empty (STL/CLR)](../dotnet/map-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

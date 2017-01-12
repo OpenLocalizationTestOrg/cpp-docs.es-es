@@ -83,6 +83,6 @@ Visual C++ no longer supports targeting Windows 95, Windows 98, Windows ME, Wind
  [Previous Product Changes](http://msdn.microsoft.com/en-us/91fa1713-0778-4b6b-82f7-0fe0a23ab1db)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ ms.openlocfilehash: fb5ecdb4f1c99a42a0e133d67cfa074ba2a069fc
  Move the `#pragma hdrstop` statement to an area that is not contained in an `#if/#endif` block.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

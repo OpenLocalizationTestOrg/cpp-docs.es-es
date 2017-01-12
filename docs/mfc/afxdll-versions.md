@@ -55,6 +55,6 @@ Instead of building your application by statically linking to the MFC object-cod
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

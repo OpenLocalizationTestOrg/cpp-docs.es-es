@@ -75,6 +75,6 @@ WRL_NOTHROW HRESULT GetActivationFactory(
  [ActivatableClass Macros](../windows/activatableclass-macros.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

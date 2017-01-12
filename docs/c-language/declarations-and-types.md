@@ -69,6 +69,6 @@ This section describes the declaration and initialization of variables, function
  [C Language Reference](../c-language/c-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

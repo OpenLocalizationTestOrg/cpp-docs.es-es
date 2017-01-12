@@ -91,6 +91,6 @@ status
  [BLOB_ENTRY_LENGTH_STATUS](../../data/oledb/blob-entry-length-status.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

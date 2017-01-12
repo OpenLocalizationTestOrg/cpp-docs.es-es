@@ -155,6 +155,6 @@ insert(begin()+1, L'x') = x
  [vector::assign (STL/CLR)](../dotnet/vector-assign-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -93,6 +93,6 @@ This topic explains how to use the RFX function calls that make up the body of y
  [CFieldExchange Class](../../mfc/reference/cfieldexchange-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

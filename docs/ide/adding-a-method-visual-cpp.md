@@ -62,6 +62,6 @@ You can use the [Add Method Wizard](../ide/add-method-wizard.md) to add a method
  [Editing a COM Interface](../ide/editing-a-com-interface.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

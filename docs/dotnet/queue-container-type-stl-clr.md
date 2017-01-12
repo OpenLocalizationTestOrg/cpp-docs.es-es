@@ -89,6 +89,6 @@ a b c
  [queue::get_container (STL/CLR)](../dotnet/queue-get-container-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

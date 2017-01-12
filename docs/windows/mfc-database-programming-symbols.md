@@ -66,6 +66,6 @@ The symbols in this table only appear in an MFC project when database support ha
  [Symbols: Resource Identifiers](../mfc/symbols-resource-identifiers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

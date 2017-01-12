@@ -46,6 +46,6 @@ ms.openlocfilehash: 39dd15e5381b0872c88342d1e2e557816527bf9a
  [Arrays and Pointers](../c-language/arrays-and-pointers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

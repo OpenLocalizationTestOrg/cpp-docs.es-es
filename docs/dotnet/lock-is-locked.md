@@ -154,6 +154,6 @@ All threads completed.
  [lock::operator bool](../dotnet/lock-operator-bool.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

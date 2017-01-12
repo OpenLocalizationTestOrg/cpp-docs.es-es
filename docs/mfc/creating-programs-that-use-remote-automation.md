@@ -76,6 +76,6 @@ Any automation object, and any automation controller, is able to use Remote Auto
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

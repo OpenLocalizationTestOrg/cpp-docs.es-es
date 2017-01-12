@@ -46,6 +46,6 @@ This content often refers to the "execution character set." The execution charac
  [C Character Constants](../c-language/c-character-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

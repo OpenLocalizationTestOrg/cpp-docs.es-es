@@ -83,6 +83,6 @@ after incrementing ipi, it points to memory address whose value is: 2
  [interior_ptr (C++/CLI)](../windows/interior-ptr-cpp-cli.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ Initializer lists in constructors are now called before the base class construct
  [General Language Changes (C++/CLI)](../dotnet/general-language-changes-cpp-cli.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

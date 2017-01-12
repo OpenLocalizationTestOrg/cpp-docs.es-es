@@ -95,6 +95,6 @@ end()-begin() = 3
  [hash_multiset::empty (STL/CLR)](../dotnet/hash-multiset-empty-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

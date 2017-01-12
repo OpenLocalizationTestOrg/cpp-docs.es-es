@@ -66,6 +66,6 @@ An image list, represented by class [CImageList](../mfc/reference/cimagelist-cla
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

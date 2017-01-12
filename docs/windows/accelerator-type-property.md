@@ -55,6 +55,6 @@ The accelerator **Type** property determines whether the shortcut key combinatio
  [Accelerator Editor](../mfc/accelerator-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

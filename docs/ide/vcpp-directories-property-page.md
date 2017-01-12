@@ -88,6 +88,6 @@ Specifies the directories that you want Visual Studio to use to build a project.
  [Working with Project Properties](../ide/working-with-project-properties.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -67,6 +67,6 @@ int function()
  One way to resolve this problem is to make sure that for each precompiled header, there is only one source file that includes it with **/Yc**. All other source files must use precompiled headers. For more information about how to change this setting, see [/Yu (Use Precompiled Header File)](../../build/reference/yu-use-precompiled-header-file.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

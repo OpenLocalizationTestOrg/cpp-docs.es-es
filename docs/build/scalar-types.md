@@ -69,6 +69,6 @@ Although the access of data can stem from any alignment, it is recommended that 
  [Types and Storage](../build/types-and-storage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

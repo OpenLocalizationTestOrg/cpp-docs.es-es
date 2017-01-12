@@ -245,6 +245,6 @@ ms.openlocfilehash: a9b14bf19bf2b5887b052a81d43ac2d3c0d41d3c
  [C and C++ Application Program Interface](../../parallel/openmp/openmp-c-and-cpp-application-program-interface.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ assuming #pragma pointers_to_members(full_generality, inheritance)
  A **#pragma pointers_to_members(***single&#124;multiple&#124;virtual***)** was issued without an accompanying **#pragma pointers_to_members(full_generality)**.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

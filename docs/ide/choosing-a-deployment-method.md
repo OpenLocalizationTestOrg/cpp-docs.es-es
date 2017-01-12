@@ -77,6 +77,6 @@ Unless your [!INCLUDE[vcprvc](../build/includes/vcprvc_md.md)] application is se
  [Deployment Examples](../ide/deployment-examples.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

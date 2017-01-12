@@ -69,6 +69,6 @@ Using the Image editor, icons and cursors can be sized large (64 × 64) with a 2
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

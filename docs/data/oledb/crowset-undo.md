@@ -84,6 +84,6 @@ Undoes any changes made to a row since the last fetch or [Update](../../data/ole
  [IRowsetUpdate::Undo](https://msdn.microsoft.com/en-us/library/ms719655.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

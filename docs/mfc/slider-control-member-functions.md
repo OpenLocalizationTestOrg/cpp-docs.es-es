@@ -65,6 +65,6 @@ An application can call the slider control's member functions to retrieve inform
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

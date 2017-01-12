@@ -61,6 +61,6 @@ ms.openlocfilehash: aff6e49d3ba041d0c08e3bbd443c420a78c83701
 These POSIX functions are deprecated. Use the ISO C++ conformant [_strnicmp, _wcsnicmp, _mbsnicmp, _strnicmp_l, _wcsnicmp_l, _mbsnicmp_l](../../c-runtime-library/reference/strnicmp-wcsnicmp-mbsnicmp-strnicmp-l-wcsnicmp-l-mbsnicmp-l.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

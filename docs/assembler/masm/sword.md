@@ -53,6 +53,6 @@ name SWORD initializer [[, initializer]]...
  [WORD](../../assembler/masm/word.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

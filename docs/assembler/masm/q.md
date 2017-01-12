@@ -53,6 +53,6 @@ In data declarations, a value that the assembler allocates but does not initiali
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

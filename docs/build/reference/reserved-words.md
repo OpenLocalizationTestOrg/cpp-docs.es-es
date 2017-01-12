@@ -84,6 +84,6 @@ The following words are reserved by the linker. These names can be used as argum
  [Linker Options](../../build/reference/linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

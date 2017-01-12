@@ -78,6 +78,6 @@ The Microsoft C run-time library provides the following global variables or macr
  [_set_fmode](../c-runtime-library/reference/set-fmode.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

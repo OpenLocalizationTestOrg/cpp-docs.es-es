@@ -45,6 +45,6 @@ ms.openlocfilehash: 586fd5420f0951d5c133b9c59057247ab70866c5
  A class must implement all function in an interface. A class can satisfy this condition if one of its base classes implements the function. However, the function must be implemented as a public function.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

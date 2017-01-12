@@ -49,6 +49,6 @@ A variable declared at the internal level with the **static** storage-class spec
  [Static](../misc/static-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -90,6 +90,6 @@ You can create Visual C++ projects by choosing **File &#124; New &#124; Project*
  [Visual Studio SDK](http://msdn.microsoft.com/vstudio/extend)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

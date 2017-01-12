@@ -93,6 +93,6 @@ a b c
  [deque::reference (STL/CLR)](../dotnet/deque-reference-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

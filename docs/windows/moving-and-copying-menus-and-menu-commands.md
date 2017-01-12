@@ -78,6 +78,6 @@ You can move or copy menus and menu commands using the drag-and-drop method or b
  [Menu Editor](../mfc/menu-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -54,6 +54,6 @@ These classes provide automatic management of managed classes.
  [C++ Support Library](../dotnet/cpp-support-library.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

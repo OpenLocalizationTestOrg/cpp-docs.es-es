@@ -106,6 +106,6 @@ __int64 _ftelli64_nolock(
  [ftell, _ftelli64](../../c-runtime-library/reference/ftell-ftelli64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

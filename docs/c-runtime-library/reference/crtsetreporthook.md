@@ -113,6 +113,6 @@ int YourReportHook( int reportType, char *message, int *returnValue );
  [_CrtGetReportHook](../../c-runtime-library/reference/crtgetreporthook.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

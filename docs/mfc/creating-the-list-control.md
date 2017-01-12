@@ -63,6 +63,6 @@ How the list control ([CListCtrl](../mfc/reference/clistctrl-class.md)) is creat
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

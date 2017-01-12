@@ -57,6 +57,6 @@ ref class C1{  // C3816, forward declaration does not use ref
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

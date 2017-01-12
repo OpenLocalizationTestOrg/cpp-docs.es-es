@@ -77,6 +77,6 @@ When a control is instructed to draw itself into a container-supplied device con
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -93,6 +93,6 @@ a b c
  [set::value_type (STL/CLR)](../dotnet/set-value-type-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

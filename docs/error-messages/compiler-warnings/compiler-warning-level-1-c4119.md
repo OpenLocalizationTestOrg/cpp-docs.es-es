@@ -45,6 +45,6 @@ different bases 'base1' and 'base2' specified
  Two based pointers are incompatible because they have different bases. The compiler cannot convert between them.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

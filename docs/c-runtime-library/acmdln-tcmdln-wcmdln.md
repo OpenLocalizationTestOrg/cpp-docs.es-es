@@ -76,6 +76,6 @@ wchar_t * _wcmdln;
  [Global Variables](../c-runtime-library/global-variables.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

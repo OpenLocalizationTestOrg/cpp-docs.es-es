@@ -45,6 +45,6 @@ A record is a collection of data about a single entity, such as an account or a 
  [Data Access Programming (MFC/ATL)](../data/data-access-programming-mfc-atl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

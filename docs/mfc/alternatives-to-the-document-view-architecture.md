@@ -94,6 +94,6 @@ MFC applications normally use the document/view architecture to manage informati
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

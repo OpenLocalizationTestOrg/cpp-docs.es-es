@@ -89,6 +89,6 @@ a b c
  [deque::push_front (STL/CLR)](../dotnet/deque-push-front-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

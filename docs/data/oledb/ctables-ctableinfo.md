@@ -86,6 +86,6 @@ Call the typedef class **CTables** to implement its parameter class **CTableInfo
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

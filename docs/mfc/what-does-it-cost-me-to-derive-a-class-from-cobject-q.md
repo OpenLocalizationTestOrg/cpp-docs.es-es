@@ -46,6 +46,6 @@ The overhead in deriving from class [CObject](../mfc/reference/cobject-class.md)
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

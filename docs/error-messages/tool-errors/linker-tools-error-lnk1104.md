@@ -73,6 +73,6 @@ cannot open file 'filename'
 -   Use [/OPT (Optimizations)](../../build/reference/opt-optimizations.md); doing transitive comdat elimination reads all the object files multiple times.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -66,6 +66,6 @@ These generic-text constant, global variable, and standard-type mappings are def
  [Using Generic-Text Mappings](../c-runtime-library/using-generic-text-mappings.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

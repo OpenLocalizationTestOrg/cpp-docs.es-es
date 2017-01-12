@@ -254,6 +254,6 @@ In the IDE, all information that is needed to build a project is exposed as     
  [Creating and Managing Visual C++ Projects](../ide/creating-and-managing-visual-cpp-projects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

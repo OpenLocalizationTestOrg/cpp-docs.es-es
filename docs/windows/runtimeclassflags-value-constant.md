@@ -57,6 +57,6 @@ static const unsigned int value = flags;
  [RuntimeClassFlags Structure](../windows/runtimeclassflags-structure.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

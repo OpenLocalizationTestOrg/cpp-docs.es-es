@@ -138,6 +138,6 @@ This article explains how to use class [CAsyncSocket](../mfc/reference/casyncsoc
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

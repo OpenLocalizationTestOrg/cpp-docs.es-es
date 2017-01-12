@@ -52,6 +52,6 @@ Allocates and optionally initializes 8 bytes of storage for each `initializer`. 
  [QWORD](../../assembler/masm/qword.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

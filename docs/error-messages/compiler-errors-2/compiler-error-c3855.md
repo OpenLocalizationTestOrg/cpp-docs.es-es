@@ -104,6 +104,6 @@ ref struct GC1<T>::GC2 { };
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

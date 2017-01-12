@@ -55,6 +55,6 @@ Command macros are predefined for Microsoft products. Options macros represent o
  [Special NMAKE Macros](../build/special-nmake-macros.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

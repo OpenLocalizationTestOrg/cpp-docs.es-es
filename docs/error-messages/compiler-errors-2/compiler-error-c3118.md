@@ -55,6 +55,6 @@ __interface I2 : virtual I1 {   // C3118
  generates this error.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

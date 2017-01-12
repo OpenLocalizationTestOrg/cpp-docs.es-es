@@ -44,6 +44,6 @@ cannot overwrite information formed during creation of the precompiled header in
  You specified the **/Yu** (use precompiled header) option after specifying the **/Yc** (create precompiled header) option for the same file. Certain declarations (such as declarations including `__declspec` `dllexport`) make this invalid.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

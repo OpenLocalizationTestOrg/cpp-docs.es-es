@@ -61,6 +61,6 @@ template<class T> struct B<T,5> {};   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: ba870628a9d73c842e21696e23ed758ade3cce01
  An attribute that is processed by more than one process, for example, the compiler and ATL provider, was specified incorrectly.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

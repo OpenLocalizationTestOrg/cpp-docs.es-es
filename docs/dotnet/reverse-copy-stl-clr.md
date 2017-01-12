@@ -60,6 +60,6 @@ template<class _BidIt, class _OutIt> inline
  [algorithm (STL/CLR)](../dotnet/algorithm-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

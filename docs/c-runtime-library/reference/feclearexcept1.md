@@ -101,6 +101,6 @@ int feclearexcept(
  [fetestexcept](../../c-runtime-library/reference/fetestexcept1.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

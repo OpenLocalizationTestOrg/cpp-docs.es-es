@@ -86,6 +86,6 @@ The OLE DB templates make OLE DB data access easier. Visual C++ provides templat
  Provides links to using the Visual Studio debugger to correct logic errors in your application or stored procedures.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

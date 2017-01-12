@@ -91,6 +91,6 @@ Call the typedef class **CPrimaryKeys** to implement its parameter class **CPrim
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

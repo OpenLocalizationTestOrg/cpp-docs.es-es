@@ -109,6 +109,6 @@ void free(
  [_freea](../../c-runtime-library/reference/freea.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

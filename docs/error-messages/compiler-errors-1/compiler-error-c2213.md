@@ -55,6 +55,6 @@ char __based(j) *p2;   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

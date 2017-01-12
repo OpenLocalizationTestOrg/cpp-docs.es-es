@@ -82,6 +82,6 @@ These functions invoke the operating system directly for lower-level operation t
  [System Calls](../c-runtime-library/system-calls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

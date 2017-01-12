@@ -46,6 +46,6 @@ a subsystem can't be inferred and must be defined
  To fix this error, use [/SUBSYSTEM](../../build/reference/subsystem-specify-subsystem.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

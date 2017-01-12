@@ -90,6 +90,6 @@ class ATL_NO_VTABLE IDBSchemaRowsetImpl : public IDBSchemaRowset
  [Supporting Schema Rowsets](../../data/oledb/supporting-schema-rowsets.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ ms.openlocfilehash: f22ea077021380d59e6c117e6ce8c24f72cf7537
  [Lexical Grammar](../c-language/lexical-grammar.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

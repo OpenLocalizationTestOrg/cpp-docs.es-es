@@ -73,6 +73,6 @@ As with any [CWnd](../mfc/reference/cwnd-class.md)-derived class, you can modify
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

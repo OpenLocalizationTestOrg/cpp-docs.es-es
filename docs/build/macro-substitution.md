@@ -56,6 +56,6 @@ $(macroname:string1=string2)
  [Using an NMAKE Macro](../build/using-an-nmake-macro.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

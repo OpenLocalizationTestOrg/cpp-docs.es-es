@@ -74,6 +74,6 @@ unsigned __int64 __readdr(unsigned int DebugRegister);
  [__readeflags](../intrinsics/readeflags.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

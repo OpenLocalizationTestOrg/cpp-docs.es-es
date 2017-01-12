@@ -94,6 +94,6 @@ int * __p___mb_cur_max(void);
  [MB_CUR_MAX](../c-runtime-library/mb-cur-max.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

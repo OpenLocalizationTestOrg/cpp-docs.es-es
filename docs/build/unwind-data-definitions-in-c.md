@@ -105,6 +105,6 @@ typedef struct _RUNTIME_FUNCTION {
  [Exception Handling (x64)](../build/exception-handling-x64.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -65,6 +65,6 @@ void omp_set_num_threads(
  [Functions](../../../parallel/openmp/reference/openmp-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

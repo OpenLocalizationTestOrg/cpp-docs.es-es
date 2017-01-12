@@ -60,6 +60,6 @@ Properties of controls can be set at design time using the Dialog editor. When y
  [Using ActiveX Controls](../../data/ado-rdo/using-activex-controls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

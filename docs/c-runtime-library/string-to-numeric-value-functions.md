@@ -120,6 +120,6 @@ ms.openlocfilehash: 4902abfbaafec3e24d9952d3f39060f5b9e8c17f
  [atof, _atof_l, _wtof, _wtof_l](../c-runtime-library/reference/atof-atof-l-wtof-wtof-l.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

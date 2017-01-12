@@ -74,6 +74,6 @@ Find the property group and property ID for the property you want. For more info
  [Working with OLE DB Provider Templates](../../data/oledb/working-with-ole-db-provider-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -61,6 +61,6 @@ MFC supplies two elements to help you work with menus:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

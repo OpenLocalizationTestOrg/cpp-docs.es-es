@@ -56,6 +56,6 @@ When a file is selected in **Solution Explorer**, the **General** property page 
  [Property Pages](../ide/property-pages-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

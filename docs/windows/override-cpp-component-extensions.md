@@ -109,6 +109,6 @@ ref struct X : public I1 {
  [Override Specifiers](../windows/override-specifiers-cpp-component-extensions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

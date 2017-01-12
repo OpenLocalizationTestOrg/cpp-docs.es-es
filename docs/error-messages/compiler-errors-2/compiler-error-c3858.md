@@ -61,6 +61,6 @@ struct Outer<T>::Inner;   // C3858
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

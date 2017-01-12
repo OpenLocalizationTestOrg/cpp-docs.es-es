@@ -61,6 +61,6 @@ ms.openlocfilehash: b1523358085e502c3b91b2ca91ae1d2bcae0a77d
 These POSIX functions are deprecated. Use the ISO C++ conformant [_strdup, _wcsdup, _mbsdup](../../c-runtime-library/reference/strdup-wcsdup-mbsdup.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

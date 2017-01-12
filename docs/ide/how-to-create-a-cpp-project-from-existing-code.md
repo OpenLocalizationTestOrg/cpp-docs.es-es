@@ -58,6 +58,6 @@ In [!INCLUDE[vsPro](../ide/includes/vspro_md.md)] and [!INCLUDE[vsUltShort](../i
  [Specify Release Configuration Settings, Create New Project From Existing Code Files Wizard](../ide/specify-release-configuration.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

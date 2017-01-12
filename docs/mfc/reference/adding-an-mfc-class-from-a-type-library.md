@@ -65,6 +65,6 @@ Use this wizard to create an MFC class from an interface in an available type li
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -68,6 +68,6 @@ The embedded month calendar control object can be accessed from the `CDateTimeCt
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -75,6 +75,6 @@ Sets the number of cl.exe threads to use for optimization and code generation wh
  [Setting Linker Options](../../build/reference/setting-linker-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

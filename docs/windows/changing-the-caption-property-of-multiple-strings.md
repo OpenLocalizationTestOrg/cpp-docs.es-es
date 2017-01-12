@@ -66,6 +66,6 @@ The following procedure shows you how to change the caption property of multiple
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

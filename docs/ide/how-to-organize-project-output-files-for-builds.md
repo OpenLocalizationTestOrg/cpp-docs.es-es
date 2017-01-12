@@ -95,6 +95,6 @@ This topic describes best practices for organizing project output files. Build e
  [Visual C++ Project Types](../ide/visual-cpp-project-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

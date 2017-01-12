@@ -64,6 +64,6 @@ ms.openlocfilehash: 83f3f0ef35352c6e10586063d12bc79523762a70
  [Compiler COM Global Functions](../cpp/compiler-com-global-functions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

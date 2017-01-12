@@ -79,6 +79,6 @@ Normally, when you build an MFC application for Windows using the [MFC Applicati
  [Resource Editors](../mfc/resource-editors.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

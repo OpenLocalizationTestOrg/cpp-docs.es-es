@@ -82,6 +82,6 @@ Use a list control to display any arrangement of icons with labels, as in File E
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -67,6 +67,6 @@ Repositions the next fetch position to its initial position; that is, its positi
  [IRowsetImpl Class](../../data/oledb/irowsetimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

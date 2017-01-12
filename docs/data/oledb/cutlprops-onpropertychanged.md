@@ -78,6 +78,6 @@ Called after setting a property to handle chained properties.
  [CUtlProps Class](../../data/oledb/cutlprops-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

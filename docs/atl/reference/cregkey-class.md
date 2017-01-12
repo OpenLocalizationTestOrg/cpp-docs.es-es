@@ -887,6 +887,6 @@ LONG SetValue(LPCTSTR pszValueName, DWORD dwType, const void* pValue, ULONG nByt
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

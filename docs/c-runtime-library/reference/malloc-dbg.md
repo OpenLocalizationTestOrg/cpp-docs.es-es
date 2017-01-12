@@ -121,6 +121,6 @@ void *_malloc_dbg(
  [_calloc_dbg](../../c-runtime-library/reference/calloc-dbg.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

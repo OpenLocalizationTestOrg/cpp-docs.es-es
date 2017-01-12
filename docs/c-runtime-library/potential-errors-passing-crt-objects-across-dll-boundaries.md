@@ -168,6 +168,6 @@ New MYLIB variable is: c:\mylib;c:\yourlib
  [CRT Library Features](../c-runtime-library/crt-library-features.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

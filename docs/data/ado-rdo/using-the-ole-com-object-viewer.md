@@ -61,6 +61,6 @@ You can use the OLE/COM Object Viewer to view a control's interfaces.
  [Using ActiveX Controls](../../data/ado-rdo/using-activex-controls.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

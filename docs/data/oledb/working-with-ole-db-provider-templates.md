@@ -63,6 +63,6 @@ To learn how to work with the OLE DB provider templates, see the following topic
  [OLE DB Consumer Templates](../../data/oledb/ole-db-consumer-templates-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

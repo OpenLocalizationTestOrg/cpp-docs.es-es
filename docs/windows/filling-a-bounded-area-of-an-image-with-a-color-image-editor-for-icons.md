@@ -66,6 +66,6 @@ The Image editor provides the **Fill** tool for filling any enclosed image area 
  [Working with Color](../mfc/working-with-color-image-editor-for-icons.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

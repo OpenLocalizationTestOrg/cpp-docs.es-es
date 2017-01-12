@@ -83,6 +83,6 @@ bool SetLength(
  [CDynamicAccessor::GetLength](../../data/oledb/cdynamicaccessor-getlength.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

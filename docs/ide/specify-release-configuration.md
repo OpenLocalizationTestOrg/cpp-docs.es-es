@@ -77,6 +77,6 @@ Use this page of the Create New Project From Existing Code Files wizard to speci
  [Specify Project Settings, Create New Project From Existing Code Files Wizard](../ide/specify-project-settings-create-new-project-from-existing-code-files-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

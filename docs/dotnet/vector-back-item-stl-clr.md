@@ -100,6 +100,6 @@ back_item = c
  [vector::front_item (STL/CLR)](../dotnet/vector-front-item-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

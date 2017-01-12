@@ -100,6 +100,6 @@ Describes the syntax for format string arguments to `printf`, `wprintf`, and rel
  [printf Type Field Characters](../c-runtime-library/printf-type-field-characters.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

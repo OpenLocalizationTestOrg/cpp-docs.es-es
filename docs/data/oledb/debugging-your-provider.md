@@ -63,6 +63,6 @@ There are two ways to debug your provider:
  [Working with OLE DB Provider Templates](../../data/oledb/working-with-ole-db-provider-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

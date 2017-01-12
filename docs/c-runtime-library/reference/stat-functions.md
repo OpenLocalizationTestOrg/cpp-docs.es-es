@@ -373,6 +373,6 @@ Time modified : Thu Feb 07 14:39:36 2002
  [_setmbcp](../../c-runtime-library/reference/setmbcp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

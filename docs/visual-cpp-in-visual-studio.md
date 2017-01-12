@@ -182,6 +182,6 @@ The [!INCLUDE[vcprvc](build/includes/vcprvc_md.md)] programming language and dev
  [Compiler Intrinsics and Assembly Language](intrinsics/compiler-intrinsics-and-assembly-language.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

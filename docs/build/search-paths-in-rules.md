@@ -84,6 +84,6 @@ ms.openlocfilehash: 603c77d166b29e16c58ad0b4e88c6560fec44ea3
  [Defining a Rule](../build/defining-a-rule.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

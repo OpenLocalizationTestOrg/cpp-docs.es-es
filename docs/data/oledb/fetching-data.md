@@ -118,6 +118,6 @@ After you open the data source, session, and rowset objects, you can fetch data.
  [Working with OLE DB Consumer Templates](../../data/oledb/working-with-ole-db-consumer-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

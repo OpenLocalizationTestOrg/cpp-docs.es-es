@@ -109,6 +109,6 @@ SQL (Structured Query Language) is a way to communicate with a relational databa
  [ODBC Basics](../../data/odbc/odbc-basics.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

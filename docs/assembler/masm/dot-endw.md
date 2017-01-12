@@ -54,6 +54,6 @@ ms.openlocfilehash: 167f5002d8d3d701393c76cb45388470c649336c
  [Directives Reference](../../assembler/masm/directives-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

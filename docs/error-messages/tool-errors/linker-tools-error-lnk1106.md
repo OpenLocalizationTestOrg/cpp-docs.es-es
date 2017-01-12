@@ -62,6 +62,6 @@ invalid file or disk full: cannot seek to location
      See [C1060](../../error-messages/compiler-errors-1/fatal-error-c1060.md) for more information.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

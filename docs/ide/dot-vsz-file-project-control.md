@@ -98,6 +98,6 @@ Param="WIZARD_NAME = My AppWizard"
  [Designing a Wizard](../ide/designing-a-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -150,6 +150,6 @@ Length: 25 characters
  [memset, wmemset](../../c-runtime-library/reference/memset-wmemset.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

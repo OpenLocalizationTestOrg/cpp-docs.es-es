@@ -62,6 +62,6 @@ The following illustration represents the MFC classes derived from `CObject`:
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

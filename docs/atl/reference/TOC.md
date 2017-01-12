@@ -281,6 +281,6 @@
 ## [MFC Support in ATL Projects](mfc-support-in-atl-projects.md)
 ## [Specifying Compiler Optimization for an ATL Project](specifying-compiler-optimization-for-an-atl-project.md)
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

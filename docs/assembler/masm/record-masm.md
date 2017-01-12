@@ -53,6 +53,6 @@ Declares a record type consisting of the specified fields. *fieldname* names the
  [Directives Reference](../../assembler/masm/directives-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

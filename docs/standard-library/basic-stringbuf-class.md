@@ -387,6 +387,6 @@ basic_stringbuf& basic_stringbuf:: operator=(const basic_stringbuf& other)
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

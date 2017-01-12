@@ -55,6 +55,6 @@ static const unsigned long IidCount;
  [Implements Structure](../windows/implements-structure.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

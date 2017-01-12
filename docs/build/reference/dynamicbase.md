@@ -62,6 +62,6 @@ Specifies whether an executable image can be randomly rebased at load time by us
  [Windows ISV Software Security Defenses](http://msdn.microsoft.com/library/bb430720.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

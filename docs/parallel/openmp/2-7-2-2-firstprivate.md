@@ -52,6 +52,6 @@ firstprivate(variable-list)
 -   Variables that are private within a parallel region or that appear in the **reduction** clause of a **parallel** directive cannot be specified in a **firstprivate** clause on a work-sharing directive that binds to the parallel construct.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

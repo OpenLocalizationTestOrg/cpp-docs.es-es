@@ -604,6 +604,6 @@ virtual BOOL UpdateDocumentInfo(CDocument* pDocument);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

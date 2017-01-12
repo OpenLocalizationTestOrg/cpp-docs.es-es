@@ -53,6 +53,6 @@ The name of the default data group. Evaluates to DGROUP for all models except **
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

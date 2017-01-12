@@ -89,6 +89,6 @@ Makes types that have already been compiled into another type library available 
  [includelib](../windows/includelib-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -114,6 +114,6 @@ Inserts into an ATL project (or an MFC project with ATL support) an ATL control.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

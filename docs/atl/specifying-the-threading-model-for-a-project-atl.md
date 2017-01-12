@@ -67,6 +67,6 @@ The following macros are available to specify the threading model of an ATL proj
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

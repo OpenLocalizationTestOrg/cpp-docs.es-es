@@ -62,6 +62,6 @@ STDMETHOD(Cancel)( );
  [ICommandImpl::CancelExecution](../../data/oledb/icommandimpl-cancelexecution.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

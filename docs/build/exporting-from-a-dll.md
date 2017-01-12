@@ -85,6 +85,6 @@ A DLL file has a layout very similar to an .exe file, with one important differe
  [Importing and Exporting](../build/importing-and-exporting.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

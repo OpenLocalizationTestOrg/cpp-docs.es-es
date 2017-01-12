@@ -216,6 +216,6 @@ OK - end of heap
  [_heapset](../../c-runtime-library/heapset.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

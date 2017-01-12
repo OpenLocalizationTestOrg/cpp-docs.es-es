@@ -109,6 +109,6 @@ As explained in the article [Data Objects and Data Sources (OLE)](../mfc/data-ob
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

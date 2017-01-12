@@ -53,6 +53,6 @@ The system date in the format mm/dd/yy (text macro).
  [Symbols Reference](../../assembler/masm/symbols-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

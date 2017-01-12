@@ -53,6 +53,6 @@ __declspec(noalias) void f();   // C4559
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

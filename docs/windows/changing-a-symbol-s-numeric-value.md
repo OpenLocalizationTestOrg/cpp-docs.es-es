@@ -69,6 +69,6 @@ For symbols associated with a single resource, you can use the [Properties Windo
  [Predefined Symbol IDs](../windows/predefined-symbol-ids.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

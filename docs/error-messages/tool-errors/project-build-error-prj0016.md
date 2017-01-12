@@ -58,6 +58,6 @@ The user's security settings prevent the process from being created. These setti
 -   [Adhering to System Policy Settings](http://msdn.microsoft.com/library/aa372139), the section on "Run only allowed Windows applications".
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

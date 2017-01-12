@@ -346,6 +346,6 @@ The time in de-DE locale is: 'Mittwoch, 12. Mai 2004'
  [wctomb, _wctomb_l](../../c-runtime-library/reference/wctomb-wctomb-l.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

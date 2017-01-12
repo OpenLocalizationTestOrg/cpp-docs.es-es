@@ -61,6 +61,6 @@ extern template A<int>::A();   // C2929
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

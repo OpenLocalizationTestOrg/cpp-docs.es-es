@@ -108,6 +108,6 @@ This article describes the [CSocket programming model](#_core_the_csocket_progra
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

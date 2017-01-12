@@ -62,6 +62,6 @@ The New Toolbar Resource dialog box allows you to specify the width and height o
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -67,6 +67,6 @@ Specifies the native type of each command parameter.
  [CCommand Class](../../data/oledb/ccommand-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

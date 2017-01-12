@@ -107,6 +107,6 @@ a c
  [list::remove_if (STL/CLR)](../dotnet/list-remove-if-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

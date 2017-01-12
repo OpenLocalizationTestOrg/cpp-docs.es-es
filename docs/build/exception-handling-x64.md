@@ -56,6 +56,6 @@ This section discusses structured exception handling and C++ exception handling 
  [x64 Software Conventions](../build/x64-software-conventions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

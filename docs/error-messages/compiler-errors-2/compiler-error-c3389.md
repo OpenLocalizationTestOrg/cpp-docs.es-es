@@ -52,6 +52,6 @@ __declspec(dllexport) int g2 = 0;   // C3389
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

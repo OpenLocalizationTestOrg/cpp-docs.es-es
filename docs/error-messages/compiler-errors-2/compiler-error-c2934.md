@@ -45,6 +45,6 @@ ms.openlocfilehash: ededdac01b36b48b05ce718f4345fe77068cb138
  You cannot use a generic or template class as a nested item.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

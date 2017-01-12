@@ -46,6 +46,6 @@ precompiled type information not found; 'filename' not linked or overwritten; li
  A common scenario for this warning is when the .obj that was compiled with /Yc is in a library, and where there are no symbol references to that .obj from your code.  In that case, the linker will not use (or even see) the .obj file.  In this situation, you should recompile your code and use [/Yl](../../build/reference/yl-inject-pch-reference-for-debug-library.md) for the remaining objects (the objects that are not compiled with /Yc).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

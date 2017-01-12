@@ -77,6 +77,6 @@ ms.openlocfilehash: 7e311056ca15ae6d1d5cfe0849603f3b6bfd79c6
  [Declarations and Types](../c-language/declarations-and-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -94,6 +94,6 @@ Suppresses the call of the helper function `_ftol` when a conversion from a floa
  [Setting Compiler Options](../../build/reference/setting-compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

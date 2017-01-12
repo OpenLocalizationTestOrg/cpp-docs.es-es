@@ -77,6 +77,6 @@ What is OLE DB, and what makes it distinct from other database technologies? OLE
  [OLE DB Templates](../../data/oledb/ole-db-templates.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

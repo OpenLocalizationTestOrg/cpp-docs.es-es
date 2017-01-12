@@ -93,6 +93,6 @@ Used when [/vmb, /vmg (Representation Method)](../../build/reference/vmb-vmg-rep
  [Setting Compiler Options](../../build/reference/setting-compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

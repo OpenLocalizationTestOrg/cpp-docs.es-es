@@ -71,6 +71,6 @@ A locale ID reflects the local conventions and language for a particular geograp
  [Benefits of Character Set Portability](../text/benefits-of-character-set-portability.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -87,6 +87,6 @@ A schema is a collection of database objects that are owned, or have been create
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

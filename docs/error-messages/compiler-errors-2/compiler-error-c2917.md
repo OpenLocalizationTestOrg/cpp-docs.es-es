@@ -60,6 +60,6 @@ template<class T*> void Vector<T>::sort() {}   // C2917
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -52,6 +52,6 @@ Enables you to create a new custom resource.
  [Add Resource Dialog Box](../windows/add-resource-dialog-box.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

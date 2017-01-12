@@ -44,6 +44,6 @@ The **master** directive identifies a construct that specifies a structured bloc
  Other threads in the team do not execute the associated structured block. There is no implied barrier either on entry to or exit from the master construct.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

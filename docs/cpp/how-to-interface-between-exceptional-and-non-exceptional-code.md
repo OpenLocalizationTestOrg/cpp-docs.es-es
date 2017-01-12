@@ -262,6 +262,6 @@ bool DiffFiles3(const string& file1, const string& file2)
  [How to: Design for Exception Safety](../cpp/how-to-design-for-exception-safety.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -62,6 +62,6 @@ char y = (char)0x1234;
  [Integers](../c-language/integers.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

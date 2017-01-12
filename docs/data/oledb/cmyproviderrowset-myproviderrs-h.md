@@ -63,6 +63,6 @@ class CMyRowsetImpl:
  [Provider Wizard-Generated Files](../../data/oledb/provider-wizard-generated-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

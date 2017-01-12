@@ -57,6 +57,6 @@ The maximum permissible string length of an environmental variable.
  [Global Constants](../c-runtime-library/global-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

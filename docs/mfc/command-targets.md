@@ -50,6 +50,6 @@ The figure [Commands in the Framework](../mfc/user-interface-objects-and-command
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

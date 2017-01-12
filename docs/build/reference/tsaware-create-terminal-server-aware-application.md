@@ -84,6 +84,6 @@ ms.openlocfilehash: 1ebb8e170680060c1d6b29593fa00c6bcb4254ea
  [Legacy Applications in a Terminal Services Environment](https://msdn.microsoft.com/en-us/library/aa382957.aspx)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

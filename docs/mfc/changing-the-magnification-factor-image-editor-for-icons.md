@@ -64,6 +64,6 @@ By default, the Image editor displays the view in the left pane at actual size a
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

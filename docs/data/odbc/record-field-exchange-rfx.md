@@ -76,6 +76,6 @@ The MFC ODBC database classes automate moving data between the data source and a
  [CRecordset Class](../../mfc/reference/crecordset-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

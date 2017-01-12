@@ -96,6 +96,6 @@ void f(int n) {
 -   `OMP_DYNAMIC` environment variable, see [Section 4.3](../../parallel/openmp/4-3-omp-dynamic.md) on page 49.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

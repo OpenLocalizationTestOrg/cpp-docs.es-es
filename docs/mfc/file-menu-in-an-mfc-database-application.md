@@ -62,6 +62,6 @@ If you create an MFC database application and don't use serialization, how shoul
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

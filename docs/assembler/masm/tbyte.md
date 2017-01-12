@@ -52,6 +52,6 @@ Allocates and optionally initializes 10 bytes of storage for each `initializer`.
  [DT](../../assembler/masm/dt.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

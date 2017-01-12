@@ -50,6 +50,6 @@ The compiler defines `_DEBUG` when you specify the /MTd or /MDd option. These op
  [Control Flags](../c-runtime-library/control-flags.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

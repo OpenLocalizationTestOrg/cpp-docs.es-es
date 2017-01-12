@@ -90,6 +90,6 @@ You can create a new image (bitmap, icon, cursor, or toolbar), then use the Imag
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

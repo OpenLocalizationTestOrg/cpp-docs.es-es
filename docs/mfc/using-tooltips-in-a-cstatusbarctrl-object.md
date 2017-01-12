@@ -57,6 +57,6 @@ To enable tooltips for a status bar control, create the `CStatusBarCtrl` object 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

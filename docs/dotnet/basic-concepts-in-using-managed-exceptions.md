@@ -189,6 +189,6 @@ catch(...)
  [Exception Handling](../cpp/exception-handling-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -119,6 +119,6 @@ Order of Termination-Handler Execution
  [Termination-Handler Syntax](http://msdn.microsoft.com/library/windows/desktop/ms681393)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

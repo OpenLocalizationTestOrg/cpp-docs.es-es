@@ -188,6 +188,6 @@ Please contact the application's support team for more information.
  [realloc](../../c-runtime-library/reference/realloc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

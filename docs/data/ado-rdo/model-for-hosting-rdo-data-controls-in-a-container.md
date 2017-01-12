@@ -61,6 +61,6 @@ A container hosts an RDO data control as follows:
  [Using RDO Databinding in Visual C++](../../data/ado-rdo/using-rdo-databinding-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -48,6 +48,6 @@ Discusses the OpenMP C and C++ API, as documented in the version 2.0 specificati
  [Contents](../../parallel/openmp/contents.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

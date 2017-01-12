@@ -99,6 +99,6 @@ empty() = True
  [hash_multimap::size (STL/CLR)](../dotnet/hash-multimap-size-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

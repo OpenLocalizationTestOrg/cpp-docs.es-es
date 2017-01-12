@@ -50,6 +50,6 @@ ms.openlocfilehash: 3adea8d6aa625d2e865487073bb66f5bfc7b4968
 2.  Trying to initialize an inherited member of a class or structure. An inherited member must be initialized by the constructor of the class or structure.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

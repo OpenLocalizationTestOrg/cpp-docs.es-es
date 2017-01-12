@@ -46,6 +46,6 @@ ms.openlocfilehash: 4d97667965d75b9b2deab98346383b6b33ab2e5a
  Use a structure or union specifier on the operand that caused the error. A structure or union specifier is an identifier of type `struct` or `union` (a `typedef` name or a variable of the same type as the structure or union being referenced). The specifier must be the left operand of the first member-selection operator (.) to use the operand.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -125,6 +125,6 @@ size() = 1
  [vector::clear (STL/CLR)](../dotnet/vector-clear-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

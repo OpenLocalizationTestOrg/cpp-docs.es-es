@@ -174,6 +174,6 @@ New LIB variable is: c:\mylib;c:\yourlib
  [Environmental Constants](../../c-runtime-library/environmental-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

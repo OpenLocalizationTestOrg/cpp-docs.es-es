@@ -70,6 +70,6 @@ These classes encapsulate drawing tools that are used to draw on a device contex
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -50,6 +50,6 @@ Class `CWnd` and its derived classes encapsulate an `HWND`, a handle to a Window
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

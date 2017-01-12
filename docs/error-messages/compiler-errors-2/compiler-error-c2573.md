@@ -45,6 +45,6 @@ ms.openlocfilehash: 7312a5641537998385b39f46db9b532ba2debcf7
  The class is missing a non-placement delete operator.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

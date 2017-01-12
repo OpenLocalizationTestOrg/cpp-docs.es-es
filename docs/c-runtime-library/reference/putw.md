@@ -143,6 +143,6 @@ Wrote ten words
  [_getw](../../c-runtime-library/reference/getw.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

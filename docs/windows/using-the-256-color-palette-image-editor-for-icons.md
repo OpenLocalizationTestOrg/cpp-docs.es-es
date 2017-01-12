@@ -70,6 +70,6 @@ To draw with a selection from the 256-color palette, you need to select the colo
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

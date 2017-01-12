@@ -89,6 +89,6 @@ In mixed mode, you sometimes must marshal your data between native and managed t
  [How to: Extend the Marshaling Library](../dotnet/how-to-extend-the-marshaling-library.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

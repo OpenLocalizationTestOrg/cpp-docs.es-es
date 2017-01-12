@@ -68,6 +68,6 @@ You can use the [Add Member Variable Wizard](../ide/add-member-variable-wizard.m
  [Adding a Member Variable](../ide/adding-a-member-variable-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

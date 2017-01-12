@@ -79,6 +79,6 @@ This wizard adds an event to an MFC ActiveX control project. You can specify you
  [Adding an Event](../ide/adding-an-event-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

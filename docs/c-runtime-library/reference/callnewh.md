@@ -93,6 +93,6 @@ int _callnewh(
  [_set_new_mode](../../c-runtime-library/reference/set-new-mode.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

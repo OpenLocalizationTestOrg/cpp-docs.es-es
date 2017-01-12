@@ -44,6 +44,6 @@ ms.openlocfilehash: 288421c331144c63c5fb6731de25b20bb8958b6e
  The compiler cannot convert `type1` to `type2`. The conversion may not make sense because it violates C/C++ semantics.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

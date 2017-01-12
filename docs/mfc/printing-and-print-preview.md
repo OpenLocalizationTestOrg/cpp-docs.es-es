@@ -60,6 +60,6 @@ MFC supports printing and print preview for your program's documents via class [
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

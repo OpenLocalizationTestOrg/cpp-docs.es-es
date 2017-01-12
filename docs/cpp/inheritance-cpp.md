@@ -82,6 +82,6 @@ This section explains how to use derived classes to produce extensible programs.
  [C++ Language Reference](../cpp/cpp-language-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

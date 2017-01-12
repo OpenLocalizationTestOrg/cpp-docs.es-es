@@ -44,6 +44,6 @@ SHIFT or CONTROL used without VIRTKEY
  In an accelerator table resource, SHIFT or CONTROL requires VIRTKEY. Because SHIFT and CONTROL are indicated as flag bits in a VIRTKEY type accelerator, they cannot exist independent from a VIRTKEY.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

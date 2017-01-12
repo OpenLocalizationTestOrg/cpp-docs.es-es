@@ -68,6 +68,6 @@ __declspec(dllexport) void func(unsigned short*) {}
  Attempting to link these two modules will result in LNK4217, compile the second sample with the import library of the first sample to resolve.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

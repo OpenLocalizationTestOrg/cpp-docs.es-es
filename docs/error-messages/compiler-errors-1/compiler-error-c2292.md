@@ -54,6 +54,6 @@ struct X : A, B { };  // C2292, X uses multiple inheritance
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -78,6 +78,6 @@ Call the typedef class **CProcedures** to implement its parameter class **CProce
  [CRestrictions Class](../../data/oledb/crestrictions-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -59,6 +59,6 @@ Use this dialog box to specify advanced options for [Mt.exe](http://msdn.microso
  [Working with Project Properties](../ide/working-with-project-properties.md)   
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

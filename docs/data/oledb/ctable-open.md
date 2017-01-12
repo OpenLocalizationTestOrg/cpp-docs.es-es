@@ -100,6 +100,6 @@ HRESULT Open(
  [CTable Class](../../data/oledb/ctable-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

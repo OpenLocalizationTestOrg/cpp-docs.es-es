@@ -146,6 +146,6 @@ c = a;  // No run-time error with /RTCu
  [How to: Use Native Run-Time Checks](http://msdn.microsoft.com/Library/dc7b2f1e-5ff6-42e0-89b3-dc9dead83ee1)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

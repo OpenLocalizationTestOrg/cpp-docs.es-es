@@ -79,6 +79,6 @@ ODBC Administrator registers and configures the [data sources](../../data/odbc/d
  [Data Source (ODBC)](../../data/odbc/data-source-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

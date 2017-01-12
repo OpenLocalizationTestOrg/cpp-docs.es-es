@@ -48,6 +48,6 @@ ms.openlocfilehash: f7153a7aab1d47a9f6fcf45d3ecf0e81835e0f9f
  [Redistributing Visual C++ Files](../ide/redistributing-visual-cpp-files.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

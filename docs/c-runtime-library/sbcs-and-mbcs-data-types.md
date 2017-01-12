@@ -63,6 +63,6 @@ Any Microsoft `MBCS` run-time library routine that handles only one multibyte ch
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

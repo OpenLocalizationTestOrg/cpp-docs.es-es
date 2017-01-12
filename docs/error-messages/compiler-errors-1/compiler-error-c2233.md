@@ -61,6 +61,6 @@ B array2[100];   // C2233
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

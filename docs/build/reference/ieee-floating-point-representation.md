@@ -140,6 +140,6 @@ Microsoft Visual C++ is consistent with the IEEE numeric standards. There are th
  [Why Floating-Point Numbers May Lose Precision](../../build/reference/why-floating-point-numbers-may-lose-precision.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -81,6 +81,6 @@ ref class base { public: virtual void f() abstract; };
  [sealed](../windows/sealed-cpp-component-extensions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -68,6 +68,6 @@ Defines whether [Checked Iterators](../standard-library/checked-iterators.md) ar
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

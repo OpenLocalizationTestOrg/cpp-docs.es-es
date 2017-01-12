@@ -97,6 +97,6 @@ The Image editor's freehand drawing and erasing tools all work in the same way: 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -88,6 +88,6 @@ This article presents an example of using class [CSocket](../mfc/reference/csock
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

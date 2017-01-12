@@ -56,6 +56,6 @@ private(variable-list)
 -   Variables that appear in the `reduction` clause of a **parallel** directive cannot be specified in a `private` clause on a work-sharing directive that binds to the parallel construct.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

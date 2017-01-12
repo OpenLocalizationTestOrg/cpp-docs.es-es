@@ -54,6 +54,6 @@ Treats all *text* between or on the same line as the delimiters as a comment.
  [Directives Reference](../../assembler/masm/directives-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

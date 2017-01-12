@@ -194,6 +194,6 @@ private void button1_Click(object sender, EventArgs e)
  [Previous Example: MFC Scribble](../porting/porting-guide-mfc-scribble.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

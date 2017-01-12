@@ -58,6 +58,6 @@ ms.openlocfilehash: d2eac046bd7441fde14c8e3484da0d57c71fcdb6
 This POSIX function is deprecated. Use the ISO C++ conformant [_umask](../../c-runtime-library/reference/umask.md) or security-enhanced [_umask_s](../../c-runtime-library/reference/umask-s.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

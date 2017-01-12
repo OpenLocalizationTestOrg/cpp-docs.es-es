@@ -67,6 +67,6 @@ int C::Func(char *, char *, int i) {   // C2511
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

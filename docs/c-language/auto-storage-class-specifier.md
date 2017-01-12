@@ -44,6 +44,6 @@ The **auto** storage-class specifier declares an automatic variable, a variable 
  [auto Keyword](../cpp/auto-keyword.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

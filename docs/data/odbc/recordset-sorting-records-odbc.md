@@ -89,6 +89,6 @@ rsStudent.Open( );
  [Recordset: Filtering Records (ODBC)](../../data/odbc/recordset-filtering-records-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

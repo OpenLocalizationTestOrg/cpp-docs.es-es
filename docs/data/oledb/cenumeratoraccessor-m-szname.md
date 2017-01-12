@@ -63,6 +63,6 @@ WCHAR m_szName[129];
  [CEnumeratorAccessor Class](../../data/oledb/cenumeratoraccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

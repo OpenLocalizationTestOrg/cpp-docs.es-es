@@ -421,6 +421,6 @@ const char32_t* s5 = U"😎 = \U0001F60E is B-)";
  [User-Defined Literals](../cpp/user-defined-literals-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

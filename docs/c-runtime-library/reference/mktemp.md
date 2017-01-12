@@ -58,6 +58,6 @@ ms.openlocfilehash: 5ae1e5983ad9e8da1042e572dd2d5d0a9b35c03f
 This POSIX function is deprecated. Use the ISO C++ conformant [_mktemp](../../c-runtime-library/reference/mktemp-wmktemp.md) or security-enhanced [_mktemp_s](../../c-runtime-library/reference/mktemp-s-wmktemp-s.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

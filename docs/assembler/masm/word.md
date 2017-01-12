@@ -53,6 +53,6 @@ Allocates and optionally initializes a word (2 bytes) of storage for each `initi
  [DW](../../assembler/masm/dw.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

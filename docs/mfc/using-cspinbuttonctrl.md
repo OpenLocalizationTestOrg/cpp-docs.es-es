@@ -65,6 +65,6 @@ The *spin button* control (also known as an *up-down* control) provides a pair o
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

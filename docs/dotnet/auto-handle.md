@@ -58,6 +58,6 @@ Defines the `auto_handle` class and `swap` function.
  [C++ Support Library](../dotnet/cpp-support-library.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

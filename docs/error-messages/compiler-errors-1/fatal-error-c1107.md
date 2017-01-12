@@ -46,6 +46,6 @@ could not find assembly 'file': please specify the assembly search path using /A
  LIBPATH, which is described in the topic for `#using`, and the [/AI](../../build/reference/ai-specify-metadata-directories.md) compiler option allow you to specify directories in which the compiler will look for referenced metadata files.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -58,6 +58,6 @@ ms.openlocfilehash: 3c30e7165b4c396b720d3bda028cb1240ab605a7
 This POSIX function is deprecated. Use the ISO C++ conformant [_getw](../../c-runtime-library/reference/getw.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -70,6 +70,6 @@ template<auto T> class C{}; // C3533
  [/Zc:auto (Deduce Variable Type)](../../build/reference/zc-auto-deduce-variable-type.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

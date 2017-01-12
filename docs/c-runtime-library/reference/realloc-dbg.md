@@ -126,6 +126,6 @@ void *_realloc_dbg(
  [_malloc_dbg](../../c-runtime-library/reference/malloc-dbg.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

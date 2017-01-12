@@ -44,6 +44,6 @@ expecting number for ID
  Expecting a number for the `id` field of a control statement in the **DIALOG** statement. Make sure you have a number or `#define` statement for the control ID.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

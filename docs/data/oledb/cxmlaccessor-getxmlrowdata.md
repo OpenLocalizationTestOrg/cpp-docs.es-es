@@ -81,6 +81,6 @@ Retrieves the entire contents of a table as XML-formatted string data, by row.
  [CXMLAccessor Class](../../data/oledb/cxmlaccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

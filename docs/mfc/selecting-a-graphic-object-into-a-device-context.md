@@ -65,6 +65,6 @@ This topic applies to using graphic objects in a window's device context. After 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

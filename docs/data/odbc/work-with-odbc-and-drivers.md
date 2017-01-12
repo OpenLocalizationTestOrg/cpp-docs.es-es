@@ -56,6 +56,6 @@ ODBC allows you to write applications that are not dependent on just one databas
  [Open Database Connectivity (ODBC)](../../data/odbc/open-database-connectivity-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

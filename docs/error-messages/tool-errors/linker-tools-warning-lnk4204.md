@@ -46,6 +46,6 @@ ms.openlocfilehash: a77aadcc9fbdb52e1146ac7a093ab94b8aba16ee
  LNK4204 can occur if some of the objects in the library refer to a file that no longer exists. This could happen when rebuilding the solution, for example; an object file might be deleted and not rebuilt because of a compilation error. In this case, either compile with **/Z7**, or **/Fd**, to update the objects to refer to a single file per-library (that is not the default .pdb file name).  For more information, see [/Fd (Program Database File Name)](../../build/reference/fd-program-database-file-name.md).  Ensure that the .pdb is saved with the library every time it is updated in the source control system.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: 72e569a1c0260a2abed0956be01a47166b227d59
  The attribute references an undeclared identified. You may see this error associated with [ATL Provider Error ATL2010](http://msdn.microsoft.com/en-us/27a25924-b52b-4971-80d3-c3b3e9ffbe41).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

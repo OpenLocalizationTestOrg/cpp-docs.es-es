@@ -58,6 +58,6 @@ void f(int i = 1) {}   // C2572
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

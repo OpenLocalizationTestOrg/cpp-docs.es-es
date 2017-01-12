@@ -58,6 +58,6 @@ ms.openlocfilehash: f5c3e9c5a491a2ad051a4c3488016b9866f00c0d
 This POSIX function is deprecated. Use the ISO C++ conformant [_lseek](../../c-runtime-library/reference/lseek-lseeki64.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

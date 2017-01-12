@@ -52,6 +52,6 @@ ms.openlocfilehash: 19de9fb715ae50b47fd40677f75e63dc92c4769e
 Beginning in Visual Studio 2013, the Universal C Runtime (UCRT) no longer supports the C++-specific operator new and operator delete functions. These are now part of the C++ Standard Library. For more information, see [new and delete operators](../cpp/new-and-delete-operators.md) and [new operator](../cpp/new-operator-cpp.md) in the C++ Language Reference. 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

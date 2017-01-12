@@ -65,6 +65,6 @@ If you want to write more portable code, using structured exception handling in 
  [C++ Exception Handling](../cpp/cpp-exception-handling.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

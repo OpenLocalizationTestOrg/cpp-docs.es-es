@@ -85,6 +85,6 @@ extern wchar_t ** __wargv;
  [Using wmain Instead of main](../cpp/using-wmain-instead-of-main.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

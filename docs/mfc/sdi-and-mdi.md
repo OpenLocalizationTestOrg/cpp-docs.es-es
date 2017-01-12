@@ -55,6 +55,6 @@ MFC makes it easy to work with both single-document interface (SDI) and multiple
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ ms.openlocfilehash: 479947ac089d5fc6b743c961ffab8c770d132f3e
  In order for /RTCv to work correctly, the compiler should always call the vector form of [new](../../cpp/new-operator-cpp.md)/[delete](../../cpp/delete-operator-cpp.md) if the vector syntax was used.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

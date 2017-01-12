@@ -61,6 +61,6 @@ MFC provides two classes to create toolbars: [CToolBar](../mfc/reference/ctoolba
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

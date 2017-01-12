@@ -56,6 +56,6 @@ The Microsoft Foundation Class (MFC) wizards generate boilerplate code for vario
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

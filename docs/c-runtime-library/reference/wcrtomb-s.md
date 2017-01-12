@@ -170,6 +170,6 @@ The corresponding wide character "Q" was converted to a the "Q" multibyte charac
  [mbsinit](../../c-runtime-library/reference/mbsinit.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

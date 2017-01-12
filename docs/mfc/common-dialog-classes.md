@@ -69,6 +69,6 @@ In addition to class [CDialog](../mfc/reference/cdialog-class.md), MFC supplies 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ struct/union member must be inside a struct/union
  Structure or union members must be declared within the structure or union.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

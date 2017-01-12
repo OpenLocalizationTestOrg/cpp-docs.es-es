@@ -67,6 +67,6 @@ Broadcasts an [OnRowsetChange](https://msdn.microsoft.com/en-us/library/ms722669
  [IRowsetNotifyCP Class](../../data/oledb/irowsetnotifycp-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

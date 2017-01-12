@@ -67,6 +67,6 @@ Compares two rows to see if they refer to the same row instance.
  [IRowsetImpl::RefRows](../../data/oledb/irowsetimpl-refrows.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

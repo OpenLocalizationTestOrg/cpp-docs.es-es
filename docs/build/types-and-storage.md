@@ -51,6 +51,6 @@ This section describes the enumeration and storage of data types for the [!INCLU
  [x64 Software Conventions](../build/x64-software-conventions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

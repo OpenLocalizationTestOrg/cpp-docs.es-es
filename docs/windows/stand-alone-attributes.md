@@ -62,6 +62,6 @@ A stand-alone attribute does not operate on a C++ keyword but is more like a lin
  [Attributes by Usage](../windows/attributes-by-usage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

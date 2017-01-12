@@ -104,6 +104,6 @@ is_copy_constructible<NotCopyable > == false
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

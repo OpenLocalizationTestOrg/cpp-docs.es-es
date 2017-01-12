@@ -56,6 +56,6 @@ struct __declspec(align(16)) C16  { C8 m8; };   // OK
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

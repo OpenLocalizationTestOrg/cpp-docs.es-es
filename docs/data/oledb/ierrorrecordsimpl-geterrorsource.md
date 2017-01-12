@@ -66,6 +66,6 @@ Gets the source code that caused the error from an error record.
  [IErrorRecordsImpl Class](../../data/oledb/ierrorrecordsimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

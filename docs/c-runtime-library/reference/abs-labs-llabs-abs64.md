@@ -197,6 +197,6 @@ Microsoft implementation-specific results:
  [imaxabs](../../c-runtime-library/reference/imaxabs.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

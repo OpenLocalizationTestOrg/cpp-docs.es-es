@@ -48,6 +48,6 @@ This topic applies to the MFC ODBC classes.
  [Data Source: Managing Connections (ODBC)](../../data/odbc/data-source-managing-connections-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ ms.openlocfilehash: 23feafbf82328ab2fe1a1d20a565432681ab6dab
  If the given target is, itself, a dependent for another target, NMAKE issues warning [U4011](../../error-messages/tool-errors/nmake-warning-u4011.md) after this warning.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

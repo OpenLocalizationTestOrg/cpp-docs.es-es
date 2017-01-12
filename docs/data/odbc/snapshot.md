@@ -72,6 +72,6 @@ A snapshot is a recordset that reflects a static view of the data as it existed 
  [Open Database Connectivity (ODBC)](../../data/odbc/open-database-connectivity-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

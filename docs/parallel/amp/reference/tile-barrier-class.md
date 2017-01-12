@@ -128,6 +128,6 @@ void wait_with_tile_static_memory_fence() const restrict(amp);
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

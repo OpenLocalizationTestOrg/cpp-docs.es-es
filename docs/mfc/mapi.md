@@ -62,6 +62,6 @@ This article describes the Microsoft Messaging Application Programming Interface
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

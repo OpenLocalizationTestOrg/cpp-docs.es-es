@@ -72,6 +72,6 @@ class DontUseNewUseMake;
  [Make Function](../windows/make-function.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

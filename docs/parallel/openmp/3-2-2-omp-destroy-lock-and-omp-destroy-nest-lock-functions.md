@@ -46,6 +46,6 @@ void omp_destroy_nest_lock(omp_nest_lock_t *lock);
  It is noncompliant to call either of these routines with a lock variable that is uninitialized or unlocked.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -62,6 +62,6 @@ Predefined inference rules use NMAKE-supplied command and options macros.
  [Inference Rules](../build/inference-rules.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

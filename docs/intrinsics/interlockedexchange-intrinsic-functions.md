@@ -208,6 +208,6 @@ __int64 _InterlockedExchange64_rel(
  [Conflicts with the x86 Compiler](../build/conflicts-with-the-x86-compiler.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

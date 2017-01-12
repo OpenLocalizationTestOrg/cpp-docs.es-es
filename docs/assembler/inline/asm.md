@@ -114,6 +114,6 @@ __asm mov al, 2   __asm mov dx, 0xD007   __asm out dx, al
  [Inline Assembler](../../assembler/inline/inline-assembler.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

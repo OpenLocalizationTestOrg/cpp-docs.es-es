@@ -68,6 +68,6 @@ Retrieves the name of the specified column.
  [CDynamicAccessor Class](../../data/oledb/cdynamicaccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -98,6 +98,6 @@ a x c
  [vector::operator(STL/CLR)](../dotnet/vector-operator-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

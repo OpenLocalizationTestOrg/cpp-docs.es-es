@@ -60,6 +60,6 @@ The Visual C++ Custom Wizard is the tool to use when you need to create a new cu
  [Designing a Wizard](../ide/designing-a-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

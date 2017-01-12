@@ -122,6 +122,6 @@ The following directive defines a parallel region, which is a region of the prog
 -   **omp_set_num_threads** library function, see [Section 3.1.1](../../parallel/openmp/3-1-1-omp-set-num-threads-function.md) on page 36.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

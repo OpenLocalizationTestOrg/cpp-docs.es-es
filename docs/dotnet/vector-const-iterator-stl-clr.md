@@ -88,6 +88,6 @@ a b c
  [vector::iterator (STL/CLR)](../dotnet/vector-iterator-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

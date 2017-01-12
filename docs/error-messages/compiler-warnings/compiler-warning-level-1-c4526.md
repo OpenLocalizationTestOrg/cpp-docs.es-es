@@ -65,6 +65,6 @@ struct myStruct2: public myStruct1 {
 -   If the function was intended to be a static member function, rename it so it doesn't conflict with the base class virtual function.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

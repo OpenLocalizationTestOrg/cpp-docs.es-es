@@ -79,6 +79,6 @@ int main() {
 -   Call the **static** function explicitly: `int y = S::func();`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

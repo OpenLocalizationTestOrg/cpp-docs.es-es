@@ -47,6 +47,6 @@ ms.openlocfilehash: 1a4606d6c488c67afd8e75f369933dba428520fc
  For more information, see [User-Defined Attributes](../../windows/user-defined-attributes-cpp-component-extensions.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

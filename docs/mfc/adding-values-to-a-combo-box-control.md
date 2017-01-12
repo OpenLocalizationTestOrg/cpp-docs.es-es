@@ -91,6 +91,6 @@ You can add values to a combo box control as long as you have the Dialog editor 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

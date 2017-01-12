@@ -100,6 +100,6 @@ capacity() = 9, ok = True
  [vector::reserve (STL/CLR)](../dotnet/vector-reserve-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

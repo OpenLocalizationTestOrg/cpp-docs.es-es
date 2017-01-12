@@ -93,6 +93,6 @@ _CRT_DUMP_CLIENT _CrtGetDumpClient( void );
  [_CrtSetDumpClient](../../c-runtime-library/reference/crtsetdumpclient.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

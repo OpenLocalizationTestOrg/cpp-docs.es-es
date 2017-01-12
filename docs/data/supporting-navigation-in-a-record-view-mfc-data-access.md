@@ -52,6 +52,6 @@ This topic explains how to support movement from record to record in your record
  [ODBC Driver List](../data/odbc/odbc-driver-list.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -84,6 +84,6 @@ You can use type casts to explicitly convert types.
  [Type Conversions](../c-language/type-conversions-c.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

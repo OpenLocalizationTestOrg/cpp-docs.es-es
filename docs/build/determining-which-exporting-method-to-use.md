@@ -86,6 +86,6 @@ You can export functions in either of two ways—a .def file or the `__declspec(
  [Exporting from a DLL](../build/exporting-from-a-dll.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

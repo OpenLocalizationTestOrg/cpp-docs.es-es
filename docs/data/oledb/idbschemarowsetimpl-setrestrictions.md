@@ -87,6 +87,6 @@ Specifies which restrictions you support on a particular schema rowset.
  [UpdatePV](../../visual-cpp-samples.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

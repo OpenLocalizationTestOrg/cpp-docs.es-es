@@ -58,6 +58,6 @@ Specifies that your managed application process should have a single copy of a p
  [Keywords](../cpp/keywords-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

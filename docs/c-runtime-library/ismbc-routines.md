@@ -100,6 +100,6 @@ Each **_ismbc** routine tests a given multibyte character `c` for a particular c
  [_ismbb Routines](../c-runtime-library/ismbb-routines.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

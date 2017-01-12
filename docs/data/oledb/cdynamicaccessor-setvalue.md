@@ -93,6 +93,6 @@ bool SetValue(
  [CDynamicAccessor Class](../../data/oledb/cdynamicaccessor-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

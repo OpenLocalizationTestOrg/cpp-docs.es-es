@@ -89,6 +89,6 @@ In the Microsoft Foundation Class Library (MFC), class [CFile](../mfc/reference/
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

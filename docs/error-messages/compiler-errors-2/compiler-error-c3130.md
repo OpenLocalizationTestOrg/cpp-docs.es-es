@@ -44,6 +44,6 @@ Internal Compiler Error: failed to write injected code block to PDB
  This error occurs if the compiler failed to write an injected code block to the .pdb file. The most common reason for the failure is lack of disk space.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -97,6 +97,6 @@ This wizard creates the classes that compose an OLE DB provider.
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

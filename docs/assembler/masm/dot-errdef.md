@@ -52,6 +52,6 @@ Generates an error if *name* is a previously defined label, variable, or symbol.
  [Directives Reference](../../assembler/masm/directives-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

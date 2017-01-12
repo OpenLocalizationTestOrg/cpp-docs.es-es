@@ -238,6 +238,6 @@ This document describes how to create a custom message block type that orders in
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -57,6 +57,6 @@ The OLE DB consumer attributes inject code, based on the [OLE DB Consumer Templa
  [Attributes by Group](../windows/attributes-by-group.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

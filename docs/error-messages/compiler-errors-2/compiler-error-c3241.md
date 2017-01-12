@@ -63,6 +63,6 @@ class CX12 : public IX12A, public IX12B { // C3241
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -81,6 +81,6 @@ This error is followed by fatal error [LNK1169](../../error-messages/tool-errors
      To fix, add [/FORCE:MULTIPLE](../../build/reference/force-force-file-output.md) to the linker command line options, and make sure that uuid.lib is the first library referenced.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -59,6 +59,6 @@ MFC uses the CWinFormsView class to host a Windows Forms user control in an MFC 
  [How to: Author Composite Controls](http://msdn.microsoft.com/Library/79c9cf05-5ab6-4a18-886d-88a64748b098)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

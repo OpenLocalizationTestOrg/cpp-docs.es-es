@@ -87,6 +87,6 @@ A "character constant" is formed by enclosing a single character from the repres
  [C Constants](../c-language/c-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -162,6 +162,6 @@ wordlist after _lsearch: hello thanks bye extra
  [_lsearch_s](../../c-runtime-library/reference/lsearch-s.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

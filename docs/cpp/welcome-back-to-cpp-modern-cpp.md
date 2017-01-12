@@ -145,6 +145,6 @@ for_each( begin(v), end(v), [&](const shared_ptr<shape>& s) {
  [C++ Standard Library](../standard-library/cpp-standard-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

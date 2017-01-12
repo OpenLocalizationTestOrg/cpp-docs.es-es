@@ -62,6 +62,6 @@ The default position of a [CStatusBarCtrl](../mfc/reference/cstatusbarctrl-class
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ ms.openlocfilehash: 067cd594ca29190bd12867488ac7d61415af987f
  You cannot call a template function without arguments. The type of the template arguments determines what version of the function to generate.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

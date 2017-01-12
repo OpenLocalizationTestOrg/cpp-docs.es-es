@@ -90,6 +90,6 @@ Because Visual Studio supports multiple platform toolsets, you can target operat
      By default, the Windows XP toolset does not compile HLSL source code files. To compile HLSL files, download and install the June 2010 DirectX SDK, and then set the project's VC directories to include it. For more information, see the "DirectX SDK Does Not Register Include/Library Paths with Visual Studio 2010" section of the [June 2010 DirectX SDK download page](http://www.microsoft.com/download/details.aspx?displaylang=en&id=6812).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

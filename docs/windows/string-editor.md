@@ -82,6 +82,6 @@ A string table is a Windows resource that contains a list of IDs, values, and ca
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

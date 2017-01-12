@@ -55,6 +55,6 @@ extern void A::func() {   // C4630, remove 'extern' to resolve
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

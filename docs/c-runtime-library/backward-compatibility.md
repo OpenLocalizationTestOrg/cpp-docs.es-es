@@ -55,6 +55,6 @@ For compatibility between product versions, the library OLDNAMES.LIB maps old na
  [Compatibility](../c-runtime-library/compatibility.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

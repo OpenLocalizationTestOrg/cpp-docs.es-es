@@ -169,6 +169,6 @@ Read 19 bytes from file
  [_write](../../c-runtime-library/reference/write.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

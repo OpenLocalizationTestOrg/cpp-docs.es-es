@@ -49,6 +49,6 @@ ms.openlocfilehash: d55c4494ffb689497820bc8edbed19f308bb5e21
  To resolve C1210 install the common language runtime version that is intended for use with your compiler.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

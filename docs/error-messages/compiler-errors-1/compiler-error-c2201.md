@@ -56,6 +56,6 @@ __declspec(dllexport) void func2() {}   // OK
  [Types of Linkage](../../cpp/types-of-linkage.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -49,6 +49,6 @@ ms.openlocfilehash: b755044d87da642fc5e46e3bce659a6188a83396
  [Storage-Class Specifiers for Internal-Level Declarations](../c-language/storage-class-specifiers-for-internal-level-declarations.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

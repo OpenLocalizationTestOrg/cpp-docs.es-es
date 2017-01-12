@@ -64,6 +64,6 @@ Creates a new session from the data source object and returns the requested inte
  [IDBCreateSessionImpl Class](../../data/oledb/idbcreatesessionimpl-class.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

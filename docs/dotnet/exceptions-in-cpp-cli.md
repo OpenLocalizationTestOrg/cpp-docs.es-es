@@ -49,6 +49,6 @@ The articles in this section of the documentation explain exception handling in 
 |[.NET Programming with C++/CLI (Visual C++)](../dotnet/dotnet-programming-with-cpp-cli-visual-cpp.md)|The top-level article for .NET programming in the Visual C++ documentation.|
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

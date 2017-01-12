@@ -87,6 +87,6 @@ int __vmx_vmptrld(
  [__vmx_vmptrst](../intrinsics/vmx-vmptrst.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

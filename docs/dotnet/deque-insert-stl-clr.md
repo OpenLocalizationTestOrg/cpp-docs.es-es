@@ -155,6 +155,6 @@ insert(begin()+1, L'x') = x
  [deque::assign (STL/CLR)](../dotnet/deque-assign-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -116,6 +116,6 @@ The Microsoft Foundation Classes (MFC) library supplies classes for programming 
  [Data Access Programming (MFC/ATL)](../../data/data-access-programming-mfc-atl.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

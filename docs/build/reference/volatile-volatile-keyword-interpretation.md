@@ -84,6 +84,6 @@ Specifies how the [volatile](../../cpp/volatile-cpp.md) keyword is to be interpr
  [Setting Compiler Options](../../build/reference/setting-compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

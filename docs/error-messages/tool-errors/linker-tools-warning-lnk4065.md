@@ -44,6 +44,6 @@ ms.openlocfilehash: 294ae7d4bace8a02efd5eb5e7173c346b1be3ac9
  The given function was not compiled as a packaged function. Recompile using [/Gy](../../build/reference/gy-enable-function-level-linking.md).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

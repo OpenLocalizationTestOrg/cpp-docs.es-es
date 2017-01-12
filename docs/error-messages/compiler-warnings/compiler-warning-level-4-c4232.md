@@ -53,6 +53,6 @@ int (*pfunc)() = &f;   // C4232
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -44,6 +44,6 @@ ms.openlocfilehash: 6c4cb41ad915054bb5f597b8b0eee3bf57d876c9
  A `using` directive is missing a [namespace](../../cpp/namespaces-cpp.md) keyword. This causes the compiler to misinterpret the code as a [using declaration](../../cpp/using-declaration.md) rather than a [using directive](../../cpp/namespaces-cpp.md#using_directives).
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -56,6 +56,6 @@ The debug version of the Microsoft C run-time library uses the following flags t
  [Global Variables and Standard Types](../c-runtime-library/global-variables-and-standard-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

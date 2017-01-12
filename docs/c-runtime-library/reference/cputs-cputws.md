@@ -177,6 +177,6 @@ Hello world (courtesy of _cputws)!
  [_putch, _putwch](../../c-runtime-library/reference/putch-putwch.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

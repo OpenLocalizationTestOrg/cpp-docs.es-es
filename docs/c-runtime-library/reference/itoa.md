@@ -58,6 +58,6 @@ ms.openlocfilehash: 9f8ced93963ad11c05d5c58b105b227f23332c22
 This POSIX function is deprecated. Use the ISO C++ conformant [_itoa](../../c-runtime-library/reference/itoa-i64toa-ui64toa-itow-i64tow-ui64tow.md) or security-enhanced [_itoa_s](../../c-runtime-library/reference/itoa-s-i64toa-s-ui64toa-s-itow-s-i64tow-s-ui64tow-s.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

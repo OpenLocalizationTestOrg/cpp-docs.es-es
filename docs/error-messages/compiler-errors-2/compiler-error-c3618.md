@@ -59,6 +59,6 @@ void Func() {}   // C3618, remove this function definition to resolve
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

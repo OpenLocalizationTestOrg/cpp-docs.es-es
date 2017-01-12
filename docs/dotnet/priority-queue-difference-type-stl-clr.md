@@ -105,6 +105,6 @@ popping 3 = 3
  [priority_queue::size_type (STL/CLR)](../dotnet/priority-queue-size-type-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

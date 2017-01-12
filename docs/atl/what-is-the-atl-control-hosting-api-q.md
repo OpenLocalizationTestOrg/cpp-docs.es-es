@@ -67,6 +67,6 @@ ATL's control-hosting API is the set of functions that allows any window to act 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

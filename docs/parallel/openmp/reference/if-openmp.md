@@ -104,6 +104,6 @@ val = 2, parallelized with 2 threads
  [Clauses](../../../parallel/openmp/reference/openmp-clauses.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -45,6 +45,6 @@ The **abort** function, also declared in the standard include file STDLIB.H, ter
  [Program Termination](../cpp/program-termination.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

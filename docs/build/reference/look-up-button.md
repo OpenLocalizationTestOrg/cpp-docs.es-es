@@ -43,6 +43,6 @@ Click **Look Up** to retrieve the error message that corresponds to the system o
  [Value Edit Control](../../build/reference/value-edit-control.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

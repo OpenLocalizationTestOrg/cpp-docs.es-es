@@ -96,6 +96,6 @@ Makefile preprocessing expressions can use operators that act on constant values
  [Expressions in Makefile Preprocessing](../build/expressions-in-makefile-preprocessing.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

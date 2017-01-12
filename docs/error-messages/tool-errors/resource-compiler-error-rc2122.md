@@ -44,6 +44,6 @@ unknown menu subtype
  The *item-definition* field of the **MENU** statement can contain only **MENUITEM** and **POPUP** statements.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

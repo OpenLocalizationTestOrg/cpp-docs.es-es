@@ -64,6 +64,6 @@ File I/O operations take place in one of two translation modes, text or binary, 
  [Run-Time Routines by Category](../c-runtime-library/run-time-routines-by-category.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

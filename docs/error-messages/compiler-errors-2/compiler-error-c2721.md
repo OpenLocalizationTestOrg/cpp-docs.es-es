@@ -44,6 +44,6 @@ ms.openlocfilehash: 818ec868736b18cc82cc21f3e54a5663c0df16ca
  User-defined type conversions apply to all storage classes, so you cannot specify a storage class in a type conversion.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

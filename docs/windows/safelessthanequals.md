@@ -85,6 +85,6 @@ inline bool SafeLessThanEquals (
  [SafeGreaterThanEquals](../windows/safegreaterthanequals.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

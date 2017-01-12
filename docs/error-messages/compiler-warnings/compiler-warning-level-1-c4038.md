@@ -45,6 +45,6 @@ ms.openlocfilehash: 560073920c1589a0a5f29ba9990f42c31ee0e21c
  This modifier cannot be used for classes with **dllimport** or [dllexport](../../cpp/dllexport-dllimport.md) attributes.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

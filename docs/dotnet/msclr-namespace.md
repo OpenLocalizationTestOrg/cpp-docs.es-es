@@ -52,6 +52,6 @@ The `msclr` namespace contains all the classes of the C++ Support Library. For m
  [C++ Support Library](../dotnet/cpp-support-library.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

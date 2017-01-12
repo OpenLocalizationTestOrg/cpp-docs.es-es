@@ -145,6 +145,6 @@ Deleted 'CRT_REMOVE.TXT'
  [_unlink, _wunlink](../../c-runtime-library/reference/unlink-wunlink.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

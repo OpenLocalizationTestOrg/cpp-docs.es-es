@@ -136,6 +136,6 @@ The [!INCLUDE[vcprvc](../build/includes/vcprvc_md.md)] command-line build tools 
  [Compiler Options](../build/reference/compiler-options.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

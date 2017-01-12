@@ -104,6 +104,6 @@ void _CrtDoForAllClientObjects(
  [_CrtReportBlockType](../../c-runtime-library/reference/crtreportblocktype.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

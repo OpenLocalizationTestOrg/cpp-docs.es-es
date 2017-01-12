@@ -55,6 +55,6 @@ You use different methods for calling member functions in a [CTreeCtrl](../mfc/r
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

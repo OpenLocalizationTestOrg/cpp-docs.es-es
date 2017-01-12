@@ -70,6 +70,6 @@ An executable file links to (or loads) a DLL in one of two ways:
  [DLLs in Visual C++](../build/dlls-in-visual-cpp.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

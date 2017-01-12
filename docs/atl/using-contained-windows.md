@@ -63,6 +63,6 @@ ATL implements contained windows with [CContainedWindowT](../atl/reference/ccont
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

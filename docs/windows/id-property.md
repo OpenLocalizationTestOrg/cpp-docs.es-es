@@ -47,6 +47,6 @@ The ID property references each accelerator table entry in program code. This is
  [Accelerator Editor](../mfc/accelerator-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

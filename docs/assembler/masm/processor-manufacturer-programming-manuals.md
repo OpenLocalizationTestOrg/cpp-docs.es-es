@@ -53,6 +53,6 @@ This article provides links to websites that may contain programming information
  [Microsoft Macro Assembler Reference](../../assembler/masm/microsoft-macro-assembler-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

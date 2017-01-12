@@ -104,6 +104,6 @@ The following example assumes that you are adding OLE DB consumer support to an 
  [Creating an OLE DB Consumer](../../data/oledb/creating-an-ole-db-consumer.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

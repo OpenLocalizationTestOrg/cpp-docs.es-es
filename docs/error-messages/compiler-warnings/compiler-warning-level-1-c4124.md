@@ -48,6 +48,6 @@ __fastcall with stack checking is inefficient
  This warning is issued only for the first function declared under these conditions.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

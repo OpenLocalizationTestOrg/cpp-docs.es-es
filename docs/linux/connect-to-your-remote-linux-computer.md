@@ -61,6 +61,6 @@ When building, Linux code is copied to your remote Linux computer and then compi
    ![Connection Manager Error](media/settings_connectionmanagererror.png)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

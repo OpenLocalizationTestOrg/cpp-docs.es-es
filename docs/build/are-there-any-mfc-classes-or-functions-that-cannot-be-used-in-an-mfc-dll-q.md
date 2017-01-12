@@ -49,6 +49,6 @@ Extension DLLs use the `CWinApp`-derived class of the client application. They m
  [DLL Frequently Asked Questions](../build/dll-frequently-asked-questions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -72,6 +72,6 @@ Specifies font settings when you use the [Text Tool Dialog Box](../mfc/text-tool
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -117,6 +117,6 @@ This article discusses how to serialize an ActiveX control. Serialization is the
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

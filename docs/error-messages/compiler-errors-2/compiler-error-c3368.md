@@ -56,6 +56,6 @@ int __fastcall f1();   // C3368
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

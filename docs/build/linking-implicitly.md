@@ -69,6 +69,6 @@ To implicitly link to a DLL, executables must obtain the following from the prov
  [Linking an Executable to a DLL](../build/linking-an-executable-to-a-dll.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

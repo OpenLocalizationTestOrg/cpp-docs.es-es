@@ -98,6 +98,6 @@ Once you have created a project, you will want to change or add to that project'
  [File Types Created for Visual C++ Projects](../ide/file-types-created-for-visual-cpp-projects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

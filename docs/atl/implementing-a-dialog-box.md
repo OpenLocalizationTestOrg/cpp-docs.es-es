@@ -73,6 +73,6 @@ There are two ways to add a dialog box to your ATL project: use the ATL Dialog W
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

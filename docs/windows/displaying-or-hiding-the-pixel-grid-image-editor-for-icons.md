@@ -66,6 +66,6 @@ For all Image Editor panes with a magnification factor of 4 or greater, you can 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

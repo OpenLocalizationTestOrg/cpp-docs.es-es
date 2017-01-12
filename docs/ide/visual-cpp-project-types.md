@@ -113,6 +113,6 @@ You can use a project template to create the basic program structure, menus, too
  [CLR Projects](../ide/files-created-for-clr-projects.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

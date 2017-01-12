@@ -58,6 +58,6 @@ ms.openlocfilehash: f9e64fa2beeb44cc680503f488e44535e3567d73
 This POSIX function is deprecated. Use the ISO C++ conformant [_chmod](../../c-runtime-library/reference/chmod-wchmod.md) instead.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -63,6 +63,6 @@ static const unsigned long IidCount = Details::InterfaceTraits<I0>::IidCount + D
  [ChainInterfaces Structure](../windows/chaininterfaces-structure.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

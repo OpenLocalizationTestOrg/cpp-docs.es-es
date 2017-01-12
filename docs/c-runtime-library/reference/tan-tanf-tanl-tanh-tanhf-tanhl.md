@@ -185,6 +185,6 @@ tanh( 1.000000 ) = 0.761594
  [_CItan](../../c-runtime-library/citan.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -46,6 +46,6 @@ One possible cause of the memory leak is that MFC creates temporary objects that
  [DLL Frequently Asked Questions](../build/dll-frequently-asked-questions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -121,6 +121,6 @@ int main()
  [operator> (queue) (STL/CLR)](../dotnet/operator-greater-than-queue-stl-clr.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -267,6 +267,6 @@ This step-by-step walkthrough shows how to create a dynamic link library (DLL) f
  [Calling DLL Functions from Visual Basic Applications](../build/calling-dll-functions-from-visual-basic-applications.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

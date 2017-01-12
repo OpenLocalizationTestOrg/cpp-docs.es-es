@@ -44,6 +44,6 @@ illegal instruction size
  The instruction did not have a form with the specified size. The smallest legal size was used.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

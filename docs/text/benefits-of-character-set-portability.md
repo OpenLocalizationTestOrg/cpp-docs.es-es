@@ -51,6 +51,6 @@ You can benefit from using MFC and C run-time portability features even if you d
  [Support for Unicode](../text/support-for-unicode.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

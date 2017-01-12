@@ -62,6 +62,6 @@ You do not need to compile a wizard project to have users start using it right a
  [Customizing Your Wizard](../ide/customizing-your-wizard.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

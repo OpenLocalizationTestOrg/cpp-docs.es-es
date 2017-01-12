@@ -55,6 +55,6 @@ ms.openlocfilehash: 69506f6ff41f093892164f8a018f67e80087b3c6
  [C String Literals](../c-language/c-string-literals.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

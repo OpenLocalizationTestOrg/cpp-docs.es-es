@@ -132,6 +132,6 @@ errno_t _get_tzname(
  [TZNAME_MAX](../../c-runtime-library/tzname-max.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

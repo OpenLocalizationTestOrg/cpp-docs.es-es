@@ -44,6 +44,6 @@ ms.openlocfilehash: 4cf8f5882c85aacd1ba62f78f2259c20d2973b61
  An identifier was expected following `#define` in a preprocessing directive.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -67,6 +67,6 @@ array[6] = 0;                   /* Store 0 at array + 24 */
  [Using C or C++ in __asm Blocks](../../assembler/inline/using-c-or-cpp-in-asm-blocks.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

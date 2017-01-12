@@ -83,6 +83,6 @@ The "storage class" of a variable determines whether the item has a "global" or 
  [Declarations and Types](../c-language/declarations-and-types.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

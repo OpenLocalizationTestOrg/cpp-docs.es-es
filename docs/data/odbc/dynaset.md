@@ -98,6 +98,6 @@ This topic describes dynasets and discusses their [availability](#_core_availabi
  [Open Database Connectivity (ODBC)](../../data/odbc/open-database-connectivity-odbc.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

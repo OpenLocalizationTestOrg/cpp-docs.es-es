@@ -63,6 +63,6 @@ The file time and the date are stored individually, using unsigned integers as b
  [Global Constants](../c-runtime-library/global-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

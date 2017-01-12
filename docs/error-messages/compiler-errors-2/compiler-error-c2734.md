@@ -52,6 +52,6 @@ extern const int i;   // OK, declared as extern
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -50,6 +50,6 @@ Provides links to environment variables used in the OpenMP API.
  [Library Reference](../../../parallel/openmp/reference/openmp-library-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

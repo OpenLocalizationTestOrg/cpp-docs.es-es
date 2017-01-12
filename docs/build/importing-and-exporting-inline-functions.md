@@ -72,6 +72,6 @@ Imported functions can be defined as inline. The effect is roughly the same as d
  [Importing and Exporting](../build/importing-and-exporting.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

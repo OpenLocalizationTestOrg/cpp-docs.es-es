@@ -216,6 +216,6 @@ sampler& operator= (// [2] move assingment operator sampler&& _Other) restrict(a
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

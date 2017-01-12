@@ -59,6 +59,6 @@ void Foo(int);
  The C++ standard allows compiler vendors to define their own attribute parameters (within a vendor-specific namespace), but compilers are required to recognize only those attributes defined in the standard. In Visual C++, you can use the [[deprecated]] attribute instead of using declspec (deprecated) and the attribute will be recognized by any conformant compiler. For all other declspec parameters such as dllimport and dllexport, there is as yet no standard attribute equivalent so you must continue to use declspec syntax. Attributes do not affect the type system, and they don’t change the meaning of a program. Compilers ignore attribute values they don't recognize.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

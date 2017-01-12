@@ -74,6 +74,6 @@ extern "C" __declspec( dllexport ) int MyFunc(long parm1);
  [Exporting from a DLL](../build/exporting-from-a-dll.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

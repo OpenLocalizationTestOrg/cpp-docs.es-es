@@ -56,6 +56,6 @@ When used with [.MODEL](../../assembler/masm/dot-model.md), starts a constant da
  [Directives Reference](../../assembler/masm/directives-reference.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

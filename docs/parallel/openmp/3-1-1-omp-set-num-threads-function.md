@@ -59,6 +59,6 @@ void omp_set_num_threads(int num_threads);
 -   `num_threads` clause, see [Section 2.3](../../parallel/openmp/2-3-parallel-construct.md) on page 8
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

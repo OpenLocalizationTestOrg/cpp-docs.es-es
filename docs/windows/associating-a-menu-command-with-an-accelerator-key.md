@@ -73,6 +73,6 @@ There are often times you want a menu command and a keyboard combination to issu
  [Menu Editor](../mfc/menu-editor.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

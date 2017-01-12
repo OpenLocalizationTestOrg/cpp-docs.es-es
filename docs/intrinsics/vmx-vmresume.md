@@ -81,6 +81,6 @@ unsigned char __vmx_vmresume(
  [__vmx_vmclear](../intrinsics/vmx-vmclear.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

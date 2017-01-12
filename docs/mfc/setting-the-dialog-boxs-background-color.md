@@ -51,6 +51,6 @@ You can set the background color of your dialog boxes by handling `WM_CTLCOLOR` 
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

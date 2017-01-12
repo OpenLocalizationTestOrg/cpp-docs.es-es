@@ -81,6 +81,6 @@ When you create a bitmap, the image is created in bitmap format (.bmp). You can,
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

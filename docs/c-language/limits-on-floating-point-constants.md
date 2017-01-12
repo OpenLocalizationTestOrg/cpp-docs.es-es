@@ -73,6 +73,6 @@ ms.openlocfilehash: 9888f9f85acebe4975841660c7f87d5384fee6f8
  [C Floating-Point Constants](../c-language/c-floating-point-constants.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -56,6 +56,6 @@ int (S::*pdm) = &S::rf;   // C2634
 ```
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

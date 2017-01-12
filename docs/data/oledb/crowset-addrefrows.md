@@ -71,6 +71,6 @@ HRESULT AddRefRows( ) throw( );
  [CRowset::ReleaseRows](../../data/oledb/crowset-releaserows.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

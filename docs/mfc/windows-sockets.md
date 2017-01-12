@@ -49,6 +49,6 @@ This family of articles covers the MFC implementation of Windows Sockets. MFC su
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

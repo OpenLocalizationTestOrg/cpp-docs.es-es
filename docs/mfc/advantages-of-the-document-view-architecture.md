@@ -66,6 +66,6 @@ The key advantage to using the MFC document/view architecture is that the archit
 
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 

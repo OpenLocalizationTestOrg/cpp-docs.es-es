@@ -44,6 +44,6 @@ ms.openlocfilehash: 282a87a4275c4bdbabf642a80ae8f5f7e73a97d9
  A register variable or automatic (local) variable is declared `__based`. Only global variables can be declared `__based`.
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 
