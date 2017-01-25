@@ -21,6 +21,6 @@ ms.openlocfilehash: fef3b2ce25543c6a1f29b5aa5c0a1f3710e4d63b
 C++/CX
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

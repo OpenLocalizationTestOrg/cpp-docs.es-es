@@ -21,6 +21,6 @@ ms.openlocfilehash: 8cb7d47424efac446ebe834a87b34a25841a65b9
 [Download Visual Studio Community](http://go.microsoft.com/fwlink/?LinkId=524433) or [compare Visual Studio editions](https://www.visualstudio.com/vs-2015-product-editions)
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

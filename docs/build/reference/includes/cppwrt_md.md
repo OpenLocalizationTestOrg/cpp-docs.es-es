@@ -21,6 +21,6 @@ ms.openlocfilehash: 46c6f94f149badc0ac074d3a9d29faf5a2bfb7b1
 Visual C++ component extensions
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

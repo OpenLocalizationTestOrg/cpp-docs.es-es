@@ -21,6 +21,6 @@ ms.openlocfilehash: e22fa80f06a8e599c9061ebea1251a18d0b9f0e1
 Windows Store
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -21,6 +21,6 @@ ms.openlocfilehash: de91b1fe4ba92fa1472fef69a1551c9571c8b8be
 Visual C++ in Visual Studio 2015
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

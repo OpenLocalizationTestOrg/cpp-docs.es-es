@@ -21,6 +21,6 @@ ms.openlocfilehash: 743986a9ac6286273eca6b3e0dd1b431a0577d74
 Windows Runtime C++ Template Library
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

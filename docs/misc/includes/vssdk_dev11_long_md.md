@@ -21,6 +21,6 @@ ms.openlocfilehash: f21f3c76c8911a2930febe22499073ae3f1f58d0
 Visual Studio 2012 SDK
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 
