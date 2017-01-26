@@ -52,10 +52,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: ce7cd9078015c38d83f574699908f1b2b7a9ede5
 
 ---
-# and
+# <a name="and"></a>and
 An alternative to the && operator.  
   
-## Syntax  
+## <a name="syntax"></a>Syntax  
   
 ```  
   
@@ -63,10 +63,10 @@ An alternative to the && operator.
   
 ```  
   
-## Remarks  
+## <a name="remarks"></a>Remarks  
  The macro yields the operator &&.  
   
-## Example  
+## <a name="example"></a>Example  
   
 ```  
 // iso646_and.cpp  
@@ -94,10 +94,10 @@ false
 false  
 ```  
   
-## Requirements  
+## <a name="requirements"></a>Requirements  
  **Header:** \<iso646.h>
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

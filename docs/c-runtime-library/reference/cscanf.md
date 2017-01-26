@@ -53,13 +53,13 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 2e9fb43a6da4ffe556fb1e217cb583e69095d009
 
 ---
-# cscanf
+# <a name="cscanf"></a>cscanf
 This POSIX function is deprecated. Use the ISO C++ conformant [_cscanf](../../c-runtime-library/reference/cscanf-cscanf-l-cwscanf-cwscanf-l.md) instead.  
   
 > [!IMPORTANT]
 >  This API cannot be used in applications that execute in the Windows Runtime. For more information, see [CRT functions not supported with /ZW](http://msdn.microsoft.com/library/windows/apps/jj606124.aspx).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

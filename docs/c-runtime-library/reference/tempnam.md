@@ -53,10 +53,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: fe877564ca417090633c66c86d03318fbe73838b
 
 ---
-# tempnam
+# <a name="tempnam"></a>tempnam
 This POSIX function is deprecated. Use the ISO C++ conformant [_tempnam](../../c-runtime-library/reference/tempnam-wtempnam-tmpnam-wtmpnam.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

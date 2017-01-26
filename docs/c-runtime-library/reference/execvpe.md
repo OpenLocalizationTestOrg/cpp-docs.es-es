@@ -53,13 +53,13 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: 634cbaeba1610c7f656185ff159e3a03dcce3cf4
 
 ---
-# execvpe
+# <a name="execvpe"></a>execvpe
 This POSIX function is deprecated. Use the ISO C++ conformant [_execvpe](../../c-runtime-library/reference/execvpe-wexecvpe.md) instead.  
   
 > [!IMPORTANT]
 >  This API cannot be used in applications that execute in the Windows Runtime. For more information, see [CRT functions not supported with /ZW](http://msdn.microsoft.com/library/windows/apps/jj606124.aspx).
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

@@ -54,10 +54,10 @@ ms.sourcegitcommit: 3168772cbb7e8127523bc2fc2da5cc9b4f59beb8
 ms.openlocfilehash: f2a21f767b8315b2f419e26dce1c2e02ef5631fa
 
 ---
-# ultoa
+# <a name="ultoa"></a>ultoa
 This POSIX function is deprecated. Use the ISO C++ conformant [_ultoa](../../c-runtime-library/reference/ultoa-ultow.md) or security-enhanced [_ultoa_s](../../c-runtime-library/reference/ultoa-s-ultow-s.md) instead.
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 

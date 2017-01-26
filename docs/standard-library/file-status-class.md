@@ -38,16 +38,16 @@ ms.sourcegitcommit: 85c900f2263ae1c1089478badc85388e3b5e8548
 ms.openlocfilehash: b6418446418b16233cea45440510cafb372dc2fd
 
 ---
-# file_status Class
+# <a name="filestatus-class"></a>file_status Class
 Wraps a [file_type](../standard-library/filesystem-enumerations.md#filesystem__file_type) and file [perms](../standard-library/filesystem-enumerations.md#filesystem__perms).  
   
-## Syntax  
+## <a name="syntax"></a>Syntax  
   
 ```cpp  
 class file_status;  
 ```  
   
-## file_status::file_status  
+## <a name="filestatusfilestatus"></a>file_status::file_status  
   
 ```cpp  
 explicit file_status(file_type ftype = file_type::none, perms mask = perms::unknown) noexcept;
@@ -55,7 +55,7 @@ file_status(const file_status&) noexcept = default;
 file_status(file_status&&) noexcept = default;  
 ```  
   
-## file_status::operator=  
+## <a name="filestatusoperator"></a>file_status::operator=  
   
 ```cpp  
 file_status& operator=(const file_status&) noexcept = default;  
@@ -64,7 +64,7 @@ file_status& operator=(file_status&&) nexcept = default;
   
  The defaulted member assignment operators behave as expected.  
   
-## type  
+## <a name="type"></a>type  
   
 ```cpp  
 file_type type() const noexcept  
@@ -73,7 +73,7 @@ void type(file_type _Ftype) noexcept
   
  Gets or sets the file_type.  
   
-## permissions  
+## <a name="permissions"></a>permissions  
   
 ``cpp  
 perms permissions() const noexcept  
@@ -97,6 +97,6 @@ void permissions(perms_Prms) noexcept
 
 
 
-<!--HONumber=Jan17_HO2-->
+<!--HONumber=Jan17_HO4-->
 
 
